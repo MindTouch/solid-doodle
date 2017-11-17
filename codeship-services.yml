@@ -1,0 +1,10 @@
+mindtouch-soild-doodle:
+  build:
+    context: .
+    dockerfile: docker/Dockerfile
+  #cached: true
+  volumes:
+    - ./:/mindtouch/solid-doodle
+  environment:
+    - BUCKET_NAME=juant-codeship-test
+  #encrypted_env_file: codeship.env.encrypted
