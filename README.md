@@ -218,4 +218,4 @@ Happy Hacking!
 ## Copyright & License
 * Copyright (c) 2017 Juan Manuel Torres, Katherine Marino, Daniel Lee
 * MIT License
-λλλλλλλλλ
+λ
