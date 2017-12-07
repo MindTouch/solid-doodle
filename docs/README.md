@@ -1,3 +1,6 @@
+GitFlow Process
+===============
+
 ## Main Branches
 The repo contains two main branches with an infinite lifetime.
 
@@ -46,7 +49,9 @@ Release branches are created from the `develop` branch. Bug fixes are applied in
 * Branch naming convention: `release_YYYYMMDD`
 
 To finish the release, the release branch is merged into `master`.
-That merge commit on `master` must be tagged
+
+That merge commit on `master` must be tagged.
+
 Changes made on the release branch need to be merged back into `develop` (if not done already and may lead to merge conflict)
 
 ## Hotfix branches
