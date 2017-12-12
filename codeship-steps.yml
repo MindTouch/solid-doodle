@@ -4,4 +4,4 @@
   steps:
      - name: test solid-doodle
        service: mindtouch-soild-doodle
-       command: /mindtouch/solid-doodle/docker/files/run-tests.sh
+       command: run-tests
