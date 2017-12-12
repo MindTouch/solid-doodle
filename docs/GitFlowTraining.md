@@ -1,155 +1,200 @@
+Prerequisites
+=============
 
-Remote Repo Configuration
-=========================
+## Remote Repo Configuration
 
-Change remote to upstream
+If you haven't already, change the remote MindTouch repo to the name `upstream`
 ```
-git remote rm origin
 git remote add upstream git@github.com:MindTouch/solid-doodle.git
 ```
 
-> QUESTION: should we keep the default origin? http://nvie.com/posts/a-successful-git-branching-model/#decentralized-but-centralized
+
+GitFlow Training
+================
+
+After the a feature is merged into the develop branch, we're ready for a release. In these examples we'll refer to each release as `prod`, `stage`, and `test`.
+
+In the real environment, those will be replaced with dates and will change weekly automatically. (i.e. `release_20171207`)
+
+* `prod` = what is currently released and running
+* `stage` = what is currently being tested by QA
+* `test` = what is currently being used by local developers
+
+> QUESTION: Is `test` stated correctly??
 
 
-The Main Branch
-===============
+## Working on a Feature Branch
 
-The central repo holds one main branch with an infinite lifetime:
+### Committer
 
-`master`
+- Clone the repo, change into that directory and get the all the branches
+    ```
+    git clone git@github.com:MindTouch/solid-doodle.git
+    cd solid-doodle
+    ```
 
-origin/master to be the main branch where the source code of HEAD always reflects a production-ready state.
+- Change remote to upstream
+    ```
+    git remote rm origin
+    git remote add upstream git@github.com:MindTouch/solid-doodle.git
+    ```
 
+    > QUESTION: should we keep the default origin? http://nvie.com/posts/a-successful-git-branching-model/#decentralized-but-centralized
 
-Supporting Branches
-===================
+- Checkout the feature branch
+    ```
+    git fetch upstream
+    git checkout -b feature-branch-<yourname> develop
+    ```
+    > NOTE: `<yourname>` is ONLY for this example)
 
-these branches always have a limited life time, since they will be removed eventually.
-
-- Feature branches
-- Release branches
-- Hotfix branches
-- Bugfix branches
-
-## Feature branches
-
-May branch off from:
-```
-`release_test` or future branches
-```
-Must merge back into:
-```
-`release_test` or future branches
-```
-Branch naming convention:
-```
-anything except `master` or `release_YYYYMMDD`
-```
-
-### Creating a feature branch
-When starting work on a new feature, branch off from the `release_test` branch.
-
-```
-git fetch upstream
-git checkout -b MTP-1234_release_test release_test
-```
-
-### Incorporating a finished feature on `release_test`
-Finished features may be merged into the `release_test` branch to definitely add them to the upcoming release:
+    > TODO: change the default branch in GitHub to `develop`
 
 - Make some code changes, commit
-```
-git add <files>
-git commit -m "gitflow commit feature"
-```
+    ```
+    git add <files>
+    git commit -m "gitflow commit feature"
+    ```
 
-- Pull `release_test` branch into feature, fix any conflicts (if any), commit
-```
-git merge upstream/release_test
-git push upstream MTP-1234_release_test
-```
+- Pull `develop` branch into feature, fix any conflicts (if any), commit
+    ```
+    git merge upstream/develop
+    git push upstream feature-branch-<yourname>
+	```
 
-- Make a pull request against a `release_test` branch
+- Make a pull request against a `develop` branch
 	- complete the form with the ticket number and summary of changes
 	- request a reviewer
 	- submit
 
-- Codeship is run against the merge pull request and will not allow a merge until build is successful.
+	> QUESTION: (with the --no-ff) http://nvie.com/posts/a-successful-git-branching-model/#incorporating-a-finished-feature-on-develop
 
-### After Feature Completed Merge
+	> TODO: bob will not like the PR branch names b/c it will look for `release_YYYYMMDD`
 
-- After a commit is merged into `release_test` it will automatically propagate to the future release branches.
+
+## Code Reviews
+
+### Reviewer
+
+- receive a notification (currently: email)
+- in the pull request, leave a comment to request a change
+
+### Committer
+
+- Make some code changes, commit, and push
+- Wait for pre-merge build to complete successfully
+
+### Reviewer
+
+- In the pull request, review and approve the commit
+
+### Committer or Reviewer
+
+- Merge when PR is approved and Codeship status checks are complete
+
+
+## After Feature Completed Merge
+
+> QUESTION: After a commit is merged into `develop`, should the following automatically happen:
+
+> 1) `develop` should be merged into *stage* release branch and all future releases
+```
+MANUAL STEPS:
+git fetch upstream
+git checkout release_stage
+git reset --hard upstream/release_stage
+git merge upstream/develop
+git commit -m "updating release_stage from develop"
+git push upstream release_stage
+git checkout release_test
+git reset --hard upstream/release_test
+git merge upstream/develop
+git commit -m "updating release_test from develop"
+git push upstream release_test
+```
+
+> 2) Codeship is run against the merge commit done to the future releases and when successful it publishes artifacts to an S3 bucket - continue with deploy to staging
+
 
 ## Release Branches
 
-May branch off from:
+- Bob will automatically create and protect release branches from the `develop` branch
+
+    > TODO: automatically create and protect release branches from the `develop` branch -- not `master` or any other release
+
+    > NOTE: On release day, the `release_stage` branch becomes the new `release_prod` branch, we shouldn't have to do any merging to the next production branch because the stage branch should be good to go (QA) by release day.
+
+> QUESTION:
 ```
-the previous release branch
-```
-Must merge back into:
-```
-future branches
-```
-Branch naming convention:
-```
-`release_YYYYMMDD`
+    - What would work the best? We're supposed to create release branches from develop, but we need the release branches around and propigated for QA.
+	    - `develop` is auto merged into `release_stage` & `release_test` branch (I like this one b/c it keeps the commit history the same across branches -pattyr)
+	    - `develop` is auto merged into `release_stage` & `release_stage` is auto merged into `release_test` branch
+        - http://nvie.com/posts/a-successful-git-branching-model/#creating-a-release-branch
+	- One issue I see with this is a last min push to the develop branch
 ```
 
-### Creating a release branch
+## Bugfixes (Pre-release)
 
-- Bob will automatically create and protect release branches from the previous release branch branch
-
-### Finishing a release branch
-
-- On release day:
-    - Release from 2 weeks ago is archived
-    - Keep the previous release
-    - `release_stage` branch becomes the new `release_prod` branch
-    - `release_next_test` is created from `release_test`
-
-## Bugfixes Branches (Pre-release)
-
-Any bugfixes for a feature in `release_stage` should be merged back into the `release_stage`.
+Any bugfixes for a feature in `release_stage` should be merged back into the release_stage.
 
 - Checkout new branch from `release_stage` branch
+```
+git checkout -b bugfix_MTSOPS-1234_release_stage upstream/release_stage
+```
 - Make changes, commit
-- Create Pull Request from `MTSOPS-1234_release_stage` to `release_stage`
+```
+git add <files>
+git commit -m "MTSOPS-1234: bugfixes"
+git push upstream bugfix_MTSOPS-1234_release_stage
+```
+- Create Pull Request from `bugfix_MTSOPS-1234_release_stage` to `release_stage`
 - Merge when PR is approved and Codeship status checks are complete
-- After bugfix is merged, the `release_stage` branch should be merged back to the `release_test` and subsequent branches
-- Deploys to the staging environment
-
-## Production Branch
-
-May branch off from:
-`release_stage`
-Must merge back into:
-`master`
-
-- `release_prod` was created from the `release_stage` branch
-- Merge `release_prod` to `master`
-
-## Hotfix
-
-May branch off from:
+I STOPPED RIGHT HERE!!!
+- After bugfixes are merged, the `bugfix_MTSOPS-1234_release_stage` branch should be merged back to the `develop` branch
 ```
-`release_prod`
-```
-Must merge back into:
-```
-`master` and `release_stage`
-```
-Branch naming convention:
-```
-`MTP-1234_release_prod`
+MANUAL STEPS:
+git checkout -b develop
+git merge bugfix_MTSOPS-1234_release_20171207 --no-ff
+git push upstream release_stage
 ```
 
-### Creating the hotfix branch
+> QUESTION:
+> - After bugfixes are applied, the `release_stage` the `bugfix_MTSOPS-1234_release_stage` should also be merged to `release_test`
+> OR
+> - After bugfixes are applied, the `release_stage` branch should be merged into the `release_test` branch
 
-- Create a hotfix branch from `release_prod`
-- Make code changes, add, commit
+- Deploys to the staging environment (Deploy process already exists for release_YYYYMMDD branches)
 
-### Finishing a hotfix branch
 
-- Create a PR from `MTP-1234_release_prod` to `release_prod`
-- Merge hotfix from `release_prod` to `master`
-- Merge hotfix from `master` to `release_stage`
+
+
+
+
+
+
+
+RANDOM NOTES
+============
+
+GitFlow Playbook
+Demonstrate GitFlow on a dummy repository.
+- request reviews
+- premerge build (codeship)
+- pass status checks (codeship)
+- completed features go into the develop branch
+
+bob protect branches to:
+	- status checks
+
+questions
+	- how can we enforce checks on administrator groups (but still allowing mtBot to merge)
+
+TODO: Bob merge propagation flow:
+- After a PR is merged into the `develop` branch
+	- merge `develop` into staging and future branches
+- Create new release_YYYYMMDD branches from the develop branch
+
+
+develop becomes the permanent staging branch --> it will always go into staging branch
+protect all branches (non-feature, hotfix, or bugfix) -- even develop
+maybe add more protection for master and release branches: `Restrict who can push to this branch`
