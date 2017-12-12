@@ -39,16 +39,19 @@ Check the engineering channel for current status.
     - Release from 2 weeks ago is archived
     - Keep the previous release
     - `release_stage` branch becomes the new `release_prod` branch
+    - `release_test` branch becomes the new `release_stage`
     - `release_next_test` is created from `release_test`
-
 
 ## Production Branch
 
-May branch off from:
-`release_stage`
-Must merge back into:
+*Branched from:*
+
+`release_prev`
+
+*Merges into:*
+
 `master`
 
-- `release_prod` was created from the `release_stage` branch
+- `release_stage` branch becomes the new `release_prod` branch
 - Merge `release_prod` to `master`
 
