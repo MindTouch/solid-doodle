@@ -1,17 +1,21 @@
-## Feature branches
+Feature Branches
+================
 
-May branch off from:
-```
-`release_test` or future branches
-```
-Must merge back into:
-```
-`release_test` or future branches
-```
-Branch naming convention:
-```
-anything except `master` or `release_YYYYMMDD`
-```
+*Branch from:*
+
+* `release_test` or future branches
+
+*Merges into:*
+
+* `release_test` or future branches
+
+*Branch naming convention:*
+
+* anything except `master` or `release_YYYYMMDD`
+
+
+![MindTouch GitFlow Feature Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-feature-branches.001.png)
+
 
 ### Creating a feature branch
 When starting work on a new feature, branch off from the `release_test` branch.

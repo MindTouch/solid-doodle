@@ -1,7 +1,19 @@
 
 ## Bugfix Branch
 
-Any bugfixes for a feature in `release_stage` should be merged back into the `release_stage`.
+*Branches from:*
+
+* `release_stage`
+
+*Merges into:*
+
+* `release_stage` and propagated to future branches
+
+*Branch naming convention:*
+
+`MTP-1234_release_prod`
+
+![MindTouch GitFlow Bugfix Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-bugfix-branches.001.png)
 
 - Checkout new branch from `release_stage` branch
 - Make changes, commit
@@ -12,21 +24,21 @@ Any bugfixes for a feature in `release_stage` should be merged back into the `re
 
 
 
-
 ## Hotfix Branch
 
-May branch off from:
-```
-`release_prod`
-```
-Must merge back into:
-```
-`master` and `release_stage`
-```
-Branch naming convention:
-```
-`MTP-1234_release_prod`
-```
+*Branches from:*
+
+* `release_prod`
+
+*Merges into:*
+
+* `release_prod` and propagated to `master` then future branches
+
+*Branch naming convention:*
+
+* `MTP-1234_release_prod`
+
+![MindTouch GitFlow Hotfix Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-hotfix-branches.001.png)
 
 ### Creating the hotfix branch
 

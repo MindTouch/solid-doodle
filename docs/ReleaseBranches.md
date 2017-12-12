@@ -1,23 +1,39 @@
-## Release Branches
+Release Branches
+================
 
-May branch off from:
-```
-the previous release branch
-```
-Must merge back into:
-```
-future branches
-```
-Branch naming convention:
-```
-`release_YYYYMMDD`
-```
+*Branches from:*
 
-### Creating a release branch
+* the previous release branch
+
+*Merges into:*
+
+* future branches
+
+*Branch naming convention:*
+
+* `release_YYYYMMDD`
+
+![MindTouch GitFlow Release Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-release-branches.001.png)
+
+#### Note
+
+In these examples, the release branches will be referred as:
+
+* `release_prev`
+* `release_prod`
+* `release_stage`
+* `release_test`
+* `release_next_test`
+
+Each branch respectfully matches a dated release branch (`release_YYYYMMDD`) that changes weekly.
+
+Check the engineering channel for current status.
+
+## Creating a release branch
 
 - Bob will automatically create and protect release branches from the previous release branch branch
 
-### Finishing a release branch
+## Finishing a release branch
 
 - On release day:
     - Release from 2 weeks ago is archived

@@ -11,13 +11,13 @@ The central repo holds one main branch with an infinite lifetime:
 
 origin/master is the main branch where the source code of HEAD always reflects a production-ready state.
 
-Pull requests are not allowed directly to master
+Pull requests are not allowed directly to `master`.
 
 ## Supporting Branches
 
 these branches always have a limited life time, since they will be removed eventually.
 
-- [Feature branches](FeatureBranch.md)
+- [Feature branches](FeatureBranches.md)
 - [Release branches](ReleaseBranches.md)
 - [Hotfix branch](BugBranches.md#hotfix-branch)
 - [Bugfix branch](BugBranches.md#bugfix-branch)
