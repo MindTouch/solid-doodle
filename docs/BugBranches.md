@@ -13,7 +13,7 @@
 
 `MTP-1234_release_prod`
 
-![MindTouch GitFlow Bugfix Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-bugfix-branches.001.png)
+![MindTouch GitFlow Bugfix Branches](assets/mindtouch-gitflow-bugfix-branches.001.png)
 
 - Checkout new branch from `release_stage` branch
 - Make changes, commit
@@ -38,7 +38,7 @@
 
 * `MTP-1234_release_prod`
 
-![MindTouch GitFlow Hotfix Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-hotfix-branches.001.png)
+![MindTouch GitFlow Hotfix Branches](assets/mindtouch-gitflow-hotfix-branches.001.png)
 
 ### Creating the hotfix branch
 

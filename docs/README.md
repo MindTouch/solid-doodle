@@ -1,7 +1,7 @@
 MindTouch GitFlow
 =================
 
-![MindTouch GitFlow](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-model.001.png)
+![MindTouch GitFlow](assets/mindtouch-gitflow-model.001.png)
 
 ## The Main Branch
 

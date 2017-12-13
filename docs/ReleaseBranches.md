@@ -13,7 +13,7 @@ Release Branches
 
 * `release_YYYYMMDD`
 
-![MindTouch GitFlow Release Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-release-branches.001.png)
+![MindTouch GitFlow Release Branches](assets/mindtouch-gitflow-release-branches.001.png)
 
 #### Note
 

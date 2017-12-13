@@ -14,7 +14,7 @@ Feature Branches
 * anything except `master` or `release_YYYYMMDD`
 
 
-![MindTouch GitFlow Feature Branches](https://s3.amazonaws.com/pattyr-test/gitflow/mindtouch-gitflow-feature-branches.001.png)
+![MindTouch GitFlow Feature Branches](assets/mindtouch-gitflow-feature-branches.001.png)
 
 
 ### Creating a feature branch
