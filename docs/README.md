@@ -25,3 +25,7 @@ these branches always have a limited life time, since they will be removed event
 ## GitFlow Training
 
 [MindTouch's GitFlow training guide](GitFlowTraining.md)
+
+## References
+
+MindTouch GitFlow was adopted from [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
