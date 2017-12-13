@@ -1,200 +1,113 @@
-Prerequisites
-=============
+MindTouch GitFlow Training
+==========================
 
-## Remote Repo Configuration
+To demonstrate the release branch workflow, in these examples we'll refer to each release as:
 
-If you haven't already, change the remote MindTouch repo to the name `upstream`
-```
-git remote add upstream git@github.com:MindTouch/solid-doodle.git
-```
+* `release_prev` = previous week released code
+* `release_prod` = released and currently running
+* `release_stage` = code currently testing by QA for release the next week
+* `release_test` = feature merging for QA testing next week and production release in 2 weeks
+* `release_next_test` = feature merging or incremental changes dependent on code from `release_test` or earlier
 
-
-GitFlow Training
-================
-
-After the a feature is merged into the develop branch, we're ready for a release. In these examples we'll refer to each release as `prod`, `stage`, and `test`.
-
-In the real environment, those will be replaced with dates and will change weekly automatically. (i.e. `release_20171207`)
-
-* `prod` = what is currently released and running
-* `stage` = what is currently being tested by QA
-* `test` = what is currently being used by local developers
-
-> QUESTION: Is `test` stated correctly??
-
+Each release above corresponds to a specific release branch with a date formatted `release_YYYYMMDD` that changes weekly automatically. (i.e. `release_20171207`)
 
 ## Working on a Feature Branch
 
-### Committer
-
-- Clone the repo, change into that directory and get the all the branches
+* Clone the repo, change into that directory and get the all the branches
     ```
     git clone git@github.com:MindTouch/solid-doodle.git
     cd solid-doodle
     ```
-
-- Change remote to upstream
+* Change remote to upstream
     ```
     git remote rm origin
     git remote add upstream git@github.com:MindTouch/solid-doodle.git
     ```
-
-    > QUESTION: should we keep the default origin? http://nvie.com/posts/a-successful-git-branching-model/#decentralized-but-centralized
-
-- Checkout the feature branch
+* Checkout the feature branch
     ```
     git fetch upstream
-    git checkout -b feature-branch-<yourname> develop
+    git checkout -b MTP-1234_release_test upstream/release_test
     ```
-    > NOTE: `<yourname>` is ONLY for this example)
-
-    > TODO: change the default branch in GitHub to `develop`
-
-- Make some code changes, commit
+* Make some code changes, commit
     ```
     git add <files>
     git commit -m "gitflow commit feature"
     ```
-
-- Pull `develop` branch into feature, fix any conflicts (if any), commit
+* Pull `release_test` branch into feature, fix any conflicts (if any), commit
     ```
-    git merge upstream/develop
-    git push upstream feature-branch-<yourname>
+    git merge upstream/release_test
+    git push upstream MTP-1234_release_test
 	```
-
-- Make a pull request against a `develop` branch
-	- complete the form with the ticket number and summary of changes
-	- request a reviewer
-	- submit
-
-	> QUESTION: (with the --no-ff) http://nvie.com/posts/a-successful-git-branching-model/#incorporating-a-finished-feature-on-develop
-
-	> TODO: bob will not like the PR branch names b/c it will look for `release_YYYYMMDD`
-
+* Make a pull request against a `release_test` branch
+	* complete the form with the ticket number and summary of changes
+	* request a reviewer
+	* submit
 
 ## Code Reviews
 
 ### Reviewer
 
-- receive a notification (currently: email)
-- in the pull request, leave a comment to request a change
+* Receive a notification (currently: email)
+* In the pull request, leave a comment to request a change
 
 ### Committer
 
-- Make some code changes, commit, and push
-- Wait for pre-merge build to complete successfully
+* Make some code changes, commit, and push
+* Wait for pre-merge build to complete successfully
 
 ### Reviewer
 
-- In the pull request, review and approve the commit
+* In the pull request, review and approve the commit
 
 ### Committer or Reviewer
 
-- Merge when PR is approved and Codeship status checks are complete
+* Merge when PR is approved and Codeship status checks are complete
 
+### Status Checks
 
-## After Feature Completed Merge
+* Codeship will automatically run against the pull request before allowing a merge.
 
-> QUESTION: After a commit is merged into `develop`, should the following automatically happen:
+## After Feature is Merged
 
-> 1) `develop` should be merged into *stage* release branch and all future releases
-```
-MANUAL STEPS:
-git fetch upstream
-git checkout release_stage
-git reset --hard upstream/release_stage
-git merge upstream/develop
-git commit -m "updating release_stage from develop"
-git push upstream release_stage
-git checkout release_test
-git reset --hard upstream/release_test
-git merge upstream/develop
-git commit -m "updating release_test from develop"
-git push upstream release_test
-```
+* Bob will automatically propagate the pull request to `release_test` into `release_next_test` and all future releases
+* Codeship will automatically run against the release branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin.
 
-> 2) Codeship is run against the merge commit done to the future releases and when successful it publishes artifacts to an S3 bucket - continue with deploy to staging
+## Bugfixes
 
+Any bugfixes for a feature in `release_stage` should be merged back into the `release_stage` branch.
 
-## Release Branches
+* Checkout new branch from `release_stage` branch
+    ```
+    git checkout -b MTSOPS-1234_release_stage upstream/release_stage
+    ```
+* Make changes, commit, push
+    ```
+    git add <files>
+    git commit -m "MTSOPS-1234: bugfixes"
+    git push upstream MTSOPS-1234_release_stage
+    ```
+* Create Pull Request from `MTSOPS-1234_release_stage` to `release_stage`
+* Merge when PR is approved and Codeship status checks are complete
+* After bugfix is merged
+    * Codeship will automatically run against the `release_stage` branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin and QA can test the bugfix.
+    * The `MTSOPS-1234_release_stage` branch will auto propagate to future branches
 
-- Bob will automatically create and protect release branches from the `develop` branch
+## Hotfixes
 
-    > TODO: automatically create and protect release branches from the `develop` branch -- not `master` or any other release
+Any hotfixes for a feature in `release_prod` should be merged back into the `release_prod` branch.
 
-    > NOTE: On release day, the `release_stage` branch becomes the new `release_prod` branch, we shouldn't have to do any merging to the next production branch because the stage branch should be good to go (QA) by release day.
-
-> QUESTION:
-```
-    - What would work the best? We're supposed to create release branches from develop, but we need the release branches around and propigated for QA.
-	    - `develop` is auto merged into `release_stage` & `release_test` branch (I like this one b/c it keeps the commit history the same across branches -pattyr)
-	    - `develop` is auto merged into `release_stage` & `release_stage` is auto merged into `release_test` branch
-        - http://nvie.com/posts/a-successful-git-branching-model/#creating-a-release-branch
-	- One issue I see with this is a last min push to the develop branch
-```
-
-## Bugfixes (Pre-release)
-
-Any bugfixes for a feature in `release_stage` should be merged back into the release_stage.
-
-- Checkout new branch from `release_stage` branch
-```
-git checkout -b bugfix_MTSOPS-1234_release_stage upstream/release_stage
-```
-- Make changes, commit
-```
-git add <files>
-git commit -m "MTSOPS-1234: bugfixes"
-git push upstream bugfix_MTSOPS-1234_release_stage
-```
-- Create Pull Request from `bugfix_MTSOPS-1234_release_stage` to `release_stage`
-- Merge when PR is approved and Codeship status checks are complete
-I STOPPED RIGHT HERE!!!
-- After bugfixes are merged, the `bugfix_MTSOPS-1234_release_stage` branch should be merged back to the `develop` branch
-```
-MANUAL STEPS:
-git checkout -b develop
-git merge bugfix_MTSOPS-1234_release_20171207 --no-ff
-git push upstream release_stage
-```
-
-> QUESTION:
-> - After bugfixes are applied, the `release_stage` the `bugfix_MTSOPS-1234_release_stage` should also be merged to `release_test`
-> OR
-> - After bugfixes are applied, the `release_stage` branch should be merged into the `release_test` branch
-
-- Deploys to the staging environment (Deploy process already exists for release_YYYYMMDD branches)
-
-
-
-
-
-
-
-
-
-RANDOM NOTES
-============
-
-GitFlow Playbook
-Demonstrate GitFlow on a dummy repository.
-- request reviews
-- premerge build (codeship)
-- pass status checks (codeship)
-- completed features go into the develop branch
-
-bob protect branches to:
-	- status checks
-
-questions
-	- how can we enforce checks on administrator groups (but still allowing mtBot to merge)
-
-TODO: Bob merge propagation flow:
-- After a PR is merged into the `develop` branch
-	- merge `develop` into staging and future branches
-- Create new release_YYYYMMDD branches from the develop branch
-
-
-develop becomes the permanent staging branch --> it will always go into staging branch
-protect all branches (non-feature, hotfix, or bugfix) -- even develop
-maybe add more protection for master and release branches: `Restrict who can push to this branch`
+* Checkout new branch from `release_prod` branch
+    ```
+    git checkout -b MTSOPS-1234_release_prod upstream/release_prod
+    ```
+* Make changes, commit, push
+    ```
+    git add <files>
+    git commit -m "MTSOPS-1234: hotfixes"
+    git push upstream MTSOPS-1234_release_prod
+    ```
+* Create Pull Request from `MTSOPS-1234_release_prod` to `release_prod`
+* When PR is approved and Codeship status checks are complete merge
+* After hotfix is merged
+    * Codeship will automatically run against the `release_prod` branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin
+    * The changes to `MTSOPS-1234_release_prod` will auto propagate to `master` and future branches
