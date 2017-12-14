@@ -1,7 +1,7 @@
 MindTouch GitFlow Training
 ==========================
 
-To demonstrate the release branch workflow, in these examples we'll refer to each release as:
+To demonstrate the workflow, in this documentation we'll refer to each release as:
 
 * `release_prev` = previous week released code
 * `release_prod` = released and currently running
@@ -9,7 +9,8 @@ To demonstrate the release branch workflow, in these examples we'll refer to eac
 * `release_test` = feature merging for QA testing next week and production release in 2 weeks
 * `release_next_test` = feature merging or incremental changes dependent on code from `release_test` or earlier
 
-Each release above corresponds to a specific release branch with a date formatted `release_YYYYMMDD` that changes weekly automatically. (i.e. `release_20171207`)
+> **NOTE:**
+> Each release branch above corresponds to a release branch with a date formatted `release_YYYYMMDD` that changes automatically each week. (i.e. `release_20171207`)
 
 ## Working on a Feature Branch
 

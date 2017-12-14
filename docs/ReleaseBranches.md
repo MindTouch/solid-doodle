@@ -15,19 +15,16 @@ Release Branches
 
 ![MindTouch GitFlow Release Branches](assets/mindtouch-gitflow-release-branches.001.png)
 
-#### Note
+To demonstrate the workflow, in this documentation we'll refer to each release as:
 
-In these examples, the release branches will be referred as:
+* `release_prev` = previous week released code
+* `release_prod` = released and currently running
+* `release_stage` = code currently testing by QA for release the next week
+* `release_test` = feature merging for QA testing next week and production release in 2 weeks
+* `release_next_test` = feature merging or incremental changes dependent on code from `release_test` or earlier
 
-* `release_prev`
-* `release_prod`
-* `release_stage`
-* `release_test`
-* `release_next_test`
-
-Each branch respectfully matches a dated release branch (`release_YYYYMMDD`) that changes weekly.
-
-Check the engineering channel for current status.
+> **NOTE:**
+> Each release branch above corresponds to a release branch with a date formatted `release_YYYYMMDD` that changes automatically each week. (i.e. `release_20171207`)
 
 ## Creating a release branch
 
