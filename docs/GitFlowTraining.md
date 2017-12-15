@@ -3,11 +3,11 @@ MindTouch GitFlow Training
 
 To demonstrate the workflow, in this documentation we'll refer to each release as:
 
-* `release_prev` = previous week released code
+* `release_prod_prev` = previous week released code
 * `release_prod` = released and currently running
-* `release_stage` = code currently testing by QA for release the next week
-* `release_test` = feature merging for QA testing next week and production release in 2 weeks
-* `release_next_test` = feature merging or incremental changes dependent on code from `release_test` or earlier
+* `release_staging` = code currently testing by QA for release the next week
+* `release_dev` = feature merging for QA testing next week and production release in 2 weeks
+* `release_dev_next` = feature merging or incremental changes dependent on code from `release_dev` or earlier
 
 > **NOTE:**
 > Each release branch above corresponds to a release branch with a date formatted `release_YYYYMMDD` that changes automatically each week. (i.e. `release_20171207`)
@@ -27,19 +27,23 @@ To demonstrate the workflow, in this documentation we'll refer to each release a
 * Checkout the feature branch
     ```
     git fetch upstream
-    git checkout -b MTP-1234_release_test upstream/release_test
+    git checkout -b MTP-1234_release_dev upstream/release_dev
     ```
 * Make some code changes, commit
     ```
     git add <files>
     git commit -m "gitflow commit feature"
     ```
-* Pull `release_test` branch into feature, fix any conflicts (if any), commit
+* Pull `release_dev` branch into feature, fix any conflicts (if any), commit
     ```
-    git merge upstream/release_test
-    git push upstream MTP-1234_release_test
+    git merge upstream/release_dev
+    git push upstream MTP-1234_release_dev
 	```
-* Make a pull request against a `release_test` branch
+* Run CodeShip locally
+    ```
+    TODO
+    ```
+* Make a pull request against a `release_dev` branch
 	* complete the form with the ticket number and summary of changes
 	* request a reviewer
 	* submit
@@ -70,28 +74,28 @@ To demonstrate the workflow, in this documentation we'll refer to each release a
 
 ## After Feature is Merged
 
-* Bob will automatically propagate the pull request to `release_test` into `release_next_test` and all future releases
+* Bob will automatically propagate the pull request to `release_dev` into `release_dev_next` and all future releases
 * Codeship will automatically run against the release branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin.
 
 ## Bugfixes
 
-Any bugfixes for a feature in `release_stage` should be merged back into the `release_stage` branch.
+Any bugfixes for a feature in `release_staging` should be merged back into the `release_staging` branch.
 
-* Checkout new branch from `release_stage` branch
+* Checkout new branch from `release_staging` branch
     ```
-    git checkout -b MTSOPS-1234_release_stage upstream/release_stage
+    git checkout -b MTSOPS-1234_release_staging upstream/release_staging
     ```
 * Make changes, commit, push
     ```
     git add <files>
     git commit -m "MTSOPS-1234: bugfixes"
-    git push upstream MTSOPS-1234_release_stage
+    git push upstream MTSOPS-1234_release_staging
     ```
-* Create Pull Request from `MTSOPS-1234_release_stage` to `release_stage`
+* Create Pull Request from `MTSOPS-1234_release_staging` to `release_staging`
 * Merge when PR is approved and Codeship status checks are complete
 * After bugfix is merged
-    * Codeship will automatically run against the `release_stage` branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin and QA can test the bugfix.
-    * The `MTSOPS-1234_release_stage` branch will auto propagate to future branches
+    * Codeship will automatically run against the `release_staging` branch the PR was merged into and publishes artifacts to an S3 bucket, then the automated deployment will begin and QA can test the bugfix.
+    * The `MTSOPS-1234_release_staging` branch will auto propagate to future branches
 
 ## Hotfixes
 
