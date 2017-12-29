@@ -1,3 +1,4 @@
+TEST TEST TEST
 # Query and Visualize CloudWatch Logs w/ Lambda and Athena - August 2017 Team Hackathon Challenge
 
 FOO BAR FOO BAR FOO BAR BAR
@@ -224,4 +225,4 @@ Happy Hacking!
 ## Copyright & License
 * Copyright (c) 2017 Juan Manuel Torres, Katherine Marino, Daniel Lee
 * MIT License
-
+$
