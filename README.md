@@ -2,7 +2,7 @@ TEST TEST TEST
 # Query and Visualize CloudWatch Logs w/ Lambda and Athena - August 2017 Team Hackathon Challenge
 
 FOO BAR FOO BAR FOO BAR BAR
-
+BAR
 
 
 
