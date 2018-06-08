@@ -5,5 +5,3 @@ cd /mindtouch/solid-doodle/TestLogParser/
 /usr/bin/dotnet test
 
 sleep 20 
-
-exit 1
