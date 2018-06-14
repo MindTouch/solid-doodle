@@ -1,14 +1,14 @@
 # Query and Visualize CloudWatch Logs w/ Lambda and Athena - August 2017 Team Hackathon Challenge
 
 FOO BAR FOO BAR FOO BAR BAR
-BLAH!!!!
- BAL
+
+hello
 Collecting, parsing and analyzing machine data is very common these days. 
 Applications like Sumologic, Splunk or Loggly help tens of thousands of organizations make sense of data (often in unpredictable formats), 
 and gain business and operational insights that can help diagnose problems across services, detect security threats and much more.
 
 This challenge is all about creating 100% serverless log parser using CloudWatch Logs, Lambda, and Athena. 
-
+yo
 We are providing you with a log generator that uses the Twitter Streaming API to create logs on your behalf; you are responsible for parsing the data so that it can be queried using Athena.    
 
 
