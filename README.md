@@ -10,7 +10,7 @@ This challenge is all about creating 100% serverless log parser using CloudWatch
 
 We are providing you with a log generator that uses the Twitter Streaming API to create logs on your behalf; you are responsible for parsing the data so that it can be queried using Athena.    
 
-yo
+yoyo
 ### Pre-requisites
 The following tools and accounts are required to complete these instructions.
 
