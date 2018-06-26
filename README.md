@@ -5,14 +5,14 @@ FOO BAR FOO BAR FOO BAR BAR
 Collecting, parsing and analyzing machine data is very common these days. 
 Applications like Sumologic, Splunk or Loggly help tens of thousands of organizations make sense of data (often in unpredictable formats), 
 and gain business and operational insights that can help diagnose problems across services, detect security threats and much more.
-yoyo
+
 This challenge is all about creating 100% serverless log parser using CloudWatch Logs, Lambda, and Athena. 
 
 We are providing you with a log generator that uses the Twitter Streaming API to create logs on your behalf; you are responsible for parsing the data so that it can be queried using Athena.    
 
 ### Pre-requisites
 The following tools and accounts are required to complete these instructions.
-
+yo
 * [Install .NET Core](https://www.microsoft.com/net/core)
 * [Install AWS CLI](https://aws.amazon.com/cli/)
 * [Sign-up for an AWS account](https://aws.amazon.com/)
