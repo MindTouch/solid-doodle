@@ -12,7 +12,7 @@ We are providing you with a log generator that uses the Twitter Streaming API to
 
 ### Pre-requisites
 The following tools and accounts are required to complete these instructions.
-
+yoyo
 * [Install .NET Core](https://www.microsoft.com/net/core)
 * [Install AWS CLI](https://aws.amazon.com/cli/)
 * [Sign-up for an AWS account](https://aws.amazon.com/)
