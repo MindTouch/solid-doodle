@@ -98,4 +98,4 @@ Merging button will enable once the pull request passes the status checks. Curre
 
 ## QA
 
-* QA will test against the release branch
+* QA will be testing against the release branch
