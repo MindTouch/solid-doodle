@@ -1,7 +1,7 @@
 # Query and Visualize CloudWatch Logs w/ Lambda and Athena - August 2017 Team Hackathon Challenge
 
 FOO BAR FOO BAR FOO BAR BAR
-BAT BAZ BAT Foo
+BAT BAZ BAT FOO BAT
 
 Collecting, parsing and analyzing machine data is very common these days. 
 Applications like Sumologic, Splunk or Loggly help tens of thousands of organizations make sense of data (often in unpredictable formats), 
