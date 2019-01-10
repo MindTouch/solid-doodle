@@ -6,4 +6,5 @@ demo
 .vs
 .vscode
 credentials.json
-
+*.aes
+*.env

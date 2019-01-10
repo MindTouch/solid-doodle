@@ -1,0 +1,7 @@
+- name: mindtouch-soild-doodle
+  type: serial
+  exclude: ^archive_.*$
+  steps:
+     - name: test solid-doodle
+       service: mindtouch-soild-doodle
+       command: run-tests
