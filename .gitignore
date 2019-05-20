@@ -8,3 +8,4 @@ demo
 credentials.json
 *.aes
 *.env
+docs/track-this-file.txt
