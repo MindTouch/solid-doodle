@@ -3,6 +3,8 @@
 FOO BAR FOO BAR FOO BAR BAR
 BAT BAZ BAT FOO BAT
 BAT BAR
+FOO
+
 Collecting, parsing and analyzing machine data is very common these days. 
 Applications like Sumologic, Splunk or Loggly help tens of thousands of organizations make sense of data (often in unpredictable formats), 
 and gain business and operational insights that can help diagnose problems across services, detect security threats and much more.
