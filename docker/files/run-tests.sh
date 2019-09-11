@@ -6,4 +6,4 @@ cd /mindtouch/solid-doodle/TestLogParser/
 
 
 #exit 1
-#sleep 180
+sleep 180
