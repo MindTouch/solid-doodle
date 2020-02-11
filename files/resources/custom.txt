@@ -4,6 +4,7 @@
 
 [New.Category]
     dialog.select.title=Dialog Select Title
+    error.message=Foo-Bar Error Message
 
 ;FEATURE=bat-baz
 [Section.Headers]
