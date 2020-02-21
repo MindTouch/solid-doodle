@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=버튼 제목
+
+[New.Category]
+    dialog.select.title=대화 상자 제목 선택
+    error.message=푸-바 오류 메시지
