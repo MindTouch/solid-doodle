@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=Schaltflächentitel
+
+[New.Category]
+    dialog.select.title=Dialog Titel auswählen
+    error.message=Fehlermeldung in der Fußleiste
