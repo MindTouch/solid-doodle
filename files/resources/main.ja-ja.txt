@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=ボタンのタイトル
+
+[New.Category]
+    dialog.select.title=ダイアログのタイトルを選択
+    error.message=Foo-Bar エラーメッセージ
