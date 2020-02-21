@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=Título do Botão
+
+[New.Category]
+    dialog.select.title=Caixa de diálogo Selecionar Título
+    error.message=Mensagem de erro do Foo-Bar
