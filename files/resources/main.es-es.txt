@@ -6,3 +6,8 @@
 
 [Web.Defaults]
     error.message=Mensaje de error
+    button.title=Título del botón
+
+[New.Category]
+    dialog.select.title=Cuadro de diálogo Seleccionar título
+    error.message=Mensaje de error de Foo-Bar
