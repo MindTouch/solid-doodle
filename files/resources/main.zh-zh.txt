@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=按钮标题
+
+[New.Category]
+    dialog.select.title=对话框选择标题
+    error.message=Foo-Bar 错误消息
