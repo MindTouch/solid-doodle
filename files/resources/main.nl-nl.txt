@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=Knop Titel
+
+[New.Category]
+    dialog.select.title=Dialoogvenster Titel selecteren
+    error.message=Foo-Bar Foutbericht
