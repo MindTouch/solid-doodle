@@ -1,12 +1,6 @@
-;FEATURE=foo-bar
 [Web.Defaults]
     button.title=Button Title
 
 [New.Category]
     dialog.select.title=Dialog Select Title
     error.message=Foo-Bar Error Message
-
-;FEATURE=bat-baz
-[Section.Headers]
-    message.confirm.header=Message Confirm Header
-    message.section.empty.header=Message Section Empty Header
