@@ -1,0 +1,3 @@
+[Section.Headers]
+    message.confirm.header=Message Confirm Header
+    message.section.empty.header=Message Section Empty Header
