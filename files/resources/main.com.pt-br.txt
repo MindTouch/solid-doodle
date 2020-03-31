@@ -1,0 +1,2 @@
+[Web.Defaults]
+    button.title=Título do Botão
