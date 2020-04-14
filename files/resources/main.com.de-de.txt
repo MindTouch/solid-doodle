@@ -1,0 +1,6 @@
+[Web.Defaults]
+    button.title=Schaltflächen-Titel
+
+[New.Category]
+    dialog.select.title=Dialog Titel auswählen
+    error.message=Foobar-Fehlermeldung
