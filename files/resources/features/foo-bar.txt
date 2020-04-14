@@ -1,6 +1,1 @@
-[Web.Defaults]
-    button.title=Button Title
-
-[New.Category]
-    dialog.select.title=Dialog Select Title
-    error.message=Foo-Bar Error Message
+; This file contents have been translated and is safe to delete.
