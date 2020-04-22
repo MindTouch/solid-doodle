@@ -1,5 +1,6 @@
 [Section.Headers]
     message.section.empty.header=Sección del mensaje Encabezado vacío
+    section.error.message=[Enter]mensaje
 
 [Old.Category]
     dialog.old.select.title=Diálogo Seleccionar título antiguo
