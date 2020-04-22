@@ -6,3 +6,8 @@
 
 [Web.Defaults]
     error.message=Error message
+    button.title=Button Title
+
+[New.Category]
+    dialog.select.title=Dialog Select Title
+    error.message=Foo-Bar Error Message
