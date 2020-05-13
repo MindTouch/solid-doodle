@@ -1,6 +1,7 @@
 [Section.Headers]
-    message.section.empty.header=Sección del mensaje Encabezado vacío
+    message.section.empty.header=Cabecera vacía de la sección de mensajes
     section.error.message=[Enter]mensaje
+    message.confirm.header=Encabezado de confirmación de mensaje
 
 [Old.Category]
     dialog.old.select.title=Diálogo Seleccionar título antiguo
