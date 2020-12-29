@@ -213,7 +213,8 @@ You are now ready to create different visualizations based on the data you have 
 Happy Hacking!
 
 
-
+Foo
+bar
 
 ## Acknowledgements
 * Erik Birkfeld for organizing.
