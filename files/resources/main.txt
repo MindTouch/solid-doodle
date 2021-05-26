@@ -1,3 +1,293 @@
-[Article.Comments]
-	comment-was-deleted=Comment #$1 was deleted by $2.
-	header-save-comment=Save comment
+[Dialog.CopyMove]
+    placeholder.search=Search
+
+[F1]
+    dialog.text.back=Back
+    dialog.text.forward=Forward
+    dialog.text.hint=search
+    dialog.text.home=Home
+    dialog.text.open=Open article
+
+[MindTouch.Help.Page]
+    category-selector=Refine results by selecting a filter.
+    help-header-label=Help results for
+    in=in
+    label-filter=Searching in
+    label-result-count=About {0} results
+    label-search-all=All results
+    label.page-rating-no=No
+    label.page-rating-yes=Yes
+    more=More
+    no-search-results=Sorry, we can't find what you are looking for.
+    no-search-try=Try searching for something else, selecting a category, or try creating a ticket.
+    recommended=(Recommended)
+    search-error=Search has encountered an error.
+    search-error-try=Please try again later.
+    search-unavailable=Sorry, search is currently unavailable.
+    show-more-search=Show more results
+    tooltip.scrollNext=Scroll to next
+    tooltip.scrollPrev=Scroll to previous
+    warning.search-only-english=Search is only available in English
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(date created)
+    featured.articles.created.title=Recently added
+    featured.articles.rated.label=(rating)
+    featured.articles.rated.title=Highest rated
+    featured.articles.updated.label=(date updated)
+    featured.articles.updated.title=Recently updated
+    featured.articles.viewed.label=(views)
+    featured.articles.viewed.title=Most popular
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Scroll tabs left
+    label.guide.tabscrollright=Scroll tabs right
+    label.reveal.showAll=Show all
+    label.reveal.showLess=Show less
+    label.search.placeholder=Search
+    type.how-to=How-to
+    type.howto=How-to
+    type.reference=Reference
+    type.topic=Topic
+    type.topic-category=Category
+    type.topic-guide=Guide
+    type.topic-portfolio=Portfolio
+    type.unclassified=Unclassified
+
+[MindTouch.LearningPath]
+    label.view-pages=View pages
+    message.page-count=<span>Pages:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Hide
+    button.toggle.show=Show
+    label.attachments=Include attachments
+    label.attachments-description=Content Type
+    label.attachments.type.binary=Other
+    label.attachments.type.document=Document
+    label.attachments.type.image=Image
+    label.classification=Classification
+    label.clear-all=Clear all filters
+    label.description=Filter Results
+    label.filters=Filters
+    label.location=Location
+    label.location-empty=There are no locations to filter by
+
+[MindTouch.Subscriptions]
+    cancel=Cancel
+    caption.normal=You are subscribed to the following pages.
+    caption.nosubscriptions=You are not subscribed to any pages.
+    column.page=Page
+    column.recursive=Email notifications for
+    link-title=Learn more about managing notifications in MindTouch
+    nonrecursive=This page only
+    nonrecursive.draft=This draft only
+    recursive.many=$1 pages
+    recursive.many.draft=$1 drafts
+    recursive.many.overflow=Subscribed to all subpages
+    recursive.many.overflow.draft=Subscribed to all subpage drafts
+    recursive.one=1 page
+    recursive.one.draft=1 draft
+    unsubscribe=Unsubscribe
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Close message
+
+[Page.AuthenticationProviders]
+    page-title=Sign in
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Visit success.mindtouch.com for all help topics.</a>
+
+[Page.Error]
+    not-found=Page not found
+    not-found-error=Sorry, the page at $1 could not be found.
+    not-found-results=Related search results:
+    page-title=Error
+
+[Page.FeedbackRating]
+    button.leave-feedback=Leave feedback
+    button.rating-no=No
+    button.rating-yes=Yes
+    button.submit-feedback=Submit feedback
+    label.checkbox.contact-me=Yes, you may contact me about this feedback.
+    label.feedback-question=How can we improve this article?
+    label.last-rated=-- You last rated this article on $1
+    label.rating-message=Was this article helpful?
+    legend.feedback-form=Leave feedback
+    message.contact.no=No
+    message.contact.yes=Yes
+    message.submit.error=An error occurred while attempting to send your feedback.  Please try again at a later time.
+    message.submit.success=Your feedback has been successfully submitted.  You can submit more feedback at any time.
+
+[Page.LiveTags]
+    label.article=Article type
+
+[Page.LoginPasswordRegister]
+    page-title=Sign in and registration
+    tab.login=Sign in
+    tab.password=Password reset
+    tab.register=Registration
+
+[Page.Preferences]
+    error.invalid-email=Please specify a valid email address
+    form.email=Email address
+    form.fullname=Display name
+    form.fullname.help=For display purposes only
+    form.hint.password-characters=The password must contain at least 3 of the following characters: lowercase, uppercase, digits or symbols.
+    form.hint.password-length=The password must be at least 8 characters in length
+    form.hint.password-match=The passwords must match
+    form.hint.password.restricted-words=The password cannot contain common password words
+    form.legend.information=My information
+    form.legend.password=My password
+    form.password.new=New password
+    form.password.old=Old password
+    form.password.submit=Change password
+    form.password.verify=Retype new password
+    form.submit=Save my information
+
+[Page.Tags]
+    message.notags=This page has no tags.
+    page-title=Site tags
+    tags-inserted-from-template=Tags recommended by the template:
+    tags-inserted-heading=Page tags:
+
+[Page.UserLogin]
+    error=Your sign in has failed. Please verify your username and password.
+    page-title=Sign in
+    submit-login=Sign in
+    user-name=Username
+    user-password=Password
+
+[Page.UserLogout]
+    page-title=Sign out
+    success=You have successfully signed out.
+
+[Page.UserPassword]
+    form.submit=Password reset
+    page-title=Password reset
+    success.email-sent=Password reset instructions have been sent to the e-mail address registered for this account. If you do not receive an email, please check your spelling and try again. Contact your site administrator if you continue to have issues signing in.
+
+[Page.UserRegistration]
+    error.email.match=The emails you entered do not match.
+    error.password.match=The passwords you entered do not match.
+    form.email=Email
+    form.email.verify=Verify Email
+    form.fullname=Full name <span class="note">(optional)</span>
+    form.password=Password
+    form.password.verify=Verify password
+    form.submit=Create an account
+    form.username=Username
+    page-title=Create an account
+    success.created=User <strong>$1</strong> has been created.
+
+[Page.Welcome]
+    community-banner-text=You can now contribute and share content.
+    community-banner-title=Welcome, $1. Your account has been created.
+    community-get-started-text=<strong>Here are some tips to help you get started:</strong>
+    community-tip1-text=Provide site owners with valuable feedback about the content of the site. Was the article helpful? Click <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Yes</span>. If not, click <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Leave feedback</span> to tell us how we can improve.<br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Learn more</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Start a conversation by commenting on a page. Contribute your own information or reply to other user's comments.<br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Learn more</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Password reset
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Sign in
+    header.recommended-articles=Recommended articles
+    header.toc=Table of contents
+    label.back-to-top=Back to top
+    label.global-location-toggle=Expand/collapse global location
+    label.global-navigation-toggle=Expand/collapse global hierarchy
+    label.last-updated=Last updated
+    label.last-updated-by=by
+    label.no-recommended-articles=There are no recommended articles.
+    label.password=Password
+    label.pdf-export=Save as PDF
+    label.signout=Sign out
+    label.site-search.button=Search
+    label.site-search.input=Search
+    label.skip-link=Skip to main content
+    label.tags=Tags
+    label.user-preferences=My preferences
+    label.username=Username
+    link.quick-login=Sign in
+    link.site-search=Search site
+    placeholder.site-search.input=How can we help you?
+    tooltip.back-to-top=Jump back to top of this article
+    tooltip.browse-back=Go back to previous article
+    tooltip.pdf-export=Export page as a PDF
+    tooltip.signout=Click to sign out of this site
+    tooltip.skip-link=Press enter to skip to the main content
+    tooltip.user-preferences=Click to change your user preferences
+
+[Skin.Common]
+    copyright=Copyright
+    home=Home
+
+[System.API]
+    no-headers=No headers
+    opensearch-shortname=$1 Search
+
+[Users]
+    email.body.html.content=<p>Congratulations, <br/><br/>\r\n\r\nYou now have an account at $4.<br/><br/>Sign in to instantly begin collaborating with other community members. Below are your site access details:<br/><br/>\r\n\r\nSite URL: <a href="$2">$2</a><br/>\r\nUser name: $1<br/>Password: $3<br/><br/>\r\n    \r\nIf you need help getting started or have specific questions about <a href="$2">$4</a>, please contact the site administrator.</p>
+    email.body.html.content.nopassword=<p>Congratulations, <br/><br/>\r\n\r\nYou now have an account at $3.<br/><br/>Sign in to instantly begin collaborating with other community members. Below are your site access details:<br/><br/>\r\n\r\nSite URL: <a href="$2">$2</a><br/>\r\nUser name: $1<br/><br/><em>Contact the site administrator if you do not know your password.</em><br/><br/>\r\n	\r\nIf you need help getting started or have specific questions about <a href="$2">$3</a>, please contact the site administrator.</p>
+    email.body.text=\r\nCongratulations, \r\n\r\nYou now have an account at $4. Sign in to instantly begin collaborating with other community members. Below are your site access details: \r\n\r\nSite URL: $2\r\nUser name: $1\r\nPassword: $3\r\n\r\nIf you need help getting started or have specific questions about $4, please contact the site administrator.
+    email.body.text.nopassword=\r\nCongratulations, \r\n\r\nYou now have an account at $3. Sign in to instantly begin collaborating with other community members. Below are your site access details: \r\n\r\nSite URL: $2\r\nUser name: $1\r\nContact the site administrator if you do not know your password.\r\n\r\nIf you need help getting started or have specific questions about $3, please contact the site administrator.
+    email.external.body.html.content=<p>Congratulations, <br/><br/>\r\n\r\nYou now have an account at $3.<br/><br/>Sign in to instantly begin collaborating with other community members. Below are your site access details:<br/><br/>\r\n\r\nSite URL: <a href="$2">$2</a><br/>\r\nUser name: $1<br/><br/>\r\n	\r\nIf you need help getting started or have specific questions about <a href="$2">$3</a>, please contact the site administrator.</p>
+    email.subject=$1 Sign in Details
+    form.password.instructions=Passwords must be a minimum of 8 characters in length and contain at least 3 of the following characters: lowercase, uppercase, digits or symbols.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=The requested MindTouch Touchpoint could not be loaded by your web browser.
+    label.back-to-top=Back to top
+
+[WebWidget.F1]
+    label.help-button=Help
+    title.help-button=Help
+
+[WebWidget.Login]
+    label.authenticated-user=Signed in to MindTouch as {{username}}
+    label.sign-in=Sign in to MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Click to collapse summary
+    label.disabled-message=Please try again later.
+    label.disabled-title=Sorry, search is currently unavailable.
+    label.expand-summary=Click to expand summary
+    label.forbidden-message=Please log in, or contact your site administrator.
+    label.forbidden-title=You do not have permission to use this feature.
+    label.input-hint=Search
+    label.no-results-faceting-message=Try searching for something else or selecting a category.
+    label.no-results-message=Try searching for something else.
+    label.no-results-title=Sorry, we can't find what you are looking for.
+    label.recommended=Recommended
+    label.refine-search=Refine search
+    label.show-more=Show more
+
+[WebWidgets]
+    label.authenticated-user=Hello, {{username}}!
+    label.nav.back=Back
+    label.nav.forward=Forward
+    label.nav.home=Home
+
+[Component.Translate]
+    label.choose-language=Choose Language
+    label.english=English
+    label.update-failed=Translation Incomplete
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Page content translated using machine translation
+    dialog.translated-mindtouch=Translated by MindTouch
