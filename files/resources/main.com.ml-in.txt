@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Message Section Empty Header
+
+[Old.Category]
+    dialog.old.select.title=Dialog Old Select Title
+
+[Web.Defaults]
+    error.message=Error message
