@@ -4,5 +4,9 @@
 [Old.Category]
     dialog.old.select.title=Dialog Old Select Title
 
+[Article.Comments]
+    comment-was-deleted=Comment was deleted
+    header-save-comment=Header savbed
+
 [Web.Defaults]
     error.message=Error message
