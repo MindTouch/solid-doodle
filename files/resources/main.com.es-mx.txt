@@ -1,8 +1,12 @@
 [Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+    message.section.empty.header=Sección de mensajes Encabezado vacío
 
 [Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+    dialog.old.select.title=Cuadro de diálogo Seleccionar título antiguo
+
+[Article.Comments]
+    comment-was-deleted=Se ha eliminado el comentario
+    header-save-comment=Encabezado guardado
 
 [Web.Defaults]
-    error.message=Error message
+    error.message=Mensaje de error
