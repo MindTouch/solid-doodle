@@ -6,7 +6,6 @@
 
 [Article.Comments]
     comment-was-deleted=Comment was deleted
-    header-save-comment=Header savbed
-
+    header-save-comment=Header newly saved by me
 [Web.Defaults]
     error.message=Error message
