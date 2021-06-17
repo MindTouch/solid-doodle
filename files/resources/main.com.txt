@@ -1,6 +1,6 @@
 [Dialog.CopyMove]
     placeholder.search=Search
-    new.word=Old Word
+    old.word=Old Word
 
 [F1]
     dialog.text.back=Back
