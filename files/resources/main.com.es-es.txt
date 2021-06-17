@@ -1,5 +1,6 @@
 [Dialog.CopyMove]
     placeholder.search=Buscar
+    new.word=Palabra nueva
 
 [F1]
     dialog.text.back=Espalda
