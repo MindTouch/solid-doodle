@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Іздеу
+    New.word=жаңа сөз қайтадан
+    extra=Тестілеу лимбо жаңарту
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Артқа
+    dialog.text.forward=Алға
+    dialog.text.hint=іздестіру
+    dialog.text.home=үй
+    dialog.text.open=Ашық мақала
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Сүзгіні таңдау арқылы нәтижелерді нақтылаңыз.
+    help-header-label=Анықтама нәтижелері
+    in=ішінде
+    label-filter=Іздеу
+    label-result-count={0} нәтижелері туралы
+    label-search-all=Барлық нәтижелер
+    label.page-rating-no=Жоқ
+    label.page-rating-yes=Иә
+    more=Көбірек
+    no-search-results=Кешіріңіз, біз сіз іздеген нәрсені таба алмаймыз.
+    no-search-try=Басқа нәрсені іздеп көріңіз, санатты таңдап көріңіз немесе билетті жасап көріңіз.
+    recommended=(Ұсынылған)
+    search-error=Іздеу қате тап болды.
+    search-error-try=Кейінірек қайталап көріңіз.
+    search-unavailable=Кешіріңіз, іздеу қазіргі уақытта қол жетімді емес.
+    show-more-search=Қосымша нәтижелерді көрсету
+    tooltip.scrollNext=келесіге жылжыңыз
+    tooltip.scrollPrev=Алдыңғы жылжыңыз
+    warning.search-only-english=Іздеу тек ағылшын тілінде қол жетімді
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(құрылған күні)
+    featured.articles.created.title=Жақында қосылды
+    featured.articles.rated.label=(рейтинг)
+    featured.articles.rated.title=Номиналды жоғары
+    featured.articles.updated.label=(күні жаңартылды)
+    featured.articles.updated.title=Жақында жаңартылған
+    featured.articles.viewed.label=(Көрулер)
+    featured.articles.viewed.title=Ең танымал
+    label.guide-subpage-display-single=Бір
+    label.guide-subpage-display-tabbed=Таблица
+    label.guide.tabscrollleft=сол жақ жылжып қойындылар
+    label.guide.tabscrollright=Қойындыларды оңға жылжыңыз
+    label.reveal.showAll=Барлығын көрсету
+    label.reveal.showLess=Аз көрсету
+    label.search.placeholder=Іздеу
+    type.how-to=Қалайша
+    type.howto=Қалайша
+    type.reference=Анықтама
+    type.topic=Тақырып
+    type.topic-category=Санат
+    type.topic-guide=нұсқаулығы
+    type.topic-portfolio=портфелі
+    type.unclassified=Жіктелмеген
+
+[MindTouch.LearningPath]
+    label.view-pages=Қарау беттері
+    message.page-count=<span>Беттер:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Жасыру
+    button.toggle.show=Шоу
+    label.attachments=Тіркемелерді қамтиды
+    label.attachments-description=Мазмұн түрі
+    label.attachments.type.binary=Басқа
+    label.attachments.type.document=Құжат
+    label.attachments.type.image=Сурет
+    label.classification=жіктелуі
+    label.clear-all=Барлық сүзгілерді тазалау
+    label.description=Сүзгі нәтижелері
+    label.filters=сүзгілер
+    label.location=орналасқан жері
+    label.location-empty=Сүзу үшін орындар жоқ
+
+[MindTouch.Subscriptions]
+    cancel=Болдырмау
+    caption.normal=Сіз келесі беттерге жазыласыз.
+    caption.nosubscriptions=Сіз кез келген беттерге жазылмайсыз.
+    column.page=бет
+    column.recursive=Электрондық пошта хабарландырулары үшін
+    link-title=MindTouch ішіндегі хабарландыруларды басқару туралы көбірек біліңіз
+    nonrecursive=Бұл бет тек
+    nonrecursive.draft=Бұл жоба тек
+    recursive.many=$1 беттер
+    recursive.many.draft=$1 жобалары
+    recursive.many.overflow=Барлық ішкі беттерге жазылыңыз
+    recursive.many.overflow.draft=Барлық ішкі бет жобаларына жазылыңыз
+    recursive.one=1 бет
+    recursive.one.draft=1 жоба
+    unsubscribe=Жазылудан бас тарту
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Жабу хабарлама
+
+[Page.AuthenticationProviders]
+    page-title=Кіру
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Барлық анықтама тақырыптары үшін success.mindtouch.com сайтына кіріңіз. </a>
+
+[Page.Error]
+    not-found=Бет табылған жоқ
+    not-found-error=Кешіріңіз, $1 бет табу мүмкін емес.
+    not-found-results=Байланысты іздеу нәтижелері:
+    page-title=Қате
+
+[Page.FeedbackRating]
+    button.leave-feedback=Пікір қалдыру
+    button.rating-no=Жоқ
+    button.rating-yes=Иә
+    button.submit-feedback=Кері байланыс жіберу
+    label.checkbox.contact-me=Иә, сіз осы кері байланыс туралы менімен хабарласа аласыз.
+    label.feedback-question=Бұл мақаланы қалай жақсартуға болады?
+    label.last-rated=— Сіз соңғы $1 осы мақаланы бағалады
+    label.rating-message=Бұл мақала пайдалы болды ма?
+    legend.feedback-form=Пікір қалдыру
+    message.contact.no=Жоқ
+    message.contact.yes=Иә
+    message.submit.error=Пікіріңізді жіберуге тырысқанда қате пайда болды. Кейінірек қайталап көріңіз.
+    message.submit.success=Сіздің пікіріңіз сәтті жіберілді. Сіз кез келген уақытта қосымша кері байланыс жібере аласыз.
+
+[Page.LiveTags]
+    label.article=Мақала түрі
+
+[Page.LoginPasswordRegister]
+    page-title=Кіру және тіркеу
+    tab.login=Кіру
+    tab.password=Парольді қалпына келтіру
+    tab.register=Тіркеу
+
+[Page.Preferences]
+    error.invalid-email=Жарамды электрондық пошта мекенжайын көрсетіңіз
+    form.email=Электрондық пошта мекенжайы
+    form.fullname=Дисплей атауы
+    form.fullname.help=Тек дисплей мақсаттары үшін
+    form.hint.password-characters=Парольде кемінде 3 таңбадан тұруы керек: кіші әріптер, бас әріптер, сандар немесе таңбалар.
+    form.hint.password-length=Құпия сөз ұзындығы кемінде 8 таңбадан тұруы керек
+    form.hint.password-match=Құпия сөздер сәйкес келуі керек
+    form.hint.password.restricted-words=Құпия сөзде жалпы құпия сөздер болуы мүмкін емес
+    form.legend.information=Менің ақпаратым
+    form.legend.password=Менің құпия сөзім
+    form.password.new=Жаңа пароль
+    form.password.old=Ескі пароль
+    form.password.submit=Парольді өзгерту
+    form.password.verify=Жаңа құпия сөзді қайта теріңіз
+    form.submit=Менің ақпаратымды сақтау
+
+[Page.Tags]
+    message.notags=Бұл бетте тегтер жоқ.
+    page-title=Сайт тегтері
+    tags-inserted-from-template=Үлгі ұсынған Тегтер:
+    tags-inserted-heading=Бет тегтері:
+
+[Page.UserLogin]
+    error=Сіздің кіру сәтсіз аяқталды. Пайдаланушы аты мен құпия сөзді тексеріңіз.
+    page-title=Кіру
+    submit-login=Кіру
+    user-name=Пайдаланушы аты
+    user-password=Пароль
+
+[Page.UserLogout]
+    page-title=Кіру
+    success=Сіз сәтті қол қойдыңыз.
+
+[Page.UserPassword]
+    form.submit=Парольді қалпына келтіру
+    page-title=Парольді қалпына келтіру
+    success.email-sent=Құпия сөзді қалпына келтіру нұсқаулары осы тіркелгі үшін тіркелген электрондық пошта мекенжайына жіберілді. Егер сіз электрондық пошта алмасаңыз, емлені тексеріп, қайталап көріңіз. Егер сізде қол қойылған мәселелер болса, сайт әкімшісіне хабарласыңыз.
+
+[Page.UserRegistration]
+    error.email.match=Сіз енгізген электрондық хаттар сәйкес келмейді.
+    error.password.match=Сіз енгізген парольдер сәйкес келмейді.
+    form.email=Электрондық пошта
+    form.email.verify=Электрондық поштаны тексеру
+    form.fullname=Т.А.Ә. <span class="note">(міндетті емес)</span>
+    form.password=Пароль
+    form.password.verify=Парольді тексеру
+    form.submit=Тіркелгі жасау
+    form.username=Пайдаланушы аты
+    page-title=Тіркелгі жасау
+    success.created=Пайдаланушы <strong>$1</strong> құрылды.
+
+[Page.Welcome]
+    community-banner-text=Енді мазмұнды үлестіруге және бөлісуге болады.
+    community-banner-title=Қош келдіңіз, $1. Сіздің есептік жазбаңыз жасалды.
+    community-get-started-text=<strong>Жұмысқа кірісуге көмектесетін бірнеше кеңестер:</strong>
+    community-tip1-text=Сайт иелеріне сайттың мазмұны туралы құнды пікірлермен қамтамасыз етіңіз. Мақала пайдалы болды ма? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Иә</span>түймешігін басыңыз. Егер жоқ болса, біз қалай жақсарта алатынымызды айту үшін <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">кері байланыс қалдыру</span> түймешігін басыңыз. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Көбірек біліңіз</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Беттегі түсініктеме беру арқылы сөйлесуді бастаңыз. Өзіңіздің ақпаратыңызды немесе басқа пайдаланушының пікірлеріне жауап беріңіз. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Көбірек біліңіз</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Парольді қалпына келтіру
+
+[Product]
+    powered-by-site=MindTouch қуат
+
+[Skin.Columbia]
+    button.quick-login=Кіру
+    header.recommended-articles=Ұсынылған мақалалар
+    header.toc=Мазмұндар кестесі
+    label.back-to-top=Артқа жоғарғы
+    label.global-location-toggle=Жаһандық орынды кеңейту/ыдырау
+    label.global-navigation-toggle=Жаһандық иерархияны кеңейту/тасалау
+    label.last-updated=Соңғы жаңартылған
+    label.last-updated-by=бойынша
+    label.no-recommended-articles=Ұсынылған мақалалар жоқ.
+    label.password=Пароль
+    label.pdf-export=PDF ретінде сақтау
+    label.signout=Кіру
+    label.site-search.button=Іздеу
+    label.site-search.input=Іздеу
+    label.skip-link=Негізгі мазмұнға жіберіңіз
+    label.tags=Тегтер
+    label.user-preferences=Менің қалауым
+    label.username=Пайдаланушы аты
+    link.quick-login=Кіру
+    link.site-search=Сайт бойынша іздеу
+    placeholder.site-search.input=Сізге қалай көмектесе аламыз?
+    tooltip.back-to-top=Осы мақаланың жоғарғы жағына қайта өту
+    tooltip.browse-back=Алдыңғы мақалаға оралу
+    tooltip.pdf-export=PDF ретінде экспорттау беті
+    tooltip.signout=Осы сайттан шығу үшін басыңыз
+    tooltip.skip-link=Баспасөз негізгі мазмұнға өткізіп жіберу үшін енгізіңіз
+    tooltip.user-preferences=Пайдаланушы теңшелімдерін өзгерту үшін басыңыз
+
+[Skin.Common]
+    copyright=Авторлық құқық
+    home=үй
+
+[System.API]
+    no-headers=Тақырыптар жоқ
+    opensearch-shortname=$1 Іздеу
+
+[Users]
+    email.body.html.content=<p>Құттықтаймыз, <br/><br/>\ R\ N\ R\ nСіз қазір $4 шот бар. <br/><br/>Бірден басқа қауымдастық мүшелерімен ынтымақтастықты бастау үшін кірңіз. Төменде сіздің сайт қол егжей болып табылады:<br/><br/>\ R\ N\ R\ nSite URL: <a href="$2">$2</a><br/>\ R\ nПайдаланушы аты: $1<br/>Құпия сөз: $3<br/><br/>\ R\ N\ R\ nЕгер сіз бастау көмек қажет немесе <a href="$2">$4</a>туралы нақты сұрақтар болса, сайт әкімшісіне хабарласыңыз. </p>
+    email.body.html.content.nopassword=<p>Құттықтаймыз, <br/><br/>\ R\ N\ R\ nСіз қазір $3 шот бар. <br/><br/>Бірден басқа қауымдастық мүшелерімен ынтымақтастықты бастау үшін кірңіз. Төменде сіздің сайтқа кіру туралы мәліметтер болып табылады:<br/><br/>\ R\ N\ R\ nСайт URL: <a href="$2">$2</a><br/>\ R\ nПайдаланушы аты: $1<em>Егер сіз құпия сөзді білмесеңіз, сайт әкімшісіне<br/><br/>хабарласыңыз. </em><br/><br/>\ R\ N\ R\ nЕгер сіз бастау көмек қажет немесе <a href="$2">$3</a>туралы нақты сұрақтар болса, сайт әкімшісіне хабарласыңыз. </p>
+    email.body.text=\ R\ nҚұттықтаймыз,\ R\ N\ R\ nСіз қазір $4 шот бар. Бірден басқа қауымдастық мүшелерімен ынтымақтастықты бастау үшін кірңіз. Төменде сіздің сайт қатынау туралы мәліметтер болып табылады:\ R\ N\ R\ nSite URL: $2\ R\ nПайдаланушы аты: $1\ R\ nPassword: $3\ R\ N\ R\ nЕгер сіз бастау көмек қажет немесе $4 туралы нақты сұрақтар болса, сайт әкімшісіне хабарласыңыз.
+    email.body.text.nopassword=\ R\ nҚұттықтаймыз,\ R\ N\ R\ nСіз қазір $3 шот бар. Бірден басқа қауымдастық мүшелерімен ынтымақтастықты бастау үшін кірңіз. Төменде сіздің сайтқа кіру туралы мәліметтер болып табылады:\ R\ N\ R\ nСайт URL: $2\ R\ nПайдаланушы аты: $1\ R\ nЕгер сіз құпия сөзді білмесеңіз, сайт әкімшісіне хабарласыңыз. \ R\ N\ R\ nЕгер сіз бастау көмек қажет немесе $3 туралы нақты сұрақтар болса, сайт әкімшісіне хабарласыңыз.
+    email.external.body.html.content=<p>Құттықтаймыз, <br/><br/>\ R\ N\ R\ nСіз қазір $3 шот бар. <br/><br/>Бірден басқа қауымдастық мүшелерімен ынтымақтастықты бастау үшін кірңіз. Төменде сіздің сайт кіру туралы мәліметтер болып табылады:<br/><br/>\ R\ N\ R\ nSite URL: <a href="$2">$2</a><br/>\ R\ nПайдаланушы аты: $1<br/><br/>\ R\ N\ R\ nСіз бастау көмек қажет немесе <a href="$2">$3</a>туралы нақты сұрақтар болса, сайт әкімшісіне хабарласыңыз. </p>
+    email.subject=$1 Мәліметтерге кіріңіз
+    form.password.instructions=Құпия сөздер ұзындығы 8 таңбадан кем болмауы керек және келесі таңбалардың кемінде 3 болуы керек: кіші әріптер, бас әріптер, сандар немесе таңбалар.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Сұралған MindTouch сенсорлық нүктесін веб-шолғышыңыз жүктей алмады.
+    label.back-to-top=Артқа жоғарғы
+
+[WebWidget.F1]
+    label.help-button=Көмектесіңдер
+    title.help-button=Көмектесіңдер
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch үшін {{пайдаланушы аты}} ретінде қол қойылды
+    label.sign-in=Кіру MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Түйіндеме тасалау үшін басыңыз
+    label.disabled-message=Кейінірек қайталап көріңіз.
+    label.disabled-title=Кешіріңіз, іздеу қазіргі уақытта қол жетімді емес.
+    label.expand-summary=Түйіндеме кеңейту үшін басыңыз
+    label.forbidden-message=Кіріңіз немесе сайт әкімшісіне хабарласыңыз.
+    label.forbidden-title=Бұл мүмкіндікті пайдалануға рұқсатыңыз жоқ.
+    label.input-hint=Іздеу
+    label.no-results-faceting-message=Басқа нәрсені іздеп көріңіз немесе санатты таңдаңыз.
+    label.no-results-message=Тағы бір нәрсе іздеп көріңіз.
+    label.no-results-title=Кешіріңіз, біз сіз іздеген нәрсені таба алмаймыз.
+    label.recommended=Ұсынылған
+    label.refine-search=Іздеуді нақтылау
+    label.show-more=Көбірек көрсету
+
+[WebWidgets]
+    label.authenticated-user=Сәлеметсіз бе, {{пайдаланушы аты}}!
+    label.nav.back=Артқа
+    label.nav.forward=Алға
+    label.nav.home=үй
+
+[Component.Translate]
+    label.choose-language=Тілді таңдау
+    label.english=Ағылшын тілі
+    label.update-failed=Толық емес аударма
+    language.spanish=Эспанол
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Франсуа
+    language.portuguese=Португалия
+    language.dutch=Недерландия
+    language.korean=한국어
+    language.swedish=Свенска
+    language.danish=данск
+    language.finnish=Суомалаин
+    language.italian=Итальяно
+    title.translated-machine=Машиналық аударма арқылы аударылған бет мазмұны
+    dialog.translated-mindtouch=MindTouch аударған
