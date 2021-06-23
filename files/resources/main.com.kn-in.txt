@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=ಹುಡುಕು
+    New.word=ಮತ್ತೆ ಹೊಸ ಪದ
+    extra=ಲಿಂಬೊ ಅಪ್ಡೇಟ್ನಲ್ಲಿ ಪರೀಕ್ಷೆ
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=ಹಿಂದೆ
+    dialog.text.forward=ಫಾರ್ವರ್ಡ್
+    dialog.text.hint=ಹುಡುಕಿ
+    dialog.text.home=ಮನೆ
+    dialog.text.open=ಓಪನ್ ಲೇಖನ
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=ಫಿಲ್ಟರ್ ಅನ್ನು ಆಯ್ಕೆ ಮಾಡುವ ಮೂಲಕ ಫಲಿತಾಂಶಗಳನ್ನು ಸಂಸ್ಕರಿಸಿ.
+    help-header-label=ಇದಕ್ಕಾಗಿ ಸಹಾಯ ಫಲಿತಾಂಶಗಳು
+    in=ಒಳಗೆ
+    label-filter=ಹುಡುಕಲಾಗುತ್ತಿದೆ
+    label-result-count=ಬಗ್ಗೆ {0} ಫಲಿತಾಂಶಗಳು
+    label-search-all=ಎಲ್ಲಾ ಫಲಿತಾಂಶಗಳು
+    label.page-rating-no=ಇಲ್ಲ
+    label.page-rating-yes=ಹೌದು
+    more=ಇನ್ನಷ್ಟು
+    no-search-results=ಕ್ಷಮಿಸಿ, ನೀವು ಹುಡುಕುತ್ತಿರುವುದನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಲಾಗುವುದಿಲ್ಲ.
+    no-search-try=ಬೇರೆ ಯಾವುದನ್ನಾದರೂ ಹುಡುಕಲು ಪ್ರಯತ್ನಿಸಿ, ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ, ಅಥವಾ ಟಿಕೆಟ್ ರಚಿಸಲು ಪ್ರಯತ್ನಿಸಿ.
+    recommended=(ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ)
+    search-error=ಹುಡುಕಾಟವು ದೋಷವನ್ನು ಎದುರಿಸಿದೆ.
+    search-error-try=ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+    search-unavailable=ಕ್ಷಮಿಸಿ, ಹುಡುಕು ಪ್ರಸ್ತುತ ಲಭ್ಯವಿಲ್ಲ.
+    show-more-search=ಹೆಚ್ಚಿನ ಫಲಿತಾಂಶಗಳನ್ನು ತೋರಿಸು
+    tooltip.scrollNext=ಮುಂದಿನ ಸ್ಕ್ರಾಲ್
+    tooltip.scrollPrev=ಹಿಂದಿನದಕ್ಕೆ ಸ್ಕ್ರಾಲ್ ಮಾಡಿ
+    warning.search-only-english=ಹುಡುಕು ಇಂಗ್ಲಿಷ್ನಲ್ಲಿ ಮಾತ್ರ ಲಭ್ಯವಿದೆ
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(ರಚಿಸಲಾದ ದಿನಾಂಕ)
+    featured.articles.created.title=ಇತ್ತೀಚೆಗೆ ಸೇರಿಸಲಾಗಿದೆ
+    featured.articles.rated.label=(ರೇಟಿಂಗ್)
+    featured.articles.rated.title=ಹೈಯೆಸ್ಟ್ ರೇಟ್
+    featured.articles.updated.label=(ದಿನಾಂಕ ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ)
+    featured.articles.updated.title=ಇತ್ತೀಚೆಗೆ ನವೀಕರಿಸಲಾಗಿದೆ
+    featured.articles.viewed.label=(ವೀಕ್ಷಣೆಗಳು)
+    featured.articles.viewed.title=ಹೆಚ್ಚು ಜನಪ್ರಿಯ
+    label.guide-subpage-display-single=ಏಕ
+    label.guide-subpage-display-tabbed=ಟಾಬ್ಡ್
+    label.guide.tabscrollleft=ಸ್ಕ್ರಾಲ್ ಟ್ಯಾಬ್ಗಳು ಎಡ
+    label.guide.tabscrollright=ಬಲ ಸ್ಕ್ರಾಲ್ ಟ್ಯಾಬ್ಗಳು
+    label.reveal.showAll=ಎಲ್ಲಾ ತೋರಿಸಿ
+    label.reveal.showLess=ಕಡಿಮೆ ತೋರಿಸಿ
+    label.search.placeholder=ಹುಡುಕು
+    type.how-to=ಹೇಗೆ
+    type.howto=ಹೇಗೆ
+    type.reference=ಉಲ್ಲೇಖ
+    type.topic=ವಿಷಯ
+    type.topic-category=ವರ್ಗ
+    type.topic-guide=ಗೈಡ್
+    type.topic-portfolio=ಬಂಡವಾಳ
+    type.unclassified=ವರ್ಗೀಕರಿಸದ
+
+[MindTouch.LearningPath]
+    label.view-pages=ಪುಟಗಳು ವೀಕ್ಷಿಸಿ
+    message.page-count=<span>ಪುಟಗಳು:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=ಮರೆಮಾಡಿ
+    button.toggle.show=ತೋರಿಸು
+    label.attachments=ಲಗತ್ತುಗಳನ್ನು ಸೇರಿಸಿ
+    label.attachments-description=ವಿಷಯ ವಿಧ
+    label.attachments.type.binary=ಇತರೆ
+    label.attachments.type.document=ಡಾಕ್ಯುಮೆಂಟ್
+    label.attachments.type.image=ಚಿತ್ರ
+    label.classification=ವರ್ಗೀಕರಣ
+    label.clear-all=ಎಲ್ಲಾ ಫಿಲ್ಟರ್ಗಳನ್ನು ತೆರವುಗೊಳಿಸಿ
+    label.description=ಫಿಲ್ಟರ್ ಫಲಿತಾಂಶಗಳು
+    label.filters=ಶೋಧಕಗಳು
+    label.location=ಸ್ಥಳ
+    label.location-empty=ಮೂಲಕ ಫಿಲ್ಟರ್ ಮಾಡಲು ಯಾವುದೇ ಸ್ಥಳಗಳಿಲ್ಲ
+
+[MindTouch.Subscriptions]
+    cancel=ರದ್ದುಮಾಡು
+    caption.normal=ನೀವು ಈ ಕೆಳಗಿನ ಪುಟಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿದ್ದೀರಿ.
+    caption.nosubscriptions=ನೀವು ಯಾವುದೇ ಪುಟಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿಲ್ಲ.
+    column.page=ಪುಟ
+    column.recursive=ಇಮೇಲ್ ಅಧಿಸೂಚನೆಗಳನ್ನು
+    link-title=MindTouch ನಲ್ಲಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಬಗ್ಗೆ ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+    nonrecursive=ಈ ಪುಟ ಮಾತ್ರ
+    nonrecursive.draft=ಈ ಕರಡು ಮಾತ್ರ
+    recursive.many=$1 ಪುಟಗಳು
+    recursive.many.draft=$1 ಕರಡುಗಳು
+    recursive.many.overflow=ಎಲ್ಲಾ ಉಪಪುಟಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿ
+    recursive.many.overflow.draft=ಎಲ್ಲಾ ಉಪಪುಟ ಡ್ರಾಫ್ಟ್ಗಳಿಗೆ ಚಂದಾದಾರರಾಗಿದ್ದಾರೆ
+    recursive.one=1 ಪುಟ
+    recursive.one.draft=1 ಡ್ರಾಫ್ಟ್
+    unsubscribe=ಅನ್ಸಬ್ಸ್ಕ್ರೈಬ್
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=ಸಂದೇಶವನ್ನು ಮುಚ್ಚಿ
+
+[Page.AuthenticationProviders]
+    page-title=ಸೈನ್ ಇನ್ ಮಾಡಿ
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">ಎಲ್ಲಾ ಸಹಾಯ ವಿಷಯಗಳಿಗಾಗಿ Success.mindtouch.com ಗೆ ಭೇಟಿ ನೀಡಿ. </a>
+
+[Page.Error]
+    not-found=ಪುಟ ಕಂಡುಬಂದಿಲ್ಲ
+    not-found-error=ಕ್ಷಮಿಸಿ, $1 ನಲ್ಲಿರುವ ಪುಟವನ್ನು ಕಂಡುಹಿಡಿಯಲಾಗಲಿಲ್ಲ.
+    not-found-results=ಸಂಬಂಧಿತ ಹುಡುಕಾಟ ಫಲಿತಾಂಶಗಳು:
+    page-title=ದೋಷ
+
+[Page.FeedbackRating]
+    button.leave-feedback=ಪ್ರತಿಕ್ರಿಯೆ ಬಿಡಿ
+    button.rating-no=ಇಲ್ಲ
+    button.rating-yes=ಹೌದು
+    button.submit-feedback=ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ
+    label.checkbox.contact-me=ಹೌದು, ಈ ಪ್ರತಿಕ್ರಿಯೆಯ ಬಗ್ಗೆ ನೀವು ನನ್ನನ್ನು ಸಂಪರ್ಕಿಸಬಹುದು.
+    label.feedback-question=ಈ ಲೇಖನವನ್ನು ನಾವು ಹೇಗೆ ಸುಧಾರಿಸಬಹುದು?
+    label.last-rated=— ನೀವು ಕೊನೆಯ ಈ ಲೇಖನ ರೇಟ್ $1
+    label.rating-message=ಈ ಲೇಖನ ಸಹಾಯಕವಾಗಿದೆಯೆ?
+    legend.feedback-form=ಪ್ರತಿಕ್ರಿಯೆ ಬಿಡಿ
+    message.contact.no=ಇಲ್ಲ
+    message.contact.yes=ಹೌದು
+    message.submit.error=ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕಳುಹಿಸಲು ಪ್ರಯತ್ನಿಸುವಾಗ ದೋಷ ಸಂಭವಿಸಿದೆ. ದಯವಿಟ್ಟು ನಂತರದ ಸಮಯದಲ್ಲಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+    message.submit.success=ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಸಲ್ಲಿಸಲಾಗಿದೆ. ನೀವು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ಹೆಚ್ಚಿನ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಸಲ್ಲಿಸಬಹುದು.
+
+[Page.LiveTags]
+    label.article=ಲೇಖನ ರೀತಿಯ
+
+[Page.LoginPasswordRegister]
+    page-title=ಸೈನ್ ಇನ್ ಮತ್ತು ನೋಂದಣಿ
+    tab.login=ಸೈನ್ ಇನ್ ಮಾಡಿ
+    tab.password=ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ
+    tab.register=ನೋಂದಣಿ
+
+[Page.Preferences]
+    error.invalid-email=ದಯವಿಟ್ಟು ಮಾನ್ಯವಾದ ಇಮೇಲ್ ವಿಳಾಸವನ್ನು ಸೂಚಿಸಿ
+    form.email=ಇಮೇಲ್ ವಿಳಾಸ
+    form.fullname=ಪ್ರದರ್ಶನ ಹೆಸರು
+    form.fullname.help=ಪ್ರದರ್ಶನ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ
+    form.hint.password-characters=ಪಾಸ್ವರ್ಡ್ ಕೆಳಗಿನ ಅಕ್ಷರಗಳಲ್ಲಿ ಕನಿಷ್ಠ 3 ಅನ್ನು ಹೊಂದಿರಬೇಕು: ಲೋವರ್ಕೇಸ್, ದೊಡ್ಡಕ್ಷರ, ಅಂಕೆಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳು.
+    form.hint.password-length=ಪಾಸ್ವರ್ಡ್ ಕನಿಷ್ಠ 8 ಅಕ್ಷರಗಳು ಉದ್ದವಾಗಿರಬೇಕು
+    form.hint.password-match=ಪಾಸ್ವರ್ಡ್ಗಳು ಹೊಂದಿಕೆಯಾಗಬೇಕು
+    form.hint.password.restricted-words=ಪಾಸ್ವರ್ಡ್ ಸಾಮಾನ್ಯ ಪಾಸ್ವರ್ಡ್ ಪದಗಳನ್ನು ಹೊಂದಿರುವುದಿಲ್ಲ
+    form.legend.information=ನನ್ನ ಮಾಹಿತಿ
+    form.legend.password=ನನ್ನ ಪಾಸ್ವರ್ಡ್
+    form.password.new=ಹೊಸ ಪಾಸ್ವರ್ಡ್
+    form.password.old=ಹಳೆಯ ಪಾಸ್ವರ್ಡ್
+    form.password.submit=ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಿ
+    form.password.verify=ಹೊಸ ಪಾಸ್ವರ್ಡ್ Retype
+    form.submit=ನನ್ನ ಮಾಹಿತಿಯನ್ನು ಉಳಿಸಿ
+
+[Page.Tags]
+    message.notags=ಈ ಪುಟಕ್ಕೆ ಯಾವುದೇ ಟ್ಯಾಗ್ಗಳಿಲ್ಲ.
+    page-title=ಸೈಟ್ ಟ್ಯಾಗ್ಗಳು
+    tags-inserted-from-template=ಟೆಂಪ್ಲೇಟ್ ಶಿಫಾರಸು ಮಾಡಿದ ಟ್ಯಾಗ್ಗಳು:
+    tags-inserted-heading=ಪುಟ ಟ್ಯಾಗ್ಗಳು:
+
+[Page.UserLogin]
+    error=ನಿಮ್ಮ ಸೈನ್ ಇನ್ ವಿಫಲವಾಗಿದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಪಾಸ್ವರ್ಡ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ.
+    page-title=ಸೈನ್ ಇನ್ ಮಾಡಿ
+    submit-login=ಸೈನ್ ಇನ್ ಮಾಡಿ
+    user-name=ಬಳಕೆದಾರಹೆಸರು
+    user-password=ಪಾಸ್ವರ್ಡ್
+
+[Page.UserLogout]
+    page-title=ಸೈನ್ ಔಟ್
+    success=ನೀವು ಯಶಸ್ವಿಯಾಗಿ ಸೈನ್ ಔಟ್ ಮಾಡಿದ್ದೀರಿ.
+
+[Page.UserPassword]
+    form.submit=ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ
+    page-title=ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ
+    success.email-sent=ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸುವ ಸೂಚನೆಗಳನ್ನು ಈ ಖಾತೆಗಾಗಿ ನೋಂದಾಯಿಸಲಾದ ಇ-ಮೇಲ್ ವಿಳಾಸಕ್ಕೆ ಕಳುಹಿಸಲಾಗಿದೆ. ನೀವು ಇಮೇಲ್ ಸ್ವೀಕರಿಸದಿದ್ದರೆ, ದಯವಿಟ್ಟು ನಿಮ್ಮ ಕಾಗುಣಿತವನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ. ನೀವು ಸೈನ್ ಇನ್ ಮಾಡುವ ಸಮಸ್ಯೆಗಳನ್ನು ಮುಂದುವರಿಸಿದರೆ ನಿಮ್ಮ ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+
+[Page.UserRegistration]
+    error.email.match=ನೀವು ನಮೂದಿಸಿದ ಇಮೇಲ್ಗಳು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.
+    error.password.match=ನೀವು ನಮೂದಿಸಿದ ಪಾಸ್ವರ್ಡ್ಗಳು ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ.
+    form.email=ಇಮೇಲ್
+    form.email.verify=ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ
+    form.fullname=ಪೂರ್ಣ ಹೆಸರು <span class="note">(ಐಚ್ಛಿಕ)</span>
+    form.password=ಪಾಸ್ವರ್ಡ್
+    form.password.verify=ಪಾಸ್ವರ್ಡ್ ಪರಿಶೀಲಿಸಿ
+    form.submit=ಖಾತೆಯನ್ನು ರಚಿಸಿ
+    form.username=ಬಳಕೆದಾರಹೆಸರು
+    page-title=ಖಾತೆಯನ್ನು ರಚಿಸಿ
+    success.created=ಬಳಕೆದಾರ <strong>$1</strong> ರಚಿಸಲಾಗಿದೆ.
+
+[Page.Welcome]
+    community-banner-text=ನೀವು ಈಗ ವಿಷಯವನ್ನು ಕೊಡುಗೆ ನೀಡಬಹುದು ಮತ್ತು ಹಂಚಿಕೊಳ್ಳಬಹುದು.
+    community-banner-title=ಸ್ವಾಗತ, $1. ನಿಮ್ಮ ಖಾತೆಯನ್ನು ರಚಿಸಲಾಗಿದೆ.
+    community-get-started-text=<strong>ಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ಕೆಲವು ಸಲಹೆಗಳು ಇಲ್ಲಿವೆ:</strong>
+    community-tip1-text=ಸೈಟ್ನ ವಿಷಯದ ಬಗ್ಗೆ ಮೌಲ್ಯಯುತ ಪ್ರತಿಕ್ರಿಯೆಯೊಂದಿಗೆ ಸೈಟ್ ಮಾಲೀಕರಿಗೆ ಒದಗಿಸಿ. ಲೇಖನವು ಸಹಾಯಕವಾಗಿದೆಯೆ? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">ಹೌದು</span>ಕ್ಲಿಕ್ ಮಾಡಿ. ಇಲ್ಲದಿದ್ದರೆ, ಕ್ಲಿಕ್ ಮಾಡಿ <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">ಪ್ರತಿಕ್ರಿಯೆ ಬಿಡಿ</span> ನಾವು ಹೇಗೆ ಸುಧಾರಿಸಬಹುದು ಎಂಬುದನ್ನು ನಮಗೆ ತಿಳಿಸಿ. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ಪುಟದಲ್ಲಿ ಕಾಮೆಂಟ್ ಮಾಡುವ ಮೂಲಕ ಸಂಭಾಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ. ನಿಮ್ಮ ಸ್ವಂತ ಮಾಹಿತಿಯನ್ನು ಕೊಡುಗೆ ಮಾಡಿ ಅಥವಾ ಇತರ ಬಳಕೆದಾರರ ಕಾಮೆಂಟ್ಗಳಿಗೆ ಪ್ರತ್ಯುತ್ತರ ನೀಡಿ. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=ಪಾಸ್ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ
+
+[Product]
+    powered-by-site=ಮೈಂಡ್ ಟಚ್ ನಡೆಸಲ್ಪಡುತ್ತಿದೆ
+
+[Skin.Columbia]
+    button.quick-login=ಸೈನ್ ಇನ್ ಮಾಡಿ
+    header.recommended-articles=ಶಿಫಾರಸು ಮಾಡಲಾದ ಲೇಖನಗಳು
+    header.toc=ವಿಷಯಗಳ ಪಟ್ಟಿ
+    label.back-to-top=ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗಿ
+    label.global-location-toggle=ಜಾಗತಿಕ ಸ್ಥಳವನ್ನು ವಿಸ್ತರಿಸಿ/ಕುಗ್ಗಿಸಿ
+    label.global-navigation-toggle=ವಿಸ್ತರಿಸಿ/ಜಾಗತಿಕ ಕ್ರಮಾನುಗತ ಕುಸಿತ
+    label.last-updated=ಕೊನೆಯದಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ
+    label.last-updated-by=ಇವರಿಂದ
+    label.no-recommended-articles=ಶಿಫಾರಸು ಮಾಡಲಾದ ಲೇಖನಗಳು ಇಲ್ಲ.
+    label.password=ಪಾಸ್ವರ್ಡ್
+    label.pdf-export=ಪಿಡಿಎಫ್ ಆಗಿ ಉಳಿಸಿ
+    label.signout=ಸೈನ್ ಔಟ್
+    label.site-search.button=ಹುಡುಕು
+    label.site-search.input=ಹುಡುಕು
+    label.skip-link=ಮುಖ್ಯ ವಿಷಯಕ್ಕೆ ತೆರಳಿ
+    label.tags=ಟ್ಯಾಗ್ಗಳು
+    label.user-preferences=ನನ್ನ ಆದ್ಯತೆಗಳು
+    label.username=ಬಳಕೆದಾರಹೆಸರು
+    link.quick-login=ಸೈನ್ ಇನ್ ಮಾಡಿ
+    link.site-search=ಸೈಟ್ ಹುಡುಕು
+    placeholder.site-search.input=ನಾವು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?
+    tooltip.back-to-top=ಈ ಲೇಖನದ ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗಿ
+    tooltip.browse-back=ಹಿಂದಿನ ಲೇಖನಕ್ಕೆ ಹಿಂತಿರುಗಿ
+    tooltip.pdf-export=ಪಿಡಿಎಫ್ ಆಗಿ ಪುಟವನ್ನು ರಫ್ತು ಮಾಡಿ
+    tooltip.signout=ಈ ಸೈಟ್ನಿಂದ ಸೈನ್ ಔಟ್ ಮಾಡಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+    tooltip.skip-link=ಮುಖ್ಯ ವಿಷಯಕ್ಕೆ ತೆರಳಿ ನಮೂದಿಸಿ ಒತ್ತಿರಿ
+    tooltip.user-preferences=ನಿಮ್ಮ ಬಳಕೆದಾರ ಆದ್ಯತೆಗಳನ್ನು ಬದಲಾಯಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+
+[Skin.Common]
+    copyright=ಕೃತಿಸ್ವಾಮ್ಯ
+    home=ಮನೆ
+
+[System.API]
+    no-headers=ಯಾವುದೇ ಹೆಡರ್
+    opensearch-shortname=$1 ಹುಡುಕು
+
+[Users]
+    email.body.html.content=<p>ಅಭಿನಂದನೆಗಳು, <br/><br/>\ r\ n\ r\ nನೀವು ಈಗ $4 ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. <br/><br/>ತಕ್ಷಣ ಇತರ ಸಮುದಾಯ ಸದಸ್ಯರೊಂದಿಗೆ ಸಹಯೋಗ ಆರಂಭಿಸಲು ಸೈನ್ ಇನ್. ನಿಮ್ಮ ಸೈಟ್ ಪ್ರವೇಶ ವಿವರಗಳು ಕೆಳಗಿವೆ:<br/><br/>\ r\ n\ r\ nಸೈಟ್ URL: <a href="$2">$2</a><br/>\ r\ nUser ಹೆಸರು: $1<br/>ಪಾಸ್ವರ್ಡ್: $3<br/><br/>\ r\ n\ r\ r\ nಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ <a href="$2">$4</a>ಬಗ್ಗೆ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. </p>
+    email.body.html.content.nopassword=<p>ಅಭಿನಂದನೆಗಳು, <br/><br/>\ r\ n\ r\ nನೀವು ಈಗ $3 ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. <br/><br/>ತಕ್ಷಣ ಇತರ ಸಮುದಾಯ ಸದಸ್ಯರೊಂದಿಗೆ ಸಹಯೋಗ ಆರಂಭಿಸಲು ಸೈನ್ ಇನ್. ನಿಮ್ಮ ಸೈಟ್ ಪ್ರವೇಶ ವಿವರಗಳು ಕೆಳಗಿವೆ:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser ಹೆಸರು: $1<em>ನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ನಿಮಗೆ ತಿಳಿದಿಲ್ಲದಿದ್ದರೆ ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು<br/><br/>ಸಂಪರ್ಕಿಸಿ. </em><br/><br/>\ r\ n\ r\ nಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ <a href="$2">$3</a>ಬಗ್ಗೆ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. </p>
+    email.body.text=\ r\ nಅಭಿನಂದನೆಗಳು,\ r\ n\ r\ nನೀವು ಈಗ $4 ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ತಕ್ಷಣ ಇತರ ಸಮುದಾಯ ಸದಸ್ಯರೊಂದಿಗೆ ಸಹಯೋಗ ಆರಂಭಿಸಲು ಸೈನ್ ಇನ್. ನಿಮ್ಮ ಸೈಟ್ ಪ್ರವೇಶ ವಿವರಗಳು ಕೆಳಗಿವೆ:\ r\ n\ r\ nಸೈಟ್ URL: $2\ r\ nUser ಹೆಸರು: $1\ r\ nPassword: $3\ r\ n\ r\ nಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ $4 ಬಗ್ಗೆ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+    email.body.text.nopassword=\ r\ nಅಭಿನಂದನೆಗಳು,\ r\ n\ r\ nನೀವು ಈಗ $3 ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ತಕ್ಷಣ ಇತರ ಸಮುದಾಯ ಸದಸ್ಯರೊಂದಿಗೆ ಸಹಯೋಗ ಆರಂಭಿಸಲು ಸೈನ್ ಇನ್. ನಿಮ್ಮ ಸೈಟ್ ಪ್ರವೇಶ ವಿವರಗಳು ಕೆಳಗಿವೆ:\ r\ n\ r\ nSite URL: $2\ r\ nUser ಹೆಸರು: $1\ r\ nನಿಮ್ಮ ಪಾಸ್ವರ್ಡ್ ನಿಮಗೆ ತಿಳಿದಿಲ್ಲದಿದ್ದರೆ ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. \ r\ n\ r\ nಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ $3 ಬಗ್ಗೆ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+    email.external.body.html.content=<p>ಅಭಿನಂದನೆಗಳು, <br/><br/>\ r\ n\ r\ nನೀವು ಈಗ $3 ನಲ್ಲಿ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. <br/><br/>ತಕ್ಷಣ ಇತರ ಸಮುದಾಯ ಸದಸ್ಯರೊಂದಿಗೆ ಸಹಯೋಗ ಆರಂಭಿಸಲು ಸೈನ್ ಇನ್. ನಿಮ್ಮ ಸೈಟ್ ಪ್ರವೇಶ ವಿವರಗಳು ಕೆಳಗಿವೆ:<br/><br/>\ r\ n\ r\ nಸೈಟ್ URL: <a href="$2">$2</a><br/>\ r\ nUser ಹೆಸರು: $1<br/><br/>\ r\ n\ r\ nಪ್ರಾರಂಭಿಸಲು ನಿಮಗೆ ಸಹಾಯ ಬೇಕಾದರೆ ಅಥವಾ <a href="$2">$3</a>ಬಗ್ಗೆ ನಿರ್ದಿಷ್ಟ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದರೆ, ದಯವಿಟ್ಟು ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ. </p>
+    email.subject=$1 ಸೈನ್ ಇನ್ ವಿವರಗಳು
+    form.password.instructions=ಪಾಸ್ವರ್ಡ್ಗಳು ಕನಿಷ್ಠ 8 ಅಕ್ಷರಗಳ ಉದ್ದವಾಗಿರಬೇಕು ಮತ್ತು ಕೆಳಗಿನ ಅಕ್ಷರಗಳಲ್ಲಿ ಕನಿಷ್ಠ 3 ಅನ್ನು ಹೊಂದಿರಬೇಕು: ಲೋವರ್ಕೇಸ್, ದೊಡ್ಡಕ್ಷರ, ಅಂಕೆಗಳು ಅಥವಾ ಚಿಹ್ನೆಗಳು.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=ವಿನಂತಿಸಿದ ಮೈಂಡ್ಟಚ್ ಟಚ್ಪಾಯಿಂಟ್ ಅನ್ನು ನಿಮ್ಮ ವೆಬ್ ಬ್ರೌಸರ್ನಿಂದ ಲೋಡ್ ಮಾಡಲಾಗಲಿಲ್ಲ.
+    label.back-to-top=ಮೇಲಕ್ಕೆ ಹಿಂತಿರುಗಿ
+
+[WebWidget.F1]
+    label.help-button=ಸಹಾಯ
+    title.help-button=ಸಹಾಯ
+
+[WebWidget.Login]
+    label.authenticated-user={{ಬಳಕೆದಾರಹೆಸರು}} ಎಂದು ಮೈಂಡ್ ಟಚ್ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಿದೆ
+    label.sign-in=ಮೈಂಡ್ ಟಚ್ಗೆ ಸೈನ್ ಇನ್ ಮಾಡಿ
+
+[WebWidget.Search]
+    label.collapse-summary=ಸಾರಾಂಶ ಕುಸಿಯಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+    label.disabled-message=ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.
+    label.disabled-title=ಕ್ಷಮಿಸಿ, ಹುಡುಕು ಪ್ರಸ್ತುತ ಲಭ್ಯವಿಲ್ಲ.
+    label.expand-summary=ಸಾರಾಂಶವನ್ನು ವಿಸ್ತರಿಸಲು ಕ್ಲಿಕ್ ಮಾಡಿ
+    label.forbidden-message=ದಯವಿಟ್ಟು ಲಾಗ್ ಇನ್ ಮಾಡಿ, ಅಥವಾ ನಿಮ್ಮ ಸೈಟ್ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.
+    label.forbidden-title=ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ನಿಮಗೆ ಅನುಮತಿ ಇಲ್ಲ.
+    label.input-hint=ಹುಡುಕು
+    label.no-results-faceting-message=ಬೇರೆ ಯಾವುದನ್ನಾದರೂ ಹುಡುಕಲು ಅಥವಾ ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ.
+    label.no-results-message=ಬೇರೆ ಯಾವುದನ್ನಾದರೂ ಹುಡುಕಲು ಪ್ರಯತ್ನಿಸಿ.
+    label.no-results-title=ಕ್ಷಮಿಸಿ, ನೀವು ಹುಡುಕುತ್ತಿರುವುದನ್ನು ನಾವು ಕಂಡುಹಿಡಿಯಲಾಗುವುದಿಲ್ಲ.
+    label.recommended=ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ
+    label.refine-search=ಹುಡುಕು ಸಂಸ್ಕರಿಸಿ
+    label.show-more=ಹೆಚ್ಚು ತೋರಿಸು
+
+[WebWidgets]
+    label.authenticated-user=ಹಲೋ, {{ಬಳಕೆದಾರಹೆಸರು}!
+    label.nav.back=ಹಿಂದೆ
+    label.nav.forward=ಫಾರ್ವರ್ಡ್
+    label.nav.home=ಮನೆ
+
+[Component.Translate]
+    label.choose-language=ಭಾಷೆಯನ್ನು ಆರಿಸಿ
+    label.english=ಆಂಗ್ಲ
+    label.update-failed=ಅನುವಾದ ಅಪೂರ್ಣ
+    language.spanish=ಸ್ಪ್ಯಾನಿಷ್
+    language.german=ಡಾಯ್ಚ್
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=ಫ್ರಾಂಕಾಯಿಸ್
+    language.portuguese=ಪೋರ್ಚುಗೀಸ್
+    language.dutch=ನೆದರ್ಲ್ಯಾಂಡ್ಸ್
+    language.korean=한국어
+    language.swedish=ಸ್ವೆಟರ್
+    language.danish=ಡ್ಯಾನ್ಸ್ಕ್
+    language.finnish=ಸುಮಲೊಮೈನ್
+    language.italian=ಇಟಾಲಿಯನ್
+    title.translated-machine=ಯಂತ್ರ ಅನುವಾದವನ್ನು ಬಳಸಿಕೊಂಡು ಅನುವಾದಿಸಲಾದ ಪುಟ ವಿಷಯ
+    dialog.translated-mindtouch=ಮೈಂಡ್ ಟಚ್ ಮೂಲಕ ಅನುವಾದಿಸಲಾಗಿದೆ
