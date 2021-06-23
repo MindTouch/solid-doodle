@@ -1,7 +1,7 @@
 [Dialog.CopyMove]
     placeholder.search=Search
     New.word=new Word again
-    extra=Old word
+    extra=Testing in limbo update
 
 [F1]
     dialog.text.back=Back
