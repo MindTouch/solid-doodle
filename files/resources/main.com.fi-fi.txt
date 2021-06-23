@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Haku
+    New.word=uusi Word uudelleen
+    extra=Testaus limbo-päivityksessä
+
+[F1]
+    dialog.text.back=Takaisin
+    dialog.text.forward=eteenpäin
+    dialog.text.hint=haku
+    dialog.text.home=Koti
+    dialog.text.open=Avaa artikkeli
+
+[MindTouch.Help.Page]
+    category-selector=Tarkenna tuloksia valitsemalla suodatin.
+    help-header-label=Ohjeen tulokset
+    in=sisään
+    label-filter=Etsiminen
+    label-result-count=Tietoja {0} tuloksista
+    label-search-all=Kaikki tulokset
+    label.page-rating-no=Ei
+    label.page-rating-yes=Joo
+    more=Lisää
+    no-search-results=Emme löydä etsimääsi.
+    no-search-try=Yritä etsiä jotain muuta, valita luokka tai yritä luoda lippu.
+    recommended=(Suositeltava)
+    search-error=Haku on kohdannut virheen.
+    search-error-try=Yritä myöhemmin uudelleen.
+    search-unavailable=Valitettavasti haku ei ole tällä hetkellä käytettävissä.
+    show-more-search=Näytä lisää tuloksia
+    tooltip.scrollNext=Vieritä seuraavaan kohtaan
+    tooltip.scrollPrev=Vieritä edelliseen
+    warning.search-only-english=Haku on saatavilla vain englanniksi
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(luotu päivämäärä)
+    featured.articles.created.title=Äskettäin lisätty
+    featured.articles.rated.label=(luokitus)
+    featured.articles.rated.title=Suurin mitoitettu
+    featured.articles.updated.label=(päivitetty päivämäärä)
+    featured.articles.updated.title=Äskettäin päivitetty
+    featured.articles.viewed.label=(näkymät)
+    featured.articles.viewed.title=Suosituimmat
+    label.guide-subpage-display-single=Yhden hengen
+    label.guide-subpage-display-tabbed=Välilehdellä
+    label.guide.tabscrollleft=Vieritä välilehtiä vasemmalle
+    label.guide.tabscrollright=Vieritä välilehtiä oikealle
+    label.reveal.showAll=Näytä kaikki
+    label.reveal.showLess=Näytä vähemmän
+    label.search.placeholder=Haku
+    type.how-to=Miten
+    type.howto=Miten
+    type.reference=Viite
+    type.topic=Puheenaihe
+    type.topic-category=Luokka
+    type.topic-guide=Opas
+    type.topic-portfolio=Salkku
+    type.unclassified=Luokittelematon
+
+[MindTouch.LearningPath]
+    label.view-pages=Näytä sivuja
+    message.page-count=<span>Sivumäärä:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=piilota
+    button.toggle.show=Näytä
+    label.attachments=Sisällytä liitteet
+    label.attachments-description=Sisällön tyyppi
+    label.attachments.type.binary=Muut
+    label.attachments.type.document=dokumentti
+    label.attachments.type.image=Kuva
+    label.classification=Luokittelu
+    label.clear-all=Poista kaikki suodattimet
+    label.description=Suodata tulokset
+    label.filters=suodattimet
+    label.location=Sijainti
+    label.location-empty=Suodattavia sijainteja ei ole
+
+[MindTouch.Subscriptions]
+    cancel=Peruuta
+    caption.normal=Olet tilannut seuraavat sivut.
+    caption.nosubscriptions=Et ole tilannut mitään sivuja.
+    column.page=Sivu
+    column.recursive=Sähköposti-ilmoitukset
+    link-title=Lue lisää ilmoitusten hallinnasta MindTouchissa
+    nonrecursive=Vain tämä sivu
+    nonrecursive.draft=Vain tämä luonnos
+    recursive.many=$1 sivua
+    recursive.many.draft=$1 luonnokset
+    recursive.many.overflow=Tilannut kaikki alasivut
+    recursive.many.overflow.draft=Tilannut kaikki alasivun luonnokset
+    recursive.one=1 sivu
+    recursive.one.draft=1 luonnos
+    unsubscribe=Peruuta tilaus
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Sulje viesti
+
+[Page.AuthenticationProviders]
+    page-title=Kirjaudu sisään
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Käy success.mindtouch.com kaikista ohjeaiheista. </a>
+
+[Page.Error]
+    not-found=Sivua ei löytynyt
+    not-found-error=Valitettavasti sivua $1 ei löytynyt.
+    not-found-results=Liittyvät hakutulokset:
+    page-title=Virhe
+
+[Page.FeedbackRating]
+    button.leave-feedback=Jätä palaute
+    button.rating-no=Ei
+    button.rating-yes=Joo
+    button.submit-feedback=Lähetä palautetta
+    label.checkbox.contact-me=Kyllä, voit ottaa minuun yhteyttä tästä palautteesta.
+    label.feedback-question=Miten voimme parantaa tätä artikkelia?
+    label.last-rated=— Olet viimeksi arvostellut tämän artikkelin $1
+    label.rating-message=Oliko tästä artikkelista apua?
+    legend.feedback-form=Jätä palaute
+    message.contact.no=Ei
+    message.contact.yes=Joo
+    message.submit.error=Virhe yritettäessä lähettää palautetta. Yritä myöhemmin uudelleen.
+    message.submit.success=Palautteesi on lähetetty onnistuneesti. Voit lähettää lisää palautetta milloin tahansa.
+
+[Page.LiveTags]
+    label.article=Artikkelin tyyppi
+
+[Page.LoginPasswordRegister]
+    page-title=Kirjaudu sisään ja rekisteröi
+    tab.login=Kirjaudu sisään
+    tab.password=Salasanan palauttaminen
+    tab.register=Rekisteröinti
+
+[Page.Preferences]
+    error.invalid-email=Määritä voimassa oleva sähköpostiosoite
+    form.email=Sähköpostiosoite
+    form.fullname=Näytön nimi
+    form.fullname.help=Vain näyttötarkoituksiin
+    form.hint.password-characters=Salasanassa on oltava vähintään kolme seuraavista merkeistä: pienet, isot, numerot tai symbolit.
+    form.hint.password-length=Salasanan pituuden on oltava vähintään 8 merkkiä
+    form.hint.password-match=Salasanojen on vastattava
+    form.hint.password.restricted-words=Salasana ei voi sisältää yleisiä salasanasanoja
+    form.legend.information=Omat tietoni
+    form.legend.password=Oma salasana
+    form.password.new=Uusi salasana
+    form.password.old=Vanha salasana
+    form.password.submit=Vaihda salasana
+    form.password.verify=Kirjoita uusi salasana uudelleen
+    form.submit=Tallenna tietoni
+
+[Page.Tags]
+    message.notags=Tällä sivulla ei ole tunnisteita.
+    page-title=Sivuston tunnisteita
+    tags-inserted-from-template=Mallin suosittelemia tunnisteita:
+    tags-inserted-heading=Sivun tunnisteita:
+
+[Page.UserLogin]
+    error=Sisääkirjautumisesi on epäonnistunut. Tarkista käyttäjänimesi ja salasanasi.
+    page-title=Kirjaudu sisään
+    submit-login=Kirjaudu sisään
+    user-name=käyttäjätunnus
+    user-password=salasana
+
+[Page.UserLogout]
+    page-title=Kirjaudu ulos
+    success=Olet onnistuneesti kirjautunut ulos.
+
+[Page.UserPassword]
+    form.submit=Salasanan palauttaminen
+    page-title=Salasanan palauttaminen
+    success.email-sent=Salasanan palautusohjeet on lähetetty tälle tilille rekisteröityyn sähköpostiosoitteeseen. Jos et saa sähköpostia, tarkista oikeinkirjoitus ja yritä uudelleen. Ota yhteyttä sivuston järjestelmänvalvojaan, jos sinulla on edelleen ongelmia kirjautumisessa.
+
+[Page.UserRegistration]
+    error.email.match=Antamasi sähköpostiviestit eivät täsmää.
+    error.password.match=Antamasi salasanat eivät täsmää.
+    form.email=Sähköposti
+    form.email.verify=Vahvista sähköposti
+    form.fullname=Koko nimi <span class="note">(valinnainen)</span>
+    form.password=salasana
+    form.password.verify=Vahvista salasana
+    form.submit=Luo tili
+    form.username=käyttäjätunnus
+    page-title=Luo tili
+    success.created=Käyttäjä <strong>$1</strong> on luotu.
+
+[Page.Welcome]
+    community-banner-text=Voit nyt osallistua ja jakaa sisältöä.
+    community-banner-title=Tervetuloa, 1 dollari. Tilisi on luotu.
+    community-get-started-text=<strong>Seuraavassa on muutamia vinkkejä, joiden avulla pääset alkuun:</strong>
+    community-tip1-text=Tarjoa sivuston omistajille arvokasta palautetta sivuston sisällöstä. Oliko artikkelista apua? Valitse <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Yes</span>. Jos et, valitse <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Jätä palaute</span> kertoaksesi, miten voimme parantaa. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Lue lisää</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Aloita keskustelu kommentoimalla sivulla. Osallistu omia tietojasi tai vastaa muiden käyttäjien kommentteihin. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Lue lisää</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Salasanan palauttaminen
+
+[Product]
+    powered-by-site=Voimanlähteenä MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Kirjaudu sisään
+    header.recommended-articles=suositellut artikkelit
+    header.toc=Sisällysluettelo
+    label.back-to-top=Takaisin alkuun
+    label.global-location-toggle=Laajenna maailmanlaajuista sijaintia
+    label.global-navigation-toggle=Laajenna maailmanlaajuista hierarkiaa
+    label.last-updated=Viimeksi päivitetty
+    label.last-updated-by=mennessä
+    label.no-recommended-articles=Suositeltavia artikkeleita ei ole.
+    label.password=salasana
+    label.pdf-export=Tallenna PDF-muodossa
+    label.signout=Kirjaudu ulos
+    label.site-search.button=Haku
+    label.site-search.input=Haku
+    label.skip-link=Siirry pääsisältöön
+    label.tags=tunnisteita
+    label.user-preferences=Oma mieltymykset
+    label.username=käyttäjätunnus
+    link.quick-login=Kirjaudu sisään
+    link.site-search=Hae sivustoa
+    placeholder.site-search.input=Miten voimme auttaa sinua?
+    tooltip.back-to-top=Hyppää takaisin tämän artikkelin yläosaan
+    tooltip.browse-back=Palaa edelliseen artikkeliin
+    tooltip.pdf-export=Vie sivu PDF-tiedostona
+    tooltip.signout=Klikkaa, jos haluat kirjautua ulos tästä sivustosta
+    tooltip.skip-link=Siirry pääsisältöön painamalla Enter-näppäintä
+    tooltip.user-preferences=Napsauta muuttaaksesi käyttäjäasetuksiasi
+
+[Skin.Common]
+    copyright=Tekijänoikeus
+    home=Koti
+
+[System.API]
+    no-headers=Ei otsikoita
+    opensearch-shortname=$1 Haku
+
+[Users]
+    email.body.html.content=<p>Onnittelut, <br/><br/>\ r\ n\ r\ nSinulla on nyt tili $4. <br/><br/>Kirjaudu sisään ja aloita yhteistyö muiden yhteisön jäsenten kanssa välittömästi. Alla on sivustosi käyttötiedot:<br/><br/>\ r\ n\ r\ nSivuston URL-osoite: <a href="$2">$2</a><br/>\ r\ nKäyttäjänimi: $1<br/>Salasana: $3<br/><br/>\ r\ n\ r\ nJos tarvitset apua aloittamiseen tai sinulla on erityisiä kysymyksiä noin <a href="$2">4 dollaria</a>, ota yhteyttä sivuston ylläpitäjään. </p>
+    email.body.html.content.nopassword=<p>Onnittelut, <br/><br/>\ r\ n\ r\ nSinulla on nyt tili $3. <br/><br/>Kirjaudu sisään ja aloita yhteistyö muiden yhteisön jäsenten kanssa välittömästi. Alla on sivuston käyttöoikeustiedot:<br/><br/>\ r\ n\ r\ nSivuston URL-osoite: <a href="$2">$2</a><br/>\ r\ nKäyttäjänimi: $1<br/><br/><em>Ota yhteyttä sivuston ylläpitäjään, jos et tiedä salasanaasi. </em><br/><br/>\ r\ n\ r\ nJos tarvitset apua aloittamiseen tai sinulla on erityisiä kysymyksiä <a href="$2">$3</a>, ota yhteyttä sivuston ylläpitäjään. </p>
+    email.body.text=\ r\ nOnnittelut,\ r\ n\ r\ nSinulla on nyt tili $4. Kirjaudu sisään ja aloita yhteistyö muiden yhteisön jäsenten kanssa välittömästi. Alla on sivuston käyttöoikeustiedot:\ r\ n\ r\ nSivuston URL-osoite: $2\ r\ nKäyttäjänimi: $1\ r\ nSalasana: $3\ r\ n\ r\ nJos tarvitset apua aloittamiseen tai sinulla on erityisiä kysymyksiä $4, ota yhteyttä sivuston ylläpitäjään.
+    email.body.text.nopassword=\ r\ nOnnittelut,\ r\ n\ r\ nSinulla on nyt tili $3. Kirjaudu sisään ja aloita yhteistyö muiden yhteisön jäsenten kanssa välittömästi. Alla on sivuston käyttöoikeustiedot:\ r\ n\ r\ nSivuston URL-osoite: $2\ r\ nKäyttäjänimi: $1\ r\ nOta yhteyttä sivuston ylläpitäjään, jos et tiedä salasanaasi. \ r\ n\ r\ nJos tarvitset apua aloittamiseen tai sinulla on erityisiä kysymyksiä $3, ota yhteyttä sivuston ylläpitäjään.
+    email.external.body.html.content=<p>Onnittelut, <br/><br/>\ r\ n\ r\ nSinulla on nyt tili $3. <br/><br/>Kirjaudu sisään ja aloita yhteistyö muiden yhteisön jäsenten kanssa välittömästi. Alla on sivustosi käyttötiedot:<br/><br/>\ r\ n\ r\ nSivuston URL-osoite: <a href="$2">$2</a><br/>\ r\ nKäyttäjänimi: $1<br/><br/>\ r\ n\ r\ nJos tarvitset apua aloittamiseen tai sinulla on erityisiä kysymyksiä <a href="$2">$3</a>, ota yhteyttä sivuston ylläpitäjään. </p>
+    email.subject=$1 Kirjaudu sisään Tiedot
+    form.password.instructions=Salasanojen pituuden on oltava vähintään 8 merkkiä, ja niissä on oltava vähintään kolme seuraavista merkeistä: pienet, isot, numerot tai symbolit.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=WWW-selaimesi ei voinut ladata pyydettyä MindTouchpointia.
+    label.back-to-top=Takaisin alkuun
+
+[WebWidget.F1]
+    label.help-button=Apua
+    title.help-button=Apua
+
+[WebWidget.Login]
+    label.authenticated-user=Kirjautunut sisään MindTouchiin nimellä {{käyttäjätunnus}}
+    label.sign-in=Kirjaudu sisään MindTouchiin
+
+[WebWidget.Search]
+    label.collapse-summary=Napsauttamalla voit pienentää
+    label.disabled-message=Yritä myöhemmin uudelleen.
+    label.disabled-title=Valitettavasti haku ei ole tällä hetkellä käytettävissä.
+    label.expand-summary=Laajenna yhteenveto napsauttamalla
+    label.forbidden-message=Kirjaudu sisään tai ota yhteyttä sivuston ylläpitäjään.
+    label.forbidden-title=Sinulla ei ole oikeuksia käyttää tätä ominaisuutta.
+    label.input-hint=Haku
+    label.no-results-faceting-message=Yritä etsiä jotain muuta tai valita kategoria.
+    label.no-results-message=Yritä etsiä jotain muuta.
+    label.no-results-title=Emme löydä etsimääsi.
+    label.recommended=Suositus
+    label.refine-search=Tarkenna hakua
+    label.show-more=Näytä lisää
+
+[WebWidgets]
+    label.authenticated-user=Hei, {{käyttäjätunnus}}!
+    label.nav.back=Takaisin
+    label.nav.forward=eteenpäin
+    label.nav.home=Koti
+
+[Component.Translate]
+    label.choose-language=Valitse kieli
+    label.english=Englanti
+    label.update-failed=Käännös puutteellinen
+    language.spanish=Españoli
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中
+    language.french=Français
+    language.portuguese=portugguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Sivun sisältö käännetty konekäännöksellä
+    dialog.translated-mindtouch=Suomentanut MindTouch
