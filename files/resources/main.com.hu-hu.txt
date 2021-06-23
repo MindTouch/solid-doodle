@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Keresés
+    New.word=új Word
+    extra=Tesztelés a limbo frissítés
+
+[F1]
+    dialog.text.back=Vissza
+    dialog.text.forward=Előre
+    dialog.text.hint=keresés
+    dialog.text.home=Főoldal
+    dialog.text.open=Cikk megnyitása
+
+[MindTouch.Help.Page]
+    category-selector=Szűrő kiválasztásával finomíthatja az eredményeket.
+    help-header-label=Súgóeredmények
+    in=-ban
+    label-filter=Keresés itt:
+    label-result-count=Körülbelül {0} találatok
+    label-search-all=Összes eredmény
+    label.page-rating-no=Nem
+    label.page-rating-yes=Igen
+    more=Több
+    no-search-results=Sajnáljuk, de nem találjuk, amit keres.
+    no-search-try=Próbáljon meg valami mást keresni, válasszon ki egy kategóriát, vagy próbáljon meg jegyet létrehozni.
+    recommended=(Ajánlott)
+    search-error=A keresés hibát észlelt.
+    search-error-try=Kérjük, próbálja meg később.
+    search-unavailable=Sajnáljuk, a keresés jelenleg nem érhető el.
+    show-more-search=További eredmények megjelenítése
+    tooltip.scrollNext=Görgessen a következőre
+    tooltip.scrollPrev=Görgessen az előzőhöz
+    warning.search-only-english=A keresés csak angol nyelven érhető el
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(létrehozás dátuma)
+    featured.articles.created.title=Nemrég hozzáadott
+    featured.articles.rated.label=(minősítés)
+    featured.articles.rated.title=Legmagasabban értékelt
+    featured.articles.updated.label=(frissítés dátuma)
+    featured.articles.updated.title=Nemrég frissített
+    featured.articles.viewed.label=(megtekintés)
+    featured.articles.viewed.title=Legnépszerűbb
+    label.guide-subpage-display-single=Egyszemélyes
+    label.guide-subpage-display-tabbed=Tablebed
+    label.guide.tabscrollleft=Lapok balra görgetése
+    label.guide.tabscrollright=Lapok görgetése jobbra
+    label.reveal.showAll=Mutasd az összes
+    label.reveal.showLess=Kevesebb megjelenítése
+    label.search.placeholder=Keresés
+    type.how-to=HOGYAN
+    type.howto=HOGYAN
+    type.reference=referencia
+    type.topic=Téma
+    type.topic-category=kategória
+    type.topic-guide=Útmutató
+    type.topic-portfolio=portfólió
+    type.unclassified=Nem minősített
+
+[MindTouch.LearningPath]
+    label.view-pages=Oldalak megtekintése
+    message.page-count=<span>Oldalak:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=elrejtése
+    button.toggle.show=Mutasd
+    label.attachments=Mellékletek felvétele
+    label.attachments-description=Tartalom típusa
+    label.attachments.type.binary=Egyéb
+    label.attachments.type.document=A dokumentum
+    label.attachments.type.image=Kép
+    label.classification=osztályozás
+    label.clear-all=Az összes szűrő törlése
+    label.description=Eredmények szűrése
+    label.filters=Szűrők
+    label.location=Helyszín
+    label.location-empty=Nincsenek helyek a szűréshez
+
+[MindTouch.Subscriptions]
+    cancel=Mégse
+    caption.normal=Ön feliratkozott a következő oldalakra.
+    caption.nosubscriptions=Ön nem iratkozott fel egyetlen oldalra sem.
+    column.page=Oldal
+    column.recursive=E-mail értesítések
+    link-title=Tudjon meg többet az értesítések kezeléséről a MindTouch
+    nonrecursive=Csak ez az oldal
+    nonrecursive.draft=Csak ez a tervezet
+    recursive.many=$1 oldalak
+    recursive.many.draft=$1 piszkozatok
+    recursive.many.overflow=Feliratkozott az összes aloldalra
+    recursive.many.overflow.draft=Feliratkozott az összes aloldal piszkozatára
+    recursive.one=1 oldal
+    recursive.one.draft=1 vázlat
+    unsubscribe=Leiratkozás
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Az üzenet bezárása
+
+[Page.AuthenticationProviders]
+    page-title=Bejelentkezés
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Látogasson el a success.mindtouch.com webhelyre az összes súgó </a>
+
+[Page.Error]
+    not-found=Az oldal nem található
+    not-found-error=Sajnáljuk, a $1 oldal nem található.
+    not-found-results=Kapcsolódó keresési eredmények:
+    page-title=Hiba
+
+[Page.FeedbackRating]
+    button.leave-feedback=Visszajelzés
+    button.rating-no=Nem
+    button.rating-yes=Igen
+    button.submit-feedback=Visszajelzés küldése
+    label.checkbox.contact-me=Igen, kapcsolatba léphet velem ezzel a visszajelzéssel kapcsolatban.
+    label.feedback-question=Hogyan javíthatjuk ezt a cikket?
+    label.last-rated=— Utoljára eddig ezt a cikket $1
+    label.rating-message=Hasznos volt ez a cikk?
+    legend.feedback-form=Visszajelzés
+    message.contact.no=Nem
+    message.contact.yes=Igen
+    message.submit.error=Hiba történt a visszajelzés elküldése közben. Kérjük, próbálja meg újra később.
+    message.submit.success=Visszajelzését sikeresen elküldtük. Bármikor küldhet több visszajelzést.
+
+[Page.LiveTags]
+    label.article=Cikk típusa
+
+[Page.LoginPasswordRegister]
+    page-title=Bejelentkezés és regisztráció
+    tab.login=Bejelentkezés
+    tab.password=Jelszó alaphelyzetbe állítása
+    tab.register=Regisztrálás
+
+[Page.Preferences]
+    error.invalid-email=Adjon meg egy érvényes e-mail címet
+    form.email=E-mail cím
+    form.fullname=Megjelenített név
+    form.fullname.help=Kizárólag megjelenítési célokra
+    form.hint.password-characters=A jelszónak legalább 3 karaktert kell tartalmaznia: kisbetűs, nagybetűs, számjegyek vagy szimbólumok.
+    form.hint.password-length=A jelszónak legalább 8 karakterből kell állnia
+    form.hint.password-match=A jelszónak meg kell egyeznie
+    form.hint.password.restricted-words=A jelszó nem tartalmazhat gyakori jelszót
+    form.legend.information=Információim
+    form.legend.password=A jelszavam
+    form.password.new=Új jelszó
+    form.password.old=Régi jelszó
+    form.password.submit=Jelszó módosítása
+    form.password.verify=Írja be újra az új jelszót
+    form.submit=Az adataim mentése
+
+[Page.Tags]
+    message.notags=Ez az oldal nem tartalmaz címkéket.
+    page-title=Webhely címkék
+    tags-inserted-from-template=A sablon által ajánlott címkék:
+    tags-inserted-heading=Oldalcímkék:
+
+[Page.UserLogin]
+    error=Nem sikerült bejelentkeznie. Ellenőrizze felhasználónevét és jelszavát.
+    page-title=Bejelentkezés
+    submit-login=Bejelentkezés
+    user-name=Felhasználónév
+    user-password=Jelszó
+
+[Page.UserLogout]
+    page-title=Kijelentkezés
+    success=Sikeresen kijelentkeztél.
+
+[Page.UserPassword]
+    form.submit=Jelszó alaphelyzetbe állítása
+    page-title=Jelszó alaphelyzetbe állítása
+    success.email-sent=A jelszó-visszaállítási utasításokat elküldtük a fiókhoz regisztrált e-mail címre. Ha nem kap e-mailt, kérjük, ellenőrizze a helyesírást, és próbálja meg újra. Ha továbbra is problémái vannak a bejelentkezéssel, forduljon a webhely rendszergazdájához.
+
+[Page.UserRegistration]
+    error.email.match=A megadott e-mailek nem egyeznek.
+    error.password.match=A megadott jelszavak nem egyeznek.
+    form.email=E-mail
+    form.email.verify=E-mail ellenőrzése
+    form.fullname=Teljes név <span class="note">(opcionális)</span>
+    form.password=Jelszó
+    form.password.verify=Jelszó ellenőrzése
+    form.submit=Fiók létrehozása
+    form.username=Felhasználónév
+    page-title=Fiók létrehozása
+    success.created=Felhasználó <strong>$1</strong> lett létrehozva.
+
+[Page.Welcome]
+    community-banner-text=Most már hozzájárulhat és megoszthat tartalmakat.
+    community-banner-title=Üdvözöllek, 1 dollár. Létrehoztuk a fiókodat.
+    community-get-started-text=<strong>Íme néhány tipp a kezdéshez:</strong>
+    community-tip1-text=Adjon értékes visszajelzést a webhely tartalmáról. Hasznos volt a cikk? Kattintson az <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Igen</span>gombra. Ha nem, kattintson a <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Visszajelzés hagyása</span> lehetőségre, és mondja meg, hogyan javíthatunk. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Tudjon meg többet</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Beszélgetés indítása egy lapon való megjegyzéssel. Hozzájáruljon saját adataihoz, vagy válaszoljon más felhasználók megjegyzéseire. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Tudjon meg többet</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Jelszó alaphelyzetbe állítása
+
+[Product]
+    powered-by-site=MindTouch által működtetett
+
+[Skin.Columbia]
+    button.quick-login=Bejelentkezés
+    header.recommended-articles=Ajánlott cikkek
+    header.toc=Tartalomjegyzék
+    label.back-to-top=Vissza a tetejére
+    label.global-location-toggle=Bővítés/összecsukás globális
+    label.global-navigation-toggle=A globális hierarchia kibontása/összecsukása
+    label.last-updated=Utoljára frissítve
+    label.last-updated-by=által
+    label.no-recommended-articles=Nincsenek ajánlott cikkek.
+    label.password=Jelszó
+    label.pdf-export=Mentés PDF-ként
+    label.signout=Kijelentkezés
+    label.site-search.button=Keresés
+    label.site-search.input=Keresés
+    label.skip-link=Ugrás a fő tartalomra
+    label.tags=Címkék
+    label.user-preferences=Saját preferenciáim
+    label.username=Felhasználónév
+    link.quick-login=Bejelentkezés
+    link.site-search=Keresési oldal
+    placeholder.site-search.input=Miben segíthetünk?
+    tooltip.back-to-top=Ugrás vissza a cikk tetejére
+    tooltip.browse-back=Visszatérés az előző cikkhez
+    tooltip.pdf-export=Oldal exportálása PDF-ként
+    tooltip.signout=Kattintson ide, ha ki szeretne jelentkezni erről az oldalról
+    tooltip.skip-link=Nyomja meg az Enter billentyűt a fő tartalomhoz való ugráshoz
+    tooltip.user-preferences=Kattintson ide a felhasználói beállítások módosításához
+
+[Skin.Common]
+    copyright=Szerzői jog
+    home=Főoldal
+
+[System.API]
+    no-headers=Nincs fejléc
+    opensearch-shortname=$1 Keresés
+
+[Users]
+    email.body.html.content=<p>Gratulálunk, <br/><br/>\ r\ n\ r\ nMost már van egy 4 dolláros fiókja. <br/><br/>Jelentkezzen be, és azonnal elkezdje együttműködni a közösség többi tagjával. Az alábbiakban a webhely hozzáférési adatai találhatók:<br/><br/>\ r\ n\ r\ nWebhely URL-je: <a href="$2">$2</a><br/>\ r\ nFelhasználónév: $1<br/>Jelszó: $3<br/><br/>\ r\ n\ r\ nHa segítségre van szüksége az induláshoz, vagy konkrét kérdései vannak a <a href="$2">$4-ről</a>, kérjük, forduljon a webhely rendszergazdájához. </p>
+    email.body.html.content.nopassword=<p>Gratulálunk, <br/><br/>\ r\ n\ r\ nMost már $3 fiókja van. <br/><br/>Jelentkezzen be, és azonnal elkezdje együttműködni a közösség többi tagjával. Az alábbiakban a webhely hozzáférési adatai találhatók:<br/><br/>\ r\ n\ r\ nWebhely URL: <a href="$2">$2</a><br/>\ r\ nFelhasználónév: $1<br/><br/><em>Forduljon a webhely rendszergazdájához, ha nem ismeri a jelszavát. </em><br/><br/>\ r\ n\ r\ nHa segítségre van szüksége az induláshoz, vagy konkrét kérdései vannak a <a href="$2">$3</a>kérdéssel kapcsolatban, forduljon a webhely rendszergazdájához. </p>
+    email.body.text=\ r\ nGratulálok,\ r\ n\ r\ nMost már van egy 4 dolláros fiókja. Jelentkezzen be, és azonnal elkezdje együttműködni a közösség többi tagjával. Az alábbiakban a webhely hozzáférési adatai találhatók:\ r\ n\ r\ nWebhely URL-je: $2\ r\ nFelhasználónév: $1\ r\ nJelszó: $3\ r\ n\ r\ nHa segítségre van szüksége az induláshoz, vagy konkrét kérdései vannak a $4 kérdéssel kapcsolatban, kérjük, forduljon a webhely rendszergazdájához.
+    email.body.text.nopassword=\ r\ nGratulálok,\ r\ n\ r\ nMost $3 értékű fiókja van. Jelentkezzen be, és azonnal elkezdje együttműködni a közösség többi tagjával. Az alábbiakban a webhely hozzáférési adatai találhatók:\ r\ n\ r\ nWebhely URL-je: $2\ r\ nFelhasználónév: $1\ r\ nForduljon a webhely rendszergazdájához, ha nem ismeri a jelszavát. \ r\ n\ r\ nHa segítségre van szüksége az induláshoz, vagy konkrét kérdései vannak a $3 kérdéssel kapcsolatban, forduljon a webhely rendszergazdájához.
+    email.external.body.html.content=<p>Gratulálunk, <br/><br/>\ r\ n\ r\ nMost már $3 fiókja van. <br/><br/>Jelentkezzen be, és azonnal elkezdje együttműködni a közösség többi tagjával. Az alábbiakban a webhely hozzáférési adatai találhatók:<br/><br/>\ r\ n\ r\ nWebhely URL-je: <a href="$2">$2</a><br/>\ r\ nFelhasználónév: $1<br/><br/>\ r\ n\ r\ nHa segítségre van szüksége az induláshoz, vagy konkrét kérdései vannak a <a href="$2">$3-ról</a>, kérjük, forduljon a webhely rendszergazdájához. </p>
+    email.subject=$1 Bejelentkezés részletei
+    form.password.instructions=A jelszónak legalább 8 karakterből kell állnia, és a következő karakterekből legalább 3 karaktert kell tartalmaznia: kisbetűs, nagybetűs, számjegyek vagy szimbólumok.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=A kért MindTouch Touchpoint nem tölthető be a webböngészője.
+    label.back-to-top=Vissza a tetejére
+
+[WebWidget.F1]
+    label.help-button=Segítség
+    title.help-button=Segítség
+
+[WebWidget.Login]
+    label.authenticated-user=Bejelentkezett a MindTouch szolgáltatásba: {{felhasználónév}}
+    label.sign-in=Bejelentkezés a MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Kattintson ide az összesítés összecsukásához
+    label.disabled-message=Kérjük, próbálja meg később.
+    label.disabled-title=Sajnáljuk, a keresés jelenleg nem érhető el.
+    label.expand-summary=Az összefoglaló kibontásához
+    label.forbidden-message=Kérjük, jelentkezzen be, vagy lépjen kapcsolatba a webhely rendszergazdájával.
+    label.forbidden-title=Nincs jogosultsága ennek a funkciónak a használatára.
+    label.input-hint=Keresés
+    label.no-results-faceting-message=Próbáljon meg valami mást keresni, vagy válasszon egy kategóriát.
+    label.no-results-message=Próbáljon valami mást keresni.
+    label.no-results-title=Sajnáljuk, de nem találjuk, amit keres.
+    label.recommended=Ajánlott
+    label.refine-search=A keresés finomítása
+    label.show-more=Mutass többet
+
+[WebWidgets]
+    label.authenticated-user=Helló, {{felhasználónév}}!
+    label.nav.back=Vissza
+    label.nav.forward=Előre
+    label.nav.home=Főoldal
+
+[Component.Translate]
+    label.choose-language=Válasszon nyelvet
+    label.english=angol
+    label.update-failed=Fordítás befejezetlen
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本
+    language.chinese=中国
+    language.french=Français
+    language.portuguese=portugesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Az oldal tartalma gépi fordítással
+    dialog.translated-mindtouch=Fordította MindTouch
