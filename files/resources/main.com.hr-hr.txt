@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Pretraživanje
+    New.word=ponovno novi Word
+    extra=Testiranje u ažuriranju limba
+
+[F1]
+    dialog.text.back=Natrag
+    dialog.text.forward=Naprijed
+    dialog.text.hint=traži
+    dialog.text.home=Dom
+    dialog.text.open=Otvoreni članak
+
+[MindTouch.Help.Page]
+    category-selector=Precizirajte rezultate odabirom filtra.
+    help-header-label=Rezultati pomoći za
+    in=u
+    label-filter=Pretraživanje u
+    label-result-count=O rezultatima {0}
+    label-search-all=Svi rezultati
+    label.page-rating-no=Ne
+    label.page-rating-yes=Da
+    more=Više
+    no-search-results=Žao mi je, ne možemo pronaći ono što tražite.
+    no-search-try=Pokušajte potražiti nešto drugo, odabrati kategoriju ili pokušati stvoriti ulaznicu.
+    recommended=(Preporučeno)
+    search-error=Pretraživanje je naišlo na pogrešku.
+    search-error-try=Molim vas pokušajte ponovo kasnije.
+    search-unavailable=Žao nam je, pretraživanje trenutno nije dostupno.
+    show-more-search=Prikaži više rezultata
+    tooltip.scrollNext=Pomaknite se do sljedećeg
+    tooltip.scrollPrev=Pomaknite se na prethodni
+    warning.search-only-english=Pretraživanje je dostupno samo na engleskom jeziku
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(datum izrade)
+    featured.articles.created.title=Nedavno dodano
+    featured.articles.rated.label=(Ocjena)
+    featured.articles.rated.title=Najviše ocijenjeno
+    featured.articles.updated.label=(datum ažuriranja)
+    featured.articles.updated.title=Nedavno ažurirano
+    featured.articles.viewed.label=(pogledi)
+    featured.articles.viewed.title=Najpopularnije
+    label.guide-subpage-display-single=Jednokrevetna
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Pomicanje kartica ulijevo
+    label.guide.tabscrollright=Pomicanje kartica udesno
+    label.reveal.showAll=Prikaži sve
+    label.reveal.showLess=Prikaži manje
+    label.search.placeholder=Pretraživanje
+    type.how-to=Kako
+    type.howto=Kako
+    type.reference=Referenca
+    type.topic=Tema
+    type.topic-category=Kategorija
+    type.topic-guide=Vodič
+    type.topic-portfolio=Portfolio
+    type.unclassified=Neklasificirani
+
+[MindTouch.LearningPath]
+    label.view-pages=Prikaz stranica
+    message.page-count=<span>Stranice:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Sakrij
+    button.toggle.show=Prikaži
+    label.attachments=Uključi privitke
+    label.attachments-description=Vrsta sadržaja
+    label.attachments.type.binary=Ostalo
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Slika
+    label.classification=Klasifikacija
+    label.clear-all=Obriši sve filtre
+    label.description=Filtriraj rezultate
+    label.filters=Filteri
+    label.location=Lokacija
+    label.location-empty=Nema mjesta za filtriranje prema
+
+[MindTouch.Subscriptions]
+    cancel=Otkaži
+    caption.normal=Pretplaćeni ste na sljedeće stranice.
+    caption.nosubscriptions=Niste pretplaćeni na bilo koju stranicu.
+    column.page=Stranica
+    column.recursive=Obavijesti e-pošte za
+    link-title=Saznajte više o upravljanju obavijestima u MindTouch
+    nonrecursive=Samo na ovoj stranici
+    nonrecursive.draft=Samo ovaj nacrt
+    recursive.many=$1 stranice
+    recursive.many.draft=$1 skice
+    recursive.many.overflow=Pretplaćen na sve podstranice
+    recursive.many.overflow.draft=Pretplaćen na sve skice podstranica
+    recursive.one=1 stranica
+    recursive.one.draft=1 nacrt
+    unsubscribe=Otkaži pretplatu
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Zatvori poruku
+
+[Page.AuthenticationProviders]
+    page-title=Prijavite se
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Posjetite uspjeh.mindtouch.com za sve teme pomoći. </a>
+
+[Page.Error]
+    not-found=Stranica nije pronađena
+    not-found-error=Žao nam je, stranica na $1 nije mogla biti pronađena.
+    not-found-results=Povezani rezultati pretrage:
+    page-title=Greška
+
+[Page.FeedbackRating]
+    button.leave-feedback=Ostavite povratne informacije
+    button.rating-no=Ne
+    button.rating-yes=Da
+    button.submit-feedback=Pošalji povratne informacije
+    label.checkbox.contact-me=Da, možete me kontaktirati o ovoj povratnoj informaciji.
+    label.feedback-question=Kako možemo poboljšati ovaj članak?
+    label.last-rated=— Zadnji put ste ocijenili ovaj članak na $1
+    label.rating-message=Je li ovaj članak bio koristan?
+    legend.feedback-form=Ostavite povratne informacije
+    message.contact.no=Ne
+    message.contact.yes=Da
+    message.submit.error=Došlo je do pogreške prilikom pokušaja slanja povratnih informacija. Molim vas pokušajte ponovo kasnije.
+    message.submit.success=Vaše povratne informacije su uspješno poslane. Možete poslati više povratnih informacija u bilo kojem trenutku.
+
+[Page.LiveTags]
+    label.article=Vrsta artikla
+
+[Page.LoginPasswordRegister]
+    page-title=Prijavite se i registracija
+    tab.login=Prijavite se
+    tab.password=Poništavanje lozinke
+    tab.register=Registracija
+
+[Page.Preferences]
+    error.invalid-email=Molimo navedite važeću e-mail adresu
+    form.email=E-mail adresa
+    form.fullname=Zaslonsko ime
+    form.fullname.help=Samo za potrebe prikaza
+    form.hint.password-characters=Lozinka mora sadržavati najmanje 3 od sljedećih znakova: mala, velika slova, znamenke ili simbole.
+    form.hint.password-length=Lozinka mora biti najmanje 8 znakova duljine
+    form.hint.password-match=Lozinke moraju odgovarati
+    form.hint.password.restricted-words=Lozinka ne može sadržavati uobičajene riječi lozinke
+    form.legend.information=Moje informacije
+    form.legend.password=Moja lozinka
+    form.password.new=Nova lozinka
+    form.password.old=Stara lozinka
+    form.password.submit=Promijeni lozinku
+    form.password.verify=Ponovno upišite novu lozinku
+    form.submit=Spremi moje podatke
+
+[Page.Tags]
+    message.notags=Ova stranica nema oznake.
+    page-title=Oznake web-mjesta
+    tags-inserted-from-template=Oznake koje preporučuje predložak:
+    tags-inserted-heading=Oznake stranica:
+
+[Page.UserLogin]
+    error=Vaša prijava nije uspjela. Molimo provjerite svoje korisničko ime i lozinku.
+    page-title=Prijavite se
+    submit-login=Prijavite se
+    user-name=Korisničko ime
+    user-password=Lozinka
+
+[Page.UserLogout]
+    page-title=Odjavite se
+    success=Uspješno ste se odjavili.
+
+[Page.UserPassword]
+    form.submit=Poništavanje lozinke
+    page-title=Poništavanje lozinke
+    success.email-sent=Upute za poništavanje lozinke poslane su na e-mail adresu registriranu za ovaj račun. Ako ne primite e-mail, provjerite pravopis i pokušajte ponovno. Obratite se administratoru web-mjesta ako i dalje imate problema s prijavom.
+
+[Page.UserRegistration]
+    error.email.match=E-mailove koje ste unijeli ne odgovaraju.
+    error.password.match=Lozinke koje ste unijeli ne odgovaraju.
+    form.email=E-mail
+    form.email.verify=Provjeri e-poštu
+    form.fullname=Puni naziv <span class="note">(opcionalno)</span>
+    form.password=Lozinka
+    form.password.verify=Potvrda lozinke
+    form.submit=Stvaranje računa
+    form.username=Korisničko ime
+    page-title=Stvaranje računa
+    success.created=Korisnik <strong>$1</strong> je kreiran.
+
+[Page.Welcome]
+    community-banner-text=Sada možete doprinijeti i dijeliti sadržaj.
+    community-banner-title=Dobrodošli, $1. Vaš račun je kreiran.
+    community-get-started-text=<strong>Evo nekoliko savjeta koji će vam pomoći da započnete:</strong>
+    community-tip1-text=Pružite vlasnicima web-mjesta vrijedne povratne informacije o sadržaju web-mjesta. Je li članak bio koristan? Kliknite <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Da</span>. Ako nije, kliknite <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Ostavite povratne informacije</span> da biste nam rekli kako možemo poboljšati. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Saznajte više</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Započnite razgovor komentiranjem stranice. Pridonosite vlastite podatke ili odgovarajte na komentare drugih korisnika. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Saznajte više</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Poništavanje lozinke
+
+[Product]
+    powered-by-site=Pokreće MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Prijavite se
+    header.recommended-articles=Preporučeni članci
+    header.toc=Sadržaj
+    label.back-to-top=Natrag na vrh
+    label.global-location-toggle=Proširiti/kolaps globalne lokacije
+    label.global-navigation-toggle=Proširiti/kolaps globalne hijerarhi
+    label.last-updated=Zadnji put ažurirano
+    label.last-updated-by=prema
+    label.no-recommended-articles=Nema preporučenih članaka.
+    label.password=Lozinka
+    label.pdf-export=Spremi kao PDF
+    label.signout=Odjavite se
+    label.site-search.button=Pretraživanje
+    label.site-search.input=Pretraživanje
+    label.skip-link=Preskoči na glavni sadržaj
+    label.tags=Oznake
+    label.user-preferences=Moje preferencije
+    label.username=Korisničko ime
+    link.quick-login=Prijavite se
+    link.site-search=Pretraživanje stranice
+    placeholder.site-search.input=Kako vam možemo pomoći?
+    tooltip.back-to-top=Vratite se na vrh ovog članka
+    tooltip.browse-back=Vratite se na prethodni članak
+    tooltip.pdf-export=Izvoz stranice u obliku PDF-a
+    tooltip.signout=Kliknite da biste se odjavili s ove stranice
+    tooltip.skip-link=Pritisnite enter da biste prešli na glavni sadržaj
+    tooltip.user-preferences=Kliknite da biste promijenili svoje korisničke postavke
+
+[Skin.Common]
+    copyright=autorsko pravo
+    home=Dom
+
+[System.API]
+    no-headers=Nema zaglavlja
+    opensearch-shortname=$1 Traži
+
+[Users]
+    email.body.html.content=<p>Čestitam, <br/><br/>\ r\ n\ r\ nSada imate račun na $4. <br/><br/>Prijavite se da biste odmah počeli suradnju s drugim članovima zajednice. Ispod su podaci o pristupu stranice:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ NUser name: $1<br/>Lozinka: $3<br/><br/>\ r\ n\ r\ nAko vam je potrebna pomoć za početak ili imate određena pitanja o <a href="$2">$4</a>, obratite se administratoru stranice. </p>
+    email.body.html.content.nopassword=<p>Čestitam, <br/><br/>\ r\ n\ r\ nSada imate račun na $3. <br/><br/>Prijavite se da biste odmah počeli suradnju s drugim članovima zajednice. Ispod su podaci o pristupu web-mjestu:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ NUser name: $1<br/><br/><em>Obratite se administratoru web mjesta ako ne znate lozinku. </em><br/><br/>\ r\ n\ r\ nAko vam je potrebna pomoć za početak ili imate određena pitanja o <a href="$2">$3</a>, obratite se administratoru web mjesta. </p>
+    email.body.text=\ r\ nČestitam,\ r\ n\ r\ nSada imate račun na $4. Prijavite se da biste odmah počeli suradnju s drugim članovima zajednice. Ispod su podaci o pristupu stranice:\ r\ n\ r\ nSite URL: $2\ r\ NUser name: $1\ r\ nPassword: $3\ r\ n\ r\ nAko vam je potrebna pomoć za početak ili imate određena pitanja o $4, obratite se administratoru stranice.
+    email.body.text.nopassword=\ r\ nČestitam,\ r\ n\ r\ nSada imate račun na $3. Prijavite se da biste odmah počeli suradnju s drugim članovima zajednice. Ispod su podaci o pristupu web mjestu:\ r\ n\ r\ nSite URL: $2\ r\ NUser name: $1\ r\ nKontaktirajte administratora web mjesta ako ne znate lozinku. \ r\ n\ r\ nAko vam je potrebna pomoć za početak ili imate određena pitanja o $3, obratite se administratoru web mjesta.
+    email.external.body.html.content=<p>Čestitam, <br/><br/>\ r\ n\ r\ nSada imate račun na $3. <br/><br/>Prijavite se da biste odmah počeli suradnju s drugim članovima zajednice. Ispod su podaci o pristupu web stranici:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ NUser name: $1<br/><br/>\ r\ n\ r\ nAko vam je potrebna pomoć za početak ili imate određena pitanja o <a href="$2">$3</a>, obratite se administratoru stranice. </p>
+    email.subject=$1 Prijava Details
+    form.password.instructions=Lozinke moraju biti duljine najmanje 8 znakova i sadržavati najmanje 3 od sljedećih znakova: mala, velika slova, znamenke ili simbole.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Traženi MindTouch Touch Touch Point nije mogao učitati vaš web preglednik.
+    label.back-to-top=Natrag na vrh
+
+[WebWidget.F1]
+    label.help-button=Pomoć
+    title.help-button=Pomoć
+
+[WebWidget.Login]
+    label.authenticated-user=Prijavljen na MindTouch kao {{korisničko ime}}
+    label.sign-in=Prijavite se na MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Kliknite za sažimanje sažetka
+    label.disabled-message=Molim vas pokušajte ponovo kasnije.
+    label.disabled-title=Žao nam je, pretraživanje trenutno nije dostupno.
+    label.expand-summary=Kliknite da biste proširili sažetak
+    label.forbidden-message=Molimo prijavite se ili se obratite administratoru web mjesta.
+    label.forbidden-title=Nemate dozvolu za korištenje ove značajke.
+    label.input-hint=Pretraživanje
+    label.no-results-faceting-message=Pokušajte potražiti nešto drugo ili odabrati kategoriju.
+    label.no-results-message=Pokušaj tražiti nešto drugo.
+    label.no-results-title=Žao mi je, ne možemo pronaći ono što tražite.
+    label.recommended=Preporučeno
+    label.refine-search=Precizirajte pretraživanje
+    label.show-more=Prikaži više
+
+[WebWidgets]
+    label.authenticated-user=Pozdrav, {{{korisničko ime}}!
+    label.nav.back=Natrag
+    label.nav.forward=Naprijed
+    label.nav.home=Dom
+
+[Component.Translate]
+    label.choose-language=Odaberi jezik
+    label.english=Engleski
+    label.update-failed=Prijevod nepotpun
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国
+    language.french=Français
+    language.portuguese=portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Sadržaj stranice preveden pomoću strojnog prevođenja
+    dialog.translated-mindtouch=Preveo MindTouch
