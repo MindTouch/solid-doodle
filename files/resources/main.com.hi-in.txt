@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=खोजे
+    New.word=नया शब्द फिर से
+    extra=लिम्बो अपडेट में परीक्षण
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=वापस
+    dialog.text.forward=फॉरवर्ड
+    dialog.text.hint=तलाश
+    dialog.text.home=होम
+    dialog.text.open=लेख खोलें
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=फ़िल्टर का चयन करके परिणामों को परिष्कृत करें।
+    help-header-label=सहायता परिणामों के लिए
+    in=में
+    label-filter=खोज कर रहा है
+    label-result-count={0} परिणामों के बारे में
+    label-search-all=सभी परिणाम
+    label.page-rating-no=नहीं
+    label.page-rating-yes=हाँ
+    more=और
+    no-search-results=क्षमा करें, हम वह नहीं पा रहे हैं जो आप खोज रहे हैं।
+    no-search-try=किसी और चीज़ की खोज करने का प्रयास करें, एक श्रेणी का चयन करें, या टिकट बनाने का प्रयास करें।
+    recommended=(अनुशंसित)
+    search-error=खोज को एक त्रुटि का सामना करना पड़ा है।
+    search-error-try=कृपया बाद में फिर से कोशिश करें।
+    search-unavailable=क्षमा करें, खोज वर्तमान में अनुपलब्ध है।
+    show-more-search=और परिणाम दिखाएं
+    tooltip.scrollNext=अगले पर स्क्रॉल करें
+    tooltip.scrollPrev=पिछले तक स्क्रॉल करें
+    warning.search-only-english=खोज केवल अंग्रेजी में उपलब्ध है
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(तारीख बनाई गई)
+    featured.articles.created.title=हाल ही में जोड़ा गया
+    featured.articles.rated.label=(रेटिंग)
+    featured.articles.rated.title=उच्चतम रेटेड
+    featured.articles.updated.label=(तारीख अपडेट की गई)
+    featured.articles.updated.title=हाल ही में अपडेट
+    featured.articles.viewed.label=(विचार)
+    featured.articles.viewed.title=सबसे लोकप्रिय
+    label.guide-subpage-display-single=सिंगल
+    label.guide-subpage-display-tabbed=टैब्ड
+    label.guide.tabscrollleft=स्क्रॉल टैब बाएँ
+    label.guide.tabscrollright=स्क्रॉल टैब्स राइट
+    label.reveal.showAll=सभी दिखाओ
+    label.reveal.showLess=कम दिखाओ
+    label.search.placeholder=खोजे
+    type.how-to=हाउ-टू
+    type.howto=हाउ-टू
+    type.reference=सन्दर्भ
+    type.topic=टॉपिक
+    type.topic-category=वर्ग
+    type.topic-guide=मार्गदर्शक
+    type.topic-portfolio=पोर्टफोलियो
+    type.unclassified=अवर्गीकृत
+
+[MindTouch.LearningPath]
+    label.view-pages=पेज देखें
+    message.page-count=<span>पन्ने:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=छिपाएँ
+    button.toggle.show=दिखाओ
+    label.attachments=अटैचमेंट शामिल करें
+    label.attachments-description=सामग्री का प्रकार
+    label.attachments.type.binary=अन्य
+    label.attachments.type.document=डॉक्यूमेंट
+    label.attachments.type.image=इमेज
+    label.classification=वर्गीकरण
+    label.clear-all=सभी फ़िल्टर साफ़ करें
+    label.description=फ़िल्टर रिजल्ट
+    label.filters=फ़िल्टर
+    label.location=लोकेशन
+    label.location-empty=फ़िल्टर करने के लिए कोई स्थान नहीं है
+
+[MindTouch.Subscriptions]
+    cancel=रद्द करें
+    caption.normal=आपको निम्नलिखित पृष्ठों की सदस्यता ली गई है।
+    caption.nosubscriptions=आप किसी भी पेज की सदस्यता नहीं ले रहे हैं।
+    column.page=पेज
+    column.recursive=के लिए ईमेल सूचनाएँ
+    link-title=माइंडटच में सूचनाओं के प्रबंधन के बारे में और जानें
+    nonrecursive=केवल यह पेज
+    nonrecursive.draft=यह मसौदा केवल
+    recursive.many=$1 पेज
+    recursive.many.draft=$1 ड्राफ्ट
+    recursive.many.overflow=सभी उपपृष्ठों की सदस्यता लें
+    recursive.many.overflow.draft=सभी उपपृष्ठ ड्राफ्ट की सदस्यता
+    recursive.one=एक पेज
+    recursive.one.draft=1 ड्राफ्ट
+    unsubscribe=सदस्यता समाप्त करें
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=संदेश बंद करें
+
+[Page.AuthenticationProviders]
+    page-title=साइन इन करें
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">सभी सहायता विषयों के लिए success.mindtouch.com पर जाएं। </a>
+
+[Page.Error]
+    not-found=पृष्ठ नहीं मिला
+    not-found-error=क्षमा करें, $1 पर पृष्ठ नहीं मिला।
+    not-found-results=संबंधित खोज परिणाम:
+    page-title=एरर
+
+[Page.FeedbackRating]
+    button.leave-feedback=फ़ीडबैक छोड़ दें
+    button.rating-no=नहीं
+    button.rating-yes=हाँ
+    button.submit-feedback=फ़ीडबैक सबमिट करें
+    label.checkbox.contact-me=हाँ, आप इस प्रतिक्रिया के बारे में मुझसे संपर्क कर सकते हैं।
+    label.feedback-question=हम इस लेख को कैसे सुधार सकते हैं?
+    label.last-rated=- आपने आखिरी बार इस लेख को $1 पर रेट किया था
+    label.rating-message=क्या यह लेख मददगार था?
+    legend.feedback-form=फ़ीडबैक छोड़ दें
+    message.contact.no=नहीं
+    message.contact.yes=हाँ
+    message.submit.error=आपकी प्रतिक्रिया भेजने का प्रयास करते समय एक त्रुटि हुई। कृपया बाद में फिर से कोशिश करें।
+    message.submit.success=आपकी प्रतिक्रिया सफलतापूर्वक सबमिट की गई है। आप किसी भी समय अधिक प्रतिक्रिया जमा कर सकते हैं।
+
+[Page.LiveTags]
+    label.article=लेख का प्रकार
+
+[Page.LoginPasswordRegister]
+    page-title=साइन इन और रजिस्ट्रेशन
+    tab.login=साइन इन करें
+    tab.password=पासवर्ड रीसेट करें
+    tab.register=रजिस्ट्रेशन
+
+[Page.Preferences]
+    error.invalid-email=कृपया एक वैध ईमेल पता निर्दिष्ट करें
+    form.email=ईमेल पता
+    form.fullname=प्रदर्शन नाम
+    form.fullname.help=केवल प्रदर्शन उद्देश्यों के लिए
+    form.hint.password-characters=पासवर्ड में निम्न वर्णों में से कम से कम 3 होना चाहिए: लोअरकेस, अपरकेस, अंक या प्रतीक।
+    form.hint.password-length=पासवर्ड कम से कम 8 अक्षर लंबाई में होना चाहिए
+    form.hint.password-match=पासवर्ड से मेल खाना चाहिए
+    form.hint.password.restricted-words=पासवर्ड में सामान्य पासवर्ड शब्द नहीं हो सकते
+    form.legend.information=मेरी जानकारी
+    form.legend.password=मेरा पासवर्ड
+    form.password.new=नया पासवर्ड
+    form.password.old=पुराना पासवर्ड
+    form.password.submit=पासवर्ड बदलें
+    form.password.verify=नया पासवर्ड फिर से लिखें
+    form.submit=मेरी जानकारी बचाओ
+
+[Page.Tags]
+    message.notags=इस पृष्ठ में कोई टैग नहीं है।
+    page-title=साइट टैग्स
+    tags-inserted-from-template=टेम्पलेट द्वारा सुझाए गए टैग:
+    tags-inserted-heading=पेज टैग:
+
+[Page.UserLogin]
+    error=आपका साइन इन विफल हो गया है। कृपया अपना उपयोगकर्ता नाम और पासवर्ड सत्यापित करें।
+    page-title=साइन इन करें
+    submit-login=साइन इन करें
+    user-name=उपयोगकर्ता नाम
+    user-password=पारण शब्द
+
+[Page.UserLogout]
+    page-title=साइन आउट करें
+    success=आपने सफलतापूर्वक साइन आउट किया है।
+
+[Page.UserPassword]
+    form.submit=पासवर्ड रीसेट करें
+    page-title=पासवर्ड रीसेट करें
+    success.email-sent=पासवर्ड रीसेट निर्देश इस खाते के लिए पंजीकृत ई-मेल पते पर भेजे गए हैं। यदि आपको कोई ईमेल नहीं मिलता है, तो कृपया अपनी वर्तनी की जांच करें और पुनः प्रयास करें। यदि आप साइन इन करने में समस्याएं जारी रखते हैं तो अपनी साइट व्यवस्थापक से संपर्क करें।
+
+[Page.UserRegistration]
+    error.email.match=आपके द्वारा दर्ज किए गए ईमेल मेल नहीं खाते हैं।
+    error.password.match=आपके द्वारा दर्ज किए गए पासवर्ड मेल नहीं खाते हैं।
+    form.email=इमेल
+    form.email.verify=ईमेल सत्यापित करें
+    form.fullname=पूरा नाम <span class="note">(वैकल्पिक)</span>
+    form.password=पारण शब्द
+    form.password.verify=पासवर्ड सत्यापित करें
+    form.submit=एक खाता बनाएँ
+    form.username=उपयोगकर्ता नाम
+    page-title=एक खाता बनाएँ
+    success.created=उपयोगकर्ता <strong>$1</strong> बनाया गया है।
+
+[Page.Welcome]
+    community-banner-text=अब आप सामग्री का योगदान और साझा कर सकते हैं।
+    community-banner-title=आपका स्वागत है, $1। आपका खाता बनाया गया है।
+    community-get-started-text=<strong>आरंभ करने में आपकी मदद करने के लिए यहां कुछ सुझाव दिए गए हैं:</strong>
+    community-tip1-text=साइट मालिकों को साइट की सामग्री के बारे में मूल्यवान प्रतिक्रिया प्रदान करें। क्या लेख मददगार था? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">हाँ</span> पर क्लिक करें। यदि नहीं, तो हमें यह बताने के लिए <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">प्रतिक्रिया छोड़ें</span> पर क्लिक करें कि हम कैसे सुधार सकते हैं। <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">और जानें</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=एक पृष्ठ पर टिप्पणी करके बातचीत शुरू करें। अपनी जानकारी का योगदान करें या अन्य उपयोगकर्ता की टिप्पणियों का जवाब दें। <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">और जानें</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=पासवर्ड रीसेट करें
+
+[Product]
+    powered-by-site=माइंडटच द्वारा संचालित
+
+[Skin.Columbia]
+    button.quick-login=साइन इन करें
+    header.recommended-articles=अनुशंसित लेख
+    header.toc=सामग्री की तालिका
+    label.back-to-top=शीर्ष पर वापस जाएं
+    label.global-location-toggle=वैश्विक स्थान का विस्तार/संक्षिप्त करें
+    label.global-navigation-toggle=वैश्विक पदानुक्रम का विस्तार/संक्षिप्त करें
+    label.last-updated=अंतिम बार अपडेट किया गया
+    label.last-updated-by=द्वारा
+    label.no-recommended-articles=कोई अनुशंसित लेख नहीं हैं।
+    label.password=पारण शब्द
+    label.pdf-export=पीडीएफ के रूप में सहेजें
+    label.signout=साइन आउट करें
+    label.site-search.button=खोजे
+    label.site-search.input=खोजे
+    label.skip-link=मुख्य सामग्री पर जाएं
+    label.tags=टैग्स
+    label.user-preferences=मेरी प्राथमिकताएं
+    label.username=उपयोगकर्ता नाम
+    link.quick-login=साइन इन करें
+    link.site-search=साइट खोजें
+    placeholder.site-search.input=हम आपकी मदद कैसे कर सकते हैं?
+    tooltip.back-to-top=इस लेख के शीर्ष पर वापस कूदो
+    tooltip.browse-back=पिछले लेख पर वापस जाएं
+    tooltip.pdf-export=पृष्ठ को पीडीएफ के रूप में निर्यात करें
+    tooltip.signout=इस साइट से साइन आउट करने के लिए क्लिक करें
+    tooltip.skip-link=मुख्य सामग्री पर जाने के लिए एंटर दबाएं
+    tooltip.user-preferences=अपनी उपयोगकर्ता प्राथमिकताओं को बदलने के लिए क्लिक करें
+
+[Skin.Common]
+    copyright=कॉपीराइट
+    home=होम
+
+[System.API]
+    no-headers=कोई शीर्षलेख नहीं
+    opensearch-shortname=$1 खोज
+
+[Users]
+    email.body.html.content=<p>बधाई हो,<br/><br/>\ r\ n\ r\ nअब आपके पास $4 पर एक खाता है। <br/><br/>अन्य समुदाय के सदस्यों के साथ सहयोग शुरू करने के लिए तुरंत साइन इन करें। नीचे आपकी साइट एक्सेस विवरण दिए गए हैं:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser नाम: $1<br/> पासवर्ड: $3<br/><br/>\ r\ n\ r\ nयदि आपको शुरू करने में मदद की ज़रूरत है या <a href="$2">$4</a> के बारे में विशिष्ट प्रश्न हैं, तो कृपया साइट व्यवस्थापक से संपर्क करें। </p>
+    email.body.html.content.nopassword=<p>बधाई हो,<br/><br/>\ r\ n\ r\ nअब आपके पास $3 पर एक खाता है। <br/><br/>अन्य समुदाय के सदस्यों के साथ सहयोग शुरू करने के लिए तुरंत साइन इन करें। नीचे आपकी साइट एक्सेस विवरण दिए गए हैं:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser name: $1 <em>यदि आप अपना पासवर्ड नहीं जानते हैं तो साइट व्यवस्थापक<br/><br/> से संपर्क करें। </em><br/><br/>\ r\ n\ r\ nयदि आपको शुरू करने में मदद की ज़रूरत है या <a href="$2">$3</a> के बारे में विशिष्ट प्रश्न हैं, तो कृपया साइट व्यवस्थापक से संपर्क करें। </p>
+    email.body.text=\ r\ nबधाई,\ r\ n\ r\ nअब आपके पास $4 पर एक खाता है। अन्य समुदाय के सदस्यों के साथ सहयोग शुरू करने के लिए तुरंत साइन इन करें। नीचे आपकी साइट एक्सेस विवरण दिए गए हैं:\ r\ n\ r\ nSite यूआरएल: $2\ r\ nUser नाम: $1\ r\ nPassword: $3\ r\ n\ r\ nयदि आपको शुरू करने में मदद की ज़रूरत है या $4 के बारे में विशिष्ट प्रश्न हैं, तो कृपया साइट व्यवस्थापक से संपर्क करें।
+    email.body.text.nopassword=\ r\ nबधाई,\ r\ n\ r\ nअब आपके पास $3 पर एक खाता है। अन्य समुदाय के सदस्यों के साथ सहयोग शुरू करने के लिए तुरंत साइन इन करें। नीचे आपकी साइट एक्सेस विवरण दिए गए हैं:\ r\ n\ r\ nSite URL: $2\ r\ nUser नाम: $1\ r\ nयदि आप अपना पासवर्ड नहीं जानते हैं तो साइट व्यवस्थापक से संपर्क करें। \ r\ n\ r\ nयदि आपको शुरू करने में मदद की ज़रूरत है या $3 के बारे में विशिष्ट प्रश्न हैं, तो कृपया साइट व्यवस्थापक से संपर्क करें।
+    email.external.body.html.content=<p>बधाई हो,<br/><br/>\ r\ n\ r\ nअब आपके पास $3 पर एक खाता है। <br/><br/>अन्य समुदाय के सदस्यों के साथ सहयोग शुरू करने के लिए तुरंत साइन इन करें। नीचे आपकी साइट एक्सेस विवरण दिए गए हैं:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser नाम: $1<br/><br/>\ r\ n\ r\ nयदि आपको शुरू करने में मदद की ज़रूरत है या <a href="$2">$3</a> के बारे में विशिष्ट प्रश्न हैं, तो कृपया साइट व्यवस्थापक से संपर्क करें। </p>
+    email.subject=$1 साइन इन विवरण
+    form.password.instructions=पासवर्ड की लंबाई में कम से कम 8 वर्ण होने चाहिए और इसमें निम्न वर्णों में से कम से कम 3 वर्ण होते हैं: लोअरकेस, अपरकेस, अंक या प्रतीक।
+
+[WebWidget.Common]
+    error.web-browser-unsupported=अनुरोधित माइंडटच टचपॉइंट को आपके वेब ब्राउज़र द्वारा लोड नहीं किया जा सका।
+    label.back-to-top=शीर्ष पर वापस जाएं
+
+[WebWidget.F1]
+    label.help-button=मदद
+    title.help-button=मदद
+
+[WebWidget.Login]
+    label.authenticated-user={{username} के रूप में माइंडटच में साइन इन किया गया
+    label.sign-in=माइंडटच में साइन इन करें
+
+[WebWidget.Search]
+    label.collapse-summary=सारांश को संक्षिप्त करने के लिए क्लिक करें
+    label.disabled-message=कृपया बाद में फिर से कोशिश करें।
+    label.disabled-title=क्षमा करें, खोज वर्तमान में अनुपलब्ध है।
+    label.expand-summary=सारांश का विस्तार करने के लिए क्लिक करें
+    label.forbidden-message=कृपया लॉग इन करें, या अपने साइट व्यवस्थापक से संपर्क करें।
+    label.forbidden-title=आपके पास इस सुविधा का उपयोग करने की अनुमति नहीं है।
+    label.input-hint=खोजे
+    label.no-results-faceting-message=किसी और चीज़ की खोज करने या श्रेणी का चयन करने का प्रयास करें।
+    label.no-results-message=किसी और चीज की खोज करने का प्रयास करें।
+    label.no-results-title=क्षमा करें, हम वह नहीं पा रहे हैं जो आप खोज रहे हैं।
+    label.recommended=सुझाया
+    label.refine-search=खोज को परिष्कृत करें
+    label.show-more=और दिखाओ
+
+[WebWidgets]
+    label.authenticated-user=नमस्कार, {{उपयोगकर्ता नाम}}!
+    label.nav.back=वापस
+    label.nav.forward=फॉरवर्ड
+    label.nav.home=होम
+
+[Component.Translate]
+    label.choose-language=भाषा चुनें
+    label.english=अंग्रेजी
+    label.update-failed=अनुवाद अपूर्ण
+    language.spanish=एस्पनोल
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=फ़्राँकाइस
+    language.portuguese=पोर्तुगुएसा
+    language.dutch=नीदरलैंड्स
+    language.korean=한국어
+    language.swedish=स्वेंस्का
+    language.danish=डांस्क
+    language.finnish=सुओमालाइनन
+    language.italian=इटालियानो
+    title.translated-machine=मशीन अनुवाद का उपयोग करके अनुवादित पृष्ठ सामग्री
+    dialog.translated-mindtouch=माइंडटच द्वारा अनुवादित
