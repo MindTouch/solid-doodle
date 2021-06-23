@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Αναζήτηση
+    New.word=νέο Word ξανά
+    extra=Δοκιμή στην ενημέρωση limbo
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Πίσω
+    dialog.text.forward=Εμπρός
+    dialog.text.hint=αναζήτηση
+    dialog.text.home=Σπιτικό
+    dialog.text.open=Άνοιγμα άρθρου
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Βελτιώστε τα αποτελέσματα επιλέγοντας ένα φίλτρο.
+    help-header-label=Αποτελέσματα βοήθειας για
+    in=σε
+    label-filter=Αναζήτηση στο
+    label-result-count=Σχετικά με τα αποτελέσματα {0}
+    label-search-all=Όλα τα αποτελέσματα
+    label.page-rating-no=Όχι
+    label.page-rating-yes=Ναί
+    more=Περισσότερα
+    no-search-results=Λυπάμαι, αλλά δεν μπορούμε να βρούμε αυτό που ψάχνετε.
+    no-search-try=Δοκιμάστε να αναζητήσετε κάτι άλλο, επιλέξτε μια κατηγορία ή δοκιμάστε να δημιουργήσετε ένα εισιτήριο.
+    recommended=(Προτεινόμενο)
+    search-error=Η αναζήτηση αντιμετώπισε ένα σφάλμα.
+    search-error-try=Παρακαλώ προσπαθήστε ξανά αργότερα.
+    search-unavailable=Λυπούμαστε, η αναζήτηση δεν είναι διαθέσιμη προς το παρόν.
+    show-more-search=Εμφάνιση περισσότερων αποτελεσμάτων
+    tooltip.scrollNext=Μετακινηθείτε στο επόμενο
+    tooltip.scrollPrev=Μετακινηθείτε στο προηγούμενο
+    warning.search-only-english=Η αναζήτηση είναι διαθέσιμη μόνο στα Αγγλικά
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(ημερομηνία δημιουργίας)
+    featured.articles.created.title=Προστέθηκε πρόσφατα
+    featured.articles.rated.label=(βαθμολόγηση)
+    featured.articles.rated.title=Υψηλότερη βαθμολογία
+    featured.articles.updated.label=(επικαιροποιημένη ημερομηνία)
+    featured.articles.updated.title=Πρόσφατα ενημερώθηκε
+    featured.articles.viewed.label=(προβολές)
+    featured.articles.viewed.title=Τα πιο δημοφιλή
+    label.guide-subpage-display-single=Ενιαία
+    label.guide-subpage-display-tabbed=Καρτέλα
+    label.guide.tabscrollleft=Κύλιση καρτελών αριστερά
+    label.guide.tabscrollright=Κύλιση στηλοθετών
+    label.reveal.showAll=Εμφάνιση όλων
+    label.reveal.showLess=Εμφάνιση λιγότερων
+    label.search.placeholder=Αναζήτηση
+    type.how-to=Πώς να
+    type.howto=Πώς να
+    type.reference=Αναφορά
+    type.topic=Θέμα
+    type.topic-category=Κατηγορία
+    type.topic-guide=Οδηγός
+    type.topic-portfolio=χαρτοφυλάκιο
+    type.unclassified=Αταξινόμητο
+
+[MindTouch.LearningPath]
+    label.view-pages=Προβολή σελίδων
+    message.page-count=<span>Σελίδες:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Απόκρυψη
+    button.toggle.show=Εμφάνιση
+    label.attachments=Συμπερίληψη συνημμένων
+    label.attachments-description=Τύπος Περιεχομένου
+    label.attachments.type.binary=Άλλα
+    label.attachments.type.document=Έγγραφο
+    label.attachments.type.image=Εικόνα
+    label.classification=Ταξινόμηση
+    label.clear-all=Εκκαθάριση όλων των φίλτρων
+    label.description=Φίλτρο αποτελεσμάτων
+    label.filters=Φίλτρα
+    label.location=Τοποθεσία
+    label.location-empty=Δεν υπάρχουν θέσεις για φιλτράρισμα κατά
+
+[MindTouch.Subscriptions]
+    cancel=Ακύρωση
+    caption.normal=Έχετε εγγραφεί στις επόμενες σελίδες.
+    caption.nosubscriptions=Δεν έχετε εγγραφεί σε καμία σελίδα.
+    column.page=Σελίδα
+    column.recursive=Ειδοποιήσεις ηλεκτρονικού ταχυδρομείου για
+    link-title=Μάθετε περισσότερα σχετικά με τη διαχείριση ειδοποιήσεων στο MindTouch
+    nonrecursive=Αυτή η σελίδα μόνο
+    nonrecursive.draft=Μόνο αυτό το σχέδιο
+    recursive.many=$1 σελίδες
+    recursive.many.draft=$1 προσχέδια
+    recursive.many.overflow=Εγγραφή σε όλες τις υποσελίδες
+    recursive.many.overflow.draft=Εγγραφή σε όλα τα προσχέδια υποσελίδων
+    recursive.one=1 σελίδα
+    recursive.one.draft=1 σχέδιο
+    unsubscribe=Κατάργηση εγγραφής
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Κλείσιμο μηνύματος
+
+[Page.AuthenticationProviders]
+    page-title=Συνδεθείτε
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Επισκεφθείτε το success.mindtouch.com για όλα τα θέματα βοήθειας. </a>
+
+[Page.Error]
+    not-found=Η σελίδα δε βρέθηκε
+    not-found-error=Λυπούμαστε, η σελίδα στο $1 δεν βρέθηκε.
+    not-found-results=Σχετικά αποτελέσματα αναζήτησης:
+    page-title=Σφάλμα
+
+[Page.FeedbackRating]
+    button.leave-feedback=Αφήστε ανατροφοδότηση
+    button.rating-no=Όχι
+    button.rating-yes=Ναί
+    button.submit-feedback=Υποβολή σχολίων
+    label.checkbox.contact-me=Ναι, μπορείτε να επικοινωνήσετε μαζί μου σχετικά με αυτή την ανατροφοδότηση.
+    label.feedback-question=Πώς μπορούμε να βελτιώσουμε αυτό το άρθρο;
+    label.last-rated=— Έχετε βαθμολογηθεί τελευταία αυτό το άρθρο για $1
+    label.rating-message=Ήταν χρήσιμο αυτό το άρθρο;
+    legend.feedback-form=Αφήστε ανατροφοδότηση
+    message.contact.no=Όχι
+    message.contact.yes=Ναί
+    message.submit.error=Παρουσιάστηκε σφάλμα κατά την προσπάθεια αποστολής των σχολίων σας. Προσπαθήστε ξανά αργότερα.
+    message.submit.success=Τα σχόλιά σας έχουν υποβληθεί με επιτυχία. Μπορείτε να υποβάλετε περισσότερα σχόλια ανά πάσα στιγμή.
+
+[Page.LiveTags]
+    label.article=Είδος άρθρου
+
+[Page.LoginPasswordRegister]
+    page-title=Συνδεθείτε και εγγραφείτε
+    tab.login=Συνδεθείτε
+    tab.password=Επαναφορά κωδικού πρόσβασης
+    tab.register=Εγγραφή
+
+[Page.Preferences]
+    error.invalid-email=Παρακαλώ καθορίστε μια έγκυρη διεύθυνση email
+    form.email=Διεύθυνση ηλεκτρονικού ταχυδρομείου
+    form.fullname=Εμφανιζόμενο όνομα
+    form.fullname.help=Μόνο για λόγους προβολής
+    form.hint.password-characters=Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 3 από τους ακόλουθους χαρακτήρες: πεζά, κεφαλαία, ψηφία ή σύμβολα.
+    form.hint.password-length=Ο κωδικός πρόσβασης πρέπει να έχει μήκος τουλάχιστον 8 χαρακτήρων
+    form.hint.password-match=Οι κωδικοί πρόσβασης πρέπει να ταιριάζουν
+    form.hint.password.restricted-words=Ο κωδικός πρόσβασης δεν μπορεί να περιέχει κοινές λέξεις κωδικού πρόσβασης
+    form.legend.information=Οι πληροφορίες μου
+    form.legend.password=Ο κωδικός μου
+    form.password.new=Νέος κωδικός πρόσβασης
+    form.password.old=Παλιός κωδικός
+    form.password.submit=Αλλαγή κωδικού πρόσβασης
+    form.password.verify=Πληκτρολογήστε ξανά τον νέο κωδικό πρόσβασης
+    form.submit=Αποθήκευση των πληροφοριών μου
+
+[Page.Tags]
+    message.notags=Αυτή η σελίδα δεν έχει ετικέτες.
+    page-title=Ετικέτες ιστότοπου
+    tags-inserted-from-template=Ετικέτες που συνιστώνται από το πρότυπο:
+    tags-inserted-heading=Ετικέτες σελίδας:
+
+[Page.UserLogin]
+    error=Η σύνδεση σας απέτυχε. Ελέγξτε το όνομα χρήστη και τον κωδικό πρόσβασής σας.
+    page-title=Συνδεθείτε
+    submit-login=Συνδεθείτε
+    user-name=Όνομα Χρήστη
+    user-password=Κωδικός πρόσβασης
+
+[Page.UserLogout]
+    page-title=Αποσυνδεθείτε
+    success=Έχετε αποσυνδεθεί με επιτυχία.
+
+[Page.UserPassword]
+    form.submit=Επαναφορά κωδικού πρόσβασης
+    page-title=Επαναφορά κωδικού πρόσβασης
+    success.email-sent=Οι οδηγίες επαναφοράς κωδικού πρόσβασης έχουν σταλεί στη διεύθυνση ηλεκτρονικού ταχυδρομείου που έχει καταχωρηθεί για αυτόν τον λογαριασμό. Αν δεν λάβετε email, ελέγξτε την ορθογραφία σας και προσπαθήστε ξανά. Επικοινωνήστε με το διαχειριστή της τοποθεσίας σας, εάν εξακολουθείτε να έχετε προβλήματα εισόδου.
+
+[Page.UserRegistration]
+    error.email.match=Τα μηνύματα ηλεκτρονικού ταχυδρομείου που εισάγατε δεν ταιριάζουν.
+    error.password.match=Οι κωδικοί πρόσβασης που εισαγάγατε δεν ταιριάζουν.
+    form.email=Email
+    form.email.verify=Επαλήθευση email
+    form.fullname=Πλήρες όνομα <span class="note">(προαιρετικό)</span>
+    form.password=Κωδικός πρόσβασης
+    form.password.verify=Επαλήθευση κωδικού
+    form.submit=Δημιουργία λογαριασμού
+    form.username=Όνομα Χρήστη
+    page-title=Δημιουργία λογαριασμού
+    success.created=Ο χρήστης <strong>$1</strong> έχει δημιουργηθεί.
+
+[Page.Welcome]
+    community-banner-text=Τώρα μπορείτε να συνεισφέρετε και να μοιραστείτε περιεχόμενο.
+    community-banner-title=Καλώς ήρθες, 1 δολλάρια. Ο λογαριασμός σας έχει δημιουργηθεί.
+    community-get-started-text=<strong>Ακολουθούν μερικές συμβουλές που θα σας βοηθήσουν να ξεκινήσετε:</strong>
+    community-tip1-text=Παρέχετε στους κατόχους ιστότοπων πολύτιμα σχόλια σχετικά με το περιεχόμενο του ιστότοπου. Ήταν χρήσιμο το άρθρο; Κάντε κλικ στο κουμπί <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ναι</span>. Εάν όχι, κάντε κλικ στην επιλογή <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Αποχώρηση σχολίων</span> για να μας πείτε πώς μπορούμε να βελτιωθούμε. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Μάθετε περισσότερα</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Ξεκινήστε μια συνομιλία σχολιάζοντας μια σελίδα. Συμβάλλετε τις δικές σας πληροφορίες ή απαντήστε σε σχόλια άλλων χρηστών. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Μάθετε περισσότερα</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Επαναφορά κωδικού πρόσβασης
+
+[Product]
+    powered-by-site=Με την υποστήριξη του MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Συνδεθείτε
+    header.recommended-articles=Προτεινόμενα άρθρα
+    header.toc=Πίνακας περιεχομένων
+    label.back-to-top=Επιστροφή στην κορυφή
+    label.global-location-toggle=Επέκταση/σύμπτυξη καθολικής θέσης
+    label.global-navigation-toggle=Επέκταση/σύμπτυξη καθολικής ιεραρχίας
+    label.last-updated=Τελευταία ενημέρωση
+    label.last-updated-by=από
+    label.no-recommended-articles=Δεν υπάρχουν συνιστώμενα άρθρα.
+    label.password=Κωδικός πρόσβασης
+    label.pdf-export=Αποθήκευση ως PDF
+    label.signout=Αποσυνδεθείτε
+    label.site-search.button=Αναζήτηση
+    label.site-search.input=Αναζήτηση
+    label.skip-link=Μετάβαση στο κύριο περιεχόμενο
+    label.tags=Ετικέτες
+    label.user-preferences=Οι προτιμήσεις μου
+    label.username=Όνομα Χρήστη
+    link.quick-login=Συνδεθείτε
+    link.site-search=Αναζήτηση ιστότοπου
+    placeholder.site-search.input=Πώς μπορούμε να σας βοηθήσουμε;
+    tooltip.back-to-top=Μετάβαση πίσω στην κορυφή αυτού του άρθρου
+    tooltip.browse-back=Επιστροφή στο προηγούμενο άρθρο
+    tooltip.pdf-export=Εξαγωγή σελίδας ως PDF
+    tooltip.signout=Κάντε κλικ για να αποσυνδεθείτε από αυτόν τον ιστότοπο
+    tooltip.skip-link=Πατήστε enter για να μεταβείτε στο κύριο περιεχόμενο
+    tooltip.user-preferences=Κάντε κλικ για να αλλάξετε τις προτιμήσεις χρήστη
+
+[Skin.Common]
+    copyright=Πνευματική ιδιοκτησία
+    home=Σπιτικό
+
+[System.API]
+    no-headers=Χωρίς κεφαλίδες
+    opensearch-shortname=$1 Αναζήτηση
+
+[Users]
+    email.body.html.content=<p>Συγχαρητήρια, <br/><br/>\ r\ n\ r\ nΤώρα έχετε λογαριασμό στα $4. <br/><br/>Συνδεθείτε για να αρχίσετε αμέσως να συνεργάζεστε με άλλα μέλη της κοινότητας. Παρακάτω είναι τα στοιχεία πρόσβασης στον ιστότοπό σας:<br/><br/>\ r\ n\ r\ nΔιεύθυνση URL ιστότοπου: <a href="$2">$2</a><br/>\ r\ nΌνομα χρήστη: $1<br/>Κωδικός πρόσβασης: $3<br/><br/>\ r\ n\ r\ nΕάν χρειάζεστε βοήθεια για να ξεκινήσετε ή έχετε συγκεκριμένες ερωτήσεις σχετικά με το <a href="$2">$4</a>, επικοινωνήστε με το διαχειριστή του ιστότοπου. </p>
+    email.body.html.content.nopassword=<p>Συγχαρητήρια, <br/><br/>\ r\ n\ r\ nΤώρα έχετε λογαριασμό στα $3. <br/><br/>Συνδεθείτε για να αρχίσετε αμέσως να συνεργάζεστε με άλλα μέλη της κοινότητας. Παρακάτω είναι τα στοιχεία πρόσβασης στον ιστότοπό σας:<br/><br/>\ r\ n\ r\ nΔιεύθυνση URL ιστότοπου: <a href="$2">$2</a><br/>\ r\ nΌνομα χρήστη: $1<br/><br/><em>Επικοινωνήστε με το διαχειριστή του ιστότοπου αν δεν γνωρίζετε τον κωδικό πρόσβασής σας. </em><br/><br/>\ r\ n\ r\ nΕάν χρειάζεστε βοήθεια για να ξεκινήσετε ή έχετε συγκεκριμένες ερωτήσεις σχετικά με το <a href="$2">$3</a>, επικοινωνήστε με το διαχειριστή του ιστότοπου. </p>
+    email.body.text=\ r\ nΣυγχαρητήρια,\ r\ n\ r\ nΤώρα έχετε λογαριασμό στα $4. Συνδεθείτε για να αρχίσετε αμέσως να συνεργάζεστε με άλλα μέλη της κοινότητας. Παρακάτω είναι τα στοιχεία πρόσβασης στον ιστότοπό σας:\ r\ n\ r\ nΔιεύθυνση URL ιστότοπου: $2\ r\ nΌνομα χρήστη: $1\ r\ nΚωδικός πρόσβασης: $3\ r\ n\ r\ nΕάν χρειάζεστε βοήθεια για να ξεκινήσετε ή έχετε συγκεκριμένες ερωτήσεις σχετικά με το $4, επικοινωνήστε με το διαχειριστή του ιστότοπου.
+    email.body.text.nopassword=\ r\ nΣυγχαρητήρια,\ r\ n\ r\ nΤώρα έχετε λογαριασμό στα $3. Συνδεθείτε για να αρχίσετε αμέσως να συνεργάζεστε με άλλα μέλη της κοινότητας. Παρακάτω είναι τα στοιχεία πρόσβασης στον ιστότοπό σας:\ r\ n\ r\ nΔιεύθυνση URL ιστότοπου: $2\ r\ nΌνομα χρήστη: $1\ r\ nΕπικοινωνήστε με το διαχειριστή του ιστότοπου αν δεν γνωρίζετε τον κωδικό πρόσβασής σας. \ r\ n\ r\ nΕάν χρειάζεστε βοήθεια για να ξεκινήσετε ή έχετε συγκεκριμένες ερωτήσεις σχετικά με το $3, επικοινωνήστε με το διαχειριστή του ιστότοπου.
+    email.external.body.html.content=<p>Συγχαρητήρια, <br/><br/>\ r\ n\ r\ nΤώρα έχετε λογαριασμό στα $3. <br/><br/>Συνδεθείτε για να αρχίσετε αμέσως να συνεργάζεστε με άλλα μέλη της κοινότητας. Παρακάτω είναι τα στοιχεία πρόσβασης στον ιστότοπό σας:<br/><br/>\ r\ n\ r\ nΔιεύθυνση URL ιστότοπου: <a href="$2">$2</a><br/>\ r\ nΌνομα χρήστη: $1<br/><br/>\ r\ n\ r\ nΕάν χρειάζεστε βοήθεια για να ξεκινήσετε ή έχετε συγκεκριμένες ερωτήσεις σχετικά με το <a href="$2">$3</a>, επικοινωνήστε με το διαχειριστή του ιστότοπου. </p>
+    email.subject=$1 Στοιχεία σύνδεσης
+    form.password.instructions=Οι κωδικοί πρόσβασης πρέπει να έχουν τουλάχιστον 8 χαρακτήρες σε μήκος και να περιέχουν τουλάχιστον 3 από τους ακόλουθους χαρακτήρες: πεζά, κεφαλαία, ψηφία ή σύμβολα.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Το ζητούμενο MindTouch Touchpoint δεν ήταν δυνατό να φορτωθεί από το πρόγραμμα περιήγησης ιστού.
+    label.back-to-top=Επιστροφή στην κορυφή
+
+[WebWidget.F1]
+    label.help-button=Βοήθεια
+    title.help-button=Βοήθεια
+
+[WebWidget.Login]
+    label.authenticated-user=Συνδεθήκατε στο MindTouch ως {όνομα χρήστη}}
+    label.sign-in=Συνδεθείτε στο MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Πατήστε για σύμπτυξη σύνοψης
+    label.disabled-message=Παρακαλώ προσπαθήστε ξανά αργότερα.
+    label.disabled-title=Λυπούμαστε, η αναζήτηση δεν είναι διαθέσιμη προς το παρόν.
+    label.expand-summary=Κάντε κλικ για επέκταση σύνοψης
+    label.forbidden-message=Συνδεθείτε ή επικοινωνήστε με το διαχειριστή του ιστότοπού σας.
+    label.forbidden-title=Δεν έχετε δικαίωμα να χρησιμοποιήσετε αυτήν τη δυνατότητα.
+    label.input-hint=Αναζήτηση
+    label.no-results-faceting-message=Δοκιμάστε να αναζητήσετε κάτι άλλο ή να επιλέξετε μια κατηγορία.
+    label.no-results-message=Δοκίμασε να βρεις κάτι άλλο.
+    label.no-results-title=Λυπάμαι, αλλά δεν μπορούμε να βρούμε αυτό που ψάχνετε.
+    label.recommended=Προτεινόμενο
+    label.refine-search=Βελτιώστε την αναζήτηση
+    label.show-more=Δείξτε περισσότερα
+
+[WebWidgets]
+    label.authenticated-user=Γεια σας, {όνομα χρήστη}}!
+    label.nav.back=Πίσω
+    label.nav.forward=Εμπρός
+    label.nav.home=Σπιτικό
+
+[Component.Translate]
+    label.choose-language=Επιλέξτε Γλώσσα
+    label.english=Αγγλικά
+    label.update-failed=Μετάφραση Ελ
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中
+    language.french=Φρανσουά
+    language.portuguese=portuguesa
+    language.dutch=Κάτω Χώρες
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=Δανσκ
+    language.finnish=Σουομαλαίνεν
+    language.italian=italiano
+    title.translated-machine=Περιεχόμενο σελίδας μεταφρασμένο χρησιμοποιώντας αυτόματη μετάφραση
+    dialog.translated-mindtouch=Μετάφραση από MindTouch
