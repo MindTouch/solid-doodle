@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Пошук
+    New.word=новий Word знову
+    extra=Тестування в підвішеному стані
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Назад
+    dialog.text.forward=Вперед
+    dialog.text.hint=пошук
+    dialog.text.home=Головна
+    dialog.text.open=Відкрити статтю
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Уточнити результати, вибравши фільтр.
+    help-header-label=Результати довідки для
+    in=у
+    label-filter=Пошук в
+    label-result-count=Про результати {0}
+    label-search-all=Всі результати
+    label.page-rating-no=Ні
+    label.page-rating-yes=Так
+    more=Більше
+    no-search-results=Вибачте, ми не можемо знайти те, що ви шукаєте.
+    no-search-try=Спробуйте знайти щось інше, вибравши категорію або спробуйте створити квиток.
+    recommended=(Рекомендовано)
+    search-error=Пошук зіткнувся з помилкою.
+    search-error-try=Будь ласка, спробуйте ще раз пізніше.
+    search-unavailable=Вибачте, пошук наразі недоступний.
+    show-more-search=Показати більше результатів
+    tooltip.scrollNext=Прокрутити до наступного
+    tooltip.scrollPrev=Прокрутити до попереднього
+    warning.search-only-english=Пошук доступний лише англійською мовою
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(дата створення)
+    featured.articles.created.title=Нещодавно додані
+    featured.articles.rated.label=(рейтинг)
+    featured.articles.rated.title=Найвищий рейтинг
+    featured.articles.updated.label=(дата оновлення)
+    featured.articles.updated.title=Нещодавно оновлено
+    featured.articles.viewed.label=(переглядів)
+    featured.articles.viewed.title=Найпопулярніші
+    label.guide-subpage-display-single=Одномісний
+    label.guide-subpage-display-tabbed=У табуляції
+    label.guide.tabscrollleft=Прокручування вкладок ліворуч
+    label.guide.tabscrollright=Прокручування вкладок праворуч
+    label.reveal.showAll=Показати всі
+    label.reveal.showLess=Показати менше
+    label.search.placeholder=Пошук
+    type.how-to=Настанови
+    type.howto=Настанови
+    type.reference=Довідка
+    type.topic=Тема
+    type.topic-category=Категорія
+    type.topic-guide=Гід
+    type.topic-portfolio=Портфоліо
+    type.unclassified=Некласифіковані
+
+[MindTouch.LearningPath]
+    label.view-pages=Перегляд сторінок
+    message.page-count=<span>Сторінки:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Сховати
+    button.toggle.show=Показати
+    label.attachments=Включати вкладення
+    label.attachments-description=Тип вмісту
+    label.attachments.type.binary=Інше
+    label.attachments.type.document=Документ
+    label.attachments.type.image=Зображення
+    label.classification=Класифікація
+    label.clear-all=Очистити всі фільтри
+    label.description=Результати фільтрування
+    label.filters=Фільтри
+    label.location=Розташування
+    label.location-empty=Немає місць, щоб відфільтрувати по
+
+[MindTouch.Subscriptions]
+    cancel=Скасувати
+    caption.normal=Ви підписані на наступні сторінки.
+    caption.nosubscriptions=Ви не підписані ні на які сторінки.
+    column.page=Сторінка
+    column.recursive=Електронна пошта для
+    link-title=Дізнайтеся більше про керування сповіщеннями в MindTouch
+    nonrecursive=Лише на цій сторінці
+    nonrecursive.draft=Лише цей проект
+    recursive.many=$1 сторінок
+    recursive.many.draft=$1 чернеток
+    recursive.many.overflow=Підписано на всі підсторінки
+    recursive.many.overflow.draft=Підписано на всі чернетки підсторінок
+    recursive.one=1 сторінка
+    recursive.one.draft=1 чернетка
+    unsubscribe=Відписатися
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Закрити повідомлення
+
+[Page.AuthenticationProviders]
+    page-title=Увійти
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Відвідайте успіху.mindtouch.com для всіх тем довідки. </a>
+
+[Page.Error]
+    not-found=Сторінку не знайдено
+    not-found-error=Вибачте, сторінку в $1 не знайдено.
+    not-found-results=Пов'язані результати пошуку:
+    page-title=Помилка
+
+[Page.FeedbackRating]
+    button.leave-feedback=Залишити відгук
+    button.rating-no=Ні
+    button.rating-yes=Так
+    button.submit-feedback=Надіслати відгук
+    label.checkbox.contact-me=Так, ви можете зв'язатися зі мною з приводу цього зворотного зв'язку.
+    label.feedback-question=Як ми можемо покращити цю статтю?
+    label.last-rated=— Ви останній оцінили цю статтю на $1
+    label.rating-message=Чи була ця стаття корисною?
+    legend.feedback-form=Залишити відгук
+    message.contact.no=Ні
+    message.contact.yes=Так
+    message.submit.error=Сталася помилка під час спроби надіслати відгук. Будь ласка, спробуйте ще раз пізніше.
+    message.submit.success=Ваш відгук успішно надіслано. Ви можете надіслати більше відгуків у будь-який час.
+
+[Page.LiveTags]
+    label.article=Тип статті
+
+[Page.LoginPasswordRegister]
+    page-title=Вхід і реєстрація
+    tab.login=Увійти
+    tab.password=Скидання пароля
+    tab.register=Реєстрація
+
+[Page.Preferences]
+    error.invalid-email=Будь ласка, вкажіть дійсну адресу електронної пошти
+    form.email=Адреса електронної пошти
+    form.fullname=Коротке ім'я
+    form.fullname.help=Лише для відображення
+    form.hint.password-characters=Пароль повинен містити принаймні 3 з наступних символів: малі, великі, цифри або символи.
+    form.hint.password-length=Пароль повинен бути довжиною не менше 8 символів
+    form.hint.password-match=Паролі повинні збігатися
+    form.hint.password.restricted-words=Пароль не може містити загальні слова пароля
+    form.legend.information=Моя інформація
+    form.legend.password=Мій пароль
+    form.password.new=Новий пароль
+    form.password.old=Старий пароль
+    form.password.submit=Змінити пароль
+    form.password.verify=Повторне введення нового пароля
+    form.submit=Зберегти мою інформацію
+
+[Page.Tags]
+    message.notags=Ця сторінка не має тегів.
+    page-title=Мітки сайту
+    tags-inserted-from-template=Теги, рекомендовані шаблоном:
+    tags-inserted-heading=Теги сторінок:
+
+[Page.UserLogin]
+    error=Не вдалося виконати вхід. Будь ласка, підтвердіть своє ім'я користувача та пароль.
+    page-title=Увійти
+    submit-login=Увійти
+    user-name=Ім'я користувача
+    user-password=Пароль
+
+[Page.UserLogout]
+    page-title=Вийти
+    success=Ви успішно вийшли з облікового запису.
+
+[Page.UserPassword]
+    form.submit=Скидання пароля
+    page-title=Скидання пароля
+    success.email-sent=Інструкції зі скидання пароля були відправлені на адресу електронної пошти, зареєстровану для цього облікового запису. Якщо ви не отримали листа, будь ласка, перевірте орфографію і повторіть спробу. Якщо ви продовжуєте мати проблеми з входом, зверніться до адміністратора сайту.
+
+[Page.UserRegistration]
+    error.email.match=Введені вами листи не збігаються.
+    error.password.match=Введені вами паролі не збігаються.
+    form.email=E-mail
+    form.email.verify=Перевірити адресу електронної пошти
+    form.fullname=Повне ім'я <span class="note">(необов'язково)</span>
+    form.password=Пароль
+    form.password.verify=Підтвердити пароль
+    form.submit=Створити обліковий запис
+    form.username=Ім'я користувача
+    page-title=Створити обліковий запис
+    success.created=Користувач <strong>$1</strong> був створений.
+
+[Page.Welcome]
+    community-banner-text=Тепер ви можете робити внесок і обмінюватися вмістом.
+    community-banner-title=Ласкаво просимо, $1. Ваш обліковий запис створено.
+    community-get-started-text=<strong>Ось кілька порад, які допоможуть вам почати роботу:</strong>
+    community-tip1-text=Надавати власникам сайтів цінний відгук про зміст сайту. Чи була стаття корисною? Натисніть кнопку <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Так</span>. Якщо ні, натисніть кнопку <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Залишити відгук</span> , щоб повідомити нам, як ми можемо покращити. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Дізнайтеся більше</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Розпочати розмову, коментуючи сторінку. Внесіть свою власну інформацію або відповідайте на коментарі інших користувачів. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Дізнайтеся більше</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Скидання пароля
+
+[Product]
+    powered-by-site=Працює від MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Увійти
+    header.recommended-articles=Рекомендовані статті
+    header.toc=Зміст
+    label.back-to-top=Повернутися до верху
+    label.global-location-toggle=Розгорнути/згорнути глобальне
+    label.global-navigation-toggle=Розгортання/згортання глобальної ієрархії
+    label.last-updated=Останнє оновлення
+    label.last-updated-by=від
+    label.no-recommended-articles=Рекомендованих статей немає.
+    label.password=Пароль
+    label.pdf-export=Зберегти як PDF
+    label.signout=Вийти
+    label.site-search.button=Пошук
+    label.site-search.input=Пошук
+    label.skip-link=Перейти до основного вмісту
+    label.tags=Мітки
+    label.user-preferences=Мої вподобання
+    label.username=Ім'я користувача
+    link.quick-login=Увійти
+    link.site-search=Пошук по сайту
+    placeholder.site-search.input=Чим ми можемо вам допомогти?
+    tooltip.back-to-top=Повернутися до початку цієї статті
+    tooltip.browse-back=Повернутися до попередньої статті
+    tooltip.pdf-export=Експортувати сторінку як PDF-файл
+    tooltip.signout=Натисніть, щоб вийти з цього сайту
+    tooltip.skip-link=Натисніть клавішу Enter, щоб перейти до основного вмісту
+    tooltip.user-preferences=Натисніть, щоб змінити налаштування користувача
+
+[Skin.Common]
+    copyright=Авторські права
+    home=Головна
+
+[System.API]
+    no-headers=Немає заголовків
+    opensearch-shortname=$1 Пошук
+
+[Users]
+    email.body.html.content=<p>Вітаю, <br/><br/>\ r\ n\ r\ nУ вас тепер є рахунок в $4. <br/><br/>Увійдіть, щоб миттєво розпочати співпрацю з іншими учасниками спільноти. Нижче наведені деталі доступу до сайту:<br/><br/>\ r\ n\ r\ nURL сайту: <a href="$2">$2</a><br/>\ r\ nІм'я користувача: $1<br/>Пароль: $3<br/><br/>\ r\ n\ r\ nЯкщо вам потрібна допомога в запуску або виникли конкретні питання про <a href="$2">$4</a>, будь ласка, зв'яжіться з адміністратором сайту. </p>
+    email.body.html.content.nopassword=<p>Вітаю, <br/><br/>\ r\ n\ r\ nУ вас тепер є рахунок в $3. <br/><br/>Увійдіть, щоб миттєво розпочати співпрацю з іншими учасниками спільноти. Нижче наведено відомості про доступ до вашого сайту:<br/><br/>\ r\ n\ r\ nURL сайту: <a href="$2">$2</a><br/>\ r\ nІм'я користувача: $1<br/><br/><em>Зв'яжіться з адміністратором сайту, якщо ви не знаєте свого пароля. </em><br/><br/>\ r\ n\ r\ nЯкщо вам потрібна допомога в запуску або виникли конкретні питання про <a href="$2">$3</a>, будь ласка, зв'яжіться з адміністратором сайту. </p>
+    email.body.text=\ r\ nВітаю,\ r\ n\ r\ nУ вас тепер є рахунок в $4. Увійдіть, щоб миттєво розпочати співпрацю з іншими учасниками спільноти. Нижче наведені деталі доступу до сайту:\ r\ n\ r\ nURL сайту: $2\ r\ nІм'я користувача: $1\ r\ nПароль: $3\ r\ n\ r\ nЯкщо вам потрібна допомога для початку роботи або виникли конкретні питання про $4, будь ласка, зв'яжіться з адміністратором сайту.
+    email.body.text.nopassword=\ r\ nВітаю,\ r\ n\ r\ nУ вас тепер є рахунок в $3. Увійдіть, щоб миттєво розпочати співпрацю з іншими учасниками спільноти. Нижче наведені деталі доступу до сайту:\ r\ n\ r\ nURL сайту: $2\ r\ nІм'я користувача: $1\ r\ nЗв'яжіться з адміністратором сайту, якщо ви не знаєте свого пароля. \ r\ n\ r\ nЯкщо вам потрібна допомога в запуску або виникли конкретні питання про $3, будь ласка, зв'яжіться з адміністратором сайту.
+    email.external.body.html.content=<p>Вітаю, <br/><br/>\ r\ n\ r\ nУ вас тепер є рахунок в $3. <br/><br/>Увійдіть, щоб миттєво розпочати співпрацю з іншими учасниками спільноти. Нижче наведені деталі доступу до сайту:<br/><br/>\ r\ n\ r\ nURL сайту: <a href="$2">$2</a><br/>\ r\ nІм'я користувача: $1<br/><br/>\ r\ n\ r\ nЯкщо вам потрібна допомога в запуску або виникли конкретні питання про <a href="$2">$3</a>, будь ласка, зв'яжіться з адміністратором сайту. </p>
+    email.subject=$1 Подробиці для входу
+    form.password.instructions=Паролі мають бути довжиною не менше 8 символів і містити принаймні 3 з наступних символів: малі, великі, цифри або символи.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Запитуваний сенсорний пункт MindTouch не може бути завантажений вашим веб-браузером.
+    label.back-to-top=Повернутися до верху
+
+[WebWidget.F1]
+    label.help-button=Допоможіть
+    title.help-button=Допоможіть
+
+[WebWidget.Login]
+    label.authenticated-user=Увійшли в MindTouch як {{ім'я користувача}}
+    label.sign-in=Увійти в MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Натисніть, щоб згорнути резюме
+    label.disabled-message=Будь ласка, спробуйте ще раз пізніше.
+    label.disabled-title=Вибачте, пошук наразі недоступний.
+    label.expand-summary=Натисніть, щоб розгорнути резюме
+    label.forbidden-message=Будь ласка, увійдіть або зв'яжіться з адміністратором сайту.
+    label.forbidden-title=У вас немає дозволу на використання цієї функції.
+    label.input-hint=Пошук
+    label.no-results-faceting-message=Спробуйте знайти щось інше або вибрати категорію.
+    label.no-results-message=Спробуйте пошукати щось інше.
+    label.no-results-title=Вибачте, ми не можемо знайти те, що ви шукаєте.
+    label.recommended=Рекомендовані
+    label.refine-search=Уточнити пошук
+    label.show-more=Показати ще
+
+[WebWidgets]
+    label.authenticated-user=Привіт, {{ім'я користувача}}!
+    label.nav.back=Назад
+    label.nav.forward=Вперед
+    label.nav.home=Головна
+
+[Component.Translate]
+    label.choose-language=Оберіть мову
+    label.english=Англійська мова
+    label.update-failed=Переклад неповний
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=本
+    language.chinese=中国
+    language.french=Français
+    language.portuguese=португальська
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=свенська
+    language.danish=данск
+    language.finnish=Суомалайнен
+    language.italian=італьяно
+    title.translated-machine=Зміст сторінки, перекладені за допомогою машинного перекладу
+    dialog.translated-mindtouch=Переклад MindTouch
