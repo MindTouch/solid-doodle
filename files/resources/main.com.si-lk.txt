@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=සොයන්න
+    New.word=නව වචනය නැවත
+    extra=සීමාව යාවත්කාලීන පරීක්ෂා
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=ආපසු
+    dialog.text.forward=ඉදිරියට
+    dialog.text.hint=සොයන්න
+    dialog.text.home=නිවස
+    dialog.text.open=විවෘත ලිපිය
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=පෙරණයක් තෝරා ගැනීමෙන් ප්රතිඵල පිරිපහදු කරන්න.
+    help-header-label=සඳහා උපකාර ප්රතිඵල
+    in=තුළ
+    label-filter=සෙවීම
+    label-result-count={0} ප්රතිඵල ගැන
+    label-search-all=සියලුම ප්රතිඵල
+    label.page-rating-no=නැත
+    label.page-rating-yes=ඔව්
+    more=තවත්
+    no-search-results=කණගාටුයි, ඔබ සොයන දේ අපට සොයාගත නොහැක.
+    no-search-try=වෙනත් දෙයක් සෙවීමට උත්සාහ කරන්න, ප්රවර්ගයක් තෝරා ගැනීමට හෝ ටිකට් පතක් නිර්මාණය කිරීමට උත්සාහ කරන්න.
+    recommended=(නිර්දේශිත)
+    search-error=සෙවීම දෝෂයක් ඇති වී තිබේ.
+    search-error-try=කරුණාකර පසුව නැවත උත්සාහ කරන්න.
+    search-unavailable=කණගාටුයි, සෙවීම දැනට නොමැත.
+    show-more-search=තවත් ප්රතිඵල පෙන්වන්න
+    tooltip.scrollNext=ඊළඟට අනුචලනය කරන්න
+    tooltip.scrollPrev=පෙර අනුචලනය
+    warning.search-only-english=සෙවීම ඉංග්රීසියෙන් පමණක් ලබා ගත හැකිය
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(නිර්මාණය කරන ලද දිනය)
+    featured.articles.created.title=මෑතකදී එකතු කරන ලදි
+    featured.articles.rated.label=(ශ්රේණිගත)
+    featured.articles.rated.title=ඉහළම ශ්රේණිගත
+    featured.articles.updated.label=(යාවත්කාලීන කරන ලද දිනය)
+    featured.articles.updated.title=මෑතකදී යාවත්කාලීන කරන ලදි
+    featured.articles.viewed.label=(අදහස්)
+    featured.articles.viewed.title=වඩාත් ජනප්රියයි
+    label.guide-subpage-display-single=තනි
+    label.guide-subpage-display-tabbed=ටැබ්
+    label.guide.tabscrollleft=අනුචලනය ටැබ් වම
+    label.guide.tabscrollright=ටැබ් අයිතිය අනුචලනය
+    label.reveal.showAll=සියල්ල පෙන්වන්න
+    label.reveal.showLess=අඩු පෙන්වන්න
+    label.search.placeholder=සොයන්න
+    type.how-to=කෙසේ වෙතත්
+    type.howto=කෙසේ වෙතත්
+    type.reference=විමර්ශන
+    type.topic=මාතෘකාව
+    type.topic-category=ප්රවර්ගය
+    type.topic-guide=මාර්ගෝපදේශය
+    type.topic-portfolio=කළඹ
+    type.unclassified=වර්ගීකරණය නොකළ
+
+[MindTouch.LearningPath]
+    label.view-pages=පිටු බලන්න
+    message.page-count=<span>පිටු:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=සඟවන්න
+    button.toggle.show=පෙන්වන්න
+    label.attachments=ඇමුණුම් ඇතුළත්
+    label.attachments-description=අන්තර්ගත වර්ගය
+    label.attachments.type.binary=වෙනත්
+    label.attachments.type.document=ලියවිල්ල
+    label.attachments.type.image=පින්තූරය
+    label.classification=වර්ගීකරණය
+    label.clear-all=සියලුම පෙරහන් ඉවත් කරන්න
+    label.description=පෙරහන් ප්රතිඵල
+    label.filters=පෙරහන්
+    label.location=ස්ථානය
+    label.location-empty=විසින් පෙරීමට ස්ථාන නොමැත
+
+[MindTouch.Subscriptions]
+    cancel=අවලංගු කරන්න
+    caption.normal=ඔබ පහත පිටු වලට දායක වී ඇත.
+    caption.nosubscriptions=ඔබ කිසිදු පිටුවකට දායක වී නොමැත.
+    column.page=පිටුව
+    column.recursive=ඊ-තැපැල් දැනුම්දීම්
+    link-title=MindTouch හි දැනුම්දීම් කළමනාකරණය කිරීම ගැන වැඩි විස්තර දැනගන්න
+    nonrecursive=මෙම පිටුව පමණි
+    nonrecursive.draft=මෙම කෙටුම්පත පමණි
+    recursive.many=$1 පිටු
+    recursive.many.draft=$1 කෙටුම්පත්
+    recursive.many.overflow=සියලුම උප පිටු වලට දායක වී ඇත
+    recursive.many.overflow.draft=සියලුම උපපිටු කෙටුම්පත් සඳහා දායක විය
+    recursive.one=1 පිටුව
+    recursive.one.draft=1 කෙටුම්පත
+    unsubscribe=දායක වන්න
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=පණිවිඩය වසන්න
+
+[Page.AuthenticationProviders]
+    page-title=පුරනය වන්න
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">සියලු උපකාරක මාතෘකා සඳහා සාර්ථක.mindtouch.com වෙත පිවිසෙන්න. </a>
+
+[Page.Error]
+    not-found=පිටුව සොයාගත නොහැකි විය
+    not-found-error=කණගාටුයි, $1 හි පිටුව සොයාගත නොහැකි විය.
+    not-found-results=අදාළ සෙවුම් ප්රතිඵල:
+    page-title=දෝෂය
+
+[Page.FeedbackRating]
+    button.leave-feedback=ප්රතිචාර දක්වන්න
+    button.rating-no=නැත
+    button.rating-yes=ඔව්
+    button.submit-feedback=ප්රතිපෝෂණ ඉදිරිපත් කරන්න
+    label.checkbox.contact-me=ඔව්, ඔබ මෙම ප්රතිපෝෂණය ගැන මා හා සම්බන්ධ විය හැකිය.
+    label.feedback-question=මෙම ලිපිය වැඩිදියුණු කළ හැක්කේ කෙසේද?
+    label.last-rated=— ඔබ අවසන් වරට මෙම ලිපිය $1 මත ශ්රේණිගත
+    label.rating-message=මෙම ලිපිය ප්රයෝජනවත් වූවාද?
+    legend.feedback-form=ප්රතිචාර දක්වන්න
+    message.contact.no=නැත
+    message.contact.yes=ඔව්
+    message.submit.error=ඔබගේ ප්රතිපෝෂණය යැවීමට උත්සාහ කරන අතරතුර දෝෂයක් සිදුවිය. කරුණාකර පසු අවස්ථාවක නැවත උත්සාහ කරන්න.
+    message.submit.success=ඔබගේ ප්රතිපෝෂණය සාර්ථකව ඉදිරිපත් කර ඇත. ඔබට ඕනෑම වේලාවක වැඩි ප්රතිපෝෂණ ඉදිරිපත් කළ හැකිය.
+
+[Page.LiveTags]
+    label.article=ලිපි වර්ගය
+
+[Page.LoginPasswordRegister]
+    page-title=ලියාපදිංචි වන්න
+    tab.login=පුරනය වන්න
+    tab.password=මුරපදය යළි පිහිටුවීම
+    tab.register=ලියාපදිංචිය
+
+[Page.Preferences]
+    error.invalid-email=කරුණාකර වලංගු විද්යුත් තැපැල් ලිපිනයක් සඳහන් කරන්න
+    form.email=විද්යුත් තැපැල් ලිපිනය
+    form.fullname=ප්රදර්ශනය නම
+    form.fullname.help=දර්ශන අරමුණු සඳහා පමණි
+    form.hint.password-characters=මුරපදයෙහි පහත සඳහන් අක්ෂර වලින් අවම වශයෙන් 3 ක් වත් අඩංගු විය යුතුය: සිම්පල්, ඉහළ, ඉලක්කම් හෝ සංකේත.
+    form.hint.password-length=මුරපදය අවම වශයෙන් 8 අක්ෂර දිග විය යුතුය
+    form.hint.password-match=මුරපද ගැලපේ
+    form.hint.password.restricted-words=මුරපදයට පොදු මුරපද වචන අඩංගු විය නොහැක
+    form.legend.information=මගේ තොරතුරු
+    form.legend.password=මගේ මුරපදය
+    form.password.new=නව මුරපදය
+    form.password.old=පැරණි මුරපදය
+    form.password.submit=මුරපදය වෙනස් කරන්න
+    form.password.verify=නව මුරපදය Retype
+    form.submit=මගේ තොරතුරු සුරකින්න
+
+[Page.Tags]
+    message.notags=මෙම පිටුවට ටැග් නොමැත.
+    page-title=අඩවිය ටැග්
+    tags-inserted-from-template=සැකිල්ල විසින් නිර්දේශ කරන ලද ටැග්:
+    tags-inserted-heading=පිටුව ටැග්:
+
+[Page.UserLogin]
+    error=ඔබේ ලකුණ අසාර්ථක වී ඇත. කරුණාකර ඔබගේ පරිශීලක නාමය සහ මුරපදය සත්යාපනය කරන්න.
+    page-title=පුරනය වන්න
+    submit-login=පුරනය වන්න
+    user-name=පරිශීලක නාමය
+    user-password=මුරපදය
+
+[Page.UserLogout]
+    page-title=ලියාපදිංචි වන්න
+    success=ඔබ සාර්ථකව අත්සන් කර ඇත.
+
+[Page.UserPassword]
+    form.submit=මුරපදය යළි පිහිටුවීම
+    page-title=මුරපදය යළි පිහිටුවීම
+    success.email-sent=මුරපදය යළි පිහිටුවීමේ උපදෙස් මෙම ගිණුම සඳහා ලියාපදිංචි ඊ-තැපැල් ලිපිනය වෙත යවා ඇත. ඔබට විද්යුත් තැපෑලක් නොලැබුනේ නම්, කරුණාකර ඔබේ අක්ෂර වින්යාසය පරීක්ෂා කර නැවත උත්සාහ කරන්න. ඔබ අත්සන් ගැටළු දිගටම තිබේ නම්, ඔබේ වෙබ් අඩවිය පරිපාලක අමතන්න.
+
+[Page.UserRegistration]
+    error.email.match=ඔබ ඇතුළු කළ ඊමේල් නොගැලපේ.
+    error.password.match=ඔබ ඇතුළත් කළ මුරපද නොගැලපේ.
+    form.email=ඊ-තැපැල්
+    form.email.verify=ඊමේල් සත්යාපනය කරන්න
+    form.fullname=සම්පූර්ණ නම <span class="note">(විකල්ප)</span>
+    form.password=මුරපදය
+    form.password.verify=මුරපදය සත්යාපනය කරන්න
+    form.submit=ගිණුමක් සාදන්න
+    form.username=පරිශීලක නාමය
+    page-title=ගිණුමක් සාදන්න
+    success.created=පරිශීලක <strong>$1</strong> නිර්මාණය කර ඇත.
+
+[Page.Welcome]
+    community-banner-text=ඔබට දැන් අන්තර්ගතය දායක කර බෙදා ගත හැකිය.
+    community-banner-title=සාදරයෙන් පිළිගනිමු, $1. ඔබගේ ගිණුම නිර්මාණය කර ඇත.
+    community-get-started-text=<strong>ආරම්භ කිරීමට ඔබට උපකාර කිරීමට උපදෙස් කිහිපයක් මෙන්න:</strong>
+    community-tip1-text=වෙබ් අඩවියේ අන්තර්ගතය පිළිබඳ වටිනා ප්රතිපෝෂණ අඩවි හිමිකරුවන්ට ලබා දෙන්න. ලිපිය ප්රයෝජනවත් වූවාද? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">ඔව්</span>ක්ලික් කරන්න. එසේ නොවේ නම්, ක්ලික් කරන්න <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Leave ප්රතිචාර</span> අපට දියුණු කළ හැකි ආකාරය අපට කියන්න. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">වැඩිදුර ඉගෙන ගන්න</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=පිටුවකට අදහස් දක්වමින් සංවාදයක් ආරම්භ කරන්න. ඔබේම තොරතුරු හෝ වෙනත් පරිශීලකයන්ගේ අදහස් වලට පිළිතුරු සපයන්න. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">වැඩිදුර ඉගෙන ගන්න</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=මුරපදය යළි පිහිටුවීම
+
+[Product]
+    powered-by-site=Mindටච් විසින් තල්ලු
+
+[Skin.Columbia]
+    button.quick-login=පුරනය වන්න
+    header.recommended-articles=නිර්දේශිත ලිපි
+    header.toc=අන්තර්ගත වගුව
+    label.back-to-top=ආපසු ඉහළට
+    label.global-location-toggle=ව්යාප්ත/බිඳවැටීම ගෝලීය පිහිටීම
+    label.global-navigation-toggle=ව්යාප්ත/ගෝලීය ධූරාවලිය බිඳ වැටීම
+    label.last-updated=අවසන් වරට යාවත්කාලීන
+    label.last-updated-by=විසින්
+    label.no-recommended-articles=නිර්දේශිත ලිපි නොමැත.
+    label.password=මුරපදය
+    label.pdf-export=PDF ලෙස සුරකින්න
+    label.signout=ලියාපදිංචි වන්න
+    label.site-search.button=සොයන්න
+    label.site-search.input=සොයන්න
+    label.skip-link=ප්රධාන අන්තර්ගතයට මඟ හරින්න
+    label.tags=ටැග්
+    label.user-preferences=මගේ මනාපයන්
+    label.username=පරිශීලක නාමය
+    link.quick-login=පුරනය වන්න
+    link.site-search=වෙබ් අඩවිය සොයන්න
+    placeholder.site-search.input=අපි ඔබට උදව් කළ හැක්කේ කෙසේද?
+    tooltip.back-to-top=මෙම ලිපියේ ඉහළට පනින්න
+    tooltip.browse-back=පෙර ලිපිය වෙත ආපසු යන්න
+    tooltip.pdf-export=PDF ලෙස පිටුව අපනයනය කරන්න
+    tooltip.signout=මෙම වෙබ් අඩවියෙන් පිටවීමට ක්ලික් කරන්න
+    tooltip.skip-link=ප්රධාන අන්තර්ගතයට මඟ හැරීමට මාධ්ය ඇතුල්
+    tooltip.user-preferences=ඔබගේ පරිශීලක මනාපයන් වෙනස් කිරීමට ක්ලික් කරන්න
+
+[Skin.Common]
+    copyright=ප්රකාශන හිමිකම
+    home=නිවස
+
+[System.API]
+    no-headers=ශීර්ෂයක් නැත
+    opensearch-shortname=$1 සෙවීම
+
+[Users]
+    email.body.html.content=<p>සුභ පැතුම්, <br/><br/>\ r\ n\ r\ nඔබට දැන් ඩොලර් 4 ක ගිණුමක් තිබේ. <br/><br/>ක්ෂණිකව අනෙකුත් ප්රජා සාමාජිකයන් සමඟ සහයෝගයෙන් කටයුතු කිරීම ආරම්භ කිරීමට පුරනය වන්න. පහත දැක්වෙන්නේ ඔබේ වෙබ් අඩවි ප්රවේශ විස්තර:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nපරිශීලක නාමය: $1<br/>මුරපදය: $3<br/><br/>\ r\ n\ r\ nඔබට ආරම්භ කිරීමට උදව් අවශ්ය නම් හෝ <a href="$2">$4</a>පිළිබඳ නිශ්චිත ප්රශ්න තිබේ නම්, කරුණාකර අඩවි පරිපාලක අමතන්න. </p>
+    email.body.html.content.nopassword=<p>සුභ පැතුම්, <br/><br/>\ r\ n\ r\ nඔබට දැන් ඩොලර් 3 ක ගිණුමක් තිබේ. <br/><br/>ක්ෂණිකව අනෙකුත් ප්රජා සාමාජිකයන් සමඟ සහයෝගයෙන් කටයුතු කිරීම ආරම්භ කිරීමට පුරනය වන්න. පහත දැක්වෙන්නේ ඔබේ වෙබ් අඩවි ප්රවේශ විස්තර:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nපරිශීලක නාමය: $1<em>ඔබ ඔබේ මුරපදය නොදන්නේ නම් අඩවි පරිපාලක<br/><br/>අමතන්න. </em><br/><br/>\ r\ n\ r\ nඔබට ආරම්භ කිරීමට උදව් අවශ්ය නම් හෝ <a href="$2">$3</a>පිළිබඳ නිශ්චිත ප්රශ්න තිබේ නම්, කරුණාකර අඩවි පරිපාලක අමතන්න. </p>
+    email.body.text=\ r\ nසුභ පැතුම්,\ r\ n\ r\ nඔබට දැන් ඩොලර් 4 ක ගිණුමක් තිබේ. ක්ෂණිකව අනෙකුත් ප්රජා සාමාජිකයන් සමඟ සහයෝගයෙන් කටයුතු කිරීම ආරම්භ කිරීමට පුරනය වන්න. පහත දැක්වෙන්නේ ඔබේ වෙබ් අඩවි ප්රවේශ විස්තර:\ r\ n\ r\ nSite URL: $2\ r\ nපරිශීලක නාමය: $1\ r\ nමුරපදය: $3\ r\ n\ r\ nඔබට ආරම්භ කිරීමට උදව් අවශ්ය නම් හෝ $4 පිළිබඳ නිශ්චිත ප්රශ්න තිබේ නම්, කරුණාකර අඩවි පරිපාලක අමතන්න.
+    email.body.text.nopassword=\ r\ nසුභ පැතුම්,\ r\ n\ r\ nඔබට දැන් ඩොලර් 3 ක ගිණුමක් තිබේ. ක්ෂණිකව අනෙකුත් ප්රජා සාමාජිකයන් සමඟ සහයෝගයෙන් කටයුතු කිරීම ආරම්භ කිරීමට පුරනය වන්න. පහත දැක්වෙන්නේ ඔබේ වෙබ් අඩවි ප්රවේශ විස්තර:\ r\ n\ r\ nSite URL: $2\ r\ nපරිශීලක නාමය: $1\ r\ nඔබගේ මුරපදය නොදන්නේ නම් අඩවි පරිපාලක අමතන්න. \ r\ n\ r\ nඔබට ආරම්භ කිරීමට උදව් අවශ්ය නම් හෝ $3 පිළිබඳ නිශ්චිත ප්රශ්න තිබේ නම්, කරුණාකර අඩවි පරිපාලක අමතන්න.
+    email.external.body.html.content=<p>සුභ පැතුම්, <br/><br/>\ r\ n\ r\ nඔබට දැන් ඩොලර් 3 ක ගිණුමක් තිබේ. <br/><br/>ක්ෂණිකව අනෙකුත් ප්රජා සාමාජිකයන් සමඟ සහයෝගයෙන් කටයුතු කිරීම ආරම්භ කිරීමට පුරනය වන්න. පහත දැක්වෙන්නේ ඔබේ වෙබ් අඩවි ප්රවේශ විස්තර:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nපරිශීලක නාමය: $1<br/><br/>\ r\ n\ r\ nආරම්භ කිරීමට උදව් අවශ්ය නම් හෝ <a href="$2">$3</a>පිළිබඳ නිශ්චිත ප්රශ්න තිබේ නම්, කරුණාකර අඩවි පරිපාලක අමතන්න. </p>
+    email.subject=$1 විස්තර ලියාපදිංචි වන්න
+    form.password.instructions=මුරපද අවම වශයෙන් 8 අක්ෂර දිග විය යුතු අතර අවම වශයෙන් 3 පහත සඳහන් අක්ෂර අඩංගු විය යුතුය: සිම්පල්, ඉහළ, ඉලක්කම් හෝ සංකේත.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=ඉල්ලූ MindTouchpoint ඔබේ වෙබ් බ්රව්සරය විසින් පටවා ගත නොහැකි විය.
+    label.back-to-top=ආපසු ඉහළට
+
+[WebWidget.F1]
+    label.help-button=උදව්
+    title.help-button=උදව්
+
+[WebWidget.Login]
+    label.authenticated-user={පරිශීලක නාමය}} ලෙස MindTouch අත්සන්
+    label.sign-in=Mindටච් වෙත පුරනය වන්න
+
+[WebWidget.Search]
+    label.collapse-summary=සාරාංශය බිඳවැටීමට ක්ලික් කරන්න
+    label.disabled-message=කරුණාකර පසුව නැවත උත්සාහ කරන්න.
+    label.disabled-title=කණගාටුයි, සෙවීම දැනට නොමැත.
+    label.expand-summary=සාරාංශය පුළුල් කිරීමට ක්ලික් කරන්න
+    label.forbidden-message=කරුණාකර ලොග් වන්න, නැතහොත් ඔබේ වෙබ් අඩවි පරිපාලක අමතන්න.
+    label.forbidden-title=මෙම අංගය භාවිතා කිරීමට ඔබට අවසර නැත.
+    label.input-hint=සොයන්න
+    label.no-results-faceting-message=වෙනත් දෙයක් සෙවීමට හෝ ප්රවර්ගයක් තෝරා ගැනීමට උත්සාහ කරන්න.
+    label.no-results-message=වෙනත් දෙයක් සෙවීමට උත්සාහ කරන්න.
+    label.no-results-title=කණගාටුයි, ඔබ සොයන දේ අපට සොයාගත නොහැක.
+    label.recommended=නිර්දේශ
+    label.refine-search=ශුද්ධ සෙවීම
+    label.show-more=තවත් පෙන්වන්න
+
+[WebWidgets]
+    label.authenticated-user=හෙලෝ, {පරිශීලක නාමය}!
+    label.nav.back=ආපසු
+    label.nav.forward=ඉදිරියට
+    label.nav.home=නිවස
+
+[Component.Translate]
+    label.choose-language=භාෂාව තෝරන්න
+    label.english=ඉංග්රීසි
+    label.update-failed=පරිවර්තන අසම්පූර්ණයි
+    language.spanish=ස්පාඤ්ඤ
+    language.german=ඩොයිෂ්
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=ප්රංශ
+    language.portuguese=portuguesa
+    language.dutch=නෙදර්බිම්වල
+    language.korean=한국어
+    language.swedish=වොන්ටා
+    language.danish=ඩැන්ස්ක්
+    language.finnish=සුමලයින්
+    language.italian=ඉතාලි
+    title.translated-machine=යන්ත්ර පරිවර්තනය භාවිතා කරමින් පරිවර්තනය කරන ලද පිටු අන්තර්ගතය
+    dialog.translated-mindtouch=Mindටච් විසින් පරිවර්තනය කරන
