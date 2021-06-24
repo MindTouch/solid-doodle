@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Sök
+    New.word=nytt Word igen
+    extra=Testa i limbo uppdatering
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Tillbaka
+    dialog.text.forward=Framåt
+    dialog.text.hint=sök
+    dialog.text.home=Hem
+    dialog.text.open=Öppna artikel
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Förfina resultat genom att välja ett filter.
+    help-header-label=Hjälpresultat för
+    in=i
+    label-filter=Söka i
+    label-result-count=Om {0} resultat
+    label-search-all=Alla resultat
+    label.page-rating-no=Nej
+    label.page-rating-yes=Javisst
+    more=Mer
+    no-search-results=Tyvärr kan vi inte hitta det du letar efter.
+    no-search-try=Prova att söka efter något annat, välja en kategori eller försök att skapa en biljett.
+    recommended=(Rekommenderas)
+    search-error=Sökning har stött på ett fel.
+    search-error-try=Försök igen senare.
+    search-unavailable=Tyvärr, sökningen är för närvarande inte tillgänglig.
+    show-more-search=Visa fler resultat
+    tooltip.scrollNext=Bläddra till nästa
+    tooltip.scrollPrev=Bläddra till föregående
+    warning.search-only-english=Sök är endast tillgänglig på engelska
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(datum skapad)
+    featured.articles.created.title=Nyligen tillagda
+    featured.articles.rated.label=(betyg)
+    featured.articles.rated.title=Högst rankade
+    featured.articles.updated.label=(uppdaterat datum)
+    featured.articles.updated.title=Nyligen uppdaterad
+    featured.articles.viewed.label=(vyer)
+    featured.articles.viewed.title=Mest populära
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbade
+    label.guide.tabscrollleft=Bläddra flikar åt vänster
+    label.guide.tabscrollright=Bläddra flikar åt höger
+    label.reveal.showAll=Visa alla
+    label.reveal.showLess=Visa mindre
+    label.search.placeholder=Sök
+    type.how-to=Hur man gör
+    type.howto=Hur man gör
+    type.reference=Referens
+    type.topic=Ämne
+    type.topic-category=Kategori
+    type.topic-guide=Guide
+    type.topic-portfolio=Portfölj
+    type.unclassified=Oklassificerad
+
+[MindTouch.LearningPath]
+    label.view-pages=Visa sidor
+    message.page-count=<span>Sidor:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Dölj
+    button.toggle.show=Visa
+    label.attachments=Inkludera bilagor
+    label.attachments-description=Typ av innehåll
+    label.attachments.type.binary=Annat
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Bild
+    label.classification=Klassificering
+    label.clear-all=Rensa alla filter
+    label.description=Filtrera resultat
+    label.filters=Filter
+    label.location=Plats
+    label.location-empty=Det finns inga platser att filtrera efter
+
+[MindTouch.Subscriptions]
+    cancel=Avbryta
+    caption.normal=Du prenumererar på följande sidor.
+    caption.nosubscriptions=Du prenumererar inte på några sidor.
+    column.page=Sidan
+    column.recursive=E-postmeddelanden för
+    link-title=Läs mer om att hantera aviseringar i MindTouch
+    nonrecursive=Endast den här sidan
+    nonrecursive.draft=Endast detta utkast
+    recursive.many=$1 sidor
+    recursive.many.draft=$1 utkast
+    recursive.many.overflow=Prenumerera på alla undersidor
+    recursive.many.overflow.draft=Prenumerera på alla undersidsutkast
+    recursive.one=1 sida
+    recursive.one.draft=1 utkast
+    unsubscribe=Avsluta prenumerationen
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Stäng meddelande
+
+[Page.AuthenticationProviders]
+    page-title=Logga in
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Besök success.mindtouch.com för alla hjälpämnen. </a>
+
+[Page.Error]
+    not-found=Sidan hittades inte
+    not-found-error=Sidan på $1 kunde tyvärr inte hittas.
+    not-found-results=Relaterade sökresultat:
+    page-title=Fel
+
+[Page.FeedbackRating]
+    button.leave-feedback=Lämna feedback
+    button.rating-no=Nej
+    button.rating-yes=Javisst
+    button.submit-feedback=Skicka feedback
+    label.checkbox.contact-me=Ja, du kan kontakta mig angående denna feedback.
+    label.feedback-question=Hur kan vi förbättra den här artikeln?
+    label.last-rated=- Du senast betygsatt den här artikeln på $1
+    label.rating-message=Var den här artikeln till hjälp?
+    legend.feedback-form=Lämna feedback
+    message.contact.no=Nej
+    message.contact.yes=Javisst
+    message.submit.error=Ett fel uppstod när du försökte skicka din feedback. Försök igen vid ett senare tillfälle.
+    message.submit.success=Din feedback har skickats in. Du kan skicka mer feedback när som helst.
+
+[Page.LiveTags]
+    label.article=Typ av artikel
+
+[Page.LoginPasswordRegister]
+    page-title=Logga in och registrera
+    tab.login=Logga in
+    tab.password=Återställning av lösenord
+    tab.register=Registrering
+
+[Page.Preferences]
+    error.invalid-email=Ange en giltig e-postadress
+    form.email=E-postadress
+    form.fullname=Visningsnamn
+    form.fullname.help=Endast för visningsändamål
+    form.hint.password-characters=Lösenordet måste innehålla minst tre av följande tecken: gemener, versaler, siffror eller symboler.
+    form.hint.password-length=Lösenordet måste vara minst 8 tecken
+    form.hint.password-match=Lösenorden måste matcha
+    form.hint.password.restricted-words=Lösenordet kan inte innehålla vanliga lösenordsord
+    form.legend.information=Min information
+    form.legend.password=Mitt lösenord
+    form.password.new=Nytt lösenord
+    form.password.old=Gammalt lösenord
+    form.password.submit=Ändra lösenord
+    form.password.verify=Skriv in nytt lösenord
+    form.submit=Spara min information
+
+[Page.Tags]
+    message.notags=Den här sidan har inga taggar.
+    page-title=Webbplatstaggar
+    tags-inserted-from-template=Taggar som rekommenderas av mallen:
+    tags-inserted-heading=Sidtaggar:
+
+[Page.UserLogin]
+    error=Din inloggning har misslyckats. Verifiera ditt användarnamn och lösenord.
+    page-title=Logga in
+    submit-login=Logga in
+    user-name=Användarnamn
+    user-password=Lösenord
+
+[Page.UserLogout]
+    page-title=Logga ut
+    success=Du har loggat ut.
+
+[Page.UserPassword]
+    form.submit=Återställning av lösenord
+    page-title=Återställning av lösenord
+    success.email-sent=Instruktioner för återställning av lösenord har skickats till den e-postadress som registrerats för det här kontot. Om du inte får något e-postmeddelande kontrollerar du stavningen och försöker igen. Kontakta din webbplatsadministratör om du fortfarande har problem med att logga in.
+
+[Page.UserRegistration]
+    error.email.match=E-posterna du angav matchar inte.
+    error.password.match=Lösenorden du angav matchar inte.
+    form.email=E-post
+    form.email.verify=Verifiera e-post
+    form.fullname=Fullständigt namn <span class="note">(valfritt)</span>
+    form.password=Lösenord
+    form.password.verify=Verifiera lösenord
+    form.submit=Skapa ett konto
+    form.username=Användarnamn
+    page-title=Skapa ett konto
+    success.created=Användare <strong>$1</strong> har skapats.
+
+[Page.Welcome]
+    community-banner-text=Nu kan du bidra och dela innehåll.
+    community-banner-title=Välkommen, 1 dollar. Ditt konto har skapats.
+    community-get-started-text=<strong>Här är några tips som hjälper dig att komma igång:</strong>
+    community-tip1-text=Ge webbplatsägare värdefull feedback om innehållet på webbplatsen. Var artikeln till hjälp? Klicka på <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ja</span>. Om inte, klicka på <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Lämna feedback</span> för att berätta hur vi kan förbättra. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Läs mer</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Starta en konversation genom att kommentera en sida. Bidra med din egen information eller svara på andra användares kommentarer. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Läs mer</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Återställning av lösenord
+
+[Product]
+    powered-by-site=Drivs av MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Logga in
+    header.recommended-articles=Rekommenderade artiklar
+    header.toc=Innehållsförteckning
+    label.back-to-top=Tillbaka till toppen
+    label.global-location-toggle=Utöka/komprimera global plats
+    label.global-navigation-toggle=Utöka/komprimera global hierarki
+    label.last-updated=Senast uppdaterad
+    label.last-updated-by=av
+    label.no-recommended-articles=Det finns inga rekommenderade artiklar.
+    label.password=Lösenord
+    label.pdf-export=Spara som PDF
+    label.signout=Logga ut
+    label.site-search.button=Sök
+    label.site-search.input=Sök
+    label.skip-link=Hoppa till huvudinnehåll
+    label.tags=Tags
+    label.user-preferences=Mina preferenser
+    label.username=Användarnamn
+    link.quick-login=Logga in
+    link.site-search=Sök webbplats
+    placeholder.site-search.input=Hur kan vi hjälpa dig?
+    tooltip.back-to-top=Hoppa tillbaka till toppen av den här artikeln
+    tooltip.browse-back=Gå tillbaka till föregående artikel
+    tooltip.pdf-export=Exportera sida som PDF
+    tooltip.signout=Klicka för att logga ut från den här webbplatsen
+    tooltip.skip-link=Tryck på enter för att hoppa till huvudinnehållet
+    tooltip.user-preferences=Klicka för att ändra dina användarinställningar
+
+[Skin.Common]
+    copyright=upphovsrätt
+    home=Hem
+
+[System.API]
+    no-headers=Inga rubriker
+    opensearch-shortname=$1 Sök
+
+[Users]
+    email.body.html.content=<p>Grattis, <br/><br/>\ r\ n\ r\ nDu har nu ett konto på $4. <br/><br/>Logga in för att omedelbart börja samarbeta med andra communitymedlemmar. Nedan följer dina åtkomstuppgifter:<br/><br/>\ r\ n\ r\ nWebbplatsens URL: <a href="$2">$2</a><br/>\ r\ nAnvändarnamn: $1<br/>Lösenord: $3<br/><br/>\ r\ n\ r\ nOm du behöver hjälp med att komma igång eller har specifika frågor om <a href="$2">$4</a>, kontakta webbplatsadministratören. </p>
+    email.body.html.content.nopassword=<p>Grattis, <br/><br/>\ r\ n\ r\ nDu har nu ett konto på $3. <br/><br/>Logga in för att omedelbart börja samarbeta med andra communitymedlemmar. Nedan följer dina åtkomstuppgifter:<br/><br/>\ r\ n\ r\ nWebbplatsens URL: <a href="$2">$2</a><br/>\ r\ nAnvändarnamn: $1<br/><br/><em>Kontakta webbplatsadministratören om du inte känner till ditt lösenord. </em><br/><br/>\ r\ n\ r\ nOm du behöver hjälp med att komma igång eller har specifika frågor om <a href="$2">$3</a>, kontakta webbplatsens administratör. </p>
+    email.body.text=\ r\ nGrattis,\ r\ n\ r\ nDu har nu ett konto på $4. Logga in för att omedelbart börja samarbeta med andra communitymedlemmar. Nedan följer dina åtkomstuppgifter:\ r\ n\ r\ nWebbplatsens URL: $2\ r\ nAnvändarnamn: $1\ r\ nLösenord: $3\ r\ n\ r\ nOm du behöver hjälp med att komma igång eller har specifika frågor om $4, kontakta webbplatsadministratören.
+    email.body.text.nopassword=\ r\ nGrattis,\ r\ n\ r\ nDu har nu ett konto på $3. Logga in för att omedelbart börja samarbeta med andra communitymedlemmar. Nedan följer dina åtkomstuppgifter:\ r\ n\ r\ nWebbplatsens URL: $2\ r\ nAnvändarnamn: $1\ r\ nKontakta webbplatsens administratör om du inte känner till ditt lösenord. \ r\ n\ r\ nOm du behöver hjälp med att komma igång eller har specifika frågor om $3, kontakta webbplatsens administratör.
+    email.external.body.html.content=<p>Grattis, <br/><br/>\ r\ n\ r\ nDu har nu ett konto på $3. <br/><br/>Logga in för att omedelbart börja samarbeta med andra communitymedlemmar. Nedan följer dina åtkomstuppgifter:<br/><br/>\ r\ n\ r\ nWebbplatsens URL: <a href="$2">$2</a><br/>\ r\ nAnvändarnamn: $1<br/><br/>\ r\ n\ r\ nOm du behöver hjälp med att komma igång eller har specifika frågor om <a href="$2">$3</a>, kontakta webbplatsadministratören. </p>
+    email.subject=$1 Inloggningsuppgifter
+    form.password.instructions=Lösenorden måste vara minst 8 tecken långa och innehålla minst 3 av följande tecken: gemener, versaler, siffror eller symboler.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Den begärda MindTouch Touchpoint kunde inte laddas av din webbläsare.
+    label.back-to-top=Tillbaka till toppen
+
+[WebWidget.F1]
+    label.help-button=Hjälp
+    title.help-button=Hjälp
+
+[WebWidget.Login]
+    label.authenticated-user=Logga in på MindTouch som {{username}}
+    label.sign-in=Logga in på MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Klicka för att komprimera sammanfattning
+    label.disabled-message=Försök igen senare.
+    label.disabled-title=Tyvärr, sökningen är för närvarande inte tillgänglig.
+    label.expand-summary=Klicka här om du vill expandera
+    label.forbidden-message=Logga in eller kontakta din webbplatsadministratör.
+    label.forbidden-title=Du har inte behörighet att använda den här funktionen.
+    label.input-hint=Sök
+    label.no-results-faceting-message=Prova att söka efter något annat eller välja en kategori.
+    label.no-results-message=Försök leta efter något annat.
+    label.no-results-title=Tyvärr kan vi inte hitta det du letar efter.
+    label.recommended=Rekommenderas
+    label.refine-search=Förfina sökningen
+    label.show-more=Visa mer
+
+[WebWidgets]
+    label.authenticated-user=Hej, {{username}}!
+    label.nav.back=Tillbaka
+    label.nav.forward=Framåt
+    label.nav.home=Hem
+
+[Component.Translate]
+    label.choose-language=Välj språk
+    label.english=Engelska
+    label.update-failed=Översättning ofullständig
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本
+    language.chinese=中国
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Sidinnehåll översatt med maskinöversättning
+    dialog.translated-mindtouch=Översatt av MindTouch
