@@ -1,2 +1,295 @@
 [Dialog.CopyMove]
+    placeholder.search=ፍለጋ
+    New.word=አዲስ ቃል እንደገና
     extra=በሊምቦ ዝማኔ ውስጥ ሙከራ
+
+[F1]
+    dialog.text.back=ተመለስ
+    dialog.text.forward=ወደፊት
+    dialog.text.hint=ይፈልጉ
+    dialog.text.home=ቤት
+    dialog.text.open=ጽሁፉን ክፈት
+
+[MindTouch.Help.Page]
+    category-selector=ማጣሪያ በመምረጥ ውጤቶችን ያጣሩ።
+    help-header-label=የእገዛ ውጤቶች ለ
+    in=ውስጥ
+    label-filter=በመፈለግ ላይ
+    label-result-count=ስለ {0} ውጤቶች
+    label-search-all=ሁሉም ውጤቶች
+    label.page-rating-no=አይ
+    label.page-rating-yes=አዎ
+    more=ተጨማሪ
+    no-search-results=ይቅርታ፣ የሚፈልጉትን ማግኘት አንችልም።
+    no-search-try=ሌላ ነገር ለመፈለግ ይሞክሩ, ምድብ በመምረጥ, ወይም ትኬት ለመፍጠር ይሞክሩ።
+    recommended=(የሚመከር)
+    search-error=ፍለጋ ስህተት አጋጥሞታል።
+    search-error-try=እባክዎ ቆይተው እንደገና ይሞክሩ።
+    search-unavailable=ይቅርታ፣ ፍለጋ በአሁኑ ጊዜ አይገኝም።
+    show-more-search=ተጨማሪ ውጤቶችን አሳይ
+    tooltip.scrollNext=ወደ ቀጣዩ ሸብልል
+    tooltip.scrollPrev=ወደ ቀዳሚው ይሸብልሉ
+    warning.search-only-english=ፍለጋ በእንግሊዝኛ ብቻ ነው የሚገኘው
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(ቀን የተፈጠረ)
+    featured.articles.created.title=በቅርብ ጊዜ ታክሏል
+    featured.articles.rated.label=(ደረጃ አሰጣጥ)
+    featured.articles.rated.title=ከፍተኛ ደረጃ የተሰጠው
+    featured.articles.updated.label=(ቀን ዘምኗል)
+    featured.articles.updated.title=በቅርብ ጊዜ የዘመነው
+    featured.articles.viewed.label=(እይታዎች)
+    featured.articles.viewed.title=በጣም ታዋቂ
+    label.guide-subpage-display-single=ነጠላ
+    label.guide-subpage-display-tabbed=ትሮች
+    label.guide.tabscrollleft=ሸብልል ትሮች ወደ ግራ
+    label.guide.tabscrollright=ትሮችን ወደ ቀኝ ሸብልል
+    label.reveal.showAll=ሁሉንም አሳይ
+    label.reveal.showLess=ያነሰ አሳይ
+    label.search.placeholder=ፍለጋ
+    type.how-to=እንዴት-ወደ
+    type.howto=እንዴት-ወደ
+    type.reference=ማጣቀሻ
+    type.topic=ርዕስ
+    type.topic-category=ምድብ
+    type.topic-guide=መመሪያ
+    type.topic-portfolio=ፖርትሊዮ
+    type.unclassified=ያልተመደበ
+
+[MindTouch.LearningPath]
+    label.view-pages=ገጾችን ይመልከቱ
+    message.page-count=<span>ገጾች:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=ደብቅ
+    button.toggle.show=አሳይ
+    label.attachments=አባሪዎችን አካትት
+    label.attachments-description=የይዘት አይነት
+    label.attachments.type.binary=ሌላ
+    label.attachments.type.document=ሰነድ
+    label.attachments.type.image=ምስል
+    label.classification=ምደባ
+    label.clear-all=ሁሉንም ማጣሪያዎች አጽዳ
+    label.description=የማጣሪያ ውጤቶች
+    label.filters=ማጣሪያዎች
+    label.location=አካባቢ
+    label.location-empty=በ ማጣሪያ ምንም ቦታዎች የሉም
+
+[MindTouch.Subscriptions]
+    cancel=ሰርዝ
+    caption.normal=ለሚከተሉት ገጾች ተመዝግበዋል።
+    caption.nosubscriptions=ለማንኛውም ገጾች ደንበኝነት አልተመዘገቡም።
+    column.page=ገጽ
+    column.recursive=የኢሜይል ማሳወቂያዎች ለ
+    link-title=በ MindTouch ውስጥ ማሳወቂያዎችን ማስተዳደር ተጨማሪ ይወቁ
+    nonrecursive=ይህ ገጽ ብቻ
+    nonrecursive.draft=ይህ ረቂቅ ብቻ
+    recursive.many=$1 ገጾች
+    recursive.many.draft=$1 ረቂቆች
+    recursive.many.overflow=ለሁሉም ንዑስ ገጾች ተመዝግበዋል
+    recursive.many.overflow.draft=ለሁሉም ንዑስ ገጽ ረቂቆች ተመዝግበዋል
+    recursive.one=1 ገጽ
+    recursive.one.draft=1 ረቂቅ
+    unsubscribe=ከደንበኝነት ይውጡ
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=ዝጋ መልዕክት
+
+[Page.AuthenticationProviders]
+    page-title=ይግቡ
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">ለሁሉም የእገዛ ርእሶች ስኬት.mindtouch.com ይጎብኙ። </a>
+
+[Page.Error]
+    not-found=ገጽ አልተገኘም
+    not-found-error=ይቅርታ, በ $1 ላይ ያለው ገጽ ሊገኝ አልቻለም።
+    not-found-results=ተዛማጅ የፍለጋ ውጤቶች:
+    page-title=ስህተት
+
+[Page.FeedbackRating]
+    button.leave-feedback=ግብረመልስ ይተው
+    button.rating-no=አይ
+    button.rating-yes=አዎ
+    button.submit-feedback=ግብረመልስ አስገባ
+    label.checkbox.contact-me=አዎ, ስለዚህ ግብረመልስ ሊያነጋግሩኝ ይችላሉ።
+    label.feedback-question=ይህን ጽሑፍ እንዴት ማሻሻል እንችላለን?
+    label.last-rated=- ባለፈው ላይ በዚህ ርዕስ ደረጃ የተሰጠው $1
+    label.rating-message=ይህ ጽሑፍ ጠቃሚ ነበር?
+    legend.feedback-form=ግብረመልስ ይተው
+    message.contact.no=አይ
+    message.contact.yes=አዎ
+    message.submit.error=የእርስዎን ግብረመልስ ለመላክ በመሞከር ላይ ሳለ አንድ ስህተት ተከስቷል። እባክዎ በኋላ ላይ እንደገና ይሞክሩ።
+    message.submit.success=የእርስዎ ግብረመልስ በተሳካ ሁኔታ ገብቷል። በማንኛውም ጊዜ ተጨማሪ ግብረመልስ ማስገባት ይችላሉ።
+
+[Page.LiveTags]
+    label.article=አንቀጽ አይነት
+
+[Page.LoginPasswordRegister]
+    page-title=ይግቡ እና ምዝገባ
+    tab.login=ይግቡ
+    tab.password=የይለፍ ቃል ዳግም ማስ
+    tab.register=ምዝገባ
+
+[Page.Preferences]
+    error.invalid-email=እባክዎ ትክክለኛ የኢሜይል አድራሻ ይጥቀሱ
+    form.email=የኢሜይል አድራሻ
+    form.fullname=የማሳያ ስም
+    form.fullname.help=ለማሳያ ዓላማዎች ብቻ
+    form.hint.password-characters=የይለፍ ቃል ከሚከተሉት ቁምፊዎች ውስጥ ቢያንስ 3 መያዝ አለበት: ትንሽ, አቢይ, አሃዞች ወይም ምልክቶች።
+    form.hint.password-length=የይለፍ ቃል ቢያንስ 8 ቁምፊዎች መሆን አለበት
+    form.hint.password-match=የይለፍ ቃላቱ መዛመድ አለባቸው
+    form.hint.password.restricted-words=የይለፍ ቃል የተለመዱ የይለፍ ቃላትን መያዝ
+    form.legend.information=የእኔ መረጃ
+    form.legend.password=የእኔ የይለፍ ቃል
+    form.password.new=አዲስ የይለፍ ቃል
+    form.password.old=የድሮ ይለፍ ቃል
+    form.password.submit=የይለፍ ቃል ለውጥ
+    form.password.verify=አዲስ የይለፍ ቃል እንደገና ይይቡ
+    form.submit=መረጃዬን አስቀምጥ
+
+[Page.Tags]
+    message.notags=ይህ ገጽ ምንም መለያዎች የለውም።
+    page-title=የጣቢያ መለያዎች
+    tags-inserted-from-template=በአብነት የሚመከር መለያዎች:
+    tags-inserted-heading=የገጽ መለያዎች:
+
+[Page.UserLogin]
+    error=የመግቢያዎ መግባት አልተሳካም። እባክዎ የእርስዎን የተጠቃሚ ስም እና የይለፍ ቃል ያረጋግጡ።
+    page-title=ይግቡ
+    submit-login=ይግቡ
+    user-name=የተጠቃሚ ስም
+    user-password=የይለፍ ቃል
+
+[Page.UserLogout]
+    page-title=ዘግተው ይውጡ
+    success=በተሳካ ሁኔታ ወጥተዋል።
+
+[Page.UserPassword]
+    form.submit=የይለፍ ቃል ዳግም ማስ
+    page-title=የይለፍ ቃል ዳግም ማስ
+    success.email-sent=የይለፍ ቃል ዳግም ማስጀመር መመሪያዎች ለዚህ መለያ የተመዘገበ የኢ-ሜይል አድራሻ ተልከዋል። ኢሜይል ካልተቀበሉ, የእርስዎን አጻጻፍ ያረጋግጡ እና እንደገና ይሞክሩ። በመለያ የሚገቡ ችግሮች ካሉዎት የጣቢያ አስተዳዳሪዎን ያነጋግሩ።
+
+[Page.UserRegistration]
+    error.email.match=ያስገቡት ኢሜይሎች አይዛመዱም።
+    error.password.match=ያስገቡት የይለፍ ቃሎች አይዛመዱም።
+    form.email=ኢሜይል
+    form.email.verify=ኢሜይል አረጋግጥ
+    form.fullname=ሙሉ ስም <span class="note">(ግዴታ ያልሆነ)</span>
+    form.password=የይለፍ ቃል
+    form.password.verify=የይለፍ ቃል ማረጋገጥ
+    form.submit=መለያ ይፍጠሩ
+    form.username=የተጠቃሚ ስም
+    page-title=መለያ ይፍጠሩ
+    success.created=ተጠቃሚ <strong>$1</strong> ተፈጥሯል።
+
+[Page.Welcome]
+    community-banner-text=አሁን ይዘት ማበርከት እና ማጋራት ይችላሉ።
+    community-banner-title=እንኳን ደህና መጡ, $1። መለያዎ ተፈጥሯል።
+    community-get-started-text=<strong>ለመጀመር የሚረዱዎት አንዳንድ ጠቃሚ ምክሮች እነኚሁና:</strong>
+    community-tip1-text=የጣቢያው ይዘት በተመለከተ ጠቃሚ ግብረመልስ ያላቸው የጣቢያ ባለቤቶች ያቅርቡ። ጽሑፉ ጠቃሚ ነበር? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">አዎ</span>የሚለውን ጠቅ ያድርጉ። ካልሆነ, እንዴት ማሻሻል እንደምንችል ለመንገር <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">ግብረመልስ ይውጡ</span> የሚለውን ጠቅ ያድርጉ። <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">ተጨማሪ ለመረዳት</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=በአንድ ገጽ ላይ አስተያየት በመስጠቱ ውይይት ይጀምሩ። የራስዎን መረጃ ያበርክቱ ወይም ለሌሎች ተጠቃሚ አስተያየቶች ምላሽ ይስጡ። <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">ተጨማሪ ለመረዳት</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=የይለፍ ቃል ዳግም ማስ
+
+[Product]
+    powered-by-site=በ MindTouch የተጎላበተው
+
+[Skin.Columbia]
+    button.quick-login=ይግቡ
+    header.recommended-articles=የሚመከሩ ጽሁፎች
+    header.toc=የይዘቶች ሰንጠረዥ
+    label.back-to-top=ወደ ላይ ተመለስ
+    label.global-location-toggle=የአለም አቀፍ አካባቢን ማስፋፋት/
+    label.global-navigation-toggle=ማስፋፋት/መደምደቅ ዓለም አቀፋዊ ተዋረድ
+    label.last-updated=ለመጨረሻ ጊዜ የዘመነው
+    label.last-updated-by=በ
+    label.no-recommended-articles=ምንም የሚመከሩ ጽሁፎች የሉም።
+    label.password=የይለፍ ቃል
+    label.pdf-export=እንደ ፒዲኤፍ አስቀምጥ
+    label.signout=ዘግተው ይውጡ
+    label.site-search.button=ፍለጋ
+    label.site-search.input=ፍለጋ
+    label.skip-link=ወደ ዋናው ይዘት ይዝለሉ
+    label.tags=መለያዎች
+    label.user-preferences=የእኔ ምርጫዎች
+    label.username=የተጠቃሚ ስም
+    link.quick-login=ይግቡ
+    link.site-search=የፍለጋ ጣቢያ
+    placeholder.site-search.input=እኛ ልንረዳህ የምንችለው እንዴት ነው?
+    tooltip.back-to-top=ወደዚህ ጽሑፍ አናት ይመለሱ
+    tooltip.browse-back=ወደ ቀዳሚው ጽሑፍ ይመለሱ
+    tooltip.pdf-export=ገጽ እንደ ፒዲኤፍ ላክ
+    tooltip.signout=ከዚህ ጣቢያ ለመውጣት ጠቅ ያድርጉ
+    tooltip.skip-link=ወደ ዋናው ይዘት ለመዝለል አስገባን ይጫኑ
+    tooltip.user-preferences=የተጠቃሚ ምርጫዎችዎን ለመቀየር ጠቅ ያድርጉ
+
+[Skin.Common]
+    copyright=የቅጂ መብት
+    home=ቤት
+
+[System.API]
+    no-headers=ራስጌዎች የሉም
+    opensearch-shortname=$1 ፍለጋ
+
+[Users]
+    email.body.html.content=<p>እንኳን ደስ አለዎት, <br/><br/>\ r\ n\ r\ nአሁን በ $4 መለያ አለዎት። <br/><br/>በፍጥነት ከሌሎች የማህበረሰብ አባላት ጋር መተባበር ለመጀመር ይግቡ። ከታች የእርስዎ ጣቢያ መዳረሻ ዝርዝሮች ናቸው:<br/><br/>\ r\ n\ r\ nየጣቢያ ዩ አር ኤል: <a href="$2">$2</a><br/>\ r\ nየተጠቃሚ ስም: $1<br/>የይለፍ ቃል: $3<br/><br/>\ r\ n\ r\ nእገዛ ከፈለጉ ወይም ስለ <a href="$2">$4</a>የተወሰኑ ጥያቄዎች ካሉዎት እባክዎ የጣቢያውን አስተዳዳሪን ያነጋግሩ። </p>
+    email.body.html.content.nopassword=<p>እንኳን ደስ አለዎት, <br/><br/>\ r\ n\ r\ nአሁን በ $3 መለያ አለዎት። <br/><br/>በፍጥነት ከሌሎች የማህበረሰብ አባላት ጋር መተባበር ለመጀመር ይግቡ። ከታች የእርስዎ ጣቢያ መዳረሻ ዝርዝሮች ናቸው:<br/><br/>\ r\ n\ r\ nየጣቢያ ዩ አር ኤል: <a href="$2">$2</a><br/>\ r\ nየተጠቃሚ ስም: $1<em>የይለፍ ቃልዎን ካላወቁ የጣቢያውን አስተዳዳሪ<br/><br/>ያነጋግሩ። </em><br/><br/>\ r\ n\ r\ nእገዛ የሚያስፈልግዎ ከሆነ ወይም ስለ <a href="$2">$3</a>የተወሰኑ ጥያቄዎች ካሉዎት እባክዎ የጣቢያ አስተዳዳሪውን ያነጋግሩ። </p>
+    email.body.text=\ r\ nእንኳን ደስ አለዎት,\ r\ n\ r\ nአሁን መለያ አለዎት $4። በፍጥነት ከሌሎች የማህበረሰብ አባላት ጋር መተባበር ለመጀመር ይግቡ። ከታች የእርስዎ ጣቢያ መዳረሻ ዝርዝሮች ናቸው:\ r\ n\ r\ nየጣቢያ ዩ አር ኤል: $2\ r\ nየተጠቃሚ ስም: $1\ r\ nPassword: $3\ r\ n\ r\ nእገዛ የሚፈልጉ ከሆነ ወይም ስለ $4 የተወሰኑ ጥያቄዎች ካሉዎት እባክዎ የጣቢያውን አስተዳዳሪን ያነጋግሩ።
+    email.body.text.nopassword=\ r\ nእንኳን ደስ አለዎት,\ r\ n\ r\ nአሁን መለያ አለዎት $3። በፍጥነት ከሌሎች የማህበረሰብ አባላት ጋር መተባበር ለመጀመር ይግቡ። ከታች የእርስዎ ጣቢያ መዳረሻ ዝርዝሮች ናቸው:\ r\ n\ r\ nየይለፍ ቃልዎን የማያውቁ ከሆነ የጣቢያ አስተዳዳሪውን ያነጋግሩ: $2\ r\ nየተጠቃሚ ስም: $1\ r\ nየይለፍ ቃልዎን ካላወቁ የጣቢያውን አስተዳዳሪ ያነጋግሩ። \ r\ n\ r\ nእገዛ የሚያስፈልግዎ ከሆነ ወይም ስለ $3 የተወሰኑ ጥያቄዎች ካሉዎት እባክዎ የጣቢያ አስተዳዳሪውን ያነጋግሩ።
+    email.external.body.html.content=<p>እንኳን ደስ አለዎት, <br/><br/>\ r\ n\ r\ nአሁን በ $3 መለያ አለዎት። <br/><br/>በፍጥነት ከሌሎች የማህበረሰብ አባላት ጋር መተባበር ለመጀመር ይግቡ። ከታች የእርስዎ ጣቢያ መዳረሻ ዝርዝሮች ናቸው:<br/><br/>\ r\ n\ r\ nየጣቢያ ዩ አር ኤል: <a href="$2">$2</a><br/>\ r\ nየተጠቃሚ ስም: $1<br/><br/>\ r\ n\ r\ nእገዛ ከፈለጉ ወይም ስለ <a href="$2">$3</a>የተወሰኑ ጥያቄዎች ካሉዎት እባክዎ የጣቢያ አስተዳዳሪውን ያነጋግሩ። </p>
+    email.subject=$1 ዝርዝሮች በመለያ ይግቡ
+    form.password.instructions=የይለፍ ቃላቶች ርዝመታቸው ቢያንስ 8 ቁምፊዎች መሆን አለባቸው እና ከሚከተሉት ቁምፊዎች ውስጥ ቢያንስ 3 መያዝ አለባቸው: አነስተኛ, አቢይ, አሃዞች ወይም ምልክቶች።
+
+[WebWidget.Common]
+    error.web-browser-unsupported=የተጠየቀው MindTouch Touchpoint በድር አሳሽዎ ሊጫን አልቻለም።
+    label.back-to-top=ወደ ላይ ተመለስ
+
+[WebWidget.F1]
+    label.help-button=እገዛ
+    title.help-button=እገዛ
+
+[WebWidget.Login]
+    label.authenticated-user=ወደ MindTouch በመለያ በመግባት እንደ {{የተጠቃሚ ስም}}
+    label.sign-in=ወደ MindTouch ይግቡ
+
+[WebWidget.Search]
+    label.collapse-summary=ማጠቃለያ ለመሰብሰብ ጠቅ ያድርጉ
+    label.disabled-message=እባክዎ ቆይተው እንደገና ይሞክሩ።
+    label.disabled-title=ይቅርታ፣ ፍለጋ በአሁኑ ጊዜ አይገኝም።
+    label.expand-summary=ማጠቃለያ ለማስፋት ጠቅ ያድርጉ
+    label.forbidden-message=ይግቡ, ወይም የእርስዎን ጣቢያ አስተዳዳሪ ያነጋግሩ።
+    label.forbidden-title=ይህን ባህሪ ለመጠቀም ፈቃድ የለዎትም።
+    label.input-hint=ፍለጋ
+    label.no-results-faceting-message=ሌላ ነገር ለመፈለግ ወይም ምድብ ለመምረጥ ይሞክሩ።
+    label.no-results-message=ሌላ ነገር ለመፈለግ ይሞክሩ።
+    label.no-results-title=ይቅርታ፣ የሚፈልጉትን ማግኘት አንችልም።
+    label.recommended=የሚመከር
+    label.refine-search=ፍለጋን አጣራ
+    label.show-more=ተጨማሪ አሳይ
+
+[WebWidgets]
+    label.authenticated-user=ጤናይስጥልኝ, {{የተጠቃሚ ስም}!
+    label.nav.back=ተመለስ
+    label.nav.forward=ወደፊት
+    label.nav.home=ቤት
+
+[Component.Translate]
+    label.choose-language=ቋንቋ ይምረጡ
+    label.english=እንግሊዝኛ
+    label.update-failed=ትርጉም ያልተሟላ
+    language.spanish=ኢስፓኖል
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=ፈረንሳይኛ
+    language.portuguese=ፖርቱጉሳ
+    language.dutch=ኔደርላንድስ
+    language.korean=한국어
+    language.swedish=ስቬንስካ
+    language.danish=ዳንስክ
+    language.finnish=ሱማሌን
+    language.italian=ኢታሊያኖ
+    title.translated-machine=የማሽን ትርጉም በመጠቀም የተተረጎመው የገጽ ይዘት
+    dialog.translated-mindtouch=በ MindTouch የተተረጎመ
