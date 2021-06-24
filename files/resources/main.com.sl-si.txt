@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Iskanje
+    New.word=nov Word znova
+    extra=Testiranje v posodobitvi negotovosti
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Nazaj
+    dialog.text.forward=Naprej
+    dialog.text.hint=iskanje
+    dialog.text.home=Domov
+    dialog.text.open=Odpri članek
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Izboljšajte rezultate z izbiro filtra.
+    help-header-label=Rezultati pomoči za
+    in=v
+    label-filter=Iskanje v
+    label-result-count=Približno {0} rezultatov
+    label-search-all=Vsi rezultati
+    label.page-rating-no=Št.
+    label.page-rating-yes=Da
+    more=Več
+    no-search-results=Žal mi je, ne moremo najti tistega, kar iščete.
+    no-search-try=Poskusite poiskati nekaj drugega, izbrati kategorijo ali pa poskusiti ustvariti vozovnico.
+    recommended=(Priporočeno)
+    search-error=Iskanje je naletelo na napako.
+    search-error-try=Prosimo, poskusite znova kasneje.
+    search-unavailable=Oprostite, iskanje trenutno ni na voljo.
+    show-more-search=Prikaži več rezultatov
+    tooltip.scrollNext=Pomaknite se na naslednjo
+    tooltip.scrollPrev=Pomaknite se na prejšnjo
+    warning.search-only-english=Iskanje je na voljo samo v angleščini
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(datum ustvarjenega)
+    featured.articles.created.title=Pred kratkim dodana
+    featured.articles.rated.label=(ocena)
+    featured.articles.rated.title=Najvišje ocenjene
+    featured.articles.updated.label=(datum posodobljenega)
+    featured.articles.updated.title=Nedavno posodobljen
+    featured.articles.viewed.label=(ogledov)
+    featured.articles.viewed.title=Najbolj priljubljena
+    label.guide-subpage-display-single=Enoposteljna
+    label.guide-subpage-display-tabbed=Tabed
+    label.guide.tabscrollleft=Pomaknite se zavihke levo
+    label.guide.tabscrollright=Pomaknite se zavihke desno
+    label.reveal.showAll=Pokaži vse
+    label.reveal.showLess=Prikaži manj
+    label.search.placeholder=Iskanje
+    type.how-to=Kako
+    type.howto=Kako
+    type.reference=Referenca
+    type.topic=Tema
+    type.topic-category=Kategorija
+    type.topic-guide=Vodnik
+    type.topic-portfolio=portfelj
+    type.unclassified=Nerazvrščene
+
+[MindTouch.LearningPath]
+    label.view-pages=Ogled strani
+    message.page-count=<span>Strani:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Skrij
+    button.toggle.show=Pokaži
+    label.attachments=Vključi priloge
+    label.attachments-description=Vrsta vsebine
+    label.attachments.type.binary=Drugo
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Slika
+    label.classification=Razvrstitev
+    label.clear-all=Počisti vse filtre
+    label.description=Filtriranje rezultatov
+    label.filters=Filtri
+    label.location=Lokacija
+    label.location-empty=Ni lokacij, ki bi jih lahko filtrirali
+
+[MindTouch.Subscriptions]
+    cancel=Prekliči
+    caption.normal=Naročeni ste na naslednje strani.
+    caption.nosubscriptions=Niste naročeni na nobeno stran.
+    column.page=Stran
+    column.recursive=E-poštna obvestila za
+    link-title=Več informacij o upravljanju obvestil v MindTouch
+    nonrecursive=Samo ta stran
+    nonrecursive.draft=Samo ta osnutek
+    recursive.many=$1 strani
+    recursive.many.draft=$1 osnutki
+    recursive.many.overflow=Naročeno na vse podstrani
+    recursive.many.overflow.draft=Naročeni na vse osnutke podstrani
+    recursive.one=1 stran
+    recursive.one.draft=1 osnutek
+    unsubscribe=Odjavite se
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Zapri sporočilo
+
+[Page.AuthenticationProviders]
+    page-title=Vpišite se
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Obiščite succe.mindtouch.com za vse teme pomoči. </a>
+
+[Page.Error]
+    not-found=Stran ni bila najdena
+    not-found-error=Žal, strani na $1 ni bilo mogoče najti.
+    not-found-results=Povezani rezultati iskanja:
+    page-title=Napaka
+
+[Page.FeedbackRating]
+    button.leave-feedback=Pustite povratne informacije
+    button.rating-no=Št.
+    button.rating-yes=Da
+    button.submit-feedback=Pošlji povratne informacije
+    label.checkbox.contact-me=Da, lahko se obrnete na mene o teh povratnih informacijah.
+    label.feedback-question=Kako lahko izboljšamo ta članek?
+    label.last-rated=— Ta članek ste nazadnje ocenili na $1
+    label.rating-message=Je bil ta članek koristen?
+    legend.feedback-form=Pustite povratne informacije
+    message.contact.no=Št.
+    message.contact.yes=Da
+    message.submit.error=Med poskusom pošiljanja povratnih informacij je prišlo do napake. Prosimo, poskusite znova pozneje.
+    message.submit.success=Vaše povratne informacije so bile uspešno predložene. Več povratnih informacij lahko kadar koli pošljete.
+
+[Page.LiveTags]
+    label.article=Vrsta člena
+
+[Page.LoginPasswordRegister]
+    page-title=Vpis in registracija
+    tab.login=Vpišite se
+    tab.password=Ponastavitev gesla
+    tab.register=Registracija
+
+[Page.Preferences]
+    error.invalid-email=Prosimo, navedite veljaven e-poštni naslov
+    form.email=E-poštni naslov
+    form.fullname=Prikazno ime
+    form.fullname.help=Samo za namene prikaza
+    form.hint.password-characters=Geslo mora vsebovati vsaj 3 od naslednjih znakov: male črke, velike črke, števke ali simbole.
+    form.hint.password-length=Geslo mora biti dolgo najmanj 8 znakov
+    form.hint.password-match=Gesla se morajo ujemati
+    form.hint.password.restricted-words=Geslo ne more vsebovati pogostih gesel
+    form.legend.information=Moji podatki
+    form.legend.password=Moje geslo
+    form.password.new=Novo geslo
+    form.password.old=Staro geslo
+    form.password.submit=Spremeni geslo
+    form.password.verify=Vnovično vnesite novo geslo
+    form.submit=Shrani moje podatke
+
+[Page.Tags]
+    message.notags=Ta stran nima oznak.
+    page-title=Oznake spletnega mesta
+    tags-inserted-from-template=Oznake, ki jih priporoča predloga:
+    tags-inserted-heading=Oznake strani:
+
+[Page.UserLogin]
+    error=Vaš vpis ni uspel. Preverite svoje uporabniško ime in geslo.
+    page-title=Vpišite se
+    submit-login=Vpišite se
+    user-name=Uporabniško ime
+    user-password=Geslo
+
+[Page.UserLogout]
+    page-title=Izjavite se
+    success=Uspešno ste se odjavili.
+
+[Page.UserPassword]
+    form.submit=Ponastavitev gesla
+    page-title=Ponastavitev gesla
+    success.email-sent=Navodila za ponastavitev gesla so bila poslana na e-poštni naslov, registriran za ta račun. Če ne prejmete e-poštnega sporočila, preverite črkovanje in poskusite znova. Če imate še vedno težave pri vpisu, se obrnite na skrbnika mesta.
+
+[Page.UserRegistration]
+    error.email.match=E-pošta, ki ste jo vnesli, se ne ujema
+    error.password.match=Vnesena gesla se ne ujemajo.
+    form.email=E-pošta
+    form.email.verify=Preveri e-pošto
+    form.fullname=Polno ime <span class="note">(neobvezno)</span>
+    form.password=Geslo
+    form.password.verify=Preverjanje gesla
+    form.submit=Ustvarjanje računa
+    form.username=Uporabniško ime
+    page-title=Ustvarjanje računa
+    success.created=Uporabnik <strong>$1</strong> je bil ustvarjen.
+
+[Page.Welcome]
+    community-banner-text=Zdaj lahko prispevate in delite vsebino.
+    community-banner-title=Dobrodošli, $1. Vaš račun je bil ustvarjen.
+    community-get-started-text=<strong>Tukaj je nekaj nasvetov, ki vam bodo pomagali začeti:</strong>
+    community-tip1-text=Lastnikom spletnih mest zagotovite dragocene povratne informacije o vsebini spletnega mesta. Je bil članek koristen? Kliknite <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Da</span>. Če ne, kliknite <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Pustite povratne informacije</span> , da nam poveste, kako lahko izboljšamo. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Več o tem</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Začnite pogovor tako, da komentirate stran. Prispevajte svoje podatke ali odgovorite na komentarje drugih uporabnikov. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Več o tem</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Ponastavitev gesla
+
+[Product]
+    powered-by-site=Poganja MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Vpišite se
+    header.recommended-articles=Priporočeni članki
+    header.toc=Kazalo vsebine
+    label.back-to-top=Nazaj na vrh
+    label.global-location-toggle=Razširite/strni globalno lokacijo
+    label.global-navigation-toggle=Razširite/kolaps globalne hierarhije
+    label.last-updated=Zadnja posodobitev
+    label.last-updated-by=s
+    label.no-recommended-articles=Ni priporočenih člankov.
+    label.password=Geslo
+    label.pdf-export=Shrani kot PDF
+    label.signout=Izjavite se
+    label.site-search.button=Iskanje
+    label.site-search.input=Iskanje
+    label.skip-link=Preskoči na glavno vsebino
+    label.tags=Oznake
+    label.user-preferences=Moje nastavitve
+    label.username=Uporabniško ime
+    link.quick-login=Vpišite se
+    link.site-search=Spletno mesto za iskanje
+    placeholder.site-search.input=Kako vam lahko pomagamo?
+    tooltip.back-to-top=Skoči nazaj na vrh tega članka
+    tooltip.browse-back=Vrnite se na prejšnji članek
+    tooltip.pdf-export=Izvoz strani kot PDF
+    tooltip.signout=Kliknite za odpis iz te strani
+    tooltip.skip-link=Pritisnite enter, da preskočite na glavno vsebino
+    tooltip.user-preferences=Kliknite, če želite spremeniti svoje uporabniške nastavitve
+
+[Skin.Common]
+    copyright=avtorske pravice
+    home=Domov
+
+[System.API]
+    no-headers=Brez glav
+    opensearch-shortname=$1 Iskanje
+
+[Users]
+    email.body.html.content=<p>Čestitke <br/><br/>\ r\ n\ r\ nZdaj imate račun pri 4 $. <br/><br/>Vpišite se, da takoj začnete sodelovati z drugimi člani skupnosti. Spodaj so podatki o dostopu do spletnega mesta:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser name: $1<br/>Geslo: $3<br/><br/>\ r\ n\ r\ nČe potrebujete pomoč pri začetku ali imate posebna vprašanja o <a href="$2">$4</a>, se obrnite na skrbnika spletnega mesta. </p>
+    email.body.html.content.nopassword=<p>Čestitke <br/><br/>\ r\ n\ r\ nZdaj imate račun na $3. <br/><br/>Vpišite se, da takoj začnete sodelovati z drugimi člani skupnosti. Spodaj so podrobnosti o dostopu do spletnega mesta:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser ime: $1<br/><br/><em>Obrnite se na skrbnika spletnega mesta, če ne poznate svojega gesla. </em><br/><br/>\ r\ n\ r\ nČe potrebujete pomoč pri začetku ali imate določena vprašanja o <a href="$2">$3</a>, se obrnite na skrbnika spletnega mesta. </p>
+    email.body.text=\ r\ nČestitke,\ r\ n\ r\ nZdaj imate račun na $4. Vpišite se, da takoj začnete sodelovati z drugimi člani skupnosti. Spodaj so podatki o dostopu do spletnega mesta:\ r\ n\ r\ nSite URL: $2\ r\ nUser name: $1\ r\ nPassword: $3\ r\ n\ r\ nČe potrebujete pomoč pri začetku ali imate posebna vprašanja o $4, se obrnite na skrbnika spletnega mesta.
+    email.body.text.nopassword=\ r\ nČestitke,\ r\ n\ r\ nZdaj imate račun pri $3. Vpišite se, da takoj začnete sodelovati z drugimi člani skupnosti. Spodaj so podatki o dostopu do spletnega mesta:\ r\ n\ r\ nURL spletnega mesta: $2\ r\ nUser name: $1\ r\ nObrnite se na skrbnika spletnega mesta, če ne poznate svojega gesla. \ r\ n\ r\ nČe potrebujete pomoč pri začetku ali imate določena vprašanja o $3, se obrnite na skrbnika spletnega mesta.
+    email.external.body.html.content=<p>Čestitke <br/><br/>\ r\ n\ r\ nZdaj imate račun na $3. <br/><br/>Vpišite se, da takoj začnete sodelovati z drugimi člani skupnosti. Spodaj so podatki o dostopu do spletnega mesta:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser name: $1<br/><br/>\ r\ n\ r\ nČe potrebujete pomoč pri začetku ali imate posebna vprašanja o <a href="$2">$3</a>, se obrnite na skrbnika spletnega mesta. </p>
+    email.subject=$1 Prijavite se Podrobnosti
+    form.password.instructions=Gesla morajo biti dolga najmanj 8 znakov in vsebovati vsaj 3 od naslednjih znakov: male, velike črke, števke ali simbole.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Spletni brskalnik ni mogel naložiti zahtevane točke MindTouch Touch.
+    label.back-to-top=Nazaj na vrh
+
+[WebWidget.F1]
+    label.help-button=Pomoč
+    title.help-button=Pomoč
+
+[WebWidget.Login]
+    label.authenticated-user=Vpisan v MindTouch kot {{{uporabniško ime}}
+    label.sign-in=Vpišite se v MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Kliknite za strnjevanje povzetka
+    label.disabled-message=Prosimo, poskusite znova kasneje.
+    label.disabled-title=Oprostite, iskanje trenutno ni na voljo.
+    label.expand-summary=Kliknite za razširitev povzetka
+    label.forbidden-message=Prijavite se ali se obrnite na skrbnika spletnega mesta.
+    label.forbidden-title=Nimate dovoljenja za uporabo te funkcije.
+    label.input-hint=Iskanje
+    label.no-results-faceting-message=Poskusite poiskati nekaj drugega ali izbrati kategorijo.
+    label.no-results-message=Poskusite iskati nekaj drugega.
+    label.no-results-title=Žal mi je, ne moremo najti tistega, kar iščete.
+    label.recommended=Priporočena
+    label.refine-search=Izboljšajte iskanje
+    label.show-more=Prikaži več
+
+[WebWidgets]
+    label.authenticated-user=Pozdravljeni, {{{uporabniško ime}}!
+    label.nav.back=Nazaj
+    label.nav.forward=Naprej
+    label.nav.home=Domov
+
+[Component.Translate]
+    label.choose-language=Izberite Jezik
+    label.english=angleščina
+    label.update-failed=Prevod Nepopoln
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Vsebina strani, prevedena s strojnim prevajanjem
+    dialog.translated-mindtouch=Prevedel MindTouch
