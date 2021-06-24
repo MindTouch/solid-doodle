@@ -1,2 +1,295 @@
 [Dialog.CopyMove]
+    placeholder.search=Որոնել
+    New.word=նոր Բառը կրկին
     extra=Թեստավորում անխափան թարմացման
+
+[F1]
+    dialog.text.back=Վերադառնալ
+    dialog.text.forward=Փոխանցել
+    dialog.text.hint=որոնել
+    dialog.text.home=Տուն
+    dialog.text.open=Բաց հոդված
+
+[MindTouch.Help.Page]
+    category-selector=Զտել արդյունքները, ընտրելով զտիչ.
+    help-header-label=Օգնություն արդյունքները
+    in=մեջ
+    label-filter=Որոնում է
+    label-result-count={0} արդյունքների մասին
+    label-search-all=Բոլոր արդյունքները
+    label.page-rating-no=Ոչ
+    label.page-rating-yes=Այո
+    more=Ավելին
+    no-search-results=Կներեք, մենք չենք կարող գտնել, թե ինչ եք փնտրում.
+    no-search-try=Փորձեք որոնել ուրիշ բան, ընտրելով կատեգորիա, կամ փորձեք ստեղծել տոմս.
+    recommended=(Խորհուրդ է տրվում)
+    search-error=Որոնումը հանդիպել է սխալ.
+    search-error-try=Խնդրում ենք կրկին փորձեք ավելի ուշ.
+    search-unavailable=Ներեցեք, որոնումը ներկայումս անհասանելի է:
+    show-more-search=Ցույց տալ ավելի շատ արդյունքներ
+    tooltip.scrollNext=Ոլորեք դեպի հաջորդ
+    tooltip.scrollPrev=Ոլորել դեպի նախորդ
+    warning.search-only-english=Որոնումը հասանելի է միայն անգլերենով
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(ամսաթիվը ստեղծվել է)
+    featured.articles.created.title=Վերջերս ավելացրել է
+    featured.articles.rated.label=(գնահատականը)
+    featured.articles.rated.title=Ամենաբարձր գնահատված
+    featured.articles.updated.label=(ամսաթիվը թարմացվել է)
+    featured.articles.updated.title=Վերջերս թարմացվել
+    featured.articles.viewed.label=(դիտում)
+    featured.articles.viewed.title=Ամենատարածված
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Ոլորման ներդիրները
+    label.guide.tabscrollright=Ոլորման ներդիրները
+    label.reveal.showAll=Ցույց տալ բոլորը
+    label.reveal.showLess=Ցույց տալ ավելի քիչ
+    label.search.placeholder=Որոնել
+    type.how-to=Ինչպես
+    type.howto=Ինչպես
+    type.reference=Տեղեկանք
+    type.topic=Թեմա
+    type.topic-category=Կատեգորիա
+    type.topic-guide=Ուղեցույց
+    type.topic-portfolio=Պորտֆելի
+    type.unclassified=Չդասակարգված
+
+[MindTouch.LearningPath]
+    label.view-pages=Դիտել էջերը
+    message.page-count=<span>Էջեր:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Թաքցնել
+    button.toggle.show=Ցույց տալ
+    label.attachments=Ներառեք հավելվածները
+    label.attachments-description=Բովանդակության տեսակը
+    label.attachments.type.binary=Այլ
+    label.attachments.type.document=փաստաթուղթը
+    label.attachments.type.image=Պատկեր
+    label.classification=Դասակարգում
+    label.clear-all=Մաքրել բոլոր ֆիլտրերը
+    label.description=Զտել արդյունքները
+    label.filters=Զտիչներ
+    label.location=Որտեղից
+    label.location-empty=Չկան վայրեր, որոնք զտում են
+
+[MindTouch.Subscriptions]
+    cancel=Չեղարկել
+    caption.normal=Դուք բաժանորդագրվում եք հետեւյալ էջերին.
+    caption.nosubscriptions=Դուք չեք բաժանորդագրվել որեւէ էջերի.
+    column.page=Էջը
+    column.recursive=Փոստի ծանուցումներ
+    link-title=Իմացեք ավելին MindTouch- ում ծանուցումների կառավարման մասին
+    nonrecursive=Այս էջը միայն
+    nonrecursive.draft=Այս նախագիծը միայն
+    recursive.many=$1 էջեր
+    recursive.many.draft=$1 նախագծեր
+    recursive.many.overflow=Բաժանորդագրվում է բոլոր ենթաէջերին
+    recursive.many.overflow.draft=Բաժանորդագրվել է բոլոր ենթաէջերի նախագծերին
+    recursive.one=1 էջ
+    recursive.one.draft=1 նախագիծը
+    unsubscribe=Բաժանորդագրվեք
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Փակել հաղորդագրություն
+
+[Page.AuthenticationProviders]
+    page-title=Մուտք գործել
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Այցելեք secordy.mindtouch.com բոլոր օգնության թեմաների. </a>
+
+[Page.Error]
+    not-found=Էջը չի գտնվել
+    not-found-error=Ներեցեք, որ էջը $1 չի կարող գտնվել.
+    not-found-results=Առնչվող որոնման արդյունքներ:
+    page-title=Սխալ
+
+[Page.FeedbackRating]
+    button.leave-feedback=Թողնել հետադարձ
+    button.rating-no=Ոչ
+    button.rating-yes=Այո
+    button.submit-feedback=Ներկայացնել հետադարձ
+    label.checkbox.contact-me=Այո, Դուք կարող եք կապնվել ինձ այս կարծիքի մասին:
+    label.feedback-question=Ինչպես կարող ենք բարելավել այս հոդվածը:
+    label.last-rated=— Դուք վերջին անգամ գնահատել այս հոդվածը $1
+    label.rating-message=Եղել է այս հոդվածը օգտակար?
+    legend.feedback-form=Թողնել հետադարձ
+    message.contact.no=Ոչ
+    message.contact.yes=Այո
+    message.submit.error=Սխալ է տեղի ունեցել, երբ փորձում է ուղարկել Ձեր կարծիքը. Խնդրում ենք կրկին փորձեք ավելի ուշ ժամանակ.
+    message.submit.success=Ձեր կարծիքը հաջողությամբ ներկայացվել է: Դուք կարող եք ներկայացնել ավելի շատ կարծիք ցանկացած ժամանակ.
+
+[Page.LiveTags]
+    label.article=Հոդված տեսակը
+
+[Page.LoginPasswordRegister]
+    page-title=Մուտք գործել եւ գրանցում
+    tab.login=Մուտք գործել
+    tab.password=Գաղտնաբառ վերականգնել
+    tab.register=Գրանցում
+
+[Page.Preferences]
+    error.invalid-email=Խնդրում ենք նշեք վավեր էլփոստի հասցեն
+    form.email=Փոստի հասցե
+    form.fullname=Ցուցադրման անունը
+    form.fullname.help=Ցուցադրման նպատակներով միայն
+    form.hint.password-characters=Գաղտնաբառը պետք է պարունակի առնվազն 3 հետեւյալ նիշերից `փոքրատառ, մեծատառ, թվանշաններ կամ խորհրդանիշներ:
+    form.hint.password-length=Գաղտնաբառը պետք է լինի առնվազն 8 նիշ երկարությամբ
+    form.hint.password-match=Գաղտնաբառերը պետք է համապատասխանի
+    form.hint.password.restricted-words=գաղտնաբառը չի կարող պարունակել ընդհանուր գաղտնաբառեր
+    form.legend.information=Իմ տեղեկատվությունը
+    form.legend.password=Իմ գաղտնաբառը
+    form.password.new=Նոր գաղտնաբառ
+    form.password.old=Հին գաղտնաբառը
+    form.password.submit=Փոխել գաղտնաբառը
+    form.password.verify=Վերագործարկեք նոր գաղտնաբառը
+    form.submit=Պահպանեք իմ տեղեկությունները
+
+[Page.Tags]
+    message.notags=Այս էջը չունի tags.
+    page-title=Կայքի պիտակները
+    tags-inserted-from-template=Կաղապար կողմից առաջարկվող Tags:
+    tags-inserted-heading=Էջի պիտակները:
+
+[Page.UserLogin]
+    error=Ձեր նշանը չի հաջողվել. Խնդրում ենք ստուգել Ձեր մուտքաբառը եւ գաղտնաբառը.
+    page-title=Մուտք գործել
+    submit-login=Մուտք գործել
+    user-name=Մականուն
+    user-password=գաղտնաբառը
+
+[Page.UserLogout]
+    page-title=Մուտքագրեք դուրս
+    success=Դուք հաջողությամբ ստորագրել դուրս.
+
+[Page.UserPassword]
+    form.submit=Գաղտնաբառ վերականգնել
+    page-title=Գաղտնաբառ վերականգնել
+    success.email-sent=Գաղտնաբառ վերականգնման հրահանգներ են ուղարկվել է էլեկտրոնային փոստի հասցեն գրանցված այս հաշվին. Եթե դուք չեք ստանում նամակ, խնդրում ենք ստուգել ձեր ուղղագրությունը եւ կրկին փորձեք. Կապվեք ձեր կայքի ադմինիստրատոր, եթե դուք շարունակում եք ունենալ խնդիրներ ստորագրման.
+
+[Page.UserRegistration]
+    error.email.match=Այն նամակներ եք մտել չեն համապատասխանում.
+    error.password.match=Գաղտնաբառերը դուք մտել չեն համապատասխանում.
+    form.email=Փոստի
+    form.email.verify=Ստուգեք էլփոստի
+    form.fullname=Լրիվ անուն <span class="note">(ըստ ցանկության)</span>
+    form.password=գաղտնաբառը
+    form.password.verify=Ստուգեք գաղտնաբառ
+    form.submit=Ստեղծել հաշիվ
+    form.username=Մականուն
+    page-title=Ստեղծել հաշիվ
+    success.created=User <strong>$1</strong> ստեղծվել է.
+
+[Page.Welcome]
+    community-banner-text=Այժմ կարող եք նպաստել եւ կիսել բովանդակությունը.
+    community-banner-title=Բարի գալուստ, $1. Ձեր հաշիվը ստեղծվել է.
+    community-get-started-text=<strong>Ահա մի քանի խորհուրդներ, որոնք կօգնեն ձեզ սկսել:</strong>
+    community-tip1-text=Կայքի սեփականատերերին տրամադրել արժեքավոր հետադարձ կայքի բովանդակության մասին: Հոդվածը օգտակար էր: Սեղմեք <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">այո</span>. Եթե ոչ, սեղմեք <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Թողնել հետադարձ</span> , ասեք մեզ, թե ինչպես կարող ենք բարելավել: <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Իմացեք ավելին</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Սկսեք զրույց մեկնաբանելով մի էջում. Նպաստել ձեր սեփական տեղեկությունները կամ պատասխանել այլ օգտվողի մեկնաբանություններին. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Իմացեք ավելին</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Գաղտնաբառ վերականգնել
+
+[Product]
+    powered-by-site=Սնուցվում է MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Մուտք գործել
+    header.recommended-articles=Առաջարկվող հոդվածներ
+    header.toc=Բովանդակության ցանկ
+    label.back-to-top=Վերադառնալ վերեւում
+    label.global-location-toggle=Ընդլայնում/փլուզել գլոբալ
+    label.global-navigation-toggle=Ընդլայնում/փլուզել գլոբալ հիերարխիան
+    label.last-updated=Վերջին անգամ թարմացվել է
+    label.last-updated-by=կողմից
+    label.no-recommended-articles=Չկան առաջարկվող հոդվածներ.
+    label.password=գաղտնաբառը
+    label.pdf-export=Պահպանել որպես PDF
+    label.signout=Մուտքագրեք դուրս
+    label.site-search.button=Որոնել
+    label.site-search.input=Որոնել
+    label.skip-link=Բաց թողնել հիմնական բովանդակություն
+    label.tags=Tags
+    label.user-preferences=Իմ նախասիրությունները
+    label.username=Մականուն
+    link.quick-login=Մուտք գործել
+    link.site-search=Որոնել կայքը
+    placeholder.site-search.input=Ինչպես կարող ենք օգնել ձեզ?
+    tooltip.back-to-top=Անցնել ետ վերեւում սույն հոդվածի
+    tooltip.browse-back=Վերադառնալ նախորդ հոդվածին
+    tooltip.pdf-export=Արտահանման էջը որպես PDF
+    tooltip.signout=Սեղմեք այս կայքից դուրս գալու համար
+    tooltip.skip-link=Մամուլ մուտքագրեք հիմնական բովանդակությունը բաց թողնելու համար
+    tooltip.user-preferences=Սեղմեք ձեր օգտագործողի նախասիրությունները փոխելու համար
+
+[Skin.Common]
+    copyright=հեղինակային իրավունք
+    home=Տուն
+
+[System.API]
+    no-headers=Ոչ վերնագրեր
+    opensearch-shortname=$1 Որոնել
+
+[Users]
+    email.body.html.content=<p>Շնորհավորում եմ, <br/><br/>\ r\ n\ r\ nԱյժմ ունեք հաշիվ $4: <br/><br/>Մուտք գործել ակնթարթորեն սկսել համագործակցել այլ համայնքի անդամների. Ստորեւ բերված են ձեր կայքի մուտքի մանրամասները:<br/><br/>\ r\ n\ r\ nԿայքի URL: <a href="$2">$2</a><br/>\ r\ nUser անունը: $1<br/>Գաղտնաբառ: $3<br/><br/>\ r\ n\ r\ nԵթե Ձեզ անհրաժեշտ է օգնել սկսել կամ ունենալ կոնկրետ հարցեր <a href="$2">$4</a>, խնդրում ենք դիմել կայքի ադմինիստրատորին: </p>
+    email.body.html.content.nopassword=<p>Շնորհավորում եմ, <br/><br/>\ r\ n\ r\ nԴուք այժմ ունեք հաշիվ $3: <br/><br/>Մուտք գործել ակնթարթորեն սկսել համագործակցել այլ համայնքի անդամների. Ստորեւ բերված են ձեր կայքի մուտքի մանրամասները:<br/><br/>\ r\ n\ r\ nԿայքի URL: <a href="$2">$2</a><br/>\ r\ nUser անունը: $1<br/><br/><em>Կապվեք կայքի ադմինիստրատորին, եթե չգիտեք ձեր գաղտնաբառը: </em><br/><br/>\ r\ n\ r\ nԵթե Ձեզ անհրաժեշտ է օգնել սկսել կամ ունենալ կոնկրետ հարցեր <a href="$2">$3</a>մասին, խնդրում ենք դիմել կայքի ադմինիստրատորին: </p>
+    email.body.text=\ r\ nՇնորհավորում եմ,\ r\ n\ r\ nԱյժմ ունեք հաշիվ $4: Մուտք գործել ակնթարթորեն սկսել համագործակցել այլ համայնքի անդամների. Ստորեւ բերված են ձեր կայքի մուտքի մանրամասները:\ r\ n\ r\ nԿայքի URL: $2\ r\ nUser անունը: $1\ r\ nԳաղտնաբառ: $3\ r\ n\ r\ nԵթե Ձեզ անհրաժեշտ է օգնել սկսել կամ ունենալ կոնկրետ հարցեր $4, խնդրում ենք դիմել կայքի ադմինիստրատորի հետ:
+    email.body.text.nopassword=\ r\ nՇնորհավորում եմ,\ r\ n\ r\ nԱյժմ ունեք հաշիվ $3: Մուտք գործել ակնթարթորեն սկսել համագործակցել այլ համայնքի անդամների. Ստորեւ բերված են ձեր կայքի մուտքի մանրամասները:\ r\ n\ r\ nԿայքի URL: $2\ r\ nՕգտագործողի անունը: $1\ r\ nԿապվեք կայքի ադմինիստրատորին, եթե չգիտեք ձեր գաղտնաբառը: \ r\ n\ r\ nԵթե Ձեզ անհրաժեշտ է օգնել սկսել կամ ունենալ կոնկրետ հարցեր $3 մասին, խնդրում ենք դիմել կայքի ադմինիստրատորին:
+    email.external.body.html.content=<p>Շնորհավորում եմ, <br/><br/>\ r\ n\ r\ nԴուք այժմ ունեք հաշիվ $3: <br/><br/>Մուտք գործել ակնթարթորեն սկսել համագործակցել այլ համայնքի անդամների. Ստորեւ բերված են ձեր կայքի մուտքի մանրամասները:<br/><br/>\ r\ n\ r\ nԿայքի URL: <a href="$2">$2</a><br/>\ r\ nՕգտվողի անունը: $1<br/><br/>\ r\ n\ r\ nԵթե Ձեզ անհրաժեշտ է օգնել սկսել կամ ունենալ կոնկրետ հարցեր <a href="$2">$3</a>, խնդրում ենք դիմել կայքի ադմինիստրատորին: </p>
+    email.subject=$1 Մուտք Մանրամասներ
+    form.password.instructions=Գաղտնաբառերը պետք է լինեն առնվազն 8 նիշ երկարությամբ եւ պարունակում են հետեւյալ նիշերից առնվազն 3 `փոքրատառ, մեծատառ, թվանշաններ կամ խորհրդանիշներ:
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Պահանջվող MindTouch Touch Point չի կարող բեռնվել ձեր վեբ բրաուզերի.
+    label.back-to-top=Վերադառնալ վերեւում
+
+[WebWidget.F1]
+    label.help-button=Օգնություն
+    title.help-button=Օգնություն
+
+[WebWidget.Login]
+    label.authenticated-user=Ստորագրվել է MindTouch որպես {մուտքանունը}}
+    label.sign-in=Մուտք գործեք MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Սեղմեք փլուզման ամփոփումը
+    label.disabled-message=Խնդրում ենք կրկին փորձեք ավելի ուշ.
+    label.disabled-title=Ներեցեք, որոնումը ներկայումս անհասանելի է:
+    label.expand-summary=Սեղմեք ընդլայնել ամփոփումը
+    label.forbidden-message=Խնդրում ենք մուտք գործել, կամ դիմեք ձեր կայքի ադմինիստրատորի.
+    label.forbidden-title=Դուք չունեք թույլտվություն օգտագործել այս հնարավորությունը.
+    label.input-hint=Որոնել
+    label.no-results-faceting-message=Փորձեք փնտրում ուրիշ բան կամ ընտրելով կատեգորիա.
+    label.no-results-message=Փորձեք փնտրում ուրիշ բան.
+    label.no-results-title=Կներեք, մենք չենք կարող գտնել, թե ինչ եք փնտրում.
+    label.recommended=Առաջարկվող
+    label.refine-search=Զտել որոնումը
+    label.show-more=Ցույց տալ ավելին
+
+[WebWidgets]
+    label.authenticated-user=Բարեւ Ձեզ, {{մուտքանունը}}!
+    label.nav.back=Վերադառնալ
+    label.nav.forward=Փոխանցել
+    label.nav.home=Տուն
+
+[Component.Translate]
+    label.choose-language=Ընտրել լեզուն
+    label.english=Անգլերեն
+    label.update-failed=Թերի թարգմանություն
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=大人人-ը
+    language.chinese=中人-ը
+    language.french=Ֆրանսուա
+    language.portuguese=պորտուգալիա
+    language.dutch=Նեդերլենդներ
+    language.korean=한국어
+    language.swedish=սվենկա
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=իտալերեն
+    title.translated-machine=Էջի բովանդակությունը թարգմանված օգտագործելով մեքենա թարգմանություն
+    dialog.translated-mindtouch=Թարգմանված է MindTouch
