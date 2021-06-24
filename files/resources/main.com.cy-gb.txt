@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Chwilio
+    New.word=Gair newydd eto
+    extra=Diweddariad profion mewn limbo
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=Yn ôl
+    dialog.text.forward=Ymlaen
+    dialog.text.hint=chwilio
+    dialog.text.home=Cartref
+    dialog.text.open=Erthygl agored
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=Mireinio canlyniadau drwy ddewis hidlydd.
+    help-header-label=Canlyniadau cymorth ar gyfer
+    in=yn
+    label-filter=Chwilio i mewn
+    label-result-count=Ynglŷn â chanlyniadau {0}
+    label-search-all=Pob canlyniad
+    label.page-rating-no=Na
+    label.page-rating-yes=Ie
+    more=Mwy
+    no-search-results=Mae'n ddrwg gennym, ni allwn ddod o hyd i'r hyn rydych yn chwilio amdano.
+    no-search-try=Ceisiwch chwilio am rywbeth arall, gan ddewis categori, neu roi cynnig ar greu tocyn.
+    recommended=(Argymhellir)
+    search-error=Chwilio wedi dod ar draws gwall.
+    search-error-try=Ceisiwch eto yn nes ymlaen.
+    search-unavailable=Mae'n ddrwg gennym, chwilio ar hyn o bryd ar gael.
+    show-more-search=Dangos mwy o ganlyniadau
+    tooltip.scrollNext=Sgroliwch i'r nesaf
+    tooltip.scrollPrev=Sgroliwch i blaenorol
+    warning.search-only-english=Mae chwilio ar gael yn Saesneg yn unig
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(dyddiad creu)
+    featured.articles.created.title=Ychwanegwyd yn ddiweddar
+    featured.articles.rated.label=(sgôr)
+    featured.articles.rated.title=Sgôr uchaf
+    featured.articles.updated.label=(dyddiad diweddaru)
+    featured.articles.updated.title=Diweddarwyd yn ddiweddar
+    featured.articles.viewed.label=(barn)
+    featured.articles.viewed.title=Mwyaf poblogaidd
+    label.guide-subpage-display-single=Sengl
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Tabiau sgrolio chwith
+    label.guide.tabscrollright=Tabiau sgrolio i'r dde
+    label.reveal.showAll=Dangos pob
+    label.reveal.showLess=Dangos llai
+    label.search.placeholder=Chwilio
+    type.how-to=Sut-i
+    type.howto=Sut-i
+    type.reference=Cyfeirnod
+    type.topic=Pwnc
+    type.topic-category=Categori
+    type.topic-guide=Canllaw
+    type.topic-portfolio=Portffolio
+    type.unclassified=Ddidd
+
+[MindTouch.LearningPath]
+    label.view-pages=Gweld tudalennau
+    message.page-count=<span>Tudalennau:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Cuddio
+    button.toggle.show=Dangos
+    label.attachments=Cynnwys atodiadau
+    label.attachments-description=Math o Gynnwys
+    label.attachments.type.binary=Eraill
+    label.attachments.type.document=Dogfen
+    label.attachments.type.image=Delwedd
+    label.classification=Dosbarthiad
+    label.clear-all=Clirio'r holl hidlwyr
+    label.description=Hidlo Canlyniadau
+    label.filters=Hidlau
+    label.location=Lleoliad
+    label.location-empty=Nid oes unrhyw leoliadau i'w hidlo yn ôl
+
+[MindTouch.Subscriptions]
+    cancel=canslo
+    caption.normal=Rydych wedi tanysgrifio i'r tudalennau canlynol.
+    caption.nosubscriptions=Nid ydych wedi tanysgrifio i unrhyw dudalennau.
+    column.page=Tudalen
+    column.recursive=Hysbysiadau e-bost ar gyfer
+    link-title=Dysgwch fwy am reoli hysbysiadau yn MindTouch
+    nonrecursive=Y dudalen hon yn unig
+    nonrecursive.draft=Y drafft hwn yn unig
+    recursive.many=$1 tudalen
+    recursive.many.draft=drafftiau $1
+    recursive.many.overflow=Tanysgrifio i bob is-dudalen
+    recursive.many.overflow.draft=Tanysgrifio i bob drafft o is-dudalen
+    recursive.one=1 tudalen
+    recursive.one.draft=1 drafft
+    unsubscribe=Dad-danysgrifio
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Neges agos
+
+[Page.AuthenticationProviders]
+    page-title=Mewngofnodi
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Ewch i success.mindtouch.com ar gyfer yr holl bynciau cymorth. </a>
+
+[Page.Error]
+    not-found=Tudalen heb ei ganfod
+    not-found-error=Mae'n ddrwg gennym, ni ellid dod o hyd i'r dudalen ar $1.
+    not-found-results=Canlyniadau chwilio cysylltiedig:
+    page-title=Gwall
+
+[Page.FeedbackRating]
+    button.leave-feedback=Gadael adborth
+    button.rating-no=Na
+    button.rating-yes=Ie
+    button.submit-feedback=Cyflwyno adborth
+    label.checkbox.contact-me=Oes, efallai y byddwch yn cysylltu â mi am yr adborth hwn.
+    label.feedback-question=Sut allwn ni wella'r erthygl hon?
+    label.last-rated=— Rydych diwethaf graddio erthygl hon ar $1
+    label.rating-message=A oedd yr erthygl hon yn ddefnyddiol?
+    legend.feedback-form=Gadael adborth
+    message.contact.no=Na
+    message.contact.yes=Ie
+    message.submit.error=Digwyddodd gwall wrth geisio anfon eich adborth. Ceisiwch eto yn ddiweddarach.
+    message.submit.success=Mae eich adborth wedi cael ei gyflwyno'n llwyddiannus. Gallwch gyflwyno mwy o adborth ar unrhyw adeg.
+
+[Page.LiveTags]
+    label.article=Math o erthygl
+
+[Page.LoginPasswordRegister]
+    page-title=Mewngofnodi a chofrestru
+    tab.login=Mewngofnodi
+    tab.password=Ailosod cyfrinair
+    tab.register=Cofrestru
+
+[Page.Preferences]
+    error.invalid-email=Nodwch gyfeiriad e-bost dilys
+    form.email=Cyfeiriad e-bost
+    form.fullname=Enw arddangos
+    form.fullname.help=At ddibenion arddangos yn unig
+    form.hint.password-characters=Rhaid i'r cyfrinair gynnwys o leiaf 3 o'r cymeriadau canlynol: llythrennau bach, priflythyren, digidau neu symbolau.
+    form.hint.password-length=Rhaid i'r cyfrinair fod o leiaf 8 nod o hyd
+    form.hint.password-match=Rhaid i'r cyfrineiriau gyd-fynd
+    form.hint.password.restricted-words=Ni all y cyfrinair gynnwys geiriau cyfrinair cyffredin
+    form.legend.information=Fy ngwybodaeth
+    form.legend.password=Fy nghyfrinair
+    form.password.new=Cyfrinair newydd
+    form.password.old=Hen gyfrinair
+    form.password.submit=Newid cyfrinair
+    form.password.verify=Aildeipio cyfrinair newydd
+    form.submit=Cadw fy ngwybodaeth
+
+[Page.Tags]
+    message.notags=Nid oes gan y dudalen hon tagiau.
+    page-title=Tagiau safle
+    tags-inserted-from-template=Tagiau a argymhellir gan y templed:
+    tags-inserted-heading=Tagiau Tudalen:
+
+[Page.UserLogin]
+    error=Mae eich arwydd i mewn wedi methu. Gwiriwch eich enw defnyddiwr a'ch cyfrinair.
+    page-title=Mewngofnodi
+    submit-login=Mewngofnodi
+    user-name=Enw defnyddiwr
+    user-password=Cyfrinair
+
+[Page.UserLogout]
+    page-title=Llofnodi
+    success=Rydych wedi allgofnodi'n llwyddiannus.
+
+[Page.UserPassword]
+    form.submit=Ailosod cyfrinair
+    page-title=Ailosod cyfrinair
+    success.email-sent=Anfonwyd cyfarwyddiadau ailosod cyfrinair i'r cyfeiriad e-bost a gofrestrwyd ar gyfer y cyfrif hwn. Os na fyddwch yn derbyn e-bost, gwiriwch eich sillafu a cheisiwch eto. Cysylltwch â gweinyddwr eich safle os ydych yn parhau i gael problemau wrth fewngofnodi.
+
+[Page.UserRegistration]
+    error.email.match=Nid yw'r negeseuon e-bost a roesoch yn cyfateb.
+    error.password.match=Nid yw'r cyfrineiriau a roesoch yn cyfateb.
+    form.email=E-bost
+    form.email.verify=Gwirio E-bost
+    form.fullname=Enw llawn <span class="note">(dewisol)</span>
+    form.password=Cyfrinair
+    form.password.verify=Gwirio cyfrinair
+    form.submit=Creu cyfrif
+    form.username=Enw defnyddiwr
+    page-title=Creu cyfrif
+    success.created=Defnyddiwr <strong>$1</strong> wedi cael ei greu.
+
+[Page.Welcome]
+    community-banner-text=Gallwch nawr gyfrannu a rhannu cynnwys.
+    community-banner-title=Croeso, $1. Mae eich cyfrif wedi cael ei greu.
+    community-get-started-text=<strong>Dyma rai awgrymiadau i'ch helpu i ddechrau arni:</strong>
+    community-tip1-text=Rhoi adborth gwerthfawr i berchnogion safleoedd am gynnwys y safle. A oedd yr erthygl yn ddefnyddiol? Cliciwch <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ydw</span>. Os na, cliciwch ar <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">adborth Adael</span> i ddweud wrthym sut y gallwn wella. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Dysgu mwy</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Dechreuwch sgwrs drwy roi sylwadau ar dudalen. Cyfrannwch eich gwybodaeth eich hun neu ymateb i sylwadau defnyddwyr eraill. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Dysgu mwy</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Ailosod cyfrinair
+
+[Product]
+    powered-by-site=Wedi'i bweru gan MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Mewngofnodi
+    header.recommended-articles=Erthyglau a argymhellir
+    header.toc=Tabl cynnwys
+    label.back-to-top=Nôl i'r brig
+    label.global-location-toggle=Lleoliad byd-eang eang/cwymp
+    label.global-navigation-toggle=Eang/cwympo hierarchaeth fyd-eang
+    label.last-updated=Diweddarwyd diwethaf
+    label.last-updated-by=gan
+    label.no-recommended-articles=Nid oes unrhyw erthyglau a argymhellir.
+    label.password=Cyfrinair
+    label.pdf-export=Cadw fel PDF
+    label.signout=Llofnodi
+    label.site-search.button=Chwilio
+    label.site-search.input=Chwilio
+    label.skip-link=Neidio i'r prif gynnwys
+    label.tags=Tagiau
+    label.user-preferences=Fy newisiadau
+    label.username=Enw defnyddiwr
+    link.quick-login=Mewngofnodi
+    link.site-search=Chwilio'r safle
+    placeholder.site-search.input=Sut allwn ni eich helpu chi?
+    tooltip.back-to-top=Neidio yn ôl i frig yr erthygl hon
+    tooltip.browse-back=Ewch yn ôl i erthygl flaenorol
+    tooltip.pdf-export=Allforio tudalen fel PDF
+    tooltip.signout=Cliciwch i allgofnodi o'r wefan hon
+    tooltip.skip-link=Pwyswch enter i sgipio i'r prif gynnwys
+    tooltip.user-preferences=Cliciwch i newid eich dewisiadau defnyddiwr
+
+[Skin.Common]
+    copyright=Hawlfraint
+    home=Cartref
+
+[System.API]
+    no-headers=Dim penawdau
+    opensearch-shortname=$1 Chwilio
+
+[Users]
+    email.body.html.content=<p>Llongyfarchiadau, <br/><br/>\ r\ n\ r\ nMae gennych gyfrif yn awr yn $4. <br/><br/>Mewngofnodwch i ddechrau cydweithio ag aelodau eraill o'r gymuned yn syth. Isod mae manylion mynediad eich safle:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nEnw defnyddiwr: $1<br/>Cyfrinair: $3<br/><br/>\ r\ n\ r\ r\ r\ r\ nOs oes angen help arnoch i ddechrau arni neu os oes gennych gwestiynau penodol am <a href="$2">$4</a>, cysylltwch â gweinyddwr y safle. </p>
+    email.body.html.content.nopassword=<p>Llongyfarchiadau, <br/><br/>\ r\ n\ r\ nMae gennych gyfrif yn awr yn $3. <br/><br/>Mewngofnodwch i ddechrau cydweithio ag aelodau eraill o'r gymuned yn syth. Isod mae manylion mynediad eich safle:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nEnw defnyddiwr: $1<br/><br/><em>Cysylltwch â gweinyddwr y safle os nad ydych yn gwybod eich cyfrinair. </em><br/><br/>\ r\ n\ r\ nOs oes angen help arnoch i ddechrau arni neu os oes gennych gwestiynau penodol am <a href="$2">$3</a>, cysylltwch â gweinyddwr y safle. </p>
+    email.body.text=\ r\ nLlongyfarchiadau,\ r\ n\ r\ nNawr mae gennych gyfrif ar $4. Mewngofnodwch i ddechrau cydweithio ag aelodau eraill o'r gymuned yn syth. Isod mae manylion mynediad eich safle:\ r\ n\ r\ nSite URL: $2\ r\ nEnw Defnyddiwr: $1\ r\ nCyfrinair: $3\ r\ r\ r\ r\ r\ r\ r\ nOs oes angen help arnoch i ddechrau arni neu os oes gennych gwestiynau penodol am $4, cysylltwch â gweinyddwr y safle.
+    email.body.text.nopassword=\ r\ nLlongyfarchiadau,\ r\ n\ r\ nNawr mae gennych gyfrif ar $3. Mewngofnodwch i ddechrau cydweithio ag aelodau eraill o'r gymuned yn syth. Isod mae manylion mynediad eich safle:\ r\ n\ r\ nSite URL: $2\ r\ nEnw Defnyddiwr: $1\ r\ nCysylltwch â gweinyddwr y safle os nad ydych yn gwybod eich cyfrinair. \ r\ n\ r\ nOs oes angen help arnoch i ddechrau arni neu os oes gennych gwestiynau penodol am $3, cysylltwch â gweinyddwr y safle.
+    email.external.body.html.content=<p>Llongyfarchiadau, <br/><br/>\ r\ n\ r\ nMae gennych gyfrif yn awr yn $3. <br/><br/>Mewngofnodwch i ddechrau cydweithio ag aelodau eraill o'r gymuned yn syth. Isod mae manylion mynediad eich safle:<br/><br/>\ r\ n\ r\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nEnw defnyddiwr: $1<br/><br/>\ r\ r\ r\ r\ nOs oes angen help arnoch i ddechrau arni neu os oes gennych gwestiynau penodol am <a href="$2">$3</a>, cysylltwch â gweinyddwr y safle. </p>
+    email.subject=$1 Mewngofnodi Manylion
+    form.password.instructions=Rhaid i gyfrineiriau fod o leiaf 8 nod o hyd a chynnwys o leiaf 3 o'r cymeriadau canlynol: llythrennau bach, priflythyren, digidau neu symbolau.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Ni allai'r MindTouch Touchpoint gofynnwyd ei llwytho gan eich porwr gwe.
+    label.back-to-top=Nôl i'r brig
+
+[WebWidget.F1]
+    label.help-button=Help
+    title.help-button=Help
+
+[WebWidget.Login]
+    label.authenticated-user=Llofnodwyd i MindTouch fel {username}}
+    label.sign-in=Mewngofnodwch i MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Cliciwch i gwympo crynodeb
+    label.disabled-message=Ceisiwch eto yn nes ymlaen.
+    label.disabled-title=Mae'n ddrwg gennym, chwilio ar hyn o bryd ar gael.
+    label.expand-summary=Cliciwch i ehangu'r crynodeb
+    label.forbidden-message=Mewngofnodwch, neu cysylltwch â'ch gweinyddwr safle.
+    label.forbidden-title=Nid oes gennych ganiatâd i ddefnyddio'r nodwedd hon.
+    label.input-hint=Chwilio
+    label.no-results-faceting-message=Ceisiwch chwilio am rywbeth arall neu ddewis categori.
+    label.no-results-message=Ceisiwch chwilio am rywbeth arall.
+    label.no-results-title=Mae'n ddrwg gennym, ni allwn ddod o hyd i'r hyn rydych yn chwilio amdano.
+    label.recommended=Argymhellir
+    label.refine-search=Mireinio'r chwiliad
+    label.show-more=Dangos mwy
+
+[WebWidgets]
+    label.authenticated-user=Helo, {{{username}}!
+    label.nav.back=Yn ôl
+    label.nav.forward=Ymlaen
+    label.nav.home=Cartref
+
+[Component.Translate]
+    label.choose-language=Dewis Iaith
+    label.english=Saesneg
+    label.update-failed=Cyfieithu Anghyflawn
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Eidaleg
+    title.translated-machine=Cynnwys Tudalen wedi'i gyfieithu gan ddefnyddio cyfieithu peirianyddol
+    dialog.translated-mindtouch=Cyfieithwyd gan MindTouch
