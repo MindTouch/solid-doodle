@@ -1,8 +1,295 @@
-[Section.Headers]
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=தேடல்
+    New.word=புதிய வார்த்தை மீண்டும்
+    extra=லிம்போ மேம்படுத்தலில் சோதனை
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old Select Title
+[F1]
+    dialog.text.back=பின்புறம்
+    dialog.text.forward=முன்னோக்கி
+    dialog.text.hint=தேடு
+    dialog.text.home=முகப்பு
+    dialog.text.open=திறந்த கட்டுரை
 
-[Web.Defaults]
-    error.message=Error message
+[MindTouch.Help.Page]
+    category-selector=ஒரு வடிகட்டி தேர்ந்தெடுப்பதன் மூலம் முடிவுகளை சுத்தப்படுத்தவும்.
+    help-header-label=உதவி முடிவுகள்
+    in=இல்
+    label-filter=தேடி
+    label-result-count=பற்றி {0} முடிவுகள்
+    label-search-all=அனைத்து முடிவுகளும்
+    label.page-rating-no=இல்லை
+    label.page-rating-yes=ஆம்
+    more=மேலும்
+    no-search-results=மன்னிக்கவும், நீங்கள் தேடும் என்ன கண்டுபிடிக்க முடியவில்லை.
+    no-search-try=வேறு ஏதாவது தேட முயற்சிக்கவும், ஒரு வகையைத் தேர்ந்தெடுத்து, அல்லது டிக்கெட் ஒன்றை உருவாக்க முயற்சிக்கவும்.
+    recommended=(பரிந்துரைக்கப்பட்டது)
+    search-error=தேடல் ஒரு பிழையை எதிர்கொண்டது.
+    search-error-try=பின்னர் மீண்டும் முயற்சிக்கவும்.
+    search-unavailable=மன்னிக்கவும், தேடல் தற்போது கிடைக்கவில்லை.
+    show-more-search=மேலும் முடிவுகளைக் காட்டு
+    tooltip.scrollNext=அடுத்த உருட்டு
+    tooltip.scrollPrev=முந்தைய உருட்டு
+    warning.search-only-english=தேடல் ஆங்கிலத்தில் மட்டுமே கிடைக்கிறது
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(உருவாக்கப்பட்ட தேதி)
+    featured.articles.created.title=சமீபத்தில் சேர்க்கப்பட்டது
+    featured.articles.rated.label=(மதிப்பீடு)
+    featured.articles.rated.title=அதிகபட்சமாக மதிப்பிடப்பட்டது
+    featured.articles.updated.label=(புதுப்பிக்கப்பட்ட தேதி)
+    featured.articles.updated.title=சமீபத்தில் மேம்படுத்தப்பட்டது
+    featured.articles.viewed.label=(காட்சிகள்)
+    featured.articles.viewed.title=மிகவும் பிரபலமான
+    label.guide-subpage-display-single=ஒற்றைக்கல்
+    label.guide-subpage-display-tabbed=தாப்பேட்டை
+    label.guide.tabscrollleft=உருள் தாவல்கள் இடது
+    label.guide.tabscrollright=வலது தாவல்களை உருட்டும்
+    label.reveal.showAll=அனைவரையும் காண்பி
+    label.reveal.showLess=குறைவாகவே காட்டுங்கள்
+    label.search.placeholder=தேடல்
+    type.how-to=எவ்வி-வேண்டும்
+    type.howto=எவ்வி-வேண்டும்
+    type.reference=மேற்கோள்
+    type.topic=தலைப்பு
+    type.topic-category=பகுப்பு
+    type.topic-guide=கையேடு
+    type.topic-portfolio=துறைமுகப்பட்டி
+    type.unclassified=வகைப்படுத்தப்படாத
+
+[MindTouch.LearningPath]
+    label.view-pages=பக்கங்களைக் காண்க
+    message.page-count=<span>பக்கங்கள்:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=மறை
+    button.toggle.show=காட்டு
+    label.attachments=இணைப்புகளை சேர்க்கவும்
+    label.attachments-description=உள்ளடக்க வகை
+    label.attachments.type.binary=ஏனைய
+    label.attachments.type.document=ஆவணம்
+    label.attachments.type.image=படிமம்
+    label.classification=வகைப்பாடு
+    label.clear-all=அனைத்து வடிகட்டிகளையும் அழிக்கவும்
+    label.description=வடிகட்டி முடிவுகள்
+    label.filters=வடிப்பான்கள்
+    label.location=அமைவிடம்
+    label.location-empty=வடிகட்ட எந்த இடங்களும் இல்லை
+
+[MindTouch.Subscriptions]
+    cancel=ரத்து
+    caption.normal=நீங்கள் பின்வரும் பக்கங்களில் சந்தா.
+    caption.nosubscriptions=நீங்கள் எந்த பக்கங்களுக்கும் சந்தா இல்லை.
+    column.page=பக்கம்
+    column.recursive=மின்னஞ்சல் அறிவிப்புகளை
+    link-title=MindTouch இல் அறிவிப்புகளை நிர்வகிப்பது பற்றி மேலும் அறியவும்
+    nonrecursive=இப்பக்கம் மட்டும்
+    nonrecursive.draft=இந்த வரைவு மட்டுமே
+    recursive.many=$1 பக்கங்கள்
+    recursive.many.draft=$1 வரைவுகளை
+    recursive.many.overflow=அனைத்து துணைப் பக்கங்களுக்கும் சந்தா
+    recursive.many.overflow.draft=அனைத்து துணைப்பக்க வரைவுகளுக்கும் சந்தா
+    recursive.one=1 பக்கம்
+    recursive.one.draft=1 வரைவு
+    unsubscribe=சந்தா
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=செய்தியை மூடு
+
+[Page.AuthenticationProviders]
+    page-title=உள்நுழையவும்
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">அனைத்து உதவி தலைப்புகள் வெற்றி.mindtouch.com வருகை. </a>
+
+[Page.Error]
+    not-found=பக்கம் காணப்படவில்லை
+    not-found-error=மன்னிக்கவும், $1 இல் உள்ள பக்கம் காணப்படவில்லை.
+    not-found-results=தொடர்புடைய தேடல் முடிவுகள்:
+    page-title=பிழை
+
+[Page.FeedbackRating]
+    button.leave-feedback=கருத்துக்களை விட்டு விடுங்கள்
+    button.rating-no=இல்லை
+    button.rating-yes=ஆம்
+    button.submit-feedback=கருத்துக்களை சமர்ப்பிக்கவும்
+    label.checkbox.contact-me=ஆமாம், நீங்கள் இந்த கருத்து பற்றி என்னை தொடர்பு கொள்ளலாம்.
+    label.feedback-question=எப்படி நாம் இந்த கட்டுரை மேம்படுத்த முடியும்?
+    label.last-rated=— நீங்கள் கடந்த இந்த கட்டுரை மதிப்பிடப்பட்டது $1
+    label.rating-message=இந்த கட்டுரை பயனுள்ளதாக இருந்ததா?
+    legend.feedback-form=கருத்துக்களை விட்டு விடுங்கள்
+    message.contact.no=இல்லை
+    message.contact.yes=ஆம்
+    message.submit.error=உங்கள் கருத்துக்களை அனுப்ப முயற்சிக்கும் போது பிழை ஏற்பட்டது. பின்னர் ஒரு நேரத்தில் மீண்டும் முயற்சிக்கவும்.
+    message.submit.success=உங்கள் கருத்து வெற்றிகரமாக சமர்ப்பிக்கப்பட்டது. நீங்கள் எந்த நேரத்திலும் அதிக கருத்துக்களை சமர்ப்பிக்கலாம்.
+
+[Page.LiveTags]
+    label.article=கட்டுரை வகை
+
+[Page.LoginPasswordRegister]
+    page-title=உள்நுழைய மற்றும் பதிவு
+    tab.login=உள்நுழையவும்
+    tab.password=கடவுச்சொல் மீட்ட
+    tab.register=பதிவுசெய்தல்
+
+[Page.Preferences]
+    error.invalid-email=செல்லுபடியாகும் மின்னஞ்சல் முகவரியை குறிப்பிடவும்
+    form.email=மின்னஞ்சல் முகவரி
+    form.fullname=காட்சி பெயர்
+    form.fullname.help=காட்சி நோக்கங்களுக்காக மட்டுமே
+    form.hint.password-characters=கடவுச்சொல் பின்வரும் எழுத்துக்களில் குறைந்தது 3 ஐக் கொண்டிருக்க வேண்டும்: சிறிய, மேல்வழக்கு, இலக்கங்கள் அல்லது குறியீடுகள்.
+    form.hint.password-length=கடவுச்சொல் குறைந்தபட்சம் 8 எழுத்துக்கள் நீளமாக இருக்க வேண்டும்
+    form.hint.password-match=கடவுச்சொற்கள் பொருந்த வேண்டும்
+    form.hint.password.restricted-words=கடவுச்சொல்லை பொதுவான கடவுச்சொல்லை கொண்டிருக்க முடியாது
+    form.legend.information=எனது தகவல்
+    form.legend.password=என் கடவுச்சொல்
+    form.password.new=புதிய கடவுச்சொல்
+    form.password.old=பழைய கடவுச்சொல்
+    form.password.submit=கடவுச்சொல்லை மாற்ற
+    form.password.verify=புதிய கடவுச்சொல்லை மறுவகை செய்யவும்
+    form.submit=எனது தகவலை சேமிக்கவும்
+
+[Page.Tags]
+    message.notags=இப்பக்கம் குறிச்சொற்களை இல்லை.
+    page-title=தளம் குறிச்சொற்கள்
+    tags-inserted-from-template=டெம்ப்ளேட் பரிந்துரை குறிச்சொற்கள்
+    tags-inserted-heading=பக்கம் குறிச்சொற்கள்:
+
+[Page.UserLogin]
+    error=உங்கள் அடையாளம் தோல்வியடைந்துள்ளது. உங்கள் பயனர்பெயர் மற்றும் கடவுச்சொல்லை சரிபார்க்கவும்.
+    page-title=உள்நுழையவும்
+    submit-login=உள்நுழையவும்
+    user-name=பயனர்பெயர்
+    user-password=கடவுச்சொல்
+
+[Page.UserLogout]
+    page-title=உள்நுழையுங்கள்
+    success=நீங்கள் வெற்றிகரமாக கையெழுத்திட்டுள்ளீர்கள்.
+
+[Page.UserPassword]
+    form.submit=கடவுச்சொல் மீட்ட
+    page-title=கடவுச்சொல் மீட்ட
+    success.email-sent=இந்த கணக்கிற்கு பதிவு செய்யப்பட்ட மின்னஞ்சல் முகவரிக்கு கடவுச்சொல் ரீசெட் வழிமுறைகள் அனுப்பப்பட்டுள்ளன. நீங்கள் ஒரு மின்னஞ்சல் பெறவில்லை என்றால், உங்கள் எழுத்துப்பிழை சரிபார்த்து மீண்டும் முயற்சிக்கவும். நீங்கள் உள்நுழையும் சிக்கல்கள் தொடர்ந்து இருந்தால், உங்கள் தள நிர்வாகியைத் தொடர்புகொள்ளவும்.
+
+[Page.UserRegistration]
+    error.email.match=நீங்கள் உள்ளிட்ட மின்னஞ்சல்கள் பொருந்தவில்லை.
+    error.password.match=நீங்கள் உள்ளிட்ட கடவுச்சொற்கள் பொருந்தவில்லை.
+    form.email=மின்னஞ்சல்
+    form.email.verify=மின்னஞ்சலை சரிபார்க்கவும்
+    form.fullname=முழுப் பெயர் <span class="note">(விருப்ப)</span>
+    form.password=கடவுச்சொல்
+    form.password.verify=கடவுச்சொல்லை சரிபார்க்கவும்
+    form.submit=ஒரு கணக்கை உருவாக்கவும்
+    form.username=பயனர்பெயர்
+    page-title=ஒரு கணக்கை உருவாக்கவும்
+    success.created=பயனர் <strong>$1</strong> உருவாக்கப்பட்டுள்ளது.
+
+[Page.Welcome]
+    community-banner-text=நீங்கள் இப்போது உள்ளடக்கத்தை பங்களிக்கவும் பகிரவும் முடியும்.
+    community-banner-title=வரவேற்கிறோம், $1. உங்கள் கணக்கு உருவாக்கப்பட்டுள்ளது.
+    community-get-started-text=<strong>நீங்கள் தொடங்குவதற்கு உதவும் சில உதவிக்குறிப்புகள் இங்கே:</strong>
+    community-tip1-text=தளத்தின் உள்ளடக்கம் பற்றி மதிப்புமிக்க கருத்துக்களை தள உரிமையாளர்களை வழங்கவும். கட்டுரை உதவியாக இருந்ததா? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">ஆம்</span>என்பதைக் கிளிக் செய்யவும். என்றால் இல்லை, நாம் மேம்படுத்த முடியும் என்பதை எங்களுக்கு சொல்ல <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">கருத்துக்களை விட்டு</span> கிளிக். <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">மேலும் அறிய</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ஒரு பக்கத்தில் கருத்து தெரிவிப்பதன் மூலம் ஒரு உரையாடலைத் தொடங்கவும். உங்கள் சொந்த தகவலை பங்களிக்கவும் அல்லது பிற பயனரின் கருத்துகளுக்கு பதிலளிக்கவும். <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">மேலும் அறிய</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=கடவுச்சொல் மீட்ட
+
+[Product]
+    powered-by-site=MindTouch மூலம் இயக்கப்படுகிறது
+
+[Skin.Columbia]
+    button.quick-login=உள்நுழையவும்
+    header.recommended-articles=பரிந்துரைக்கப்பட்ட கட்டுரைகள்
+    header.toc=உள்ளடக்கங்களின் அட்டவணை
+    label.back-to-top=மீண்டும் மேல்
+    label.global-location-toggle=உலகளாவிய இருப்பிடத்தை விரிவாக்க/சரிசெய்தல்
+    label.global-navigation-toggle=உலகளாவிய படிநிலை விரிவாக்கம்/சரிவு
+    label.last-updated=கடைசியாகப் புதுப்பித்தது
+    label.last-updated-by=மூலம்
+    label.no-recommended-articles=பரிந்துரைக்கப்பட்ட கட்டுரைகள் இல்லை.
+    label.password=கடவுச்சொல்
+    label.pdf-export=PDF ஆக சேமிக்கவும்
+    label.signout=உள்நுழையுங்கள்
+    label.site-search.button=தேடல்
+    label.site-search.input=தேடல்
+    label.skip-link=முக்கிய உள்ளடக்கத்திற்கு செல்க
+    label.tags=குறிச்சொற்கள்
+    label.user-preferences=என் விருப்பம்
+    label.username=பயனர்பெயர்
+    link.quick-login=உள்நுழையவும்
+    link.site-search=தேடல் தளம்
+    placeholder.site-search.input=நாங்கள் உங்களுக்கு எப்படி உதவ முடியும்?
+    tooltip.back-to-top=இந்த கட்டுரையின் மேல் திரும்பவும் செல்லுங்கள்
+    tooltip.browse-back=முந்தைய கட்டுரைக்கு திரும்பி செல்லுங்கள்
+    tooltip.pdf-export=PDF ஆக ஏற்றுமதி பக்கம்
+    tooltip.signout=இந்த தளத்திலிருந்து உள்நுழைய கிளிக் செய்யவும்
+    tooltip.skip-link=முக்கிய உள்ளடக்கத்திற்கு தவிர்க்க Enter ஐ அழுத்தவும்
+    tooltip.user-preferences=உங்கள் பயனர் விருப்பங்களை மாற்ற கிளிக் செய்யவும்
+
+[Skin.Common]
+    copyright=பதிப்புரிமை
+    home=முகப்பு
+
+[System.API]
+    no-headers=தலைப்புகள் இல்லை
+    opensearch-shortname=$1 தேடல்
+
+[Users]
+    email.body.html.content=<p>வாழ்த்துக்கள், <br/><br/>\ r\ n\ r\ nநீங்கள் இப்போது ஒரு கணக்கு $4. <br/><br/>உடனடியாக மற்ற சமூக உறுப்பினர்களுடன் இணைந்து தொடங்குவதற்கு உள்நுழையவும். உங்கள் தளத்தின் அணுகல் விவரங்கள் கீழே உள்ளன:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nபயனர் பெயர்: $1<br/>கடவுச்சொல்: $3<br/><br/>\ r\ n\ r\ nஉங்களுக்குத் தொடங்குவதற்கு உதவி தேவைப்பட்டால் அல்லது <a href="$2">$4</a>பற்றி குறிப்பிட்ட கேள்விகள் இருந்தால், தள நிர்வாகியைத் தொடர்பு கொள்ளவும். </p>
+    email.body.html.content.nopassword=<p>வாழ்த்துக்கள், <br/><br/>\ r\ n\ r\ nநீங்கள் இப்போது $3 இல் கணக்கு வைத்திருக்கிறீர்கள். <br/><br/>உடனடியாக மற்ற சமூக உறுப்பினர்களுடன் இணைந்து தொடங்குவதற்கு உள்நுழையவும். கீழே உங்கள் தளத்தில் அணுகல் விவரங்கள் உள்ளன:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nபயனர் பெயர்: $1<em>உங்கள் கடவுச்சொல்லை தெரியாவிட்டால் தள நிர்வாகி<br/><br/>தொடர்பு. </em><br/><br/>\ r\ n\ r\ nஉங்களுக்கு உதவி தேவைப்பட்டால் அல்லது <a href="$2">$3</a>பற்றி குறிப்பிட்ட கேள்விகள் இருந்தால், தள நிர்வாகியைத் தொடர்பு கொள்ளவும். </p>
+    email.body.text=\ r\ nவாழ்த்துக்கள்,\ r\ n\ r\ nஇப்போது நீங்கள் $4 இல் கணக்கு வைத்திருக்கிறீர்கள். உடனடியாக மற்ற சமூக உறுப்பினர்களுடன் இணைந்து தொடங்குவதற்கு உள்நுழையவும். உங்கள் தளத்தின் அணுகல் விவரங்கள் கீழே உள்ளன:\ r\ n\ r\ nSite URL: $2\ r\ nபயனர் பெயர்: $1\ r\ nகடவுச்சொல்: $3\ r\ n\ r\ nஉங்களுக்கு உதவி தேவைப்பட்டால் அல்லது $4 பற்றி குறிப்பிட்ட கேள்விகள் இருந்தால், தயவுசெய்து தள நிர்வாகியைத் தொடர்பு கொள்ளவும்.
+    email.body.text.nopassword=\ r\ nவாழ்த்துக்கள்,\ r\ n\ r\ nஇப்போது நீங்கள் $3 இல் கணக்கு வைத்திருக்கிறீர்கள். உடனடியாக மற்ற சமூக உறுப்பினர்களுடன் இணைந்து தொடங்குவதற்கு உள்நுழையவும். உங்கள் தளத்தில் அணுகல் விவரங்கள் கீழே உள்ளன:\ r\ n\ r\ nSite URL: $2\ r\ nபயனர் பெயர்: $1\ r\ nஉங்கள் கடவுச்சொல்லை உங்களுக்குத் தெரியாவிட்டால் தள நிர்வாகியை தொடர்பு கொள்ளவும். \ r\ n\ r\ nஉங்களுக்கு உதவி தேவைப்பட்டால் அல்லது $3 பற்றி குறிப்பிட்ட கேள்விகள் இருந்தால், தள நிர்வாகியைத் தொடர்பு கொள்ளவும்.
+    email.external.body.html.content=<p>வாழ்த்துக்கள், <br/><br/>\ r\ n\ r\ nநீங்கள் இப்போது $3 இல் கணக்கு வைத்திருக்கிறீர்கள். <br/><br/>உடனடியாக மற்ற சமூக உறுப்பினர்களுடன் இணைந்து தொடங்குவதற்கு உள்நுழையவும். உங்கள் தளத்தில் அணுகல் விவரங்கள் கீழே உள்ளன:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nபயனர் பெயர்: $1<br/><br/>\ r\ n\ r\ nஉங்களுக்குத் தொடங்குவதற்கு உதவி தேவைப்பட்டால் அல்லது <a href="$2">$3</a>பற்றி குறிப்பிட்ட கேள்விகள் இருந்தால், தயவுசெய்து தள நிர்வாகியைத் தொடர்பு கொள்ளவும். </p>
+    email.subject=$1 விவரங்கள் உள்நுழையவும்
+    form.password.instructions=கடவுச்சொற்கள் குறைந்தபட்சம் 8 எழுத்துக்கள் நீளமாக இருக்க வேண்டும் மற்றும் பின்வரும் எழுத்துக்களில் குறைந்தபட்சம் 3 ஐ கொண்டிருக்க வேண்டும்: சிறிய, மேல்வழக்கு, இலக்கங்கள் அல்லது குறியீடுகள்.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=கோரிய MindTouch Touchpoint உங்கள் இணைய உலாவி ஏற்றப்படும் முடியவில்லை.
+    label.back-to-top=மீண்டும் மேல்
+
+[WebWidget.F1]
+    label.help-button=உதவி
+    title.help-button=உதவி
+
+[WebWidget.Login]
+    label.authenticated-user={{பயனர்பெயர்}} என MindTouch இல் கையொப்பமிடப்பட்டது
+    label.sign-in=MindTouch க்கு உள்நுழையவும்
+
+[WebWidget.Search]
+    label.collapse-summary=சுருக்கம் சரிவு கிளிக் செய்யவும்
+    label.disabled-message=பின்னர் மீண்டும் முயற்சிக்கவும்.
+    label.disabled-title=மன்னிக்கவும், தேடல் தற்போது கிடைக்கவில்லை.
+    label.expand-summary=சுருக்கத்தை விரிவாக்க கிளிக் செய்யவும்
+    label.forbidden-message=உள்நுழைய, அல்லது உங்கள் தளத்தில் நிர்வாகி தொடர்பு கொள்ளவும்.
+    label.forbidden-title=இந்த அம்சத்தை பயன்படுத்த உங்களுக்கு அனுமதி இல்லை.
+    label.input-hint=தேடல்
+    label.no-results-faceting-message=வேறு ஏதாவது தேட முயற்சிக்கவும் அல்லது ஒரு வகையைத் தேர்ந்தெடுக்கவும்.
+    label.no-results-message=வேறு ஏதாவது தேட முயற்சிக்கவும்.
+    label.no-results-title=மன்னிக்கவும், நீங்கள் தேடும் என்ன கண்டுபிடிக்க முடியவில்லை.
+    label.recommended=பரிந்துரைக்கப்பட்டது
+    label.refine-search=தேடலை சுத்தப்படுத்தவும்
+    label.show-more=மேலும் காட்டு
+
+[WebWidgets]
+    label.authenticated-user=வணக்கம், {{பயனர்பெயர்}}!
+    label.nav.back=பின்புறம்
+    label.nav.forward=முன்னோக்கி
+    label.nav.home=முகப்பு
+
+[Component.Translate]
+    label.choose-language=மொழியைத் தேர்வு செய்யவும்
+    label.english=ஆங்கிலம்
+    label.update-failed=முழுமையற்ற மொழிபெயர்ப்பு
+    language.spanish=எஸ்பானோல்
+    language.german=டாய்ட்ச்
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=பிரான்சுவா
+    language.portuguese=போர்த்துகேசா
+    language.dutch=நெதர்லாந்து
+    language.korean=한국어
+    language.swedish=ஸ்வென்ஸ்கா
+    language.danish=டான்ஸ்க்
+    language.finnish=சுமோமாலயினென்
+    language.italian=இத்தாலியனோ
+    title.translated-machine=இயந்திர மொழிபெயர்ப்பைப் பயன்படுத்தி பக்க உள்ளடக்கம் மொழிபெயர்க்கப்பட்டது
+    dialog.translated-mindtouch=MindTouch மூலம் மொழிபெயர்க்கப்பட்டது
