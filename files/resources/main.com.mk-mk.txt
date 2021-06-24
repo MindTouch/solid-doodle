@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Пребарување
+    New.word=нов збор повторно
+    extra=Тестирање во неизвесност ажурирање
+
+[F1]
+    dialog.text.back=Назад
+    dialog.text.forward=Напред
+    dialog.text.hint=Пребарување
+    dialog.text.home=Дома
+    dialog.text.open=Отвори статија
+
+[MindTouch.Help.Page]
+    category-selector=Насочете ги резултатите со избирање на филтер.
+    help-header-label=Помош резултати за
+    in=во
+    label-filter=Пребарување во
+    label-result-count=За {0} резултати
+    label-search-all=Сите резултати
+    label.page-rating-no=Не
+    label.page-rating-yes=Да
+    more=Повеќе
+    no-search-results=Извинете, не можеме да го најдеме она што го барате.
+    no-search-try=Обидете се да барате нешто друго, да изберете категорија или обидете се да креирате билет.
+    recommended=(Препорачано)
+    search-error=Пребарувањето наиде на грешка.
+    search-error-try=Ве молиме обидете се повторно подоцна.
+    search-unavailable=За жал, пребарувањето во моментов е недостапно.
+    show-more-search=Прикажи повеќе резултати
+    tooltip.scrollNext=Скролувајте до следната
+    tooltip.scrollPrev=Скролувајте до претходната
+    warning.search-only-english=Пребарувањето е достапно само на англиски
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(датум создаден)
+    featured.articles.created.title=Неодамна додадени
+    featured.articles.rated.label=(рејтинг)
+    featured.articles.rated.title=Највисоко рангирани
+    featured.articles.updated.label=(датум ажуриран)
+    featured.articles.updated.title=Неодамна ажурирани
+    featured.articles.viewed.label=(ставови)
+    featured.articles.viewed.title=Најпопуларни
+    label.guide-subpage-display-single=Единечна
+    label.guide-subpage-display-tabbed=јазичиња
+    label.guide.tabscrollleft=Скролувајте ги јазичињата лево
+    label.guide.tabscrollright=Скролувајте јазичиња десно
+    label.reveal.showAll=Прикажи ги сите
+    label.reveal.showLess=Прикажи помалку
+    label.search.placeholder=Пребарување
+    type.how-to=Како-да
+    type.howto=Како-да
+    type.reference=Референца
+    type.topic=Тема
+    type.topic-category=Категорија
+    type.topic-guide=Водич
+    type.topic-portfolio=Портфолио
+    type.unclassified=Некласифицирани
+
+[MindTouch.LearningPath]
+    label.view-pages=Прикажи ги страниците
+    message.page-count=<span>Страници:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Сокриј
+    button.toggle.show=Прикажи
+    label.attachments=Вклучете ги прилозите
+    label.attachments-description=Тип на содржина
+    label.attachments.type.binary=Други
+    label.attachments.type.document=Документ
+    label.attachments.type.image=Слика
+    label.classification=Класификација
+    label.clear-all=Исчистете ги сите филтри
+    label.description=Резултати од филтерот
+    label.filters=Филтри
+    label.location=Локација
+    label.location-empty=Нема локации за филтрирање
+
+[MindTouch.Subscriptions]
+    cancel=Откажи
+    caption.normal=Вие сте претплатени на следните страници.
+    caption.nosubscriptions=Вие не сте претплатени на било која страница.
+    column.page=страница
+    column.recursive=Известувања за е-пошта за
+    link-title=Дознајте повеќе за управување со известувања во MindTouch
+    nonrecursive=Само оваа страница
+    nonrecursive.draft=Овој нацрт само
+    recursive.many=$1 страници
+    recursive.many.draft=$1 нацрти
+    recursive.many.overflow=Претплатени на сите потстраници
+    recursive.many.overflow.draft=Претплатен на сите нацрти на подстраници
+    recursive.one=1 страница
+    recursive.one.draft=1 нацрт
+    unsubscribe=Отпиши
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Затвори порака
+
+[Page.AuthenticationProviders]
+    page-title=Пријавете се
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Посетете успех.mindtouch.com за сите теми за помош. </a>
+
+[Page.Error]
+    not-found=Страница не е пронајдена
+    not-found-error=Извинете, страницата во $1 не можеше да се најде.
+    not-found-results=Поврзани резултати од пребарувањето:
+    page-title=Грешка
+
+[Page.FeedbackRating]
+    button.leave-feedback=Остави повратни информации
+    button.rating-no=Не
+    button.rating-yes=Да
+    button.submit-feedback=Достават повратни
+    label.checkbox.contact-me=Да, може да ме контактирате за оваа повратна информација.
+    label.feedback-question=Како можеме да го подобриме овој напис?
+    label.last-rated=— Вие последен пат го оценува овој напис на $1
+    label.rating-message=Дали овој напис беше корисен?
+    legend.feedback-form=Остави повратни информации
+    message.contact.no=Не
+    message.contact.yes=Да
+    message.submit.error=Се случи грешка при обидот да ги испратите вашите повратни информации. Ве молиме обидете се повторно подоцна.
+    message.submit.success=Вашите повратни информации се успешно доставени. Можете да поднесете повеќе повратни информации во секое време.
+
+[Page.LiveTags]
+    label.article=Тип на член
+
+[Page.LoginPasswordRegister]
+    page-title=Пријавете се и регистрација
+    tab.login=Пријавете се
+    tab.password=Ресетирање на лозинка
+    tab.register=Регистрација
+
+[Page.Preferences]
+    error.invalid-email=Ве молиме наведете валидна е-адреса
+    form.email=Имејл адреса
+    form.fullname=Име на приказ
+    form.fullname.help=Само за прикажување цели
+    form.hint.password-characters=Лозинката мора да содржи најмалку 3 од следниве знаци: мали букви, големи букви, цифри или симболи.
+    form.hint.password-length=Лозинката мора да биде најмалку 8 карактери во должина
+    form.hint.password-match=Лозинките мора да одговараат
+    form.hint.password.restricted-words=Лозинката не може да содржи заеднички зборови за лозинка
+    form.legend.information=Мои информации
+    form.legend.password=Мојата лозинка
+    form.password.new=Нова лозинка
+    form.password.old=Стара лозинка
+    form.password.submit=Промена на лозинка
+    form.password.verify=Внесете нова лозинка
+    form.submit=Зачувај ги моите информации
+
+[Page.Tags]
+    message.notags=Оваа страница нема ознаки.
+    page-title=Сајт тагови
+    tags-inserted-from-template=Тагови препорачани од шаблонот:
+    tags-inserted-heading=Страница Тагови:
+
+[Page.UserLogin]
+    error=Вашиот знак не успеа. Ве молиме потврдете го вашето корисничко име и лозинка.
+    page-title=Пријавете се
+    submit-login=Пријавете се
+    user-name=Корисничко име
+    user-password=Лозинка
+
+[Page.UserLogout]
+    page-title=Пријавете се
+    success=Вие успешно се потпишаа.
+
+[Page.UserPassword]
+    form.submit=Ресетирање на лозинка
+    page-title=Ресетирање на лозинка
+    success.email-sent=Инструкциите за ресетирање на лозинката се испратени на e-mail адресата регистрирана за оваа сметка. Ако не добиете е-пошта, ве молиме проверете го вашиот правопис и обидете се повторно. Контактирајте го администраторот на вашиот сајт ако продолжите да имате проблеми со пријавувањето.
+
+[Page.UserRegistration]
+    error.email.match=Пораките што ги внесовте не се совпаѓаат.
+    error.password.match=Лозинките што ги внесовте не се совпаѓаат.
+    form.email=Е-пошта
+    form.email.verify=Потврди е-пошта
+    form.fullname=Целосно име <span class="note">(опционално)</span>
+    form.password=Лозинка
+    form.password.verify=Потврди лозинка
+    form.submit=Креирај сметка
+    form.username=Корисничко име
+    page-title=Креирај сметка
+    success.created=Корисникот <strong>$1</strong> е создаден.
+
+[Page.Welcome]
+    community-banner-text=Сега можете да придонесете и да споделувате содржини.
+    community-banner-title=Добредојдовте, $1. Вашата сметка е креирана.
+    community-get-started-text=<strong>Еве неколку совети кои ќе ви помогнат да започнете:</strong>
+    community-tip1-text=Обезбедете сопственици на сајтови со вредни повратни информации за содржината на страницата. Дали статијата беше корисна? Кликнете <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Да</span>. Ако не, кликнете <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Оставете повратни информации</span> за да ни кажете како можеме да се подобриме. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Дознај повеќе</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Започнете разговор со коментирање на страница. Придонесете ги вашите сопствени информации или одговорете на коментарите на другиот корисник. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Дознај повеќе</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Ресетирање на лозинка
+
+[Product]
+    powered-by-site=Напојува со MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Пријавете се
+    header.recommended-articles=Препорачани статии
+    header.toc=Содржина
+    label.back-to-top=Назад кон врвот
+    label.global-location-toggle=Проширување/колапс глобална локација
+    label.global-navigation-toggle=Проширување/колапс глобалната хиерархија
+    label.last-updated=Последно ажурирани
+    label.last-updated-by=од
+    label.no-recommended-articles=Нема препорачани статии.
+    label.password=Лозинка
+    label.pdf-export=Зачувај како PDF
+    label.signout=Пријавете се
+    label.site-search.button=Пребарување
+    label.site-search.input=Пребарување
+    label.skip-link=Прескокнете на главната содржина
+    label.tags=Тагови
+    label.user-preferences=Моите преференции
+    label.username=Корисничко име
+    link.quick-login=Пријавете се
+    link.site-search=Пребарување сајт
+    placeholder.site-search.input=Како можеме да ви помогнеме?
+    tooltip.back-to-top=Скокни назад кон врвот на овој напис
+    tooltip.browse-back=Врати се на претходниот член
+    tooltip.pdf-export=Извоз страница како PDF
+    tooltip.signout=Кликни за да се пријавите од оваа страница
+    tooltip.skip-link=Притиснете enter за да прескокнете до главната содржина
+    tooltip.user-preferences=Кликнете за да ги промените вашите кориснички параметри
+
+[Skin.Common]
+    copyright=Авторски права
+    home=Дома
+
+[System.API]
+    no-headers=Нема заглавија
+    opensearch-shortname=$1 Барај
+
+[Users]
+    email.body.html.content=<p>Честитки, <br/><br/>\ r\ n\ r\ nСега имате сметка на $4. <br/><br/>Пријавете се веднаш да започнете да соработувате со други членови на заедницата. Подолу се деталите за пристап до вашиот сајт:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nКорисничко име: $1<br/>Лозинка: $3<br/><br/>\ r\ n\ r\ nАко ви треба помош за да започнете или имате конкретни прашања во врска со <a href="$2">$4</a>, ве молиме контактирајте го администраторот на страницата. </p>
+    email.body.html.content.nopassword=<p>Честитки, <br/><br/>\ r\ n\ r\ nСега имате сметка на $3. <br/><br/>Пријавете се веднаш да започнете да соработувате со други членови на заедницата. Подолу се деталите за пристап до вашиот сајт:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nКорисничко име: $1<br/><br/><em>Контактирајте го администраторот на страницата ако не ја знаете вашата лозинка. </em><br/><br/>\ r\ n\ r\ nАко ви треба помош за да започнете или имате конкретни прашања во врска со <a href="$2">$3</a>, ве молиме контактирајте го администраторот на страницата. </p>
+    email.body.text=\ r\ nЧеститки,\ r\ n\ r\ nСега имате сметка на $4. Пријавете се веднаш да започнете да соработувате со други членови на заедницата. Подолу се деталите за пристап до вашиот сајт:\ r\ n\ r\ nSite URL: $2\ r\ nКорисничко име: $1\ r\ nPassword: $3\ r\ n\ r\ nАко ви треба помош за да започнете или имате конкретни прашања за $4, ве молиме контактирајте го администраторот на страницата.
+    email.body.text.nopassword=\ r\ nЧеститки,\ r\ n\ r\ nСега имате сметка на $3. Пријавете се веднаш да започнете да соработувате со други членови на заедницата. Подолу се деталите за пристап до вашиот сајт:\ r\ n\ r\ nSite URL: $2\ r\ nКорисничко име: $1\ r\ nКонтактирајте го администраторот на страницата ако не ја знаете вашата лозинка. \ r\ n\ r\ nАко ви треба помош за да започнете или имате конкретни прашања во врска со $3, ве молиме контактирајте го администраторот на страницата.
+    email.external.body.html.content=<p>Честитки, <br/><br/>\ r\ n\ r\ nСега имате сметка на $3. <br/><br/>Пријавете се веднаш да започнете да соработувате со други членови на заедницата. Подолу се дадени детали за пристап до вашиот сајт:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nКорисничко име: $1<br/><br/>\ r\ n\ r\ nАко ви треба помош за да започнете или имате конкретни прашања за <a href="$2">$3</a>, ве молиме контактирајте го администраторот на страницата. </p>
+    email.subject=$1 Пријавете се во детали
+    form.password.instructions=Лозинките мора да бидат најмалку 8 знаци во должина и да содржат најмалку 3 од следниве знаци: мали букви, големи букви, цифри или симболи.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Бараниот MindTouch Touchpoint не можеше да биде вчитан од вашиот веб прелистувач.
+    label.back-to-top=Назад кон врвот
+
+[WebWidget.F1]
+    label.help-button=Помош
+    title.help-button=Помош
+
+[WebWidget.Login]
+    label.authenticated-user=Потпишан во MindTouch како {{корисничко име}}
+    label.sign-in=Пријавете се во MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Кликни за колапс резиме
+    label.disabled-message=Ве молиме обидете се повторно подоцна.
+    label.disabled-title=За жал, пребарувањето во моментов е недостапно.
+    label.expand-summary=Кликни за да го прошириш ре
+    label.forbidden-message=Ве молиме најавете се или контактирајте со администраторот на вашиот сајт.
+    label.forbidden-title=Немате дозвола да ја користите оваа функција.
+    label.input-hint=Пребарување
+    label.no-results-faceting-message=Обидете се да барате нешто друго или да изберете категорија.
+    label.no-results-message=Обидете се да пребарувате за нешто друго.
+    label.no-results-title=Извинете, не можеме да го најдеме она што го барате.
+    label.recommended=Препорачано
+    label.refine-search=Насочите пребарување
+    label.show-more=Прикажи повеќе
+
+[WebWidgets]
+    label.authenticated-user=Здраво, {{корисничко име}}!
+    label.nav.back=Назад
+    label.nav.forward=Напред
+    label.nav.home=Дома
+
+[Component.Translate]
+    label.choose-language=Изберете јазик
+    label.english=Англиски
+    label.update-failed=Превод нецелосен
+    language.spanish=Еспанол
+    language.german=Дојч
+    language.japanese=日本人
+    language.chinese=中
+    language.french=Франсаис
+    language.portuguese=португалски
+    language.dutch=Холандија
+    language.korean=한국어
+    language.swedish=Македонски
+    language.danish=Данск
+    language.finnish=Суомалаинен
+    language.italian=италијански
+    title.translated-machine=Содржината на страницата преведена со машински превод
+    dialog.translated-mindtouch=Превод од MindTouch
