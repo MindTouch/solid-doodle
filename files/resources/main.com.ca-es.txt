@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Cerca
+    New.word=nova paraula de nou
+    extra=Les proves en l'actualització dels llimbs
+
+[F1]
+    dialog.text.back=Enrere
+    dialog.text.forward=Endavant
+    dialog.text.hint=cercar
+    dialog.text.home=Casa
+    dialog.text.open=Article obert
+
+[MindTouch.Help.Page]
+    category-selector=Refinar els resultats seleccionant un filtre.
+    help-header-label=Resultats d'ajuda per a
+    in=a
+    label-filter=Buscant en
+    label-result-count=Sobre {0} resultats
+    label-search-all=Tots els resultats
+    label.page-rating-no=No
+    label.page-rating-yes=Sí
+    more=Més
+    no-search-results=Ho sentim, no podem trobar el que busques.
+    no-search-try=Proveu de cercar una altra cosa, seleccionar una categoria o provar de crear un bitllet.
+    recommended=(Recomanat)
+    search-error=La cerca ha trobat un error.
+    search-error-try=Torneu-ho a provar més tard.
+    search-unavailable=Ho sentim, la cerca no està disponible actualment.
+    show-more-search=Mostra més resultats
+    tooltip.scrollNext=Desplaça't fins al següent
+    tooltip.scrollPrev=Desplaça't a l'anterior
+    warning.search-only-english=La cerca només està disponible en català
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(data de creació)
+    featured.articles.created.title=Afegit recentment
+    featured.articles.rated.label=(qualificació)
+    featured.articles.rated.title=Millor valorada
+    featured.articles.updated.label=(data actualitzada)
+    featured.articles.updated.title=Actualitzat recentment
+    featured.articles.viewed.label=(vistes)
+    featured.articles.viewed.title=El més popular
+    label.guide-subpage-display-single=Solter
+    label.guide-subpage-display-tabbed=Pestanya
+    label.guide.tabscrollleft=Desplaçar pestanyes cap a l'esquerra
+    label.guide.tabscrollright=Desplaçar pestanyes a la dreta
+    label.reveal.showAll=Mostrar tot
+    label.reveal.showLess=Mostra menys
+    label.search.placeholder=Cerca
+    type.how-to=Com fer-ho
+    type.howto=Com fer-ho
+    type.reference=Referència
+    type.topic=Tema
+    type.topic-category=Categoria
+    type.topic-guide=Guia
+    type.topic-portfolio=Portafoli
+    type.unclassified=Sense classificar
+
+[MindTouch.LearningPath]
+    label.view-pages=Veure pàgines
+    message.page-count=<span>Pàgines:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Ocultar
+    button.toggle.show=Mostra
+    label.attachments=Incloure fitxers adjunts
+    label.attachments-description=Tipus de contingut
+    label.attachments.type.binary=Altres
+    label.attachments.type.document=Document
+    label.attachments.type.image=Imatge
+    label.classification=Classificació
+    label.clear-all=Esborrar tots els filtres
+    label.description=Filtrar resultats
+    label.filters=Filtres
+    label.location=Localització
+    label.location-empty=No hi ha ubicacions per filtrar
+
+[MindTouch.Subscriptions]
+    cancel=Cancel·lar
+    caption.normal=Vostè està subscrit a les següents pàgines.
+    caption.nosubscriptions=No esteu subscrit a cap pàgina.
+    column.page=Pàgina
+    column.recursive=Notificacions per correu electrònic
+    link-title=Més informació sobre com gestionar les notificacions a MindTouch
+    nonrecursive=Aquesta pàgina només
+    nonrecursive.draft=Aquest esborrany només
+    recursive.many=$1 pàgines
+    recursive.many.draft=$1 esborranys
+    recursive.many.overflow=Subscrit a totes les subpàgines
+    recursive.many.overflow.draft=Subscrit a tots els esborranys de subpàgina
+    recursive.one=1 pàgina
+    recursive.one.draft=1 esborrany
+    unsubscribe=Donar-se de baixa
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Tancar missatge
+
+[Page.AuthenticationProviders]
+    page-title=Inicia sessió
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Visiteu success.mindtouch.com per a tots els temes d'ajuda. </a>
+
+[Page.Error]
+    not-found=Pàgina no trobada
+    not-found-error=Ho sentim, la pàgina a $1 no s'ha pogut trobar.
+    not-found-results=Resultats de cerca relacionats:
+    page-title=Error
+
+[Page.FeedbackRating]
+    button.leave-feedback=Deixar comentaris
+    button.rating-no=No
+    button.rating-yes=Sí
+    button.submit-feedback=Enviar comentaris
+    label.checkbox.contact-me=Sí, podeu posar-vos en contacte amb mi sobre aquest comentari.
+    label.feedback-question=Com podem millorar aquest article?
+    label.last-rated=- Heu valorat per darrera vegada aquest article a $1
+    label.rating-message=Va ser útil aquest article?
+    legend.feedback-form=Deixar comentaris
+    message.contact.no=No
+    message.contact.yes=Sí
+    message.submit.error=S'ha produït un error en intentar enviar els vostres comentaris. Torneu-ho a provar en un moment posterior.
+    message.submit.success=Els vostres comentaris s'han enviat correctament. Podeu enviar més comentaris en qualsevol moment.
+
+[Page.LiveTags]
+    label.article=Tipus d'article
+
+[Page.LoginPasswordRegister]
+    page-title=Registrar-se i registrar-se
+    tab.login=Inicia sessió
+    tab.password=Restabliment de contrasenya
+    tab.register=Inscripció
+
+[Page.Preferences]
+    error.invalid-email=Si us plau especifiqui una adreça electrònica vàlida
+    form.email=Adreça de correu electrònic
+    form.fullname=Nom de la pantalla
+    form.fullname.help=Només per a fins de visualització
+    form.hint.password-characters=La contrasenya ha de contenir com a mínim 3 dels següents caràcters: minúscula, majúscula, dígits o símbols.
+    form.hint.password-length=La contrasenya ha de tenir com a mínim 8 caràcters
+    form.hint.password-match=Les contrasenyes han de coincidir
+    form.hint.password.restricted-words=La contrasenya no pot contenir paraules de contrasenya comunes
+    form.legend.information=La meua informació
+    form.legend.password=La meva contrasenya
+    form.password.new=Contrasenya nova
+    form.password.old=Contrasenya antiga
+    form.password.submit=Canviar la contrasenya
+    form.password.verify=Torneu a escriure la contrasenya nova
+    form.submit=Guardar la meva informació
+
+[Page.Tags]
+    message.notags=Aquesta pàgina no té etiquetes.
+    page-title=Etiquetes del lloc
+    tags-inserted-from-template=Etiquetes recomanades per la plantilla:
+    tags-inserted-heading=Etiquetes de la pàgina:
+
+[Page.UserLogin]
+    error=El vostre inici de sessió ha fallat. Verifiqueu el vostre nom d'usuari i contrasenya.
+    page-title=Inicia sessió
+    submit-login=Inicia sessió
+    user-name=Nom d'usuari
+    user-password=Contrasenya
+
+[Page.UserLogout]
+    page-title=Registrar
+    success=Heu tancat la sessió amb èxit.
+
+[Page.UserPassword]
+    form.submit=Restabliment de contrasenya
+    page-title=Restabliment de contrasenya
+    success.email-sent=Les instruccions per restablir la contrasenya s'han enviat a l'adreça de correu electrònic registrada per a aquest compte. Si no rebeu cap correu electrònic, comproveu l'ortografia i torneu-ho a provar. Poseu-vos en contacte amb l'administrador del lloc si continueu tenint problemes per iniciar la sessió.
+
+[Page.UserRegistration]
+    error.email.match=Els correus electrònics que heu introduït no coincideixen.
+    error.password.match=Les contrasenyes que heu introduït no coincideixen.
+    form.email=Correu electrònic
+    form.email.verify=Verificar Correu
+    form.fullname=Nom complet <span class="note">(opcional)</span>
+    form.password=Contrasenya
+    form.password.verify=Verificar contrasenya
+    form.submit=Crear un compte
+    form.username=Nom d'usuari
+    page-title=Crear un compte
+    success.created=Usuari <strong>$1</strong> s'ha creat.
+
+[Page.Welcome]
+    community-banner-text=Ara pots contribuir i compartir contingut.
+    community-banner-title=Benvingut, $1. El teu compte ha estat creat.
+    community-get-started-text=<strong>Aquests són alguns consells per ajudar-vos a començar:</strong>
+    community-tip1-text=Proporcionar als propietaris del lloc amb comentaris valuosos sobre el contingut del lloc. Va ser útil l'article? Feu clic a <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Sí</span>. Si no és així, fes clic a <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Deixa el feedback</span> per explicar-nos com podem millorar. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Saber-ne més</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Iniciar una conversa comentant en una pàgina. Aporta la teva pròpia informació o respon als comentaris d'altres usuaris. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Saber-ne més</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Restabliment de contrasenya
+
+[Product]
+    powered-by-site=Desenvolupat per MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Inicia sessió
+    header.recommended-articles=Articles recomanats
+    header.toc=Taula de continguts
+    label.back-to-top=Tornar a dalt
+    label.global-location-toggle=Ampliar/contraure la ubicació global
+    label.global-navigation-toggle=Expandia/col·lapse de la jerarquia global
+    label.last-updated=Última actualització
+    label.last-updated-by=de
+    label.no-recommended-articles=No hi ha articles recomanats.
+    label.password=Contrasenya
+    label.pdf-export=Desa com a PDF
+    label.signout=Registrar
+    label.site-search.button=Cerca
+    label.site-search.input=Cerca
+    label.skip-link=Vés al contingut principal
+    label.tags=Etiquetes
+    label.user-preferences=Les meves preferències
+    label.username=Nom d'usuari
+    link.quick-login=Inicia sessió
+    link.site-search=Cercar lloc
+    placeholder.site-search.input=Com podem ajudar-te?
+    tooltip.back-to-top=Torna a la part superior d'aquest article
+    tooltip.browse-back=Tornar a l'article anterior
+    tooltip.pdf-export=Exporta la pàgina com a PDF
+    tooltip.signout=Feu clic per tancar la sessió d'aquest lloc
+    tooltip.skip-link=Premeu Retorn per saltar al contingut principal
+    tooltip.user-preferences=Feu clic per canviar les vostres preferències d'usuari
+
+[Skin.Common]
+    copyright=Copyright
+    home=Casa
+
+[System.API]
+    no-headers=Sense capçaleres
+    opensearch-shortname=$1 Cerca
+
+[Users]
+    email.body.html.content=<p>Felicitats, <br/><br/>\ r\ n\ r\ nAra teniu un compte a $4. <br/><br/>Inicieu la sessió per començar a col·laborar instantàniament amb altres membres de la comunitat. A continuació es mostren els detalls d'accés del vostre lloc:<br/><br/>\ r\ n\ r\ nURL del lloc: <a href="$2">$2</a><br/>\ r\ nNom d'usuari: $1<br/>Contrasenya: $3<br/><br/>\ r\ n\ r\ nSi necessiteu ajuda per començar o tenir preguntes específiques sobre <a href="$2">$4</a>, poseu-vos en contacte amb l'administrador del lloc. </p>
+    email.body.html.content.nopassword=<p>Felicitacions, <br/><br/>\ r\ n\ r\ nAra teniu un compte a $3. <br/><br/>Inicieu la sessió per començar a col·laborar instantàniament amb altres membres de la comunitat. A continuació es mostren els detalls d'accés del vostre lloc:<br/><br/>\ r\ n\ r\ nURL del lloc: <a href="$2">$2</a><br/>\ r\ nNom d'usuari: $1<br/><br/><em>Poseu-vos en contacte amb l'administrador del lloc si no coneixeu la vostra contrasenya. </em><br/><br/>\ r\ n\ r\ nSi necessiteu ajuda per començar o tenir preguntes específiques sobre <a href="$2">$3</a>, poseu-vos en contacte amb l'administrador del lloc. </p>
+    email.body.text=\ r\ nFelicitats,\ r\ n\ r\ nAra teniu un compte a $4. Inicieu la sessió per començar a col·laborar instantàniament amb altres membres de la comunitat. A continuació es mostren els detalls d'accés al lloc:\ r\ n\ r\ nURL del lloc: $2\ r\ nNom d'usuari: $1\ r\ nPassword: $3\ r\ n\ r\ nSi necessiteu ajuda per començar o tenir preguntes específiques sobre $4, poseu-vos en contacte amb l'administrador del lloc.
+    email.body.text.nopassword=\ r\ nFelicitats,\ r\ n\ r\ nAra teniu un compte a $3. Inicieu la sessió per començar a col·laborar instantàniament amb altres membres de la comunitat. A continuació es mostren els detalls d'accés del vostre lloc:\ r\ n\ r\ nURL del lloc: $2\ r\ nNom d'usuari: $1\ r\ nPoseu-vos en contacte amb l'administrador del lloc si no coneixeu la vostra contrasenya. \ r\ n\ r\ nSi necessiteu ajuda per començar o tenir preguntes específiques sobre $3, poseu-vos en contacte amb l'administrador del lloc.
+    email.external.body.html.content=<p>Felicitacions, <br/><br/>\ r\ n\ r\ nAra teniu un compte a $3. <br/><br/>Inicieu la sessió per començar a col·laborar instantàniament amb altres membres de la comunitat. A continuació es mostren els detalls d'accés al lloc:<br/><br/>\ r\ n\ r\ nURL del lloc: <a href="$2">$2</a><br/>\ r\ nNom d'usuari: $1<br/><br/>\ r\ n\ r\ nSi necessiteu ajuda per començar o tenir preguntes específiques sobre <a href="$2">$3</a>, poseu-vos en contacte amb l'administrador del lloc. </p>
+    email.subject=$1 Inicia sessió en detalls
+    form.password.instructions=Les contrasenyes han de tenir un mínim de 8 caràcters i contenir almenys 3 dels següents caràcters: minúscules, majúscules, dígits o símbols.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=El navegador web sol·licitat MindTouch Touchpoint no es va poder carregar.
+    label.back-to-top=Tornar a dalt
+
+[WebWidget.F1]
+    label.help-button=Ajuda
+    title.help-button=Ajuda
+
+[WebWidget.Login]
+    label.authenticated-user=Signat a MindTouch com a {{username}}
+    label.sign-in=Inicieu la sessió a MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Feu clic per contraure el resum
+    label.disabled-message=Torneu-ho a provar més tard.
+    label.disabled-title=Ho sentim, la cerca no està disponible actualment.
+    label.expand-summary=Feu clic per ampliar el resum
+    label.forbidden-message=Si us plau, inicieu sessió, o poseu-vos en contacte amb l'administrador
+    label.forbidden-title=No teniu permís per utilitzar aquesta característica.
+    label.input-hint=Cerca
+    label.no-results-faceting-message=Proveu de cercar una altra cosa o seleccionar una categoria.
+    label.no-results-message=Intenta buscar alguna cosa més.
+    label.no-results-title=Ho sentim, no podem trobar el que busques.
+    label.recommended=Recomanat
+    label.refine-search=Refinar la cerca
+    label.show-more=Mostrar més
+
+[WebWidgets]
+    label.authenticated-user=Hola, {{username}}!
+    label.nav.back=Enrere
+    label.nav.forward=Endavant
+    label.nav.home=Casa
+
+[Component.Translate]
+    label.choose-language=Triar Idioma
+    label.english=Anglès
+    label.update-failed=Traducció incompleta
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=suec
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Contingut de la pàgina traduït mitjançant traducció automàtica
+    dialog.translated-mindtouch=Traduït per MindTouch
