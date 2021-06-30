@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Meklēt
+    New.word=jauns Word vēlreiz
+    extra=Testēšana aizmirstībā atjauninājumu
+
+[F1]
+    dialog.text.back=Atpakaļ
+    dialog.text.forward=Uz priekšu
+    dialog.text.hint=meklēt
+    dialog.text.home=Sākums
+    dialog.text.open=Atvērt rakstu
+
+[MindTouch.Help.Page]
+    category-selector=Precizējiet rezultātus, atlasot filtru.
+    help-header-label=Palīdzības rezultāti
+    in=iekšā
+    label-filter=Meklēšana
+    label-result-count=Aptuveni {0} rezultāti
+    label-search-all=Visi rezultāti
+    label.page-rating-no=Nē
+    label.page-rating-yes=Jā
+    more=Vairāk
+    no-search-results=Atvainojiet, mēs nevaram atrast to, ko jūs meklējat.
+    no-search-try=Mēģiniet meklēt kaut ko citu, izvēloties kategoriju vai mēģiniet izveidot biļeti.
+    recommended=(Ieteicams)
+    search-error=Meklēšana ir radusies kļūda.
+    search-error-try=Lūdzu, mēģiniet vēlreiz vēlāk.
+    search-unavailable=Atvainojiet, meklēšana pašlaik nav pieejama.
+    show-more-search=Rādīt vairāk rezultātu
+    tooltip.scrollNext=Ritiniet uz nākamo
+    tooltip.scrollPrev=Ritiniet līdz iepriekšējam
+    warning.search-only-english=Meklēšana ir pieejama tikai angļu valodā
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(izveides datums)
+    featured.articles.created.title=Nesen pievienots
+    featured.articles.rated.label=(reitings)
+    featured.articles.rated.title=Visaugstāk novērtētais
+    featured.articles.updated.label=(atjaunināts datums)
+    featured.articles.updated.title=Nesen atjaunināts
+    featured.articles.viewed.label=(skatījumi)
+    featured.articles.viewed.title=Populārākās
+    label.guide-subpage-display-single=Vienvietīgs
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Ritiniet cilnes pa kreisi
+    label.guide.tabscrollright=Ritiniet cilnes pa labi
+    label.reveal.showAll=Rādīt visu
+    label.reveal.showLess=Rādīt mazāk
+    label.search.placeholder=Meklēt
+    type.how-to=Kā
+    type.howto=Kā
+    type.reference=Atsauces
+    type.topic=Tēma
+    type.topic-category=Kategorija
+    type.topic-guide=Ceļvedis
+    type.topic-portfolio=Portfolio
+    type.unclassified=Neklasificēts
+
+[MindTouch.LearningPath]
+    label.view-pages=Skatīt lappuses
+    message.page-count=<span>Pages: lapas:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Paslēpt
+    button.toggle.show=Rādīt
+    label.attachments=Iekļaut pielikumus
+    label.attachments-description=Satura tips
+    label.attachments.type.binary=Cita
+    label.attachments.type.document=Dokumentu
+    label.attachments.type.image=Attēls
+    label.classification=Klasifikācija
+    label.clear-all=Notīrīt visus filtrus
+    label.description=Filtrēt rezultātus
+    label.filters=Filtri
+    label.location=Atrašanās vieta
+    label.location-empty=Nav vietas, kur filtrēt pēc
+
+[MindTouch.Subscriptions]
+    cancel=Atcelt
+    caption.normal=Jūs esat abonējis šādas lapas.
+    caption.nosubscriptions=Jūs neesat abonējis nevienu lapu.
+    column.page=Lapa
+    column.recursive=E-pasta paziņojumi par
+    link-title=Papildinformācija par paziņojumu pārvaldību MindTouch
+    nonrecursive=Tikai šī lapa
+    nonrecursive.draft=Tikai šis projekts
+    recursive.many=$1 lappuses
+    recursive.many.draft=$1 melnraksti
+    recursive.many.overflow=Abonējis visas apakšlapas
+    recursive.many.overflow.draft=Abonējis visus apakšlapu melnrakstus
+    recursive.one=1 lapa
+    recursive.one.draft=1 projekts
+    unsubscribe=Atteikties no abonēšanas
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Aizvērt ziņojumu
+
+[Page.AuthenticationProviders]
+    page-title=Pierakstīties
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Apmeklējiet success.mindtouch.com visām palīdzības tēmām. </a>
+
+[Page.Error]
+    not-found=Lapa nav atrasta
+    not-found-error=Atvainojiet, lapu pie $1 nevarēja atrast.
+    not-found-results=Saistītie meklēšanas rezultāti:
+    page-title=Kļūda
+
+[Page.FeedbackRating]
+    button.leave-feedback=Atstāt atsauksmi
+    button.rating-no=Nē
+    button.rating-yes=Jā
+    button.submit-feedback=Iesniegt atsauksmes
+    label.checkbox.contact-me=Jā, jūs varat sazināties ar mani par šīm atsauksmēm.
+    label.feedback-question=Kā mēs varam uzlabot šo rakstu?
+    label.last-rated=- Jūs pēdējo reizi novērtēja šo rakstu par $1
+    label.rating-message=Vai šis raksts bija noderīgs?
+    legend.feedback-form=Atstāt atsauksmi
+    message.contact.no=Nē
+    message.contact.yes=Jā
+    message.submit.error=Mēģinot nosūtīt atsauksmes, radās kļūda. Lūdzu, mēģiniet vēlreiz vēlāk.
+    message.submit.success=Jūsu atsauksmes ir veiksmīgi iesniegtas. Jūs varat iesniegt vairāk atsauksmju jebkurā laikā.
+
+[Page.LiveTags]
+    label.article=Raksts tips
+
+[Page.LoginPasswordRegister]
+    page-title=Pierakstīties un reģistrēties
+    tab.login=Pierakstīties
+    tab.password=Paroles atiestatīšana
+    tab.register=Reģistrācija
+
+[Page.Preferences]
+    error.invalid-email=Lūdzu, norādiet derīgu e-pasta adresi
+    form.email=E-pasta adrese
+    form.fullname=Parādāmais vārds
+    form.fullname.help=Tikai displeja nolūkos
+    form.hint.password-characters=Parolē jābūt vismaz 3 no šādām rakstzīmēm: mazajiem, lielajiem burtiem, cipariem vai simboliem.
+    form.hint.password-length=Parolei jābūt vismaz 8 rakstzīmēm
+    form.hint.password-match=Parolēm ir jāatbilst
+    form.hint.password.restricted-words=Parolē nevar būt bieži lietoti paroles vārdi
+    form.legend.information=Mana informācija
+    form.legend.password=Mana parole
+    form.password.new=Jauna parole
+    form.password.old=Vecā parole
+    form.password.submit=Mainīt paroli
+    form.password.verify=Atkārtoti ierakstiet jaunu paroli
+    form.submit=Saglabāt manu informāciju
+
+[Page.Tags]
+    message.notags=Šai lapai nav tagu.
+    page-title=Vietnes tagi
+    tags-inserted-from-template=Tagi, ko ieteikusi veidne:
+    tags-inserted-heading=Lapas tagi:
+
+[Page.UserLogin]
+    error=Jūsu pierakstīšanās nav izdevusies. Lūdzu, pārbaudiet savu lietotājvārdu un paroli.
+    page-title=Pierakstīties
+    submit-login=Pierakstīties
+    user-name=Lietotājvārds
+    user-password=Parole
+
+[Page.UserLogout]
+    page-title=Izrakstīties
+    success=Jūs esat veiksmīgi izrakstījies.
+
+[Page.UserPassword]
+    form.submit=Paroles atiestatīšana
+    page-title=Paroles atiestatīšana
+    success.email-sent=Paroles atiestatīšanas instrukcijas ir nosūtītas uz e-pasta adresi, kas reģistrēta šim kontam. Ja nesaņemat e-pastu, lūdzu, pārbaudiet savu pareizrakstību un mēģiniet vēlreiz. Ja jums joprojām ir problēmas ar pierakstīšanos, sazinieties ar vietnes administratoru.
+
+[Page.UserRegistration]
+    error.email.match=Ievadītie e-pasta ziņojumi nesakrīt.
+    error.password.match=Ievadītās paroles nesakrīt.
+    form.email=E-pasts
+    form.email.verify=Pārbaudiet e-pastu
+    form.fullname=Pilns vārds <span class="note">(pēc izvēles)</span>
+    form.password=Parole
+    form.password.verify=Pārbaudīt paroli
+    form.submit=Izveidot kontu
+    form.username=Lietotājvārds
+    page-title=Izveidot kontu
+    success.created=Lietotājs <strong>$1</strong> ir izveidots.
+
+[Page.Welcome]
+    community-banner-text=Tagad varat piedalīties un kopīgot saturu.
+    community-banner-title=Laipni lūdzam, $1. Jūsu konts ir izveidots.
+    community-get-started-text=<strong>Tālāk ir sniegti daži padomi, kas palīdzēs jums sākt darbu:</strong>
+    community-tip1-text=Nodrošiniet vietņu īpašniekiem vērtīgas atsauksmes par vietnes saturu. Vai raksts bija noderīgs? Noklikšķiniet uz <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Jā</span>. Ja nē, noklikšķiniet uz <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Atstāt atsauksmes</span> , lai pastāstītu mums, kā mēs varam uzlabot. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Uzzināt vairāk</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Sāciet sarunu, komentējot lapu. Veiciet savu informāciju vai atbildiet uz cita lietotāja komentāriem. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Uzzināt vairāk</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Paroles atiestatīšana
+
+[Product]
+    powered-by-site=Darbina MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Pierakstīties
+    header.recommended-articles=Ieteicamie raksti
+    header.toc=Satura rādītājs
+    label.back-to-top=Atpakaļ uz augšu
+    label.global-location-toggle=Izvērst/sakļaut globālo atrašanās
+    label.global-navigation-toggle=Paplašināt/sakļaut globālo hierarhiju
+    label.last-updated=Pēdējo reizi atjaunināts
+    label.last-updated-by=līdzās
+    label.no-recommended-articles=Nav ieteicamo rakstu.
+    label.password=Parole
+    label.pdf-export=Saglabāt kā PDF
+    label.signout=Izrakstīties
+    label.site-search.button=Meklēt
+    label.site-search.input=Meklēt
+    label.skip-link=Pāriet uz galveno saturu
+    label.tags=Tagi
+    label.user-preferences=Manas preferences
+    label.username=Lietotājvārds
+    link.quick-login=Pierakstīties
+    link.site-search=Meklēt vietni
+    placeholder.site-search.input=Kā mēs varam jums palīdzēt?
+    tooltip.back-to-top=Pārlēkt atpakaļ uz šī raksta augšdaļu
+    tooltip.browse-back=Atgriezties pie iepriekšējā raksta
+    tooltip.pdf-export=Eksportēt lapu kā PDF
+    tooltip.signout=Noklikšķiniet, lai izrakstītos no šīs vietnes
+    tooltip.skip-link=Nospiediet enter, lai pārietu uz galveno saturu
+    tooltip.user-preferences=Noklikšķiniet, lai mainītu lietotāja preferences
+
+[Skin.Common]
+    copyright=Autortiesības
+    home=Sākums
+
+[System.API]
+    no-headers=Nav galvenes
+    opensearch-shortname=$1 Meklēt
+
+[Users]
+    email.body.html.content=<p>Apsveicam, <br/><br/>\ r\ n\ r\ nTagad jums ir konts $4. <br/><br/>Pierakstieties, lai uzreiz sāktu sadarbību ar citiem kopienas dalībniekiem. Zemāk ir jūsu vietnes piekļuves informācija:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nLietotāja vārds: $1<br/>Parole: $3<br/><br/>\ r\ n\ r\ nJa jums ir nepieciešama palīdzība, lai sāktu darbu vai jums ir konkrēti jautājumi par <a href="$2">$4</a>, lūdzu, sazinieties ar vietnes administratoru. </p>
+    email.body.html.content.nopassword=<p>Apsveicam, <br/><br/>\ r\ n\ r\ nTagad jums ir konts $3. <br/><br/>Pierakstieties, lai uzreiz sāktu sadarbību ar citiem kopienas dalībniekiem. Zemāk ir jūsu vietnes piekļuves informācija:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nLietotāja vārds: $1<br/><br/><em>Sazinieties ar vietnes administratoru, ja nezināt savu paroli. </em><br/><br/>\ r\ n\ r\ nJa jums ir nepieciešama palīdzība, lai sāktu darbu vai jums ir konkrēti jautājumi par <a href="$2">$3</a>, lūdzu, sazinieties ar vietnes administratoru. </p>
+    email.body.text=\ r\ nApsveicam,\ r\ n\ r\ nTagad jums ir konts $4. Pierakstieties, lai uzreiz sāktu sadarbību ar citiem kopienas dalībniekiem. Zemāk ir jūsu vietnes piekļuves informācija:\ r\ n\ r\ nSite URL: $2\ r\ nLietotāja vārds: $1\ r\ nPassword: $3\ r\ n\ r\ nJa jums nepieciešama palīdzība, lai sāktu darbu vai jums ir konkrēti jautājumi par $4, lūdzu, sazinieties ar vietnes administratoru.
+    email.body.text.nopassword=\ r\ nApsveicam,\ r\ n\ r\ nTagad jums ir konts $3. Pierakstieties, lai uzreiz sāktu sadarbību ar citiem kopienas dalībniekiem. Zemāk ir jūsu vietnes piekļuves informācija:\ r\ n\ r\ nSite URL: $2\ r\ nLietotāja vārds: $1\ r\ nSazinieties ar vietnes administratoru, ja nezināt savu paroli. \ r\ n\ r\ nJa jums ir nepieciešama palīdzība, lai sāktu darbu vai jums ir konkrēti jautājumi par $3, lūdzu, sazinieties ar vietnes administratoru.
+    email.external.body.html.content=<p>Apsveicam, <br/><br/>\ r\ n\ r\ nTagad jums ir konts $3. <br/><br/>Pierakstieties, lai uzreiz sāktu sadarbību ar citiem kopienas dalībniekiem. Zemāk ir jūsu vietnes piekļuves informācija:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nLietotāja vārds: $1<br/><br/>\ r\ n\ r\ nJa jums ir nepieciešama palīdzība, lai sāktu darbu vai jums ir konkrēti jautājumi par <a href="$2">$3</a>, lūdzu, sazinieties ar vietnes administratoru. </p>
+    email.subject=$1 Pierakstīties detalizēti
+    form.password.instructions=Parolēm jābūt vismaz 8 rakstzīmēm, un tajās jābūt vismaz 3 no šādām rakstzīmēm: mazajiem, lielajiem burtiem, cipariem vai simboliem.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Jūsu tīmekļa pārlūkprogramma nevarēja ielādēt pieprasīto MindTouch Touchpoint.
+    label.back-to-top=Atpakaļ uz augšu
+
+[WebWidget.F1]
+    label.help-button=Palīdzība
+    title.help-button=Palīdzība
+
+[WebWidget.Login]
+    label.authenticated-user=Pierakstījies MindTouch kā {{lietotājvārds}}
+    label.sign-in=Pierakstīšanās MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Noklikšķiniet, lai sakļautu kopsavilkumu
+    label.disabled-message=Lūdzu, mēģiniet vēlreiz vēlāk.
+    label.disabled-title=Atvainojiet, meklēšana pašlaik nav pieejama.
+    label.expand-summary=Noklikšķiniet, lai izvērstu kopsavilkumu
+    label.forbidden-message=Lūdzu, piesakieties vai sazinieties ar vietnes administratoru.
+    label.forbidden-title=Jums nav atļaujas izmantot šo līdzekli.
+    label.input-hint=Meklēt
+    label.no-results-faceting-message=Mēģiniet meklēt kaut ko citu vai atlasīt kategoriju.
+    label.no-results-message=Mēģiniet meklēt kaut ko citu.
+    label.no-results-title=Atvainojiet, mēs nevaram atrast to, ko jūs meklējat.
+    label.recommended=Ieteicamais
+    label.refine-search=Precizēt meklēšanu
+    label.show-more=Rādīt vairāk
+
+[WebWidgets]
+    label.authenticated-user=Sveiki, {{{lietotājvārds}}!
+    label.nav.back=Atpakaļ
+    label.nav.forward=Uz priekšu
+    label.nav.home=Sākums
+
+[Component.Translate]
+    label.choose-language=Izvēlēties valodu
+    label.english=Angļu
+    label.update-failed=Tulkojums nepilnīgs
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日
+    language.chinese=中
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Lapas saturs tulkots, izmantojot mašīntul
+    dialog.translated-mindtouch=Tulkojis MindTouch
