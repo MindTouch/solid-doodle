@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=بحث
+    New.word=كلمة جديدة مرة أخرى
+    extra=اختبار في تحديث طي النسيان
+
+[F1]
+    dialog.text.back=باك
+    dialog.text.forward=إلى الأمام
+    dialog.text.hint=بحث
+    dialog.text.home=الصفحة الرئيسية
+    dialog.text.open=مقالة مفتوحة
+
+[MindTouch.Help.Page]
+    category-selector=صقل النتائج عن طريق تحديد عامل تصفية.
+    help-header-label=نتائج التعليمات لـ
+    in=في
+    label-filter=البحث في
+    label-result-count=حول {0} النتائج
+    label-search-all=جميع النتائج
+    label.page-rating-no=لا
+    label.page-rating-yes=نعم
+    more=المزيد
+    no-search-results=عذرًا، لا يمكننا العثور على ما تبحث عنه.
+    no-search-try=حاول البحث عن شيء آخر، أو تحديد فئة، أو حاول إنشاء تذكرة.
+    recommended=(موصى به)
+    search-error=واجه البحث خطأ.
+    search-error-try=يرجى المحاولة مرة أخرى لاحقًا.
+    search-unavailable=عذرًا، البحث غير متوفر حاليًا.
+    show-more-search=عرض المزيد من النتائج
+    tooltip.scrollNext=انتقل إلى التالي
+    tooltip.scrollPrev=انتقل إلى السابق
+    warning.search-only-english=البحث متاح باللغة الإنجليزية فقط
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(تاريخ الإنشاء)
+    featured.articles.created.title=تمت إضافته مؤخرًا
+    featured.articles.rated.label=(تصنيف)
+    featured.articles.rated.title=الأعلى تقييمًا
+    featured.articles.updated.label=(تاريخ التحديث)
+    featured.articles.updated.title=تم تحديثه مؤخرًا
+    featured.articles.viewed.label=(وجهات النظر)
+    featured.articles.viewed.title=الأكثر شعبية
+    label.guide-subpage-display-single=مفرد
+    label.guide-subpage-display-tabbed=تابد
+    label.guide.tabscrollleft=تبويب التمرير لليسار
+    label.guide.tabscrollright=تمرير علامات التبويب إلى اليمين
+    label.reveal.showAll=عرض الكل
+    label.reveal.showLess=عرض أقل
+    label.search.placeholder=بحث
+    type.how-to=كيف
+    type.howto=كيف
+    type.reference=مرجع
+    type.topic=موضوع
+    type.topic-category=الفئة
+    type.topic-guide=دليل
+    type.topic-portfolio=محفظة
+    type.unclassified=غير مصنف
+
+[MindTouch.LearningPath]
+    label.view-pages=عرض الصفحات
+    message.page-count=<span>الصفحات:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=هيدي
+    button.toggle.show=عرض
+    label.attachments=تضمين المرفقات
+    label.attachments-description=نوع المحتوى
+    label.attachments.type.binary=أخرى
+    label.attachments.type.document=وثيقة
+    label.attachments.type.image=صورة
+    label.classification=التصنيف
+    label.clear-all=تَخلَّص من كل الفِلْترات
+    label.description=نتائج الفلتر
+    label.filters=الفلاتر
+    label.location=الموقع
+    label.location-empty=لا توجد مواقع للتصفية حسب
+
+[MindTouch.Subscriptions]
+    cancel=إلغاء
+    caption.normal=أنت مشترك في الصفحات التالية.
+    caption.nosubscriptions=أنت غير مشترك في أي صفحات.
+    column.page=صفحة
+    column.recursive=إشعارات البريد الإلكتروني لـ
+    link-title=اعرف المزيد حول إدارة الإشعارات في MindTouch
+    nonrecursive=هذه الصفحة فقط
+    nonrecursive.draft=هذه المسودة فقط
+    recursive.many=صفحات $1
+    recursive.many.draft=مسودات $1
+    recursive.many.overflow=مشترك في جميع الصفحات الفرعية
+    recursive.many.overflow.draft=مشترك في جميع مسودات الصفحات الفرعية
+    recursive.one=صفحة واحدة
+    recursive.one.draft=مسودة واحدة
+    unsubscribe=إلغاء الاشتراك
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=إغلاق الرسالة
+
+[Page.AuthenticationProviders]
+    page-title=تسجيل الدخول
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">تفضل بزيارة success.mindtouch.com لجميع مواضيع المساعدة </a>
+
+[Page.Error]
+    not-found=لم يتم العثور على الصفحة
+    not-found-error=عذرًا، تعذر العثور على الصفحة بسعر $1.
+    not-found-results=نتائج البحث ذات الصلة:
+    page-title=خطأ
+
+[Page.FeedbackRating]
+    button.leave-feedback=اترك التعليقات
+    button.rating-no=لا
+    button.rating-yes=نعم
+    button.submit-feedback=إرسال التعليقات
+    label.checkbox.contact-me=نعم، يمكنك الاتصال بي بشأن هذه التعليقات.
+    label.feedback-question=كيف يمكننا تحسين هذه المقالة؟
+    label.last-rated=- آخر تقييم لهذه المقالة على $1
+    label.rating-message=هل كانت هذه المقالة مفيدة؟
+    legend.feedback-form=اترك التعليقات
+    message.contact.no=لا
+    message.contact.yes=نعم
+    message.submit.error=حدث خطأ أثناء محاولة إرسال ملاحظاتك. يرجى المحاولة مرة أخرى في وقت لاحق.
+    message.submit.success=تم إرسال ملاحظاتك بنجاح. يمكنك إرسال المزيد من التعليقات في أي وقت.
+
+[Page.LiveTags]
+    label.article=نوع المقالة
+
+[Page.LoginPasswordRegister]
+    page-title=تسجيل الدخول والتسجيل
+    tab.login=تسجيل الدخول
+    tab.password=إعادة تعيين كلمة المرور
+    tab.register=التسجيل
+
+[Page.Preferences]
+    error.invalid-email=يرجى تحديد عنوان بريد إلكتروني صالح
+    form.email=عنوان البريد الإلكتروني
+    form.fullname=اسم العرض
+    form.fullname.help=لأغراض العرض فقط
+    form.hint.password-characters=يجب أن تحتوي كلمة المرور على 3 أحرف على الأقل: الأحرف الصغيرة أو الأحرف الكبيرة أو الأرقام أو الرموز.
+    form.hint.password-length=يجب أن تكون كلمة المرور 8 أحرف على الأقل
+    form.hint.password-match=يجب أن تتطابق كلمات المرور
+    form.hint.password.restricted-words=لا يمكن أن تحتوي كلمة المرور على كلمات مرور شائعة
+    form.legend.information=معلوماتي
+    form.legend.password=كلمة المرور
+    form.password.new=كلمة مرور جديدة
+    form.password.old=كلمة المرور القديمة
+    form.password.submit=تغيير كلمة المرور
+    form.password.verify=إعادة كتابة كلمة مرور جديدة
+    form.submit=احفظ معلوماتي
+
+[Page.Tags]
+    message.notags=لا تحتوي هذه الصفحة على علامات.
+    page-title=علامات الموقع
+    tags-inserted-from-template=العلامات الموصى بها من قبل القالب:
+    tags-inserted-heading=علامات الصفحة:
+
+[Page.UserLogin]
+    error=فشل تسجيل الدخول الخاص بك. يرجى التحقق من اسم المستخدم وكلمة المرور.
+    page-title=تسجيل الدخول
+    submit-login=تسجيل الدخول
+    user-name=اسم المستخدم
+    user-password=كلمة المرور
+
+[Page.UserLogout]
+    page-title=تسجيل الخروج
+    success=لقد قمت بتسجيل الخروج بنجاح.
+
+[Page.UserPassword]
+    form.submit=إعادة تعيين كلمة المرور
+    page-title=إعادة تعيين كلمة المرور
+    success.email-sent=تم إرسال تعليمات إعادة تعيين كلمة المرور إلى عنوان البريد الإلكتروني المسجل لهذا الحساب. إذا لم تتلق بريدًا إلكترونيًا، فيرجى التحقق من التهجئة والمحاولة مرة أخرى. اتصل بمسؤول الموقع إذا كنت لا تزال تواجه مشكلات في تسجيل الدخول.
+
+[Page.UserRegistration]
+    error.email.match=رسائل البريد الإلكتروني التي أدخلتها لا تتطابق.
+    error.password.match=كلمات المرور التي أدخلتها لا تتطابق.
+    form.email=البريد الإلكتروني
+    form.email.verify=التحقق من البريد الإلكتروني
+    form.fullname=الاسم الكامل <span class="note">(اختياري)</span>
+    form.password=كلمة المرور
+    form.password.verify=التحقق من كلمة المرور
+    form.submit=إنشاء حساب
+    form.username=اسم المستخدم
+    page-title=إنشاء حساب
+    success.created=تم إنشاء المستخدم <strong>$1</strong>.
+
+[Page.Welcome]
+    community-banner-text=يمكنك الآن المساهمة ومشاركة المحتوى.
+    community-banner-title=مرحبا، $1. تم إنشاء حسابك.
+    community-get-started-text=<strong>إليك بعض النصائح لمساعدتك على البدء:</strong>
+    community-tip1-text=تزويد مالكي المواقع بملاحظات قيمة حول محتوى الموقع. هل كانت المقالة مفيدة؟ انقر فوق <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">نعم</span>. إذا لم يكن الأمر كذلك، فانقر فوق <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">ترك التعليقات</span> لإخبارنا كيف يمكننا تحسين. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">تعرف على المزيد</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ابدأ محادثة من خلال التعليق على صفحة. ساهم بمعلوماتك الخاصة أو الرد على تعليقات المستخدم الآخر. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">تعرف على المزيد</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=إعادة تعيين كلمة المرور
+
+[Product]
+    powered-by-site=مدعوم من مينتاتش
+
+[Skin.Columbia]
+    button.quick-login=تسجيل الدخول
+    header.recommended-articles=المقالات الموصى بها
+    header.toc=جدول المحتويات
+    label.back-to-top=العودة إلى الأعلى
+    label.global-location-toggle=توسيع/طي الموقع العام
+    label.global-navigation-toggle=توسيع/طي التسلسل الهرمي العالمي
+    label.last-updated=آخر تحديث
+    label.last-updated-by=بواسطة
+    label.no-recommended-articles=لا توجد مقالات موصى بها.
+    label.password=كلمة المرور
+    label.pdf-export=حفظ كملف PDF
+    label.signout=تسجيل الخروج
+    label.site-search.button=بحث
+    label.site-search.input=بحث
+    label.skip-link=التخطي إلى المحتوى الرئيسي
+    label.tags=علامات
+    label.user-preferences=تفضيلاتي
+    label.username=اسم المستخدم
+    link.quick-login=تسجيل الدخول
+    link.site-search=موقع البحث
+    placeholder.site-search.input=كيف يمكننا مساعدتك؟
+    tooltip.back-to-top=ارجع إلى أعلى هذه المقالة
+    tooltip.browse-back=ارجع إلى المقالة السابقة
+    tooltip.pdf-export=صفحة التصدير كملف PDF
+    tooltip.signout=انقر لتسجيل الخروج من هذا الموقع
+    tooltip.skip-link=اضغط على enter للتخطي إلى المحتوى الرئيسي
+    tooltip.user-preferences=انقر لتغيير تفضيلات المستخدم
+
+[Skin.Common]
+    copyright=حق المؤلف
+    home=الصفحة الرئيسية
+
+[System.API]
+    no-headers=لا توجد رؤوس
+    opensearch-shortname=$1 بحث
+
+[Users]
+    email.body.html.content=<p>تهانينا،<br/><br/>\ r\ n\ r\ nلديك الآن حساب بسعر 4 دولارات. <br/><br/>سجّل الدخول لبدء التعاون على الفور مع أعضاء المجتمع الآخرين. فيما يلي تفاصيل الوصول إلى الموقع:<br/><br/>\ r\ n\ r\ nعنوان URL للموقع: <a href="$2">$2</a><br/>\ r\ nاسم المستخدم: $1<br/> كلمة المرور: $3<br/><br/>\ r\ n\ r\ nإذا كنت بحاجة إلى مساعدة في البدء أو لديك أسئلة محددة حول <a href="$2">$4</a>، يرجى الاتصال بمسؤول الموقع. </p>
+    email.body.html.content.nopassword=<p>تهانينا،<br/><br/>\ r\ n\ r\ nلديك الآن حساب بسعر 3 دولارات. <br/><br/>سجّل الدخول لبدء التعاون على الفور مع أعضاء المجتمع الآخرين. فيما يلي تفاصيل الوصول إلى الموقع:<br/><br/>\ r\ n\ r\ nعنوان URL للموقع: <a href="$2">$2</a><br/>\ r\ nاسم المستخدم: $1<br/><br/> <em>اتصل بمسؤول الموقع إذا كنت لا تعرف كلمة المرور الخاصة بك. </em><br/><br/>\ r\ n\ r\ nإذا كنت بحاجة إلى مساعدة في البدء أو لديك أسئلة محددة حول <a href="$2">$3</a>، يرجى الاتصال بمسؤول الموقع. </p>
+    email.body.text=\ r\ nتهانينا،\ r\ n\ r\ nلديك الآن حساب بسعر 4 دولارات. سجّل الدخول لبدء التعاون على الفور مع أعضاء المجتمع الآخرين. فيما يلي تفاصيل الوصول إلى موقعك:\ r\ n\ r\ nعنوان URL للموقع: $2\ r\ nاسم المستخدم: $1\ r\ nكلمة المرور: $3\ r\ n\ r\ nإذا كنت بحاجة إلى مساعدة في البدء أو لديك أسئلة محددة حول $4، يرجى الاتصال بمسؤول الموقع.
+    email.body.text.nopassword=\ r\ nتهانينا،\ r\ n\ r\ nلديك الآن حساب بسعر 3 دولارات. سجّل الدخول لبدء التعاون على الفور مع أعضاء المجتمع الآخرين. فيما يلي تفاصيل الوصول إلى الموقع:\ r\ n\ r\ nعنوان URL للموقع: $2\ r\ nاسم المستخدم: $1\ r\ nاتصل بمسؤول الموقع إذا كنت لا تعرف كلمة المرور الخاصة بك. \ r\ n\ r\ nإذا كنت بحاجة إلى مساعدة في البدء أو لديك أسئلة محددة حول $3، يرجى الاتصال بمسؤول الموقع.
+    email.external.body.html.content=<p>تهانينا،<br/><br/>\ r\ n\ r\ nلديك الآن حساب بسعر 3 دولارات. <br/><br/>سجّل الدخول لبدء التعاون على الفور مع أعضاء المجتمع الآخرين. فيما يلي تفاصيل الوصول إلى الموقع:<br/><br/>\ r\ n\ r\ nعنوان URL للموقع: <a href="$2">$2</a><br/>\ r\ nاسم المستخدم: $1<br/><br/>\ r\ n\ r\ nإذا كنت بحاجة إلى مساعدة في البدء أو لديك أسئلة محددة حول <a href="$2">$3</a>، يرجى الاتصال بمسؤول الموقع. </p>
+    email.subject=$1 تفاصيل تسجيل الدخول
+    form.password.instructions=يجب أن يكون طول كلمات المرور 8 أحرف كحد أدنى وتحتوي على 3 أحرف على الأقل من الأحرف التالية: أحرف صغيرة أو كبيرة أو أرقام أو رموز.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=تعذر تحميل نقطة اتصال MindTouch المطلوبة بواسطة متصفح الويب الخاص بك.
+    label.back-to-top=العودة إلى الأعلى
+
+[WebWidget.F1]
+    label.help-button=مساعدة
+    title.help-button=مساعدة
+
+[WebWidget.Login]
+    label.authenticated-user=سجّل الدخول إلى MindTouch باسم {{اسم المستخدم}}
+    label.sign-in=تسجيل الدخول إلى MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=انقر لطي الملخص
+    label.disabled-message=يرجى المحاولة مرة أخرى لاحقًا.
+    label.disabled-title=عذرًا، البحث غير متوفر حاليًا.
+    label.expand-summary=انقر لتوسيع الملخص
+    label.forbidden-message=يرجى تسجيل الدخول، أو الاتصال بمسؤول الموقع.
+    label.forbidden-title=ليس لديك إذن لاستخدام هذه الميزة.
+    label.input-hint=بحث
+    label.no-results-faceting-message=حاول البحث عن شيء آخر أو تحديد فئة.
+    label.no-results-message=حاول البحث عن شيء آخر.
+    label.no-results-title=عذرًا، لا يمكننا العثور على ما تبحث عنه.
+    label.recommended=الموصى به
+    label.refine-search=تحسين البحث
+    label.show-more=عرض المزيد
+
+[WebWidgets]
+    label.authenticated-user=مرحبا، {{اسم المستخدم}}!
+    label.nav.back=باك
+    label.nav.forward=إلى الأمام
+    label.nav.home=الصفحة الرئيسية
+
+[Component.Translate]
+    label.choose-language=اختر اللغة
+    label.english=الإنجليزية
+    label.update-failed=الترجمة غير مكتملة
+    language.spanish=إسبانيول
+    language.german=دويتش
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=فرانسوا
+    language.portuguese=البرتغالية
+    language.dutch=نيدرلاندز
+    language.korean=한국어
+    language.swedish=سفينسكا
+    language.danish=دانسك
+    language.finnish=سومالاينن
+    language.italian=إيطاليانو
+    title.translated-machine=ترجمة محتوى الصفحة باستخدام الترجمة الآلية
+    dialog.translated-mindtouch=ترجم من قبل Mind
