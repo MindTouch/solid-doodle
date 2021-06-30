@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=חיפוש
+    New.word=מילה חדשה שוב
+    extra=בדיקה בעדכון לימבו
+
+[F1]
+    dialog.text.back=חזרה
+    dialog.text.forward=קדימה
+    dialog.text.hint=חפש
+    dialog.text.home=דף הבית
+    dialog.text.open=פתח מאמר
+
+[MindTouch.Help.Page]
+    category-selector=חדד תוצאות על-ידי בחירת מסנן.
+    help-header-label=תוצאות עזרה עבור
+    in=בתוך
+    label-filter=מחפש ב
+    label-result-count=אודות {0} תוצאות
+    label-search-all=כל התוצאות
+    label.page-rating-no=לא
+    label.page-rating-yes=הן
+    more=עוד
+    no-search-results=מצטער, אנחנו לא יכולים למצוא את מה שאתה מחפש.
+    no-search-try=נסה לחפש משהו אחר, בחירת קטגוריה, או נסה ליצור כרטיס.
+    recommended=(מומלץ)
+    search-error=החיפוש נתקל בשגיאה.
+    search-error-try=אנא נסה שוב מאוחר יותר.
+    search-unavailable=מצטערים, החיפוש אינו זמין כעת.
+    show-more-search=הצג תוצאות נוספות
+    tooltip.scrollNext=גלול אל הבא
+    tooltip.scrollPrev=גלול אל הקודם
+    warning.search-only-english=החיפוש זמין באנגלית בלבד
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(תאריך נוצר)
+    featured.articles.created.title=שנוספו לאחרונה
+    featured.articles.rated.label=(דירוג)
+    featured.articles.rated.title=הדירוג הגבוה ביותר
+    featured.articles.updated.label=(תאריך מעודכן)
+    featured.articles.updated.title=עודכן לאחרונה
+    featured.articles.viewed.label=(צפיות)
+    featured.articles.viewed.title=הפופולרי ביותר
+    label.guide-subpage-display-single=חדר יחיד
+    label.guide-subpage-display-tabbed=כרטיסיות
+    label.guide.tabscrollleft=גלילה לשוניות שמאלה
+    label.guide.tabscrollright=גלילה לשוניות ימינה
+    label.reveal.showAll=הצג הכל
+    label.reveal.showLess=הצג פחות
+    label.search.placeholder=חיפוש
+    type.how-to=כיצד לבצע
+    type.howto=כיצד לבצע
+    type.reference=הפניה
+    type.topic=נושא
+    type.topic-category=קטגוריה
+    type.topic-guide=מדריך
+    type.topic-portfolio=תיק עבודות
+    type.unclassified=לא מסווג
+
+[MindTouch.LearningPath]
+    label.view-pages=הצגת עמודים
+    message.page-count=<span>מס עמודים:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=הסתר
+    button.toggle.show=הצג
+    label.attachments=כלול קבצים מצורפים
+    label.attachments-description=סוג תוכן
+    label.attachments.type.binary=אחר
+    label.attachments.type.document=מסמך
+    label.attachments.type.image=תמונה
+    label.classification=סיווג
+    label.clear-all=נקה את כל המסננים
+    label.description=תוצאות סינון
+    label.filters=מסננים
+    label.location=מיקום
+    label.location-empty=אין מיקומים לסנן לפי
+
+[MindTouch.Subscriptions]
+    cancel=ביטול
+    caption.normal=אתה מנוי לדפים הבאים.
+    caption.nosubscriptions=אינך מנוי לדפים כלשהם.
+    column.page=עמוד
+    column.recursive=הודעות דואר אלקטרוני עבור
+    link-title=קבל מידע נוסף על ניהול הודעות ב- MindTouch
+    nonrecursive=דף זה בלבד
+    nonrecursive.draft=טיוטה זו בלבד
+    recursive.many=$1 עמודים
+    recursive.many.draft=$1 טיוטות
+    recursive.many.overflow=מנוי לכל דפי המשנה
+    recursive.many.overflow.draft=מנוי לכל הטיוטות של דף המשנה
+    recursive.one=עמוד אחד
+    recursive.one.draft=טיוטה אחת
+    unsubscribe=בטל את ההרשמה
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=סגור הודעה
+
+[Page.AuthenticationProviders]
+    page-title=היכנס
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">בקר בהצלחה.mindtouch.com עבור כל נושאי העזרה. </a>
+
+[Page.Error]
+    not-found=הדף לא נמצא
+    not-found-error=מצטערים, הדף ב $1 לא נמצא.
+    not-found-results=תוצאות חיפוש קשורות:
+    page-title=שגיאה
+
+[Page.FeedbackRating]
+    button.leave-feedback=השאר משוב
+    button.rating-no=לא
+    button.rating-yes=הן
+    button.submit-feedback=שלח משוב
+    label.checkbox.contact-me=כן, אתה יכול ליצור איתי קשר לגבי משוב זה.
+    label.feedback-question=כיצד אנו יכולים לשפר את המאמר הזה?
+    label.last-rated=- אתה מדורג לאחרונה מאמר זה על $1
+    label.rating-message=האם מאמר זה היה מועיל?
+    legend.feedback-form=השאר משוב
+    message.contact.no=לא
+    message.contact.yes=הן
+    message.submit.error=אירעה שגיאה בעת ניסיון לשלוח את המשוב שלך. אנא נסה שוב במועד מאוחר יותר.
+    message.submit.success=המשוב שלך נשלח בהצלחה. ניתן לשלוח משוב נוסף בכל עת.
+
+[Page.LiveTags]
+    label.article=סוג המאמר
+
+[Page.LoginPasswordRegister]
+    page-title=היכנס והרשמה
+    tab.login=היכנס
+    tab.password=איפוס סיסמה
+    tab.register=הרשמה
+
+[Page.Preferences]
+    error.invalid-email=נא לציין כתובת דוא"ל חוקית
+    form.email=כתובת דואר אלקטרוני
+    form.fullname=שם תצוגה
+    form.fullname.help=למטרות תצוגה בלבד
+    form.hint.password-characters=הסיסמה חייבת להכיל לפחות 3 מהתווים הבאים: אותיות קטנות, אותיות רישיות, ספרות או סמלים.
+    form.hint.password-length=על הסיסמה להיות באורך 8 תווים לפחות
+    form.hint.password-match=הסיסמאות חייבות להתאים
+    form.hint.password.restricted-words=הסיסמה אינה יכולה להכיל מילות סיסמה נפוצות
+    form.legend.information=המידע שלי
+    form.legend.password=הסיסמה שלי
+    form.password.new=סיסמה חדשה
+    form.password.old=סיסמה ישנה
+    form.password.submit=שינוי סיסמה
+    form.password.verify=הקלד מחדש סיסמה חדשה
+    form.submit=שמור את המידע שלי
+
+[Page.Tags]
+    message.notags=לדף זה אין תגים.
+    page-title=תגי אתר
+    tags-inserted-from-template=תגיות המומלצות על ידי התבנית:
+    tags-inserted-heading=תגי עמוד:
+
+[Page.UserLogin]
+    error=הכניסה שלך נכשלה. אנא אמת את שם המשתמש והסיסמה שלך.
+    page-title=היכנס
+    submit-login=היכנס
+    user-name=שם משתמש
+    user-password=סיסמה
+
+[Page.UserLogout]
+    page-title=התחממו
+    success=חתמת בהצלחה.
+
+[Page.UserPassword]
+    form.submit=איפוס סיסמה
+    page-title=איפוס סיסמה
+    success.email-sent=הוראות לאיפוס הסיסמה נשלחו לכתובת הדואר האלקטרוני הרשומה עבור חשבון זה. אם אינך מקבל הודעת אימייל, בדוק את האיות שלך ונסה שוב. צור קשר עם מנהל האתר שלך אם תמשיך להיתקל בבעיות בכניסה.
+
+[Page.UserRegistration]
+    error.email.match=האימיילים שהזנת אינם תואמים.
+    error.password.match=הסיסמאות שהזנת אינן תואמות.
+    form.email=אימייל
+    form.email.verify=אמת דואר אלקטרוני
+    form.fullname=שם מלא <span class="note">(אופציונלי)</span>
+    form.password=סיסמה
+    form.password.verify=אמת סיסמה
+    form.submit=צור חשבון
+    form.username=שם משתמש
+    page-title=צור חשבון
+    success.created=משתמש <strong>$1</strong> נוצר.
+
+[Page.Welcome]
+    community-banner-text=כעת תוכל לתרום ולשתף תוכן.
+    community-banner-title=ברוך הבא, דולר אחד. החשבון שלך נוצר.
+    community-get-started-text=<strong>הנה כמה טיפים שיעזרו לך להתחיל בעבודה:</strong>
+    community-tip1-text=ספק לבעלי אתרים משוב בעל ערך על התוכן של האתר. האם המאמר היה מועיל? לחץ על <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">כן</span>. אם לא, לחץ על <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">השאר משוב</span> כדי לספר לנו כיצד אנו יכולים להשתפר. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">קבל מידע נוסף</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=התחל שיחה על-ידי הוספת הערות בדף. תרום מידע משלך או השב להערות של משתמש אחר. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">קבל מידע נוסף</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=איפוס סיסמה
+
+[Product]
+    powered-by-site=מופעל על-ידי MindTouch
+
+[Skin.Columbia]
+    button.quick-login=היכנס
+    header.recommended-articles=מאמרים מומלצים
+    header.toc=תוכן עניינים
+    label.back-to-top=חזרה לראש הדף
+    label.global-location-toggle=הרחב/כווץ מיקום כללי
+    label.global-navigation-toggle=הרחבה/כיווץ היררכיה גלובלית
+    label.last-updated=עודכן לאחרונה
+    label.last-updated-by=על ידי
+    label.no-recommended-articles=אין מאמרים מומלצים.
+    label.password=סיסמה
+    label.pdf-export=שמירה כ- PDF
+    label.signout=התחממו
+    label.site-search.button=חיפוש
+    label.site-search.input=חיפוש
+    label.skip-link=דלג לתוכן הראשי
+    label.tags=תגיות
+    label.user-preferences=ההעדפות שלי
+    label.username=שם משתמש
+    link.quick-login=היכנס
+    link.site-search=חיפוש באתר
+    placeholder.site-search.input=איך אנחנו יכולים לעזור לך?
+    tooltip.back-to-top=קפיצה חזרה לראש מאמר זה
+    tooltip.browse-back=חזור למאמר הקודם
+    tooltip.pdf-export=ייצוא עמוד כקובץ PDF
+    tooltip.signout=לחץ כדי לצאת מאתר זה
+    tooltip.skip-link=הקש enter כדי לדלג לתוכן הראשי
+    tooltip.user-preferences=לחץ כדי לשנות את העדפות המשתמש
+
+[Skin.Common]
+    copyright=זכויות יוצרים
+    home=דף הבית
+
+[System.API]
+    no-headers=אין כותרות
+    opensearch-shortname=$1 חיפוש
+
+[Users]
+    email.body.html.content=<p>מזל טוב, <br/><br/>\ r\ n\ r\ nעכשיו יש לך חשבון ב 4$. <br/><br/>היכנס כדי להתחיל לשתף פעולה באופן מיידי עם חברי קהילה אחרים. להלן פרטי הגישה לאתר שלך:<br/><br/>\ r\ n\ r\ nכתובת האתר: <a href="$2">$2</a><br/>\ r\ nשם משתמש: $1<br/>סיסמה: $3<br/><br/>\ r\ n\ r\ nאם אתה זקוק לעזרה בתחילת העבודה או שיש לך שאלות ספציפיות לגבי <a href="$2">$4</a>, פנה למנהל האתר. </p>
+    email.body.html.content.nopassword=<p>מזל טוב, <br/><br/>\ r\ n\ r\ nעכשיו יש לך חשבון ב-3 דולר. <br/><br/>היכנס כדי להתחיל לשתף פעולה באופן מיידי עם חברי קהילה אחרים. להלן פרטי הגישה לאתר שלך:<br/><br/>\ r\ n\ r\ nכתובת האתר: <a href="$2">$2</a><br/>\ r\ nשם משתמש: $1<br/><br/><em>פנה למנהל האתר אם אינך יודע את הסיסמה שלך. </em><br/><br/>\ r\ n\ r\ nאם אתה זקוק לעזרה בעבודה או שיש לך שאלות ספציפיות לגבי <a href="$2">$3</a>, פנה למנהל האתר. </p>
+    email.body.text=\ r\ nמזל טוב,\ r\ n\ r\ nעכשיו יש לך חשבון ב 4$. היכנס כדי להתחיל לשתף פעולה באופן מיידי עם חברי קהילה אחרים. להלן פרטי הגישה שלך לאתר:\ r\ n\ r\ nכתובת האתר: $2\ r\ nשם משתמש: $1\ r\ nPassword: $3\ r\ n\ r\ n\ r\ nאם אתה זקוק לעזרה בעבודה או שיש לך שאלות ספציפיות לגבי $4, פנה למנהל האתר.
+    email.body.text.nopassword=\ r\ nמזל טוב,\ r\ n\ r\ nעכשיו יש לך חשבון ב-3 דולר. היכנס כדי להתחיל לשתף פעולה באופן מיידי עם חברי קהילה אחרים. להלן פרטי הגישה לאתר שלך:\ r\ n\ r\ nכתובת האתר: $2\ r\ nשם משתמש: $1\ r\ nצור קשר עם מנהל האתר אם אינך יודע את הסיסמה שלך. \ r\ n\ r\ nאם אתה זקוק לעזרה בעבודה או שיש לך שאלות ספציפיות לגבי $3, פנה למנהל האתר.
+    email.external.body.html.content=<p>מזל טוב, <br/><br/>\ r\ n\ r\ nעכשיו יש לך חשבון ב-3 דולר. <br/><br/>היכנס כדי להתחיל לשתף פעולה באופן מיידי עם חברי קהילה אחרים. להלן פרטי הגישה שלך לאתר:<br/><br/>\ r\ n\ r\ nכתובת האתר: <a href="$2">$2</a><br/>\ r\ nשם משתמש: $1<br/><br/>\ r\ n\ r\ nאם אתה זקוק לעזרה בעבודה או שיש לך שאלות ספציפיות לגבי <a href="$2">$3</a>, פנה למנהל האתר. </p>
+    email.subject=$1 פרטי כניסה
+    form.password.instructions=סיסמאות חייבות להיות באורך של 8 תווים לפחות ולהכיל לפחות 3 מהתווים הבאים: אותיות קטנות, אותיות רישיות, ספרות או סמלים.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=לא ניתן לטעון את נקודת המגע של MindTouch המבוקשת על-ידי דפדפן האינטרנט שלך.
+    label.back-to-top=חזרה לראש הדף
+
+[WebWidget.F1]
+    label.help-button=עזרה
+    title.help-button=עזרה
+
+[WebWidget.Login]
+    label.authenticated-user=מחובר ל- MindTouch בתור {{שם משתמש}}
+    label.sign-in=היכנס ל- MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=לחץ לצמצום הסיכום
+    label.disabled-message=אנא נסה שוב מאוחר יותר.
+    label.disabled-title=מצטערים, החיפוש אינו זמין כעת.
+    label.expand-summary=לחץ כדי להרחיב את הסיכום
+    label.forbidden-message=היכנס למערכת, או פנה למנהל האתר שלך.
+    label.forbidden-title=אין לך הרשאה להשתמש בתכונה זו.
+    label.input-hint=חיפוש
+    label.no-results-faceting-message=נסה לחפש משהו אחר או לבחור קטגוריה.
+    label.no-results-message=נסה לחפש משהו אחר.
+    label.no-results-title=מצטער, אנחנו לא יכולים למצוא את מה שאתה מחפש.
+    label.recommended=מומלץ
+    label.refine-search=חדד את החיפוש
+    label.show-more=הצג עוד
+
+[WebWidgets]
+    label.authenticated-user=שלום, {{שם משתמש}!
+    label.nav.back=חזרה
+    label.nav.forward=קדימה
+    label.nav.home=דף הבית
+
+[Component.Translate]
+    label.choose-language=בחר שפה
+    label.english=אנגלי
+    label.update-failed=תרגום לא שלם
+    language.spanish=אספניול
+    language.german=דויטש
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=פרנסאיס
+    language.portuguese=פורטוגזית
+    language.dutch=נדרלנדס
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=דנסק
+    language.finnish=סומאלינן
+    language.italian=איטלקית
+    title.translated-machine=תוכן עמוד מתורגם באמצעות תרגום מכונה
+    dialog.translated-mindtouch=תורגם על-ידי MindTouch
