@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Cari
+    New.word=Word baru lagi
+    extra=Pengujian dalam pembaruan limbo
+
+[F1]
+    dialog.text.back=Kembali
+    dialog.text.forward=Maju
+    dialog.text.hint=mencari
+    dialog.text.home=Rumah
+    dialog.text.open=Buka artikel
+
+[MindTouch.Help.Page]
+    category-selector=Perbaiki hasil dengan memilih filter.
+    help-header-label=Hasil bantuan untuk
+    in=di
+    label-filter=Mencari di
+    label-result-count=Tentang {0} hasil
+    label-search-all=Semua hasil
+    label.page-rating-no=Tidak
+    label.page-rating-yes=ya
+    more=Lebih
+    no-search-results=Maaf, kami tidak dapat menemukan apa yang Anda cari.
+    no-search-try=Coba cari sesuatu yang lain, pilih kategori, atau coba buat tiket.
+    recommended=(Direkomendasikan)
+    search-error=Pencarian mengalami kesalahan.
+    search-error-try=Silakan coba lagi nanti.
+    search-unavailable=Maaf, pencarian saat ini tidak tersedia.
+    show-more-search=Tampilkan hasil lainnya
+    tooltip.scrollNext=Gulir ke berikutnya
+    tooltip.scrollPrev=Gulir ke sebelumnya
+    warning.search-only-english=Pencarian hanya tersedia dalam bahasa Inggris
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(tanggal dibuat)
+    featured.articles.created.title=Baru saja ditambahkan
+    featured.articles.rated.label=(rating)
+    featured.articles.rated.title=Nilai tertinggi
+    featured.articles.updated.label=(tanggal diperbarui)
+    featured.articles.updated.title=Baru saja diperbarui
+    featured.articles.viewed.label=(tampilan)
+    featured.articles.viewed.title=Paling populer
+    label.guide-subpage-display-single=Tunggal
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Gulir tab ke kiri
+    label.guide.tabscrollright=Gulir tab ke kanan
+    label.reveal.showAll=Tampilkan semua
+    label.reveal.showLess=Tampilkan lebih sedikit
+    label.search.placeholder=Cari
+    type.how-to=Bagaimana-untuk
+    type.howto=Bagaimana-untuk
+    type.reference=Referensi
+    type.topic=Topik
+    type.topic-category=Kategori
+    type.topic-guide=Panduan
+    type.topic-portfolio=Portofolio
+    type.unclassified=Tidak diklasifikasikan
+
+[MindTouch.LearningPath]
+    label.view-pages=Lihat halaman
+    message.page-count=<span>Halaman:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Sembunyikan
+    button.toggle.show=Tampilkan
+    label.attachments=Sertakan lampiran
+    label.attachments-description=Jenis Konten
+    label.attachments.type.binary=Lainnya
+    label.attachments.type.document=Dokumen
+    label.attachments.type.image=Gambar
+    label.classification=Klasifikasi
+    label.clear-all=Hapus semua filter
+    label.description=Filter Hasil
+    label.filters=Filter
+    label.location=Lokasi
+    label.location-empty=Tidak ada lokasi untuk disaring oleh
+
+[MindTouch.Subscriptions]
+    cancel=Batalkan
+    caption.normal=Anda berlangganan ke halaman berikut.
+    caption.nosubscriptions=Anda tidak berlangganan ke halaman apa pun.
+    column.page=Halaman
+    column.recursive=Pemberitahuan email untuk
+    link-title=Pelajari lebih lanjut tentang mengelola notifikasi di MindTouch
+    nonrecursive=Halaman ini saja
+    nonrecursive.draft=Draft ini hanya
+    recursive.many=$1 halaman
+    recursive.many.draft=$1 draft
+    recursive.many.overflow=Berlangganan ke semua subhalaman
+    recursive.many.overflow.draft=Berlangganan ke semua draf subhalaman
+    recursive.one=1 halaman
+    recursive.one.draft=1 rancangan
+    unsubscribe=Berhenti berlangganan
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Tutup pesan
+
+[Page.AuthenticationProviders]
+    page-title=Masuk
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Kunjungi success.mindtouch.com untuk semua topik bantuan. </a>
+
+[Page.Error]
+    not-found=Halaman tidak ditemukan
+    not-found-error=Maaf, halaman di $1 tidak dapat ditemukan.
+    not-found-results=Hasil pencarian terkait:
+    page-title=Galat
+
+[Page.FeedbackRating]
+    button.leave-feedback=Tinggalkan umpan balik
+    button.rating-no=Tidak
+    button.rating-yes=ya
+    button.submit-feedback=Kirim umpan balik
+    label.checkbox.contact-me=Ya, Anda dapat menghubungi saya tentang umpan balik ini.
+    label.feedback-question=Bagaimana kita bisa memperbaiki artikel ini?
+    label.last-rated=— Anda terakhir menilai artikel ini di $1
+    label.rating-message=Apakah artikel ini bermanfaat?
+    legend.feedback-form=Tinggalkan umpan balik
+    message.contact.no=Tidak
+    message.contact.yes=ya
+    message.submit.error=Terjadi galat saat mencoba mengirim umpan balik Anda. Silakan coba lagi di lain waktu.
+    message.submit.success=Umpan balik Anda telah berhasil dikirimkan. Anda dapat mengirimkan lebih banyak umpan balik kapan saja.
+
+[Page.LiveTags]
+    label.article=Jenis artikel
+
+[Page.LoginPasswordRegister]
+    page-title=Masuk dan pendaftaran
+    tab.login=Masuk
+    tab.password=Pengaturan ulang kata sandi
+    tab.register=Registrasi
+
+[Page.Preferences]
+    error.invalid-email=Harap tentukan alamat email yang valid
+    form.email=Alamat email
+    form.fullname=Nama tampilan
+    form.fullname.help=Untuk tujuan tampilan saja
+    form.hint.password-characters=Kata sandi harus berisi setidaknya 3 karakter berikut: huruf kecil, huruf besar, digit atau simbol.
+    form.hint.password-length=Kata sandi harus memiliki panjang minimal 8 karakter
+    form.hint.password-match=Kata sandi harus cocok
+    form.hint.password.restricted-words=Kata sandi tidak dapat berisi kata sandi umum
+    form.legend.information=Informasi saya
+    form.legend.password=Kata sandi saya
+    form.password.new=Kata sandi baru
+    form.password.old=Kata sandi lama
+    form.password.submit=Ubah kata sandi
+    form.password.verify=Ketik ulang kata sandi baru
+    form.submit=Menyimpan informasi saya
+
+[Page.Tags]
+    message.notags=Halaman ini tidak memiliki tag.
+    page-title=Tag situs
+    tags-inserted-from-template=Tag direkomendasikan oleh template:
+    tags-inserted-heading=Tag halaman:
+
+[Page.UserLogin]
+    error=Masuk Anda telah gagal. Silakan verifikasi nama pengguna dan kata sandi Anda.
+    page-title=Masuk
+    submit-login=Masuk
+    user-name=Nama pengguna
+    user-password=Kata Sandi
+
+[Page.UserLogout]
+    page-title=Keluar
+    success=Anda telah berhasil keluar.
+
+[Page.UserPassword]
+    form.submit=Pengaturan ulang kata sandi
+    page-title=Pengaturan ulang kata sandi
+    success.email-sent=Petunjuk pengaturan ulang kata sandi telah dikirim ke alamat e-mail yang terdaftar untuk akun ini. Jika Anda tidak menerima email, silakan periksa ejaan Anda dan coba lagi. Hubungi administrator situs jika Anda masih mengalami masalah saat masuk.
+
+[Page.UserRegistration]
+    error.email.match=Email yang Anda masukkan tidak cocok.
+    error.password.match=Kata sandi yang Anda masukkan tidak cocok.
+    form.email=Email
+    form.email.verify=Verifikasi Email
+    form.fullname=Nama lengkap <span class="note">(opsional)</span>
+    form.password=Kata Sandi
+    form.password.verify=Verifikasi kata sandi
+    form.submit=Buat akun
+    form.username=Nama pengguna
+    page-title=Buat akun
+    success.created=Pengguna <strong>$1</strong> telah dibuat.
+
+[Page.Welcome]
+    community-banner-text=Sekarang Anda dapat berkontribusi dan berbagi konten.
+    community-banner-title=Selamat datang, $1. Akun Anda telah dibuat.
+    community-get-started-text=<strong>Berikut adalah beberapa kiat untuk membantu Anda memulai:</strong>
+    community-tip1-text=Berikan pemilik situs dengan umpan balik yang berharga tentang isi situs. Apakah artikelnya bermanfaat? Klik <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ya</span>. Jika tidak, klik <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Tinggalkan masukan</span> untuk memberitahu kami bagaimana kami dapat meningkatkan. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Pelajari lebih lanjut</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Mulai percakapan dengan mengomentari halaman. Kontribusi informasi Anda sendiri atau balas komentar pengguna lain. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Pelajari lebih lanjut</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Pengaturan ulang kata sandi
+
+[Product]
+    powered-by-site=Didukung oleh MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Masuk
+    header.recommended-articles=Artikel yang direkomendasikan
+    header.toc=Daftar isi
+    label.back-to-top=Kembali ke atas
+    label.global-location-toggle=Perluasan/runtuhnya lokasi global
+    label.global-navigation-toggle=Perluaskan/runtuhkan hirarki
+    label.last-updated=Terakhir diperbarui
+    label.last-updated-by=oleh
+    label.no-recommended-articles=Tidak ada artikel yang direkomendasikan.
+    label.password=Kata Sandi
+    label.pdf-export=Simpan sebagai PDF
+    label.signout=Keluar
+    label.site-search.button=Cari
+    label.site-search.input=Cari
+    label.skip-link=Loncat ke konten utama
+    label.tags=Tags
+    label.user-preferences=Preferensi saya
+    label.username=Nama pengguna
+    link.quick-login=Masuk
+    link.site-search=Cari situs
+    placeholder.site-search.input=Bagaimana kami bisa membantumu?
+    tooltip.back-to-top=Langsung kembali ke atas artikel ini
+    tooltip.browse-back=Kembali ke artikel sebelumnya
+    tooltip.pdf-export=Ekspor halaman sebagai PDF
+    tooltip.signout=Klik untuk keluar dari situs ini
+    tooltip.skip-link=Tekan enter untuk lompat ke konten utama
+    tooltip.user-preferences=Klik untuk mengubah preferensi pengguna
+
+[Skin.Common]
+    copyright=Hak cipta
+    home=Rumah
+
+[System.API]
+    no-headers=Tidak ada header
+    opensearch-shortname=$1 Pencarian
+
+[Users]
+    email.body.html.content=<p>Selamat, <br/><br/>\ r\ n\ r\ nAnda sekarang memiliki akun di $4. <br/><br/>Masuk untuk langsung mulai berkolaborasi dengan anggota komunitas lainnya. Berikut adalah rincian akses situs Anda:<br/><br/>\ r\ n\ r\ nURL situs: <a href="$2">$2</a><br/>\ r\ nuSer name: $1<br/>Password: $3<br/><br/>\ r\ n\ r\ nJika Anda memerlukan bantuan untuk memulai atau memiliki pertanyaan spesifik tentang <a href="$2">$4</a>, silakan hubungi administrator situs. </p>
+    email.body.html.content.nopassword=<p>Selamat, <br/><br/>\ r\ n\ r\ nAnda sekarang memiliki akun sebesar $3. <br/><br/>Masuk untuk langsung mulai berkolaborasi dengan anggota komunitas lainnya. Berikut adalah rincian akses situs Anda:<br/><br/>\ r\ n\ r\ nURL situs: <a href="$2">$2</a><br/>\ r\ nama nuSer: $1<br/><br/><em>Hubungi administrator situs jika Anda tidak mengetahui kata sandi Anda. </em><br/><br/>\ r\ n\ r\ nJika Anda memerlukan bantuan untuk memulai atau memiliki pertanyaan spesifik tentang <a href="$2">$3</a>, silakan hubungi administrator situs. </p>
+    email.body.text=\ r\ nSelamat,\ r\ n\ r\ nAnda sekarang memiliki akun sebesar $4. Masuk untuk langsung mulai berkolaborasi dengan anggota komunitas lainnya. Berikut adalah rincian akses situs Anda:\ r\ n\ r\ nURL situs: $2\ r\ nuSer name: $1\ r\ nPassword: $3\ r\ n\ r\ nJika Anda memerlukan bantuan untuk memulai atau memiliki pertanyaan spesifik tentang $4, silakan hubungi administrator situs.
+    email.body.text.nopassword=\ r\ nSelamat,\ r\ n\ r\ nAnda sekarang memiliki akun sebesar $3. Masuk untuk langsung mulai berkolaborasi dengan anggota komunitas lainnya. Berikut adalah rincian akses situs Anda:\ r\ n\ r\ nURL situs: $2\ r\ nama nuSer: $1\ r\ nHubungi administrator situs jika Anda tidak mengetahui kata sandi Anda. \ r\ n\ r\ nJika Anda memerlukan bantuan untuk memulai atau memiliki pertanyaan spesifik tentang $3, silakan hubungi administrator situs.
+    email.external.body.html.content=<p>Selamat, <br/><br/>\ r\ n\ r\ nAnda sekarang memiliki akun sebesar $3. <br/><br/>Masuk untuk langsung mulai berkolaborasi dengan anggota komunitas lainnya. Berikut adalah rincian akses situs Anda:<br/><br/>\ r\ n\ r\ nURL situs: <a href="$2">$2</a><br/>\ r\ nuSer name: $1<br/><br/>\ r\ n\ r\ nJika Anda memerlukan bantuan untuk memulai atau memiliki pertanyaan spesifik tentang <a href="$2">$3</a>, silakan hubungi administrator situs. </p>
+    email.subject=$1 Masuk Rincian
+    form.password.instructions=Kata sandi harus memiliki panjang minimal 8 karakter dan berisi setidaknya 3 karakter berikut: huruf kecil, huruf besar, digit atau simbol.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Touchpoint MindTouch yang diminta tidak dapat dimuat oleh browser web Anda.
+    label.back-to-top=Kembali ke atas
+
+[WebWidget.F1]
+    label.help-button=Bantuan
+    title.help-button=Bantuan
+
+[WebWidget.Login]
+    label.authenticated-user=Masuk ke MindTouch sebagai {{username}}
+    label.sign-in=Masuk ke MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Klik untuk menutup ringkasan
+    label.disabled-message=Silakan coba lagi nanti.
+    label.disabled-title=Maaf, pencarian saat ini tidak tersedia.
+    label.expand-summary=Klik untuk memperluas ringkasan
+    label.forbidden-message=Silahkan login, atau hubungi administrator situs Anda.
+    label.forbidden-title=Anda tidak memiliki izin untuk menggunakan fitur ini.
+    label.input-hint=Cari
+    label.no-results-faceting-message=Coba cari sesuatu yang lain atau pilih kategori.
+    label.no-results-message=Cobalah mencari sesuatu yang lain.
+    label.no-results-title=Maaf, kami tidak dapat menemukan apa yang Anda cari.
+    label.recommended=Direkomendasikan
+    label.refine-search=Menyempurnakan pencarian
+    label.show-more=Tampilkan lebih
+
+[WebWidgets]
+    label.authenticated-user=Halo, {{username}}!
+    label.nav.back=Kembali
+    label.nav.forward=Maju
+    label.nav.home=Rumah
+
+[Component.Translate]
+    label.choose-language=Pilih Bahasa
+    label.english=Inggris
+    label.update-failed=Terjemahan Tidak Lengkap
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Konten halaman diterjemahkan menggunakan mesin terjemahan
+    dialog.translated-mindtouch=Diterjemahkan oleh MindTouch
