@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Tafuta
+    New.word=Neno jipya tena
+    extra=Upimaji katika sasisho la utata
+
+[F1]
+    dialog.text.back=Nyuma
+    dialog.text.forward=Mbele
+    dialog.text.hint=tafuta
+    dialog.text.home=Nyumbani
+    dialog.text.open=Fungua makala
+
+[MindTouch.Help.Page]
+    category-selector=Fanya matokeo kwa kuchagua chujio.
+    help-header-label=Matokeo ya usaidizi
+    in=ndani
+    label-filter=Inatafuta katika
+    label-result-count=Kuhusu matokeo {0}
+    label-search-all=Matokeo yote
+    label.page-rating-no=Hapana
+    label.page-rating-yes=Ndio
+    more=Zaidi
+    no-search-results=Samahani, hatuwezi kupata unachotafuta.
+    no-search-try=Jaribu kutafuta kitu kingine, kuchagua kikundi, au jaribu kuunda tiketi.
+    recommended=(Ilipendekeza)
+    search-error=Utafutaji umekutana na hitilafu.
+    search-error-try=Tafadhali jaribu tena baadaye.
+    search-unavailable=Samahani, tafuta haipatikani kwa sasa.
+    show-more-search=Onyesha matokeo zaidi
+    tooltip.scrollNext=Tembea kwa ijayo
+    tooltip.scrollPrev=Tembea kwenye uliopita
+    warning.search-only-english=Search inapatikana tu kwa Kiingereza
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(tarehe imeundwa)
+    featured.articles.created.title=Aliongeza hivi karibuni
+    featured.articles.rated.label=(rating)
+    featured.articles.rated.title=Juu lilipimwa
+    featured.articles.updated.label=(tarehe updated)
+    featured.articles.updated.title=Sasishwa hivi karibuni
+    featured.articles.viewed.label=(maoni)
+    featured.articles.viewed.title=Maarufu
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Tembea tabo kushoto
+    label.guide.tabscrollright=Tembea tabo haki
+    label.reveal.showAll=Onyesha yote
+    label.reveal.showLess=Onyesha chini
+    label.search.placeholder=Tafuta
+    type.how-to=Jinsi-ya
+    type.howto=Jinsi-ya
+    type.reference=Reference
+    type.topic=Topic
+    type.topic-category=Jamii
+    type.topic-guide=Guide
+    type.topic-portfolio=Portfolio
+    type.unclassified=Unclassified
+
+[MindTouch.LearningPath]
+    label.view-pages=Tazama kurasa
+    message.page-count=<span>Kurasa:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Ficha
+    button.toggle.show=Onyesha
+    label.attachments=Jumuisha viambatisho
+    label.attachments-description=Aina ya Maudhui
+    label.attachments.type.binary=Nyingine
+    label.attachments.type.document=Hati
+    label.attachments.type.image=Image
+    label.classification=Uainishaji
+    label.clear-all=Futa filters zote
+    label.description=Futa Matokeo
+    label.filters=Filters
+    label.location=Location
+    label.location-empty=Hakuna maeneo ya kuchuja
+
+[MindTouch.Subscriptions]
+    cancel=Kufuta
+    caption.normal=Umejiandikisha kwenye kurasa zifuatazo.
+    caption.nosubscriptions=Hujasajiliwa kwenye kurasa yoyote.
+    column.page=Ukurasa
+    column.recursive=Arifa za barua pepe kwa
+    link-title=Pata maelezo zaidi kuhusu kusimamia arifa katika MindTouch
+    nonrecursive=Ukurasa huu tu
+    nonrecursive.draft=Rasimu hii tu
+    recursive.many=Kurasa $1
+    recursive.many.draft=$1 rasimu
+    recursive.many.overflow=Imesajiliwa kwenye subpages zote
+    recursive.many.overflow.draft=Imesajiliwa kwenye rasimu zote za subpage
+    recursive.one=Ukurasa 1
+    recursive.one.draft=Rasimu 1
+    unsubscribe=Kujitoa
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Funga ujumbe
+
+[Page.AuthenticationProviders]
+    page-title=Ingia
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Tembelea mafanikio. mindtouch.com kwa mada yote ya usaidizi. </a>
+
+[Page.Error]
+    not-found=Ukurasa haupatikani
+    not-found-error=Samahani, ukurasa wa $1 haukuweza kupatikana.
+    not-found-results=Matokeo yanayohusiana ya utafutaji:
+    page-title=Hitilafu
+
+[Page.FeedbackRating]
+    button.leave-feedback=Acha maoni
+    button.rating-no=Hapana
+    button.rating-yes=Ndio
+    button.submit-feedback=Wasilisha maoni
+    label.checkbox.contact-me=Ndiyo, unaweza kuwasiliana na mimi kuhusu maoni haya.
+    label.feedback-question=Tunawezaje kuboresha makala hii?
+    label.last-rated=— Wewe mwisho lilipimwa makala hii juu ya $1
+    label.rating-message=Je, makala hii ilikuwa na manufaa?
+    legend.feedback-form=Acha maoni
+    message.contact.no=Hapana
+    message.contact.yes=Ndio
+    message.submit.error=Hitilafu ilitokea wakati wa kujaribu kutuma maoni yako. Tafadhali jaribu tena kwa wakati mmoja baadaye.
+    message.submit.success=Maoni yako yamewasilishwa kwa ufanisi. Unaweza kuwasilisha maoni zaidi wakati wowote.
+
+[Page.LiveTags]
+    label.article=Aina ya makala
+
+[Page.LoginPasswordRegister]
+    page-title=Ingia na usajili
+    tab.login=Ingia
+    tab.password=Upyaji wa nenosiri
+    tab.register=Usajili
+
+[Page.Preferences]
+    error.invalid-email=Tafadhali taja anwani ya barua pepe halali
+    form.email=Anwani ya barua pepe
+    form.fullname=Jina la kuonyesha
+    form.fullname.help=Kwa madhumuni ya kuonyesha tu
+    form.hint.password-characters=Nenosiri lazima liwe na angalau 3 ya wahusika wafuatayo: chini, ukubwa, tarakimu au alama.
+    form.hint.password-length=Nenosiri lazima iwe angalau wahusika 8 kwa urefu
+    form.hint.password-match=Nywila lazima zifanane
+    form.hint.password.restricted-words=Nywila haiwezi kuwa na maneno ya kawaida ya nenosiri
+    form.legend.information=Maelezo yangu
+    form.legend.password=Nenosiri langu
+    form.password.new=Nywila mpya
+    form.password.old=Nenosiri la zamani
+    form.password.submit=Badilisha nenosiri
+    form.password.verify=Rudisha nenosiri jipya
+    form.submit=Hifadhi maelezo yangu
+
+[Page.Tags]
+    message.notags=Ukurasa huu hauna vitambulisho.
+    page-title=Vitambulisho vya tovuti
+    tags-inserted-from-template=Tags ilipendekeza na template:
+    tags-inserted-heading=Vitambulisho vya ukurasa:
+
+[Page.UserLogin]
+    error=Ingia yako imeshindwa. Tafadhali thibitisha jina lako la mtumiaji na nenosiri.
+    page-title=Ingia
+    submit-login=Ingia
+    user-name=Jina la mtumiaji
+    user-password=Nenosiri
+
+[Page.UserLogout]
+    page-title=Ingia
+    success=Umefanikiwa kusaini.
+
+[Page.UserPassword]
+    form.submit=Upyaji wa nenosiri
+    page-title=Upyaji wa nenosiri
+    success.email-sent=Maagizo ya upya nenosiri yamepelekwa kwa anwani ya barua pepe iliyosajiliwa kwa akaunti hii. Kama huna kupokea barua pepe, tafadhali angalia herufi yako na jaribu tena. Wasiliana na msimamizi wa tovuti yako ikiwa utaendelea kuwa na masuala ya kuingia.
+
+[Page.UserRegistration]
+    error.email.match=Barua pepe ulizoingiza hazilingani.
+    error.password.match=Nywila ulizoingia hazifanani.
+    form.email=Barua pepe
+    form.email.verify=Thibitisha Barua pepe
+    form.fullname=Jina kamili <span class="note">(hiari)</span>
+    form.password=Nenosiri
+    form.password.verify=Thibitisha nenosiri
+    form.submit=Unda akaunti
+    form.username=Jina la mtumiaji
+    page-title=Unda akaunti
+    success.created=mtumiaji <strong>$1</strong> imeundwa.
+
+[Page.Welcome]
+    community-banner-text=Sasa unaweza kuchangia na kushiriki maudhui.
+    community-banner-title=Karibu, $1. Akaunti yako imeundwa.
+    community-get-started-text=<strong>Hapa kuna vidokezo vya kukusaidia kuanza:</strong>
+    community-tip1-text=Kutoa wamiliki wa tovuti na maoni muhimu kuhusu maudhui ya tovuti. Je, makala hiyo ilisaidia? Bonyeza <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ndiyo</span>. Ikiwa sio, bofya <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Acha maoni</span> ili kutuambia jinsi tunavyoweza kuboresha. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Jifunze zaidi</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Anza mazungumzo kwa kutoa maoni kwenye ukurasa. Changia maelezo yako mwenyewe au jibu maoni ya mtumiaji mwingine. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Jifunze zaidi</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Upyaji wa nenosiri
+
+[Product]
+    powered-by-site=Inaendeshwa na akili Touch
+
+[Skin.Columbia]
+    button.quick-login=Ingia
+    header.recommended-articles=Vipengele vilivyopendekezwa
+    header.toc=Jedwali la yaliyomo
+    label.back-to-top=Rudi juu
+    label.global-location-toggle=Kupanuliwa/kuanguka eneo la kimataifa
+    label.global-navigation-toggle=Kupanuliwa/kuanguka uongozi wa kimataifa
+    label.last-updated=Sasisho la mwisho
+    label.last-updated-by=na
+    label.no-recommended-articles=Hakuna makala iliyopendekezwa.
+    label.password=Nenosiri
+    label.pdf-export=Hifadhi kama PDF
+    label.signout=Ingia
+    label.site-search.button=Tafuta
+    label.site-search.input=Tafuta
+    label.skip-link=Ruka kwenye maudhui makuu
+    label.tags=Tags
+    label.user-preferences=Mapendeleo yangu
+    label.username=Jina la mtumiaji
+    link.quick-login=Ingia
+    link.site-search=Tafuta tovuti
+    placeholder.site-search.input=Tunawezaje kukusaidia?
+    tooltip.back-to-top=Rukia nyuma juu ya makala hii
+    tooltip.browse-back=Rudi kwenye makala iliyotangulia
+    tooltip.pdf-export=Tuma ukurasa kama PDF
+    tooltip.signout=Bofya ili ujiandikishe kwenye tovuti hii
+    tooltip.skip-link=Bonyeza kuingia ili uruke kwenye maudhui kuu
+    tooltip.user-preferences=Bofya ili ubadilishe mapendeleo yako ya mtumiaji
+
+[Skin.Common]
+    copyright=Hakimiliki
+    home=Nyumbani
+
+[System.API]
+    no-headers=Hakuna vichwa
+    opensearch-shortname=Tafuta $1
+
+[Users]
+    email.body.html.content=<p>Hongera, <br/><br/>\ r\ n\ r\ nSasa una akaunti katika $4. <br/><br/>Ingia ili uanze kushirikiana na wanachama wengine wa jamii. Chini ni maelezo yako ya upatikanaji wa tovuti:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nJina la mtumiaji: $1<br/>Nenosiri: $3<br/><br/>\ r\ n\ r\ nIkiwa unahitaji msaada kuanza au una maswali maalum kuhusu <a href="$2">$4</a>, tafadhali wasiliana na msimamizi wa tovuti. </p>
+    email.body.html.content.nopassword=<p>Hongera, <br/><br/>\ r\ n\ r\ nSasa una akaunti katika $3. <br/><br/>Ingia ili uanze kushirikiana na wanachama wengine wa jamii. Chini ni maelezo yako ya upatikanaji wa tovuti:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nJina la mtumiaji: $1<br/><br/><em>Wasiliana na msimamizi wa tovuti ikiwa hujui nenosiri lako. </em><br/><br/>\ r\ n\ r\ nIkiwa unahitaji msaada kuanza au una maswali maalum kuhusu <a href="$2">$3</a>, tafadhali wasiliana na msimamizi wa tovuti. </p>
+    email.body.text=\ r\ nHongera,\ r\ n\ r\ nSasa una akaunti katika $4. Ingia ili uanze kushirikiana na wanachama wengine wa jamii. Chini ni maelezo yako ya upatikanaji wa tovuti:\ r\ n\ r\ nSite URL: $2\ r\ nJina la mtumiaji: $1\ r\ nPassword: $3\ r\ n\ r\ nIkiwa unahitaji msaada kuanza au una maswali maalum kuhusu $4, tafadhali wasiliana na msimamizi wa tovuti.
+    email.body.text.nopassword=\ r\ nHongera,\ r\ n\ r\ nSasa una akaunti katika $3. Ingia ili uanze kushirikiana na wanachama wengine wa jamii. Chini ni maelezo yako ya upatikanaji wa tovuti:\ r\ n\ r\ nSite URL: $2\ r\ nJina la mtumiaji: $1\ r\ nWasiliana na msimamizi wa tovuti ikiwa hujui nenosiri lako. \ r\ n\ r\ nIkiwa unahitaji msaada kuanza au una maswali maalum kuhusu $3, tafadhali wasiliana na msimamizi wa tovuti.
+    email.external.body.html.content=<p>Hongera, <br/><br/>\ r\ n\ r\ nSasa una akaunti katika $3. <br/><br/>Ingia ili uanze kushirikiana na wanachama wengine wa jamii. Chini ni maelezo yako ya upatikanaji wa tovuti:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nJina la mtumiaji: $1<br/><br/>\ r\ n\ r\ nIkiwa unahitaji msaada kuanza au una maswali maalum kuhusu <a href="$2">$3</a>, tafadhali wasiliana na msimamizi wa tovuti. </p>
+    email.subject=Maelezo ya Kuingia $1
+    form.password.instructions=Nywila lazima iwe chini ya herufi 8 kwa urefu na iwe na angalau 3 ya wahusika wafuatayo: lowercase, kubwa, tarakimu au alama.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=MindTouch Touchpoint iliyoombwa haikuweza kubeba na kivinjari chako cha wavuti.
+    label.back-to-top=Rudi juu
+
+[WebWidget.F1]
+    label.help-button=Msaada
+    title.help-button=Msaada
+
+[WebWidget.Login]
+    label.authenticated-user=Imeingia kwenye MindTouch kama {{jina la mtumiaji}}
+    label.sign-in=Ingia kwenye MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Bofya ili kuanguka muhtasari
+    label.disabled-message=Tafadhali jaribu tena baadaye.
+    label.disabled-title=Samahani, tafuta haipatikani kwa sasa.
+    label.expand-summary=Bofya ili kupanua muhtasari
+    label.forbidden-message=Tafadhali ingia, au wasiliana na msimamizi wa tovuti yako.
+    label.forbidden-title=Huna ruhusa ya kutumia kipengele hiki.
+    label.input-hint=Tafuta
+    label.no-results-faceting-message=Jaribu kutafuta kitu kingine au kuchagua kikundi.
+    label.no-results-message=Jaribu kutafuta kitu kingine.
+    label.no-results-title=Samahani, hatuwezi kupata unachotafuta.
+    label.recommended=Ilipendekeza
+    label.refine-search=Fanya tafuta
+    label.show-more=Onyesha zaidi
+
+[WebWidgets]
+    label.authenticated-user=Sawa, {{jina la mtumiaji}}!
+    label.nav.back=Nyuma
+    label.nav.forward=Mbele
+    label.nav.home=Nyumbani
+
+[Component.Translate]
+    label.choose-language=Chagua lugha
+    label.english=Kiingereza
+    label.update-failed=Tafsiri isiyo kamili
+    language.spanish=Español
+    language.german=Kijerumani
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=Suomalainen
+    language.italian=italiano
+    title.translated-machine=Maudhui ya ukurasa yaliyotafsiriwa kwa kutumia mashine
+    dialog.translated-mindtouch=Tafsiri na MindTouch
