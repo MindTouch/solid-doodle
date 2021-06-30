@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=શોધ
+    New.word=ફરીથી નવો શબ્દ
+    extra=લિમ્બો અપડેટમાં પરીક્ષણ
+
+[F1]
+    dialog.text.back=પાછા
+    dialog.text.forward=આગળ
+    dialog.text.hint=શોધ
+    dialog.text.home=હોમ
+    dialog.text.open=ઓપન લેખ
+
+[MindTouch.Help.Page]
+    category-selector=ફિલ્ટર પસંદ કરીને પરિણામો રિફાઇન કરો.
+    help-header-label=માટે મદદ પરિણામો
+    in=માં
+    label-filter=માં શોધી રહ્યા છે
+    label-result-count=વિશે {0} પરિણામો
+    label-search-all=બધા પરિણામો
+    label.page-rating-no=ના
+    label.page-rating-yes=હા
+    more=વધુ
+    no-search-results=માફ કરશો, તમે જે શોધી રહ્યા છો તે અમે શોધી શકતા નથી.
+    no-search-try=બીજું કંઈક શોધવાનો પ્રયાસ કરો, કેટેગરી પસંદ કરો અથવા ટિકિટ બનાવવાનો પ્રયાસ કરો.
+    recommended=(ભલામણ કરેલ)
+    search-error=શોધમાં ભૂલ આવી છે.
+    search-error-try=કૃપા કરીને પછીથી ફરીથી પ્રયાસ કરો.
+    search-unavailable=માફ કરશો, search હાલમાં ઉપલબ્ધ નથી.
+    show-more-search=વધુ પરિણામો બતાવો
+    tooltip.scrollNext=આગળ સ્ક્રોલ કરો
+    tooltip.scrollPrev=અગાઉના સ્ક્રોલ
+    warning.search-only-english=શોધ ફક્ત અંગ્રેજીમાં જ ઉપલબ્ધ છે
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(તારીખ બનાવેલ)
+    featured.articles.created.title=તાજેતરમાં ઉમેર્યું
+    featured.articles.rated.label=(રેટિંગ)
+    featured.articles.rated.title=સૌથી વધુ રેટેડ
+    featured.articles.updated.label=(તારીખ અપડેટ)
+    featured.articles.updated.title=તાજેતરમાં અપડેટ
+    featured.articles.viewed.label=(જોવાઈ)
+    featured.articles.viewed.title=સૌથી લોકપ્રિય
+    label.guide-subpage-display-single=એક
+    label.guide-subpage-display-tabbed=ટૅબ્ડ
+    label.guide.tabscrollleft=સ્ક્રોલ ટૅબ્સ બાકી
+    label.guide.tabscrollright=સ્ક્રોલ ટેબ્સ અધિકાર
+    label.reveal.showAll=બધા બતાવો
+    label.reveal.showLess=ઓછી બતાવો
+    label.search.placeholder=શોધ
+    type.how-to=કેવી રીતે કરવું
+    type.howto=કેવી રીતે કરવું
+    type.reference=સંદર્ભ
+    type.topic=વિષય
+    type.topic-category=કેટેગરી
+    type.topic-guide=માર્ગદર્શન
+    type.topic-portfolio=પોર્ટફોલિયો
+    type.unclassified=અવર્ગીકૃત
+
+[MindTouch.LearningPath]
+    label.view-pages=પૃષ્ઠો જુઓ
+    message.page-count=<span>પૃષ્ઠો:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=છુપાવો
+    button.toggle.show=બતાવો
+    label.attachments=જોડાણો શામેલ કરો
+    label.attachments-description=સામગ્રી પ્રકાર
+    label.attachments.type.binary=અન્ય
+    label.attachments.type.document=દસ્તાવેજ
+    label.attachments.type.image=છબી
+    label.classification=વર્ગીકરણ
+    label.clear-all=બધા ફિલ્ટર્સ સાફ કરો
+    label.description=ફિલ્ટર પરિણામો
+    label.filters=ફિલ્ટર્સ
+    label.location=સ્થાન
+    label.location-empty=દ્વારા ફિલ્ટર કરવા માટે કોઈ સ્થાનો નથી
+
+[MindTouch.Subscriptions]
+    cancel=રદ કરો
+    caption.normal=તમે નીચેના પૃષ્ઠો પર સબ્સ્ક્રાઇબ કર્યું છે.
+    caption.nosubscriptions=તમે કોઈપણ પૃષ્ઠો પર સબ્સ્ક્રાઇબ કરેલ નથી.
+    column.page=પૃષ્ઠ
+    column.recursive=માટે ઇમેઇલ સૂચનાઓ
+    link-title=માઇન્ડટચમાં સૂચનાઓનું સંચાલન કરવા વિશે વધુ જાણો
+    nonrecursive=ફક્ત આ પૃષ્ઠ
+    nonrecursive.draft=ફક્ત આ ડ્રાફ્ટ
+    recursive.many=$1 પૃષ્ઠો
+    recursive.many.draft=$1 ડ્રાફ્ટ્સ
+    recursive.many.overflow=બધા પેટાપૃષ્ઠો પર સબ્સ્ક્રાઇબ કર્યું
+    recursive.many.overflow.draft=બધા પેટાપૃષ્ઠ ડ્રાફ્ટ્સ માટે સબ્સ્ક્રાઇબ કર્યું
+    recursive.one=1 પાનું
+    recursive.one.draft=1 ડ્રાફ્ટ
+    unsubscribe=અનસબ્સ્ક્રાઇબ
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=સંદેશ બંધ કરો
+
+[Page.AuthenticationProviders]
+    page-title=સાઇન ઇન કરો
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">બધા સહાય વિષયો માટે success.mindtouch.com ની મુલાકાત લો. </a>
+
+[Page.Error]
+    not-found=પૃષ્ઠ મળ્યું નથી
+    not-found-error=માફ કરશો, $1 પરનું પૃષ્ઠ શોધી શકાયું નથી.
+    not-found-results=સંબંધિત શોધ પરિણામો:
+    page-title=ભૂલ
+
+[Page.FeedbackRating]
+    button.leave-feedback=પ્રતિસાદ છોડો
+    button.rating-no=ના
+    button.rating-yes=હા
+    button.submit-feedback=પ્રતિસાદ સબમિટ કરો
+    label.checkbox.contact-me=હા, તમે આ પ્રતિસાદ વિશે મને સંપર્ક કરી શકો છો.
+    label.feedback-question=અમે આ લેખ કેવી રીતે સુધારી શકીએ?
+    label.last-rated=- તમે છેલ્લે $1 પર આ લેખ રેટ કર્યો છે
+    label.rating-message=શું આ લેખ મદદરૂપ હતો?
+    legend.feedback-form=પ્રતિસાદ છોડો
+    message.contact.no=ના
+    message.contact.yes=હા
+    message.submit.error=તમારો પ્રતિસાદ મોકલવાનો પ્રયાસ કરતી વખતે ભૂલ આવી. કૃપા કરીને પછીના સમયે ફરીથી પ્રયાસ કરો.
+    message.submit.success=તમારો પ્રતિસાદ સફળતાપૂર્વક સબમિટ કરવામાં આવ્યો છે. તમે કોઈપણ સમયે વધુ પ્રતિસાદ સબમિટ કરી શકો છો.
+
+[Page.LiveTags]
+    label.article=લેખ પ્રકાર
+
+[Page.LoginPasswordRegister]
+    page-title=સાઇન ઇન કરો અને નોંધણી
+    tab.login=સાઇન ઇન કરો
+    tab.password=પાસવર્ડ રીસેટ
+    tab.register=નોંધણી
+
+[Page.Preferences]
+    error.invalid-email=કૃપા કરીને માન્ય ઇમેઇલ સરનામું સ્પષ્ટ કરો
+    form.email=ઇમેઇલ સરનામું
+    form.fullname=ડિસ્પ્લે નામ
+    form.fullname.help=ફક્ત પ્રદર્શન હેતુઓ માટે
+    form.hint.password-characters=પાસવર્ડમાં નીચેના અક્ષરોમાંથી ઓછામાં ઓછા 3 હોવા આવશ્યક છે: લોઅરકેસ, અપરકેસ, અંકો અથવા પ્રતીકો.
+    form.hint.password-length=પાસવર્ડ ઓછામાં ઓછા 8 અક્ષરોની લંબાઈમાં હોવો આવશ્યક છે
+    form.hint.password-match=પાસવર્ડ્સ મેળ ખાતા હોવા જોઈએ
+    form.hint.password.restricted-words=પાસવર્ડમાં સામાન્ય પાસવર્ડ શબ્દો શામેલ હોઈ શકતા નથી
+    form.legend.information=મારી માહિતી
+    form.legend.password=મારો પાસવર્ડ
+    form.password.new=નવો પાસવર્ડ
+    form.password.old=જૂનો પાસવર્ડ
+    form.password.submit=પાસવર્ડ બદલો
+    form.password.verify=નવો પાસવર્ડ ફરીથી લખો
+    form.submit=મારી માહિતી સાચવો
+
+[Page.Tags]
+    message.notags=આ પૃષ્ઠમાં કોઈ ટૅગ્સ નથી.
+    page-title=સાઇટ ટૅગ્સ
+    tags-inserted-from-template=નમૂના દ્વારા ભલામણ ટૅગ્સ:
+    tags-inserted-heading=પૃષ્ઠ ટૅગ્સ:
+
+[Page.UserLogin]
+    error=તમારું સાઇન ઇન નિષ્ફળ ગયું છે. કૃપા કરીને તમારું વપરાશકર્તા નામ અને પાસવર્ડ ચકાસો.
+    page-title=સાઇન ઇન કરો
+    submit-login=સાઇન ઇન કરો
+    user-name=વપરાશકર્તા નામ
+    user-password=પાસવર્ડ
+
+[Page.UserLogout]
+    page-title=સાઇન આઉટ કરો
+    success=તમે સફળતાપૂર્વક સાઇન આઉટ કર્યું છે.
+
+[Page.UserPassword]
+    form.submit=પાસવર્ડ રીસેટ
+    page-title=પાસવર્ડ રીસેટ
+    success.email-sent=પાસવર્ડ રીસેટ સૂચનાઓ આ એકાઉન્ટ માટે નોંધાયેલા ઈ-મેલ સરનામાં પર મોકલવામાં આવી છે. જો તમને કોઈ ઇમેઇલ પ્રાપ્ત થતો નથી, તો કૃપા કરીને તમારી જોડણી તપાસો અને ફરીથી પ્રયાસ કરો. જો તમને સાઇન ઇન કરવામાં સમસ્યા હોય તો તમારી સાઇટ એડમિનિસ્ટ્રેટરનો સંપર્ક કરો.
+
+[Page.UserRegistration]
+    error.email.match=તમે દાખલ કરેલા ઇમેઇલ્સ મેળ ખાતા નથી.
+    error.password.match=તમે દાખલ કરેલા પાસવર્ડ્સ મેળ ખાતા નથી.
+    form.email=ઇમેઇલ
+    form.email.verify=ઇમેઇલ ચકાસો
+    form.fullname=પૂર્ણ નામ <span class="note">(વૈકલ્પિક)</span>
+    form.password=પાસવર્ડ
+    form.password.verify=પાસવર્ડ ચકાસો
+    form.submit=એક એકાઉન્ટ બનાવો
+    form.username=વપરાશકર્તા નામ
+    page-title=એક એકાઉન્ટ બનાવો
+    success.created=વપરાશકર્તા <strong>$1</strong> બનાવવામાં આવ્યું છે.
+
+[Page.Welcome]
+    community-banner-text=હવે તમે સામગ્રીનું યોગદાન અને શેર કરી શકો છો.
+    community-banner-title=સ્વાગત છે, $1. તમારું એકાઉન્ટ બનાવવામાં આવ્યું છે.
+    community-get-started-text=<strong>પ્રારંભ કરવામાં તમારી સહાય માટે અહીં કેટલીક ટીપ્સ છે:</strong>
+    community-tip1-text=સાઇટની સામગ્રી વિશે મૂલ્યવાન પ્રતિસાદ સાથે સાઇટ માલિકોને પ્રદાન કરો. શું લેખ મદદરૂપ હતો? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">હા</span>પર ક્લિક કરો. જો નહીં, તો <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">પ્રતિક્રિયા છોડો</span> પર ક્લિક કરો અમને જણાવો કે અમે કેવી રીતે સુધારી શકીએ. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">વધુ જાણો</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=પૃષ્ઠ પર ટિપ્પણી કરીને વાતચીત શરૂ કરો. તમારી પોતાની માહિતીનું યોગદાન આપો અથવા અન્ય વપરાશકર્તાની ટિપ્પણીઓનો જવાબ આપો. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">વધુ જાણો</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=પાસવર્ડ રીસેટ
+
+[Product]
+    powered-by-site=માઇન્ડટચ દ્વારા સંચાલિત
+
+[Skin.Columbia]
+    button.quick-login=સાઇન ઇન કરો
+    header.recommended-articles=ભલામણ કરેલ લેખો
+    header.toc=સામગ્રીઓનું કોષ્ટક
+    label.back-to-top=ટોચ પર પાછા
+    label.global-location-toggle=વૈશ્વિક સ્થાન વિસ્તૃત/પતન
+    label.global-navigation-toggle=વિસ્તૃત/વૈશ્વિક પદાનુક્રમ પતન
+    label.last-updated=છેલ્લે અપડેટ
+    label.last-updated-by=દ્વારા
+    label.no-recommended-articles=ત્યાં કોઈ ભલામણ કરેલ લેખો નથી.
+    label.password=પાસવર્ડ
+    label.pdf-export=પીડીએફ તરીકે સાચવો
+    label.signout=સાઇન આઉટ કરો
+    label.site-search.button=શોધ
+    label.site-search.input=શોધ
+    label.skip-link=મુખ્ય સામગ્રી પર જાઓ
+    label.tags=ટૅગ્સ
+    label.user-preferences=મારી પસંદગીઓ
+    label.username=વપરાશકર્તા નામ
+    link.quick-login=સાઇન ઇન કરો
+    link.site-search=શોધ સાઇટ
+    placeholder.site-search.input=અમે તમને કેવી રીતે મદદ કરી શકીએ?
+    tooltip.back-to-top=આ લેખની ટોચ પર પાછા આવો
+    tooltip.browse-back=પાછલા લેખ પર પાછા જાઓ
+    tooltip.pdf-export=પીડીએફ તરીકે પૃષ્ઠ નિકાસ કરો
+    tooltip.signout=આ સાઇટમાંથી સાઇન આઉટ કરવા માટે ક્લિક કરો
+    tooltip.skip-link=મુખ્ય સામગ્રી પર જવા માટે enter દબાવો
+    tooltip.user-preferences=તમારી વપરાશકર્તા પસંદગીઓ બદલવા માટે ક્લિક કરો
+
+[Skin.Common]
+    copyright=કૉપિરાઇટ
+    home=હોમ
+
+[System.API]
+    no-headers=કોઈ હેડરો
+    opensearch-shortname=$1 શોધ
+
+[Users]
+    email.body.html.content=<p>અભિનંદન, <br/><br/>\ r\ n\ r\ nતમારી પાસે હવે $4 પર એકાઉન્ટ છે. <br/><br/>અન્ય સમુદાયના સભ્યો સાથે તરત જ સહયોગ શરૂ કરવા માટે સાઇન ઇન કરો. નીચે તમારી સાઇટ ઍક્સેસ વિગતો છે:<br/><br/>\ r\ n\ r\ nસાઇટ URL: <a href="$2">$2</a><br/>\ r\ nવપરાશકર્તા નામ: $1<br/>પાસવર્ડ: $3<br/><br/>\ r\ n\ r\ nજો તમને પ્રારંભ કરવામાં સહાયની જરૂર હોય અથવા <a href="$2">$4</a>વિશે ચોક્કસ પ્રશ્નો હોય, તો કૃપા કરીને સાઇટ સંચાલકનો સંપર્ક કરો. </p>
+    email.body.html.content.nopassword=<p>અભિનંદન, <br/><br/>\ r\ n\ r\ nતમારી પાસે હવે $3 પર એકાઉન્ટ છે. <br/><br/>અન્ય સમુદાયના સભ્યો સાથે તરત જ સહયોગ શરૂ કરવા માટે સાઇન ઇન કરો. નીચે તમારી સાઇટ ઍક્સેસ વિગતો છે:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nવપરાશકર્તા નામ: $1<em>સાઇટ સંચાલકનો<br/><br/>સંપર્ક કરો જો તમને તમારો પાસવર્ડ ખબર નથી. </em><br/><br/>\ r\ n\ r\ nજો તમને પ્રારંભ કરવામાં સહાયની જરૂર હોય અથવા <a href="$2">$3</a>વિશે ચોક્કસ પ્રશ્નો હોય, તો કૃપા કરીને સાઇટ સંચાલકનો સંપર્ક કરો. </p>
+    email.body.text=\ r\ nઅભિનંદન,\ r\ n\ r\ nતમારી પાસે હવે $4 પર એકાઉન્ટ છે. અન્ય સમુદાયના સભ્યો સાથે તરત જ સહયોગ શરૂ કરવા માટે સાઇન ઇન કરો. નીચે તમારી સાઇટ ઍક્સેસ વિગતો છે:\ r\ n\ r\ nસાઇટ URL: $2\ r\ nવપરાશકર્તા નામ: $1\ r\ nપાસવર્ડ: $3\ r\ n\ r\ nજો તમને પ્રારંભ કરવામાં સહાયની જરૂર હોય અથવા $4 વિશે ચોક્કસ પ્રશ્નો હોય, તો કૃપા કરીને સાઇટ સંચાલકનો સંપર્ક કરો.
+    email.body.text.nopassword=\ r\ nઅભિનંદન,\ r\ n\ r\ nતમારી પાસે હવે $3 પર એકાઉન્ટ છે. અન્ય સમુદાયના સભ્યો સાથે તરત જ સહયોગ શરૂ કરવા માટે સાઇન ઇન કરો. નીચે તમારી સાઇટ ઍક્સેસ વિગતો છે:\ r\ n\ r\ nસાઇટ URL: $2\ r\ nવપરાશકર્તા નામ: $1\ r\ nજો તમને તમારો પાસવર્ડ ખબર ન હોય તો સાઇટ સંચાલકનો સંપર્ક કરો. \ r\ n\ r\ nજો તમને પ્રારંભ કરવામાં સહાયની જરૂર હોય અથવા $3 વિશે ચોક્કસ પ્રશ્નો હોય, તો કૃપા કરીને સાઇટ સંચાલકનો સંપર્ક કરો.
+    email.external.body.html.content=<p>અભિનંદન, <br/><br/>\ r\ n\ r\ nતમારી પાસે હવે $3 પર એકાઉન્ટ છે. <br/><br/>અન્ય સમુદાયના સભ્યો સાથે તરત જ સહયોગ શરૂ કરવા માટે સાઇન ઇન કરો. નીચે તમારી સાઇટ ઍક્સેસ વિગતો છે:<br/><br/>\ r\ n\ r\ nસાઇટ URL: <a href="$2">$2</a><br/>\ r\ nવપરાશકર્તા નામ: $1<br/><br/>\ r\ n\ r\ nજો તમને પ્રારંભ કરવામાં સહાયની જરૂર હોય અથવા <a href="$2">$3</a>વિશે ચોક્કસ પ્રશ્નો હોય, તો કૃપા કરીને સાઇટ સંચાલકનો સંપર્ક કરો. </p>
+    email.subject=$1 વિગતો સાઇન ઇન કરો
+    form.password.instructions=પાસવર્ડ્સ ઓછામાં ઓછા 8 અક્ષરોની લંબાઈમાં હોવા જોઈએ અને તેમાં નીચેના અક્ષરોમાંથી ઓછામાં ઓછા 3 હોવા જોઈએ: લોઅરકેસ, અપરકેસ, અંકો અથવા પ્રતીકો.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=વિનંતી કરેલ માઇન્ડટચ ટચપોઇન્ટ તમારા વેબ બ્રાઉઝર દ્વારા લોડ કરી શકાયું નથી.
+    label.back-to-top=ટોચ પર પાછા
+
+[WebWidget.F1]
+    label.help-button=મદદ
+    title.help-button=મદદ
+
+[WebWidget.Login]
+    label.authenticated-user={{વપરાશકર્તા નામ}} તરીકે MindTouch માં સાઇન ઇન કર્યું
+    label.sign-in=માઇન્ડટચમાં સાઇન ઇન કરો
+
+[WebWidget.Search]
+    label.collapse-summary=સારાંશ પતન માટે ક્લિક કરો
+    label.disabled-message=કૃપા કરીને પછીથી ફરીથી પ્રયાસ કરો.
+    label.disabled-title=માફ કરશો, search હાલમાં ઉપલબ્ધ નથી.
+    label.expand-summary=સારાંશ વિસ્તૃત કરવા માટે ક્લિક કરો
+    label.forbidden-message=કૃપા કરીને લૉગ ઇન કરો અથવા તમારી સાઇટ એડમિનિસ્ટ્રેટરનો સંપર્ક કરો.
+    label.forbidden-title=તમારી પાસે આ સુવિધાનો ઉપયોગ કરવાની પરવાનગી નથી.
+    label.input-hint=શોધ
+    label.no-results-faceting-message=કંઈક બીજું શોધવાનો પ્રયાસ કરો અથવા કેટેગરી પસંદ કરો.
+    label.no-results-message=કંઈક બીજું શોધવાનો પ્રયાસ કરો.
+    label.no-results-title=માફ કરશો, તમે જે શોધી રહ્યા છો તે અમે શોધી શકતા નથી.
+    label.recommended=ભલામણ
+    label.refine-search=રિફાઇન શોધ
+    label.show-more=વધુ બતાવો
+
+[WebWidgets]
+    label.authenticated-user=હેલો, {{વપરાશકર્તા નામ}}!
+    label.nav.back=પાછા
+    label.nav.forward=આગળ
+    label.nav.home=હોમ
+
+[Component.Translate]
+    label.choose-language=ભાષા પસંદ કરો
+    label.english=અંગ્રેજી
+    label.update-failed=અનુવાદ અપૂર્ણ
+    language.spanish=સ્પેનોલ
+    language.german=ડ્યુઇશ
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=ફ્રાન્સીસ
+    language.portuguese=પોર્ટુગીઝ
+    language.dutch=નેડરલેન્ડ્સ
+    language.korean=한국어
+    language.swedish=સ્વેન્સ્કા
+    language.danish=ડાન્સ્ક
+    language.finnish=સુમોલેનિન
+    language.italian=ઇટાલિયન
+    title.translated-machine=મશીન અનુવાદનો ઉપયોગ કરીને અનુવાદિત પૃષ્ઠ સામગ્રી
+    dialog.translated-mindtouch=માઇન્ડટચ દ્વારા અનુવાદિત
