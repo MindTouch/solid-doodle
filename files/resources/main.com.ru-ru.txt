@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=Поиск
+    New.word=снова новое Слово
+    extra=Тестирование в подвешенном обновлении
+
+[F1]
+    dialog.text.back=Назад
+    dialog.text.forward=Вперед
+    dialog.text.hint=поиск
+    dialog.text.home=Главная
+    dialog.text.open=Открытая статья
+
+[MindTouch.Help.Page]
+    category-selector=Уточнить результаты, выбрав фильтр.
+    help-header-label=Результаты справки для
+    in=в
+    label-filter=Поиск в
+    label-result-count=О результатах {0}
+    label-search-all=Все результаты
+    label.page-rating-no=Нет
+    label.page-rating-yes=Да
+    more=Больше
+    no-search-results=К сожалению, мы не можем найти то, что вы ищете.
+    no-search-try=Попробуйте найти что-то другое, выбрать категорию или создать тикет.
+    recommended=(рекомендуется)
+    search-error=При поиске произошла ошибка.
+    search-error-try=Повторите попытку позже.
+    search-unavailable=Извините, поиск в настоящее время недоступен.
+    show-more-search=Показать больше результатов
+    tooltip.scrollNext=Прокрутите до следующего
+    tooltip.scrollPrev=Прокрутите до предыдущего
+    warning.search-only-english=Поиск доступен только на английском языке
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(дата создания)
+    featured.articles.created.title=Недавно добавленные
+    featured.articles.rated.label=(рейтинг)
+    featured.articles.rated.title=Наивысший рейтинг
+    featured.articles.updated.label=(дата обновления)
+    featured.articles.updated.title=Недавно обновленные
+    featured.articles.viewed.label=(просмотров)
+    featured.articles.viewed.title=Самые популярные
+    label.guide-subpage-display-single=Одноместный
+    label.guide-subpage-display-tabbed=С вкладками
+    label.guide.tabscrollleft=Прокрутка вкладок влево
+    label.guide.tabscrollright=Прокрутка вкладок вправо
+    label.reveal.showAll=Показать все
+    label.reveal.showLess=Показать меньше
+    label.search.placeholder=Поиск
+    type.how-to=Практическое руководство
+    type.howto=Практическое руководство
+    type.reference=Справочник
+    type.topic=тема
+    type.topic-category=категория
+    type.topic-guide=Гид
+    type.topic-portfolio=Портфолио
+    type.unclassified=Неклассифицированный
+
+[MindTouch.LearningPath]
+    label.view-pages=Просмотр страниц
+    message.page-count=<span>Страницы:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Скрыть
+    button.toggle.show=Показать
+    label.attachments=Включить вложения
+    label.attachments-description=Тип контента
+    label.attachments.type.binary=Другой
+    label.attachments.type.document=Документ
+    label.attachments.type.image=Изображение
+    label.classification=классификация
+    label.clear-all=Очистить все фильтры
+    label.description=Результаты фильтрации
+    label.filters=Фильтры
+    label.location=Местоположение
+    label.location-empty=Отсутствуют места для фильтрации
+
+[MindTouch.Subscriptions]
+    cancel=Отмена
+    caption.normal=Вы подписаны на следующие страницы.
+    caption.nosubscriptions=Вы не подписаны ни на какие страницы.
+    column.page=Страница
+    column.recursive=Уведомления по электронной почте
+    link-title=Подробнее об управлении уведомлениями в MindTouch
+    nonrecursive=Только на этой странице
+    nonrecursive.draft=Только этот черновик
+    recursive.many=Страницы $1
+    recursive.many.draft=Черновики $1
+    recursive.many.overflow=Подписка на все подстраницы
+    recursive.many.overflow.draft=Подписка на все черновики подстраниц
+    recursive.one=1 страница
+    recursive.one.draft=1 черновик
+    unsubscribe=Отменить подписку
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Закрыть сообщение
+
+[Page.AuthenticationProviders]
+    page-title=Войти
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Посетите success.mindtouch.com для получения всех тем справки. </a>
+
+[Page.Error]
+    not-found=Страница не найдена
+    not-found-error=Извините, страница за 1 доллар не найдена.
+    not-found-results=Результаты поиска по теме:
+    page-title=Ошибка
+
+[Page.FeedbackRating]
+    button.leave-feedback=Оставьте отзыв
+    button.rating-no=Нет
+    button.rating-yes=Да
+    button.submit-feedback=Отправить отзыв
+    label.checkbox.contact-me=Да, вы можете связаться со мной по поводу этого отзыва.
+    label.feedback-question=Как мы можем улучшить эту статью?
+    label.last-rated=— Последний раз вы оценили эту статью на $1
+    label.rating-message=Эта статья была полезна?
+    legend.feedback-form=Оставьте отзыв
+    message.contact.no=Нет
+    message.contact.yes=Да
+    message.submit.error=Ошибка при попытке отправить отзыв. Повторите попытку позже.
+    message.submit.success=Ваш отзыв успешно отправлен. Вы можете отправить больше отзывов в любое время.
+
+[Page.LiveTags]
+    label.article=Тип статьи
+
+[Page.LoginPasswordRegister]
+    page-title=Войти и зарегистрироваться
+    tab.login=Войти
+    tab.password=Сброс пароля
+    tab.register=регистрация
+
+[Page.Preferences]
+    error.invalid-email=Укажите действительный адрес электронной почты
+    form.email=Адрес электронной почты
+    form.fullname=Отображаемое имя
+    form.fullname.help=Только для демонстрации
+    form.hint.password-characters=Пароль должен содержать не менее 3 из следующих символов: строчные, прописные, цифры или символы.
+    form.hint.password-length=Пароль должен содержать не менее 8 символов
+    form.hint.password-match=Пароли должны совпадать
+    form.hint.password.restricted-words=Пароль не может содержать общие слова для паролей
+    form.legend.information=Моя информация
+    form.legend.password=Мой пароль
+    form.password.new=Новый пароль
+    form.password.old=Старый пароль
+    form.password.submit=Смена пароля
+    form.password.verify=Повторно введите новый пароль
+    form.submit=Сохраните мою информацию
+
+[Page.Tags]
+    message.notags=На этой странице нет тегов.
+    page-title=Теги сайта
+    tags-inserted-from-template=Теги, рекомендованные шаблоном:
+    tags-inserted-heading=Теги страницы:
+
+[Page.UserLogin]
+    error=Ваш вход не выполнен. Пожалуйста, подтвердите свое имя пользователя и пароль.
+    page-title=Войти
+    submit-login=Войти
+    user-name=Имя пользователя
+    user-password=пароль
+
+[Page.UserLogout]
+    page-title=Выйти
+    success=Вы успешно вышли из договора.
+
+[Page.UserPassword]
+    form.submit=Сброс пароля
+    page-title=Сброс пароля
+    success.email-sent=Инструкции по сбросу пароля были отправлены на адрес электронной почты, зарегистрированный для этой учетной записи. Если вы не получили электронное письмо, проверьте правописание и повторите попытку. Обратитесь к администратору сайта, если у вас по-прежнему возникают проблемы со входом в систему.
+
+[Page.UserRegistration]
+    error.email.match=Введенные вами электронные письма не совпадают.
+    error.password.match=Введенные пароли не совпадают.
+    form.email=электронная почта
+    form.email.verify=Проверка электронной почты
+    form.fullname=Полное имя <span class="note">(необязательно)</span>
+    form.password=пароль
+    form.password.verify=Подтвердить пароль
+    form.submit=Создайте аккаунт
+    form.username=Имя пользователя
+    page-title=Создайте аккаунт
+    success.created=Пользователь <strong>$1</strong> создан.
+
+[Page.Welcome]
+    community-banner-text=Теперь вы можете публиковать материалы и делиться ими.
+    community-banner-title=Добро пожаловать, $1. Ваша учетная запись создана.
+    community-get-started-text=<strong>Вот несколько советов, которые помогут вам начать работу:</strong>
+    community-tip1-text=Предоставлять владельцам сайтов ценные отзывы о содержании сайта. Статья была полезна? Нажмите «<span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Да»</span>. Если нет, нажмите <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Оставить отзыв</span>, чтобы рассказать нам, как мы можем улучшить ситуацию. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Подробнее</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Начните разговор, комментируя страницу. Вносите свою собственную информацию или ответьте на комментарии других пользователей. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Подробнее</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Сброс пароля
+
+[Product]
+    powered-by-site=Питание от MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Войти
+    header.recommended-articles=Рекомендуемые статьи
+    header.toc=оглавление
+    label.back-to-top=Назад к началу
+    label.global-location-toggle=Расширять/свернуть глобальное местоположение
+    label.global-navigation-toggle=Расширять/свернуть глобальную иерархию
+    label.last-updated=Последнее обновление
+    label.last-updated-by=от
+    label.no-recommended-articles=Рекомендуемых статей нет.
+    label.password=пароль
+    label.pdf-export=Сохранить как PDF
+    label.signout=Выйти
+    label.site-search.button=Поиск
+    label.site-search.input=Поиск
+    label.skip-link=Перейти к основному контенту
+    label.tags=Метки
+    label.user-preferences=Мои предпочтения
+    label.username=Имя пользователя
+    link.quick-login=Войти
+    link.site-search=Поиск по сайту
+    placeholder.site-search.input=Чем мы можем вам помочь?
+    tooltip.back-to-top=Вернитесь к началу этой статьи
+    tooltip.browse-back=Вернуться к предыдущей статье
+    tooltip.pdf-export=Экспортировать страницу в формате PDF
+    tooltip.signout=Нажмите, чтобы выйти из этого сайта
+    tooltip.skip-link=Нажмите enter, чтобы перейти к основному содержимому
+    tooltip.user-preferences=Нажмите, чтобы изменить настройки пользователя
+
+[Skin.Common]
+    copyright=авторское
+    home=Главная
+
+[System.API]
+    no-headers=Без заголовков
+    opensearch-shortname=$1 Поиск
+
+[Users]
+    email.body.html.content=<p>Поздравляю,<br/><br/>\ r\ n\ r\ nТеперь у вас есть счет на $4. <br/><br/>Войдите в систему, чтобы мгновенно начать сотрудничество с другими участниками сообщества. Ниже приведены сведения о доступе к сайту:<br/><br/>\ r\ n\ r\ nURL-адрес сайта: <a href="$2">$2</a><br/>\ r\ nИмя пользователя: $1<br/> Пароль: $3<br/><br/>\ r\ n\ r\ nЕсли вам нужна помощь в начале работы или у вас есть конкретные вопросы о <a href="$2">$4</a>, обратитесь к администратору сайта. </p>
+    email.body.html.content.nopassword=<p>Поздравляю,<br/><br/>\ r\ n\ r\ nТеперь у вас есть счет за 3 доллара. <br/><br/>Войдите в систему, чтобы мгновенно начать сотрудничество с другими участниками сообщества. Ниже приведены сведения о доступе к сайту:<br/><br/>\ r\ n\ r\ nURL-адрес сайта: <a href="$2">$2</a><br/>\ r\ nИмя пользователя: $1<br/><br/> <em>Обратитесь к администратору сайта, если вы не знаете свой пароль. </em><br/><br/>\ r\ n\ r\ nЕсли вам нужна помощь в начале работы или у вас есть конкретные вопросы о <a href="$2">$3</a>, обратитесь к администратору сайта. </p>
+    email.body.text=\ r\ nПоздравляю,\ r\ n\ r\ nТеперь у вас есть счет на $4. Войдите в систему, чтобы мгновенно начать сотрудничество с другими участниками сообщества. Ниже приведены сведения о доступе к сайту:\ r\ n\ r\ nURL-адрес сайта: $2\ r\ nИмя пользователя: $1\ r\ nПароль: $3\ r\ n\ r\ nЕсли вам нужна помощь в начале работы или у вас есть конкретные вопросы о $4, обратитесь к администратору сайта.
+    email.body.text.nopassword=\ r\ nПоздравляю,\ r\ n\ r\ nТеперь у вас есть счет за 3 доллара. Войдите в систему, чтобы мгновенно начать сотрудничество с другими участниками сообщества. Ниже приведены сведения о доступе к сайту:\ r\ n\ r\ nURL-адрес сайта: $2\ r\ nИмя пользователя: $1\ r\ nОбратитесь к администратору сайта, если вы не знаете свой пароль. \ r\ n\ r\ nЕсли вам нужна помощь в начале работы или у вас есть конкретные вопросы о $3, обратитесь к администратору сайта.
+    email.external.body.html.content=<p>Поздравляю,<br/><br/>\ r\ n\ r\ nТеперь у вас есть счет за 3 доллара. <br/><br/>Войдите в систему, чтобы мгновенно начать сотрудничество с другими участниками сообщества. Ниже приведены сведения о доступе к сайту:<br/><br/>\ r\ n\ r\ nURL-адрес сайта: <a href="$2">$2</a><br/>\ r\ nИмя пользователя: $1<br/><br/>\ r\ n\ r\ nЕсли вам нужна помощь в начале работы или у вас есть конкретные вопросы о <a href="$2">$3</a>, обратитесь к администратору сайта. </p>
+    email.subject=$1 Сведения для входа
+    form.password.instructions=Пароли должны иметь длину не менее 8 символов и содержать не менее 3 из следующих символов: строчные, прописные, цифры или символы.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Запрошенный MindTouch Touchpoint не может быть загружен веб-браузером.
+    label.back-to-top=Назад к началу
+
+[WebWidget.F1]
+    label.help-button=Помощь
+    title.help-button=Помощь
+
+[WebWidget.Login]
+    label.authenticated-user=Вшел в MindTouch как {{username}}
+    label.sign-in=Войдите в MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Нажмите, чтобы свернуть сводку
+    label.disabled-message=Повторите попытку позже.
+    label.disabled-title=Извините, поиск в настоящее время недоступен.
+    label.expand-summary=Нажмите, чтобы развернуть сводку
+    label.forbidden-message=Войдите в систему или обратитесь к администратору сайта.
+    label.forbidden-title=У вас нет разрешения на использование этой функции.
+    label.input-hint=Поиск
+    label.no-results-faceting-message=Попробуйте найти что-то другое или выбрать категорию.
+    label.no-results-message=Попробуйте найти что-то еще.
+    label.no-results-title=К сожалению, мы не можем найти то, что вы ищете.
+    label.recommended=Рекомендованный
+    label.refine-search=Уточнить поиск
+    label.show-more=Показать больше
+
+[WebWidgets]
+    label.authenticated-user=Привет, {{username}}!
+    label.nav.back=Назад
+    label.nav.forward=Вперед
+    label.nav.home=Главная
+
+[Component.Translate]
+    label.choose-language=Выберите язык
+    label.english=английский
+    label.update-failed=Неполный перевод
+    language.spanish=Испания
+    language.german=Дойч
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=Франсе
+    language.portuguese=португальский
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=свенска
+    language.danish=данск
+    language.finnish=Суомалайнен
+    language.italian=итальяно
+    title.translated-machine=Содержание страницы, переведенное с помощью машинного перевода
+    dialog.translated-mindtouch=Перевод MindTouch
