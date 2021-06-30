@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=തിരയുക
+    New.word=പുതിയ വാക്ക് വീണ്ടും
+    extra=ലിംബോ അപ്ഡേറ്റിൽ പരിശോധന
+
+[F1]
+    dialog.text.back=തിരികെ
+    dialog.text.forward=മുന്നോട്ട്
+    dialog.text.hint=തിരയുക
+    dialog.text.home=വീട്
+    dialog.text.open=ലേഖനം തുറക്കുക
+
+[MindTouch.Help.Page]
+    category-selector=ഒരു ഫിൽട്ടർ തിരഞ്ഞെടുത്ത് ഫലങ്ങൾ പരിഷ്കരിക്കുക.
+    help-header-label=ഫലങ്ങൾ സഹായിക്കുക
+    in=in
+    label-filter=തിരയുന്നു
+    label-result-count=കുറിച്ച് {0} ഫലങ്ങൾ
+    label-search-all=എല്ലാ ഫലങ്ങളും
+    label.page-rating-no=ഇല്ല
+    label.page-rating-yes=അതെ
+    more=കൂടുതൽ
+    no-search-results=ക്ഷമിക്കണം, നിങ്ങൾ തിരയുന്നത് ഞങ്ങൾക്ക് കണ്ടെത്താൻ കഴിയില്ല.
+    no-search-try=മറ്റെന്തെങ്കിലും തിരയാൻ ശ്രമിക്കുക, ഒരു വിഭാഗം തിരഞ്ഞെടുത്ത്, അല്ലെങ്കിൽ ഒരു ടിക്കറ്റ് സൃഷ്ടിക്കാൻ ശ്രമിക്കുക.
+    recommended=(ശുപാർശ)
+    search-error=തിരയൽ ഒരു പിശക് നേരിട്ടു.
+    search-error-try=പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
+    search-unavailable=ക്ഷമിക്കണം, തിരയൽ നിലവിൽ ലഭ്യമല്ല.
+    show-more-search=കൂടുതൽ ഫലങ്ങൾ കാണിക്കുക
+    tooltip.scrollNext=അടുത്തതായി സ്ക്രോൾ ചെയ്യുക
+    tooltip.scrollPrev=മുമ്പത്തെ സ്ക്രോൾ
+    warning.search-only-english=തിരയൽ ഇംഗ്ലീഷിൽ മാത്രമേ ലഭ്യമാകൂ
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(തീയതി സൃഷ്ടിച്ചു)
+    featured.articles.created.title=അടുത്തിടെ ചേർത്തു
+    featured.articles.rated.label=(റേറ്റിംഗ്)
+    featured.articles.rated.title=ഉയർന്ന റേറ്റുചെയ്തത്
+    featured.articles.updated.label=(തീയതി അപ്ഡേറ്റ്)
+    featured.articles.updated.title=അടുത്തിടെ അപ്ഡേറ്റ്
+    featured.articles.viewed.label=(കാഴ്ചകൾ)
+    featured.articles.viewed.title=ഏറ്റവും ജനപ്രിയമായത്
+    label.guide-subpage-display-single=സിംഗിൾ
+    label.guide-subpage-display-tabbed=ഏകതാനം
+    label.guide.tabscrollleft=ഇടത് ടാബുകൾ സ്ക്രോൾ ചെയ്യുക
+    label.guide.tabscrollright=സ്ക്രോൾ ടാബുകൾ വലത്
+    label.reveal.showAll=എല്ലാം കാണിക്കുക
+    label.reveal.showLess=കുറച്ച് കാണിക്കുക
+    label.search.placeholder=തിരയുക
+    type.how-to=എങ്ങനെ-ടു
+    type.howto=എങ്ങനെ-ടു
+    type.reference=റഫറൻസ്
+    type.topic=വിഷയം
+    type.topic-category=വിഭാഗം
+    type.topic-guide=ഗൈഡ്
+    type.topic-portfolio=പോർട്ട്ഫോളിയ
+    type.unclassified=തരംതിരിക്കാത്ത
+
+[MindTouch.LearningPath]
+    label.view-pages=പേജുകൾ കാണുക
+    message.page-count=<span>പേജുകൾ:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=മറയ്ക്കുക
+    button.toggle.show=കാണിക്കുക
+    label.attachments=അറ്റാച്ചുമെന്റുകൾ ഉൾപ്പെടുത്തുക
+    label.attachments-description=ഉള്ളടക്ക തരം
+    label.attachments.type.binary=മറ്റുള്ളവ
+    label.attachments.type.document=പ്രമാണം
+    label.attachments.type.image=ചിത്രം
+    label.classification=വർഗ്ഗീകരണം
+    label.clear-all=എല്ലാ ഫിൽട്ടറുകളും മായ്ക്കുക
+    label.description=ഫിൽറ്റർ ഫലങ്ങൾ
+    label.filters=ഫിൽട്ടറുകൾ
+    label.location=ലൊക്കേഷൻ
+    label.location-empty=ഫിൽട്ടർ ചെയ്യാൻ ലൊക്കേഷനുകൾ ഒന്നുമില്ല
+
+[MindTouch.Subscriptions]
+    cancel=റദ്ദാക്കുക
+    caption.normal=നിങ്ങൾ ഇനിപ്പറയുന്ന പേജുകളിൽ സബ്സ്ക്രൈബുചെയ്തു.
+    caption.nosubscriptions=നിങ്ങൾ ഏതെങ്കിലും പേജുകൾ സബ്സ്ക്രൈബ് ചെയ്തിട്ടില്ല.
+    column.page=പേജ്
+    column.recursive=ഇമെയിൽ അറിയിപ്പുകൾ
+    link-title=മൈൻഡ്ടച്ചിൽ അറിയിപ്പുകൾ മാനേജ് ചെയ്യുന്നതിനെക്കുറിച്ച് കൂടുതലറിയുക
+    nonrecursive=ഈ താൾ മാത്രം
+    nonrecursive.draft=ഈ കരട് മാത്രം
+    recursive.many=$1 പേജുകൾ
+    recursive.many.draft=$1 ഡ്രാഫ്റ്റുകൾ
+    recursive.many.overflow=എല്ലാ ഉപപേജുകളിലും സബ്സ്ക്രൈബുചെയ്തു
+    recursive.many.overflow.draft=എല്ലാ ഉപപേജ് ഡ്രാഫ്റ്റുകളിലേക്കും സബ്സ്ക്രൈബുചെയ്തു
+    recursive.one=1 പേജ്
+    recursive.one.draft=1 ഡ്രാഫ്റ്റ്
+    unsubscribe=അൺസബ്സ്ക്രൈബ്
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=സന്ദേശം അടയ്ക്കുക
+
+[Page.AuthenticationProviders]
+    page-title=സൈൻ ഇൻ
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">എല്ലാ സഹായ വിഷയങ്ങൾക്കും success.mindtouch.com സന്ദർശിക്കുക. </a>
+
+[Page.Error]
+    not-found=പേജ് കണ്ടെത്തിയില്ല
+    not-found-error=ക്ഷമിക്കണം, $1 ലെ പേജ് കണ്ടെത്താൻ കഴിഞ്ഞില്ല.
+    not-found-results=ബന്ധപ്പെട്ട തിരയൽ ഫലങ്ങൾ:
+    page-title=പിശക്
+
+[Page.FeedbackRating]
+    button.leave-feedback=ഫീഡ്ബാക്ക് വിടുക
+    button.rating-no=ഇല്ല
+    button.rating-yes=അതെ
+    button.submit-feedback=ഫീഡ്ബാക്ക് സമർപ്പിക്കുക
+    label.checkbox.contact-me=അതെ, ഈ ഫീഡ്ബാക്കിനെക്കുറിച്ച് നിങ്ങൾക്ക് എന്നെ ബന്ധപ്പെടാം.
+    label.feedback-question=നമുക്ക് എങ്ങനെ ഈ ലേഖനം മെച്ചപ്പെടുത്താൻ കഴിയും?
+    label.last-rated=- നിങ്ങൾ അവസാനം ഈ ലേഖനം റേറ്റ് $1
+    label.rating-message=ഈ ലേഖനം സഹായകരമായിരുന്നോ?
+    legend.feedback-form=ഫീഡ്ബാക്ക് വിടുക
+    message.contact.no=ഇല്ല
+    message.contact.yes=അതെ
+    message.submit.error=നിങ്ങളുടെ ഫീഡ്ബാക്ക് അയയ്ക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു. പിന്നീടുള്ള സമയത്ത് വീണ്ടും ശ്രമിക്കുക.
+    message.submit.success=നിങ്ങളുടെ ഫീഡ്ബാക്ക് വിജയകരമായി സമർപ്പിച്ചു. നിങ്ങൾക്ക് എപ്പോൾ വേണമെങ്കിലും കൂടുതൽ ഫീഡ്ബാക്ക് സമർപ്പിക്കാം.
+
+[Page.LiveTags]
+    label.article=ലേഖന തരം
+
+[Page.LoginPasswordRegister]
+    page-title=സൈൻ ഇൻ ചെയ്ത് രജിസ്ട്രേഷൻ
+    tab.login=സൈൻ ഇൻ
+    tab.password=പാസ്വേഡ് റീസെറ്റ്
+    tab.register=രജിസ്ട്രേഷൻ
+
+[Page.Preferences]
+    error.invalid-email=സാധുവായ ഒരു ഇമെയിൽ വിലാസം വ്യക്തമാക്കുക
+    form.email=ഇമെയിൽ വിലാസം
+    form.fullname=പേര് പ്രദർശിപ്പിക്കുക
+    form.fullname.help=ഡിസ്പ്ലേ ആവശ്യങ്ങൾക്കായി മാത്രം
+    form.hint.password-characters=പാസ്വേഡിൽ ഇനിപ്പറയുന്ന പ്രതീകങ്ങളിൽ കുറഞ്ഞത് 3 ഉണ്ടായിരിക്കണം: ചെറിയക്ഷരം, വലിയക്ഷരം, അക്കങ്ങൾ അല്ലെങ്കിൽ ചിഹ്നങ്ങൾ.
+    form.hint.password-length=പാസ്വേഡ് കുറഞ്ഞത് 8 പ്രതീകങ്ങൾ ആയിരിക്കണം
+    form.hint.password-match=പാസ്വേഡുകൾ പൊരുത്തപ്പെടണം
+    form.hint.password.restricted-words=പാസ്വേഡ് സാധാരണ പാസ്വേഡ് വാക്കുകൾ ഉൾക്കൊള്ളാൻ കഴിയില്ല
+    form.legend.information=എന്റെ വിവരങ്ങൾ
+    form.legend.password=എന്റെ പാസ്വേഡ്
+    form.password.new=പുതിയ പാസ്വേഡ്
+    form.password.old=പഴയ പാസ്വേഡ്
+    form.password.submit=പാസ്വേഡ് മാറ്റുക
+    form.password.verify=പുതിയ പാസ്വേഡ് വീണ്ടും ടൈപ്പുചെയ്യുക
+    form.submit=എന്റെ വിവരങ്ങൾ സംരക്ഷിക്കുക
+
+[Page.Tags]
+    message.notags=ഈ പേജ് യാതൊരു ടാഗുകൾ ഉണ്ട്.
+    page-title=സൈറ്റ് ടാഗുകൾ
+    tags-inserted-from-template=ടെംപ്ലേറ്റ് ശുപാർശ ടാഗുകൾ:
+    tags-inserted-heading=പേജ് ടാഗുകൾ:
+
+[Page.UserLogin]
+    error=നിങ്ങളുടെ അടയാളം പരാജയപ്പെട്ടു. ദയവായി നിങ്ങളുടെ ഉപയോക്തൃനാമവും പാസ്വേഡും പരിശോധിക്കുക.
+    page-title=സൈൻ ഇൻ
+    submit-login=സൈൻ ഇൻ
+    user-name=ഉപയോക്തൃനാമം
+    user-password=പാസ്വേഡ്
+
+[Page.UserLogout]
+    page-title=സൈൻ ഔട്ട്
+    success=നിങ്ങൾ വിജയകരമായി സൈൻ ഔട്ട് ചെയ്തു.
+
+[Page.UserPassword]
+    form.submit=പാസ്വേഡ് റീസെറ്റ്
+    page-title=പാസ്വേഡ് റീസെറ്റ്
+    success.email-sent=ഈ അക്കൗണ്ടിനായി രജിസ്റ്റർ ചെയ്ത ഇ-മെയിൽ വിലാസത്തിലേക്ക് പാസ്വേഡ് പുനഃസജ്ജീകരണ നിർദ്ദേശങ്ങൾ അയച്ചിട്ടുണ്ട്. നിങ്ങൾക്ക് ഒരു ഇമെയിൽ ലഭിക്കുന്നില്ലെങ്കിൽ, നിങ്ങളുടെ സ്പെല്ലിംഗ് പരിശോധിച്ച് വീണ്ടും ശ്രമിക്കുക. നിങ്ങൾ സൈൻ ഇൻ പ്രശ്നങ്ങൾ തുടരുകയാണെങ്കിൽ നിങ്ങളുടെ സൈറ്റ് അഡ്മിനിസ്ട്രേറ്റർ ബന്ധപ്പെടുക.
+
+[Page.UserRegistration]
+    error.email.match=നിങ്ങൾ നൽകിയ ഇമെയിലുകൾ പൊരുത്തപ്പെടുന്നില്ല.
+    error.password.match=നിങ്ങൾ നൽകിയ പാസ്വേഡുകൾ പൊരുത്തപ്പെടുന്നില്ല.
+    form.email=ഇമെയില്
+    form.email.verify=ഇമെയിൽ പരിശോധിക്കുക
+    form.fullname=പൂർണ്ണ പേര് <span class="note">(ഓപ്ഷണൽ)</span>
+    form.password=പാസ്വേഡ്
+    form.password.verify=പാസ്വേഡ് പരിശോധിക്കുക
+    form.submit=ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കുക
+    form.username=ഉപയോക്തൃനാമം
+    page-title=ഒരു അക്കൗണ്ട് സൃഷ്ടിക്കുക
+    success.created=ഉപയോക്താവ് <strong>$1</strong> സൃഷ്ടിച്ചു.
+
+[Page.Welcome]
+    community-banner-text=നിങ്ങൾക്ക് ഇപ്പോൾ ഉള്ളടക്കം സംഭാവന ചെയ്യാനും പങ്കിടാനും കഴിയും.
+    community-banner-title=സ്വാഗതം, $1. നിങ്ങളുടെ അക്കൗണ്ട് സൃഷ്ടിച്ചു.
+    community-get-started-text=<strong>ആരംഭിക്കുന്നതിന് നിങ്ങളെ സഹായിക്കുന്ന ചില നുറുങ്ങുകൾ ഇതാ:</strong>
+    community-tip1-text=സൈറ്റിന്റെ ഉള്ളടക്കത്തെക്കുറിച്ചുള്ള മൂല്യവത്തായ ഫീഡ്ബാക്ക് സൈറ്റ് ഉടമകളെ നൽകുക. ലേഖനം സഹായകരമായിരുന്നോ? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">അതെ</span>ക്ലിക്കുചെയ്യുക. ഇല്ലെങ്കിൽ, ഞങ്ങൾക്ക് എങ്ങനെ മെച്ചപ്പെടുത്താമെന്ന് ഞങ്ങളോട് പറയാൻ <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">ഫീഡ്ബാക്ക് വിടുക</span> ക്ലിക്കുചെയ്യുക. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">കൂടുതലറിയുക</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ഒരു പേജിൽ അഭിപ്രായമിടുന്നതിലൂടെ ഒരു സംഭാഷണം ആരംഭിക്കുക. നിങ്ങളുടെ സ്വന്തം വിവരങ്ങൾ സംഭാവന ചെയ്യുക അല്ലെങ്കിൽ മറ്റ് ഉപയോക്താവിന്റെ അഭിപ്രായങ്ങൾക്ക് മറുപടി നൽകുക. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">കൂടുതലറിയുക</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=പാസ്വേഡ് റീസെറ്റ്
+
+[Product]
+    powered-by-site=മിംദ്തൊഉഛ് നാൽ
+
+[Skin.Columbia]
+    button.quick-login=സൈൻ ഇൻ
+    header.recommended-articles=ശുപാർശ ലേഖനങ്ങൾ
+    header.toc=ഉള്ളടക്കങ്ങളുടെ പട്ടിക
+    label.back-to-top=മുകളിലേക്ക് മടങ്ങുക
+    label.global-location-toggle=ആഗോള സ്ഥാനം വിപുലീകരിക്കുക/ചുരുക്കുക
+    label.global-navigation-toggle=ആഗോള ശ്രേണി വിപുലീകരിക്കുക/ചുരുക്കുക
+    label.last-updated=അവസാനമായി പുതുക്കിയത്
+    label.last-updated-by=by
+    label.no-recommended-articles=ശുപാർശ ചെയ്യുന്ന ലേഖനങ്ങളൊന്നും ഇല്ല.
+    label.password=പാസ്വേഡ്
+    label.pdf-export=PDF ആയി സംരക്ഷിക്കുക
+    label.signout=സൈൻ ഔട്ട്
+    label.site-search.button=തിരയുക
+    label.site-search.input=തിരയുക
+    label.skip-link=പ്രധാന ഉള്ളടക്കത്തിലേക്ക് പോകുക
+    label.tags=ടാഗുകൾ
+    label.user-preferences=എന്റെ മുൻഗണനകൾ
+    label.username=ഉപയോക്തൃനാമം
+    link.quick-login=സൈൻ ഇൻ
+    link.site-search=സൈറ്റ് തിരയുക
+    placeholder.site-search.input=ഞങ്ങൾ നിങ്ങളെ എങ്ങനെ സഹായിക്കും?
+    tooltip.back-to-top=ഈ ലേഖനത്തിന്റെ മുകളിലേക്ക് മടങ്ങുക
+    tooltip.browse-back=മുമ്പത്തെ ലേഖനത്തിലേക്ക് മടങ്ങുക
+    tooltip.pdf-export=ഒരു PDF ആയി പേജ് കയറ്റുമതി ചെയ്യുക
+    tooltip.signout=ഈ സൈറ്റിൽ നിന്നും സൈൻ ഔട്ട് ചെയ്യാൻ ക്ലിക്കുചെയ്യുക
+    tooltip.skip-link=പ്രധാന ഉള്ളടക്കത്തിലേക്ക് കടക്കാൻ എന്റർ അമർത്തുക
+    tooltip.user-preferences=നിങ്ങളുടെ ഉപയോക്തൃ മുൻഗണനകൾ മാറ്റാൻ ക്ലിക്കുചെയ്യുക
+
+[Skin.Common]
+    copyright=പകർപ്പവകാശം
+    home=വീട്
+
+[System.API]
+    no-headers=തലക്കെട്ടുകൾ ഇല്ല
+    opensearch-shortname=$1 തിരയുക
+
+[Users]
+    email.body.html.content=<p>അഭിനന്ദനങ്ങൾ, <br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ഇപ്പോൾ ഒരു അക്കൗണ്ട് ഉണ്ട് $4. <br/><br/>മറ്റ് കമ്മ്യൂണിറ്റി അംഗങ്ങളുമായി തൽക്ഷണം സഹകരിക്കാൻ ആരംഭിക്കുന്നതിന് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങളുടെ സൈറ്റ് ആക്സസ് വിശദാംശങ്ങൾ ചുവടെയുണ്ട്:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nഉപയോക്തൃ നാമം: $1<br/>പാസ്വേഡ്: $3<br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ആരംഭിക്കുന്നതിന് സഹായം ആവശ്യമുണ്ടെങ്കിൽ അല്ലെങ്കിൽ <a href="$2">$4</a>നെക്കുറിച്ച് പ്രത്യേക ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക. </p>
+    email.body.html.content.nopassword=<p>അഭിനന്ദനങ്ങൾ, <br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ഇപ്പോൾ ഒരു അക്കൗണ്ട് ഉണ്ട് $3. <br/><br/>മറ്റ് കമ്മ്യൂണിറ്റി അംഗങ്ങളുമായി തൽക്ഷണം സഹകരിക്കാൻ ആരംഭിക്കുന്നതിന് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങളുടെ സൈറ്റ് ആക്സസ് വിശദാംശങ്ങൾ ചുവടെയുണ്ട്:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nഉപയോക്തൃ നാമം: $1<em>നിങ്ങളുടെ പാസ്വേഡ് അറിയില്ലെങ്കിൽ സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി<br/><br/>ബന്ധപ്പെടുക. </em><br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ആരംഭിക്കുന്നതിന് സഹായം ആവശ്യമുണ്ടെങ്കിൽ അല്ലെങ്കിൽ <a href="$2">$3</a>നെക്കുറിച്ച് പ്രത്യേക ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക. </p>
+    email.body.text=\ r\ nഅഭിനന്ദനങ്ങൾ,\ r\ n\ r\ nനിങ്ങൾക്ക് ഇപ്പോൾ ഒരു അക്കൗണ്ട് ഉണ്ട് $4. മറ്റ് കമ്മ്യൂണിറ്റി അംഗങ്ങളുമായി തൽക്ഷണം സഹകരിക്കാൻ ആരംഭിക്കുന്നതിന് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങളുടെ സൈറ്റ് ആക്സസ് വിശദാംശങ്ങൾ ചുവടെയുണ്ട്:\ r\ n\ r\ nSite URL: $2\ r\ nഉപയോക്തൃ നാമം: $1\ r\ nPassword: $3\ r\ n\ r\ nSite URL: $2\ r\ nSite URL: $4 നെക്കുറിച്ച് പ്രത്യേക ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക.
+    email.body.text.nopassword=\ r\ nഅഭിനന്ദനങ്ങൾ,\ r\ n\ r\ nനിങ്ങൾക്ക് ഇപ്പോൾ ഒരു അക്കൗണ്ട് ഉണ്ട് $3. മറ്റ് കമ്മ്യൂണിറ്റി അംഗങ്ങളുമായി തൽക്ഷണം സഹകരിക്കാൻ ആരംഭിക്കുന്നതിന് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങളുടെ സൈറ്റ് ആക്സസ് വിശദാംശങ്ങൾ ചുവടെയുണ്ട്:\ r\ n\ r\ nSite URL: $2\ r\ nഉപയോക്തൃ നാമം: $1\ r\ nനിങ്ങളുടെ പാസ്വേഡ് അറിയില്ലെങ്കിൽ സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക. \ r\ n\ r\ nനിങ്ങൾക്ക് ആരംഭിക്കുന്നതിന് സഹായം ആവശ്യമുണ്ടെങ്കിൽ അല്ലെങ്കിൽ $3 നെക്കുറിച്ച് പ്രത്യേക ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക.
+    email.external.body.html.content=<p>അഭിനന്ദനങ്ങൾ, <br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ഇപ്പോൾ ഒരു അക്കൗണ്ട് ഉണ്ട് $3. <br/><br/>മറ്റ് കമ്മ്യൂണിറ്റി അംഗങ്ങളുമായി തൽക്ഷണം സഹകരിക്കാൻ ആരംഭിക്കുന്നതിന് സൈൻ ഇൻ ചെയ്യുക. നിങ്ങളുടെ സൈറ്റ് ആക്സസ് വിശദാംശങ്ങൾ ചുവടെയുണ്ട്:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nഉപയോക്തൃ നാമം: $1<br/><br/>\ r\ n\ r\ nനിങ്ങൾക്ക് ആരംഭിക്കുന്നതിന് സഹായം ആവശ്യമുണ്ടെങ്കിൽ അല്ലെങ്കിൽ <a href="$2">$3</a>നെക്കുറിച്ച് പ്രത്യേക ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, സൈറ്റ് അഡ്മിനിസ്ട്രേറ്ററുമായി ബന്ധപ്പെടുക. </p>
+    email.subject=$1 വിശദാംശങ്ങളിൽ സൈൻ ഇൻ ചെയ്യുക
+    form.password.instructions=പാസ്വേഡുകൾ കുറഞ്ഞത് 8 പ്രതീകങ്ങളായിരിക്കണം, കൂടാതെ ഇനിപ്പറയുന്ന പ്രതീകങ്ങളിൽ കുറഞ്ഞത് 3 ഉണ്ടായിരിക്കണം: ചെറിയക്ഷരം, വലിയക്ഷരം, അക്കങ്ങൾ അല്ലെങ്കിൽ ചിഹ്നങ്ങൾ.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=അഭ്യർത്ഥിച്ച മൈംദ്തൊഉഛ് ടച്ച്പോയിന്റ് നിങ്ങളുടെ വെബ് ബ്രൗസർ ലോഡ് കഴിഞ്ഞില്ല.
+    label.back-to-top=മുകളിലേക്ക് മടങ്ങുക
+
+[WebWidget.F1]
+    label.help-button=സഹായിക്കുക
+    title.help-button=സഹായിക്കുക
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch ലേക്ക് {{ഉപയോക്തൃനാമം}} ആയി സൈൻ ഇൻ ചെയ്തു
+    label.sign-in=മൈൻഡ്ടച്ചിലേക്ക് സൈൻ ഇൻ ചെയ്യുക
+
+[WebWidget.Search]
+    label.collapse-summary=ചുരുക്കുക സംഗ്രഹം ക്ലിക്ക്
+    label.disabled-message=പിന്നീട് വീണ്ടും ശ്രമിക്കുക.
+    label.disabled-title=ക്ഷമിക്കണം, തിരയൽ നിലവിൽ ലഭ്യമല്ല.
+    label.expand-summary=സംഗ്രഹം വിപുലീകരിക്കാൻ ക്ലിക്കുചെയ്യുക
+    label.forbidden-message=ലോഗിൻ ദയവായി, അല്ലെങ്കിൽ നിങ്ങളുടെ സൈറ്റ് അഡ്മിനിസ്ട്രേറ്റർ ബന്ധപ്പെടുക.
+    label.forbidden-title=ഈ സവിശേഷത ഉപയോഗിക്കാൻ നിങ്ങൾക്ക് അനുമതിയില്ല.
+    label.input-hint=തിരയുക
+    label.no-results-faceting-message=മറ്റെന്തെങ്കിലും തിരയുന്നതിനോ ഒരു വിഭാഗം തിരഞ്ഞെടുക്കുന്നതിനോ ശ്രമിക്കുക.
+    label.no-results-message=മറ്റെന്തെങ്കിലും തിരയാൻ ശ്രമിക്കുക.
+    label.no-results-title=ക്ഷമിക്കണം, നിങ്ങൾ തിരയുന്നത് ഞങ്ങൾക്ക് കണ്ടെത്താൻ കഴിയില്ല.
+    label.recommended=ശുപാർശ
+    label.refine-search=തിരയൽ പരിഷ്കരിക്കുക
+    label.show-more=കൂടുതൽ കാണിക്കുക
+
+[WebWidgets]
+    label.authenticated-user=ഹലോ, {{ഉപയോക്തൃനാമം}}!
+    label.nav.back=തിരികെ
+    label.nav.forward=മുന്നോട്ട്
+    label.nav.home=വീട്
+
+[Component.Translate]
+    label.choose-language=ഭാഷ തിരഞ്ഞെടുക്കുക
+    label.english=ഇംഗ്ലീഷ്
+    label.update-failed=പരിഭാഷ അപൂർണ്ണമായ
+    language.spanish=എസ്പാനോൾ
+    language.german=ഡച്ച്
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=ഫ്രാങ്കൈസ്
+    language.portuguese=പോർച്ചുഗീസ്
+    language.dutch=നെതർലാന്റ്സ്
+    language.korean=한국어
+    language.swedish=സ്വൻസ്കാ
+    language.danish=ഡാൻസ്ക്
+    language.finnish=സുഒമലൈനെന്
+    language.italian=ഇറ്റാലിയൻ
+    title.translated-machine=മെഷീൻ വിവർത്തനം ഉപയോഗിച്ച് വിവർത്തനം ചെയ്ത പേജ് ഉള്ളടക്കം
+    dialog.translated-mindtouch=മിംദ്തൊഉഛ് വിവർത്തനം
