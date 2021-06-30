@@ -1,0 +1,295 @@
+[Dialog.CopyMove]
+    placeholder.search=搜索
+    New.word=再一次新词
+    extra=在 Limbo 中测试更新
+
+[F1]
+    dialog.text.back=返回
+    dialog.text.forward=向前
+    dialog.text.hint=搜索
+    dialog.text.home=首页
+    dialog.text.open=打开文章
+
+[MindTouch.Help.Page]
+    category-selector=通过选择筛选器来优化结果。
+    help-header-label=的帮助结果
+    in=在
+    label-filter=在中搜索
+    label-result-count=关于 {0} 个结果
+    label-search-all=所有结果
+    label.page-rating-no=不
+    label.page-rating-yes=是的
+    more=更多
+    no-search-results=抱歉，我们找不到你要找的东西。
+    no-search-try=尝试搜索其他东西、选择类别，或者尝试创建票证。
+    recommended=（推荐）
+    search-error=搜索遇到错误。
+    search-error-try=请稍后重试。
+    search-unavailable=抱歉，搜索目前不可用。
+    show-more-search=显示更多结果
+    tooltip.scrollNext=滚动到下一个
+    tooltip.scrollPrev=滚动到上一个
+    warning.search-only-english=搜索仅提供英文版
+
+[MindTouch.IDF3]
+    featured.articles.created.label=（创建日期）
+    featured.articles.created.title=最近添加
+    featured.articles.rated.label=（评级）
+    featured.articles.rated.title=评分最高
+    featured.articles.updated.label=（日期已更新）
+    featured.articles.updated.title=最近更新
+    featured.articles.viewed.label=（视图）
+    featured.articles.viewed.title=最受欢迎
+    label.guide-subpage-display-single=单
+    label.guide-subpage-display-tabbed=选项卡式
+    label.guide.tabscrollleft=向左滚动标签页
+    label.guide.tabscrollright=向右滚动标签页
+    label.reveal.showAll=显示所有
+    label.reveal.showLess=显示更少
+    label.search.placeholder=搜索
+    type.how-to=如何
+    type.howto=如何
+    type.reference=参考
+    type.topic=话题
+    type.topic-category=类别
+    type.topic-guide=指南
+    type.topic-portfolio=组合
+    type.unclassified=未分类
+
+[MindTouch.LearningPath]
+    label.view-pages=查看页面
+    message.page-count=<span>页面：</span>$1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=隐藏
+    button.toggle.show=显示
+    label.attachments=包括附件
+    label.attachments-description=内容类型
+    label.attachments.type.binary=其他
+    label.attachments.type.document=文档
+    label.attachments.type.image=图片
+    label.classification=分类
+    label.clear-all=清除所有筛选器
+    label.description=筛选结果
+    label.filters=过滤器
+    label.location=位置
+    label.location-empty=没有可以筛选的地点
+
+[MindTouch.Subscriptions]
+    cancel=取消
+    caption.normal=您已订阅以下页面。
+    caption.nosubscriptions=你没有订阅任何页面。
+    column.page=页
+    column.recursive=的电子邮件通知
+    link-title=详细了解在 MindTouch 中管理通知
+    nonrecursive=仅限本页
+    nonrecursive.draft=仅限于此草案
+    recursive.many=1 美元页
+    recursive.many.draft=1 美元的草稿
+    recursive.many.overflow=已订阅所有子页面
+    recursive.many.overflow.draft=已订阅所有子页面草稿
+    recursive.one=1 页
+    recursive.one.draft=1 份草稿
+    unsubscribe=取消订阅
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=关闭消息
+
+[Page.AuthenticationProviders]
+    page-title=登录
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">访问成功 .mindtouch.com 了解所有帮助主题。</a>
+
+[Page.Error]
+    not-found=找不到页面
+    not-found-error=抱歉，找不到价值 1 美元的页面。
+    not-found-results=相关搜索结果：
+    page-title=错误
+
+[Page.FeedbackRating]
+    button.leave-feedback=留下反馈
+    button.rating-no=不
+    button.rating-yes=是的
+    button.submit-feedback=提交反馈
+    label.checkbox.contact-me=是的，你可以就此反馈与我联系。
+    label.feedback-question=我们如何改进这篇文章？
+    label.last-rated=— 你最后一次将本文评分为 1 美元
+    label.rating-message=这篇文章有帮助吗？
+    legend.feedback-form=留下反馈
+    message.contact.no=不
+    message.contact.yes=是的
+    message.submit.error=尝试发送反馈时出错。请稍后再试一次。
+    message.submit.success=您的反馈已成功提交。你可以随时提交更多反馈。
+
+[Page.LiveTags]
+    label.article=文章类型
+
+[Page.LoginPasswordRegister]
+    page-title=登录和注册
+    tab.login=登录
+    tab.password=密码重置
+    tab.register=注册
+
+[Page.Preferences]
+    error.invalid-email=请指定有效的电子邮件地址
+    form.email=电子邮箱
+    form.fullname=显示名称
+    form.fullname.help=仅用于展示目的
+    form.hint.password-characters=密码必须至少包含以下 3 个字符：小写、大写、数字或符号。
+    form.hint.password-length=密码长度必须至少为 8 个字符
+    form.hint.password-match=密码必须匹配
+    form.hint.password.restricted-words=密码不能包含常见的密码词
+    form.legend.information=我的信息
+    form.legend.password=我的密码
+    form.password.new=新密码
+    form.password.old=旧密码
+    form.password.submit=更改密码
+    form.password.verify=重新键入新密码
+    form.submit=保存我的信息
+
+[Page.Tags]
+    message.notags=此页面没有标签。
+    page-title=站点标签
+    tags-inserted-from-template=模板推荐的标签：
+    tags-inserted-heading=页面标签：
+
+[Page.UserLogin]
+    error=您的登录失败。请验证你的用户名和密码。
+    page-title=登录
+    submit-login=登录
+    user-name=用户名
+    user-password=密码
+
+[Page.UserLogout]
+    page-title=注销
+    success=你已成功注销。
+
+[Page.UserPassword]
+    form.submit=密码重置
+    page-title=密码重置
+    success.email-sent=密码重置说明已发送到为此账户注册的电子邮件地址。如果您没有收到电子邮件，请检查拼写并重试。如果您仍然存在登录问题，请与站点管理员联系。
+
+[Page.UserRegistration]
+    error.email.match=您输入的电子邮件不匹配。
+    error.password.match=您输入的密码不匹配。
+    form.email=电子邮
+    form.email.verify=验证邮件
+    form.fullname=全名<span class="note">（可选）</span>
+    form.password=密码
+    form.password.verify=验证密码
+    form.submit=创建账户
+    form.username=用户名
+    page-title=创建账户
+    success.created=用户 <strong>1 美元</strong>已创建。
+
+[Page.Welcome]
+    community-banner-text=您现在可以贡献和分享内容。
+    community-banner-title=欢迎，1 美元。您的账户已创建。
+    community-get-started-text=<strong>以下是一些帮助你入门的提示：</strong>
+    community-tip1-text=向网站所有者提供有关网站内容的宝贵反馈。这篇文章有帮助吗？单击<span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">是</span>。如果没有，请点击<span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">留下反馈</span>以告诉我们如何改进。<br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">了解更多</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=通过评论页面开始对话。提供自己的信息或回复其他用户的评论。<br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">了解更多</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=密码重置
+
+[Product]
+    powered-by-site=由 MindTouch 供电
+
+[Skin.Columbia]
+    button.quick-login=登录
+    header.recommended-articles=推荐文章
+    header.toc=目录
+    label.back-to-top=返回顶部
+    label.global-location-toggle=展开/折叠全球位置
+    label.global-navigation-toggle=展开/折叠全球层次结构
+    label.last-updated=上次更新
+    label.last-updated-by=通过
+    label.no-recommended-articles=没有推荐的文章。
+    label.password=密码
+    label.pdf-export=另存为 PDF
+    label.signout=注销
+    label.site-search.button=搜索
+    label.site-search.input=搜索
+    label.skip-link=跳到主要内容
+    label.tags=标签
+    label.user-preferences=我的偏好
+    label.username=用户名
+    link.quick-login=登录
+    link.site-search=搜索网站
+    placeholder.site-search.input=我们能怎么帮你？
+    tooltip.back-to-top=跳回本文的顶部
+    tooltip.browse-back=返回上一篇文章
+    tooltip.pdf-export=将页面导出为 PDF
+    tooltip.signout=点击退出此网站
+    tooltip.skip-link=按 Enter 键跳至主要内容
+    tooltip.user-preferences=单击以更改用户首选项
+
+[Skin.Common]
+    copyright=版权
+    home=首页
+
+[System.API]
+    no-headers=没有标题
+    opensearch-shortname=$1 搜索
+
+[Users]
+    email.body.html.content=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 4 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1<br/> 密码：$3<br/><br/>\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$4</a> 的具体问题，请联系站点管理员。</p>
+    email.body.html.content.nopassword=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 3 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1 <em>如果您不知道密码，<br/><br/>请联系站点管理员。</em><br/><br/>\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$3</a> 的具体问题，请联系站点管理员。</p>
+    email.body.text=\ r\ n 恭喜，\ r\ n\ r\ n 您现在拥有 4 美元的账户。登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：\ r\ n\ r\ n 网站 URL：$2\ r\ n 用户名：$1\ r\ n 密码：$3\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 $4 的具体问题，请联系站点管理员。
+    email.body.text.nopassword=\ r\ n 恭喜，\ r\ n\ r\ n 现在您的账户为 3 美元。登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：\ r\ n\ r\ n 站点 URL：$2\ r\ n 用户名：$1\ r\ n 如果您不知道密码，请与站点管理员联系。\ r\ n\ r\ n 如果您需要入门帮助或有关于 $3 的具体问题，请联系站点管理员。
+    email.external.body.html.content=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 3 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1<br/><br/>\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$3</a> 的具体问题，请联系站点管理员。</p>
+    email.subject=$1 登录详情
+    form.password.instructions=密码长度必须至少为 8 个字符，并且至少包含以下 3 个字符：小写、大写、数字或符号。
+
+[WebWidget.Common]
+    error.web-browser-unsupported=您的网络浏览器无法加载请求的 MindTouch 触点。
+    label.back-to-top=返回顶部
+
+[WebWidget.F1]
+    label.help-button=帮助
+    title.help-button=帮助
+
+[WebWidget.Login]
+    label.authenticated-user=以 {{用户名}} 身份登录 MindTouch
+    label.sign-in=登录 MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=单击以折叠摘要
+    label.disabled-message=请稍后重试。
+    label.disabled-title=抱歉，搜索目前不可用。
+    label.expand-summary=点击展开摘要
+    label.forbidden-message=请登录，或联系站点管理员。
+    label.forbidden-title=你没有权限使用此功能。
+    label.input-hint=搜索
+    label.no-results-faceting-message=尝试搜索别的东西或选择一个类别。
+    label.no-results-message=尝试寻找别的东西。
+    label.no-results-title=抱歉，我们找不到你要找的东西。
+    label.recommended=推荐
+    label.refine-search=细化搜索
+    label.show-more=显示更多
+
+[WebWidgets]
+    label.authenticated-user=你好，{{username}}！
+    label.nav.back=返回
+    label.nav.forward=向前
+    label.nav.home=首页
+
+[Component.Translate]
+    label.choose-language=选择语言
+    label.english=英语
+    label.update-failed=翻译不完整
+    language.spanish=西班牙语
+    language.german=德语
+    language.japanese=日本人
+    language.chinese=中国人
+    language.french=法语
+    language.portuguese=葡萄牙esa
+    language.dutch=荷兰
+    language.korean=한국어
+    language.swedish=svenska
+    language.danish=dansk
+    language.finnish=suomalainen
+    language.italian=意大利语
+    title.translated-machine=使用机器翻译翻译的页面内容
+    dialog.translated-mindtouch=由 MindTouch 翻译
