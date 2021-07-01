@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Хабарлама Бөлім бос тақырып
+
+[Old.Category]
+    dialog.old.select.title=Диалог Ескі таңдаңыз Атауы
+
+[Web.Defaults]
+    error.message=Қате туралы хабар
