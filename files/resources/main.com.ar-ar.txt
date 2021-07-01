@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=قسم الرسالة رأس فارغ
-
-[Old.Category]
-    dialog.old.select.title=مربع الحوار القديم حدد العنوان
-
-[Web.Defaults]
-    error.message=رسالة خطأ

@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Bericht sectie Lege koptekst
-
-[Old.Category]
-    dialog.old.select.title=Dialoogvenster Oude titel selecteren
-
-[Web.Defaults]
-    error.message=Foutbericht

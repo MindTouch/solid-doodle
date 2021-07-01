@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=செய்தி பிரிவு வெற்று தலைப்பு
-
-[Old.Category]
-    dialog.old.select.title=டயலொக் பழைய தேர்வு தலைப்பு
-
-[Web.Defaults]
-    error.message=பிழை செய்தி

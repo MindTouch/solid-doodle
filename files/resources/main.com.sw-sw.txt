@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Ujumbe Sehemu tupu Header
-
-[Old.Category]
-    dialog.old.select.title=Dialog Chagua Kichwa cha kale
-
-[Web.Defaults]
-    error.message=Ujumbe wa kosa

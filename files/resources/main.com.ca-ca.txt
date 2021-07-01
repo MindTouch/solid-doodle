@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Secció de missatge Capçalera buida
-
-[Old.Category]
-    dialog.old.select.title=Selecciona el títol antic del diàleg
-
-[Web.Defaults]
-    error.message=Missatge d'error

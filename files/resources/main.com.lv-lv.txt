@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Ziņojuma sadaļas tukša galvene
-
-[Old.Category]
-    dialog.old.select.title=Dialogs Vecais Izvēlieties virsrakstu
-
-[Web.Defaults]
-    error.message=Kļūdas ziņojums

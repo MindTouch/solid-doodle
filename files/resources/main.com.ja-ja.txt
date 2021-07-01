@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=メッセージセクション空のヘッダー
-
-[Old.Category]
-    dialog.old.select.title=[古いタイトルを選択] ダイアログ
-
-[Web.Defaults]
-    error.message=エラーメッセージ

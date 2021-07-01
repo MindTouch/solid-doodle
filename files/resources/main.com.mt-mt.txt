@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Messaġġ Taqsima Header vojta
-
-[Old.Category]
-    dialog.old.select.title=Id-djalogu Qadim Agħżel Titolu
-
-[Web.Defaults]
-    error.message=Messaġġ ta' żball

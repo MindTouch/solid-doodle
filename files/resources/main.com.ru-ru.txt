@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Раздел сообщений Пустой заголовок
-
-[Old.Category]
-    dialog.old.select.title=Диалоговое окно «Старый выбор»
-
-[Web.Defaults]
-    error.message=Сообщение об ошибке

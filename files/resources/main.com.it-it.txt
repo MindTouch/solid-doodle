@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Sezione messaggio Intestazione vuota
-
-[Old.Category]
-    dialog.old.select.title=Finestra di dialogo Old Seleziona titolo
-
-[Web.Defaults]
-    error.message=Messaggio di errore
