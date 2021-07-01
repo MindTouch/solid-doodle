@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Secțiunea mesajului Golire antet
+
+[Old.Category]
+    dialog.old.select.title=Dialog vechi Selectare titlu
+
+[Web.Defaults]
+    error.message=Mesaj de eroare
