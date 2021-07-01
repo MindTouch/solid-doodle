@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Üzenet szakasz üres fejléce
+
+[Old.Category]
+    dialog.old.select.title=Párbeszédablak Régi kiválasztása cím
+
+[Web.Defaults]
+    error.message=Hibaüzenet

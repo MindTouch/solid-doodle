@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Pranešimo skyrius Tuščios antraštės
+
+[Old.Category]
+    dialog.old.select.title=Senas dialogo langas Pasirinkti pavadinimą
+
+[Web.Defaults]
+    error.message=Klaidos pranešimas

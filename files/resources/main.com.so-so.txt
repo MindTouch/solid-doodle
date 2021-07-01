@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Fariin Qaybta Madaxa Madhan
+
+[Old.Category]
+    dialog.old.select.title=Dialog Dooro Ciwaanka Hore
+
+[Web.Defaults]
+    error.message=Fariin khalad ah
