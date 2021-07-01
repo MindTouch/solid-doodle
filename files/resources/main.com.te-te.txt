@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=సందేశం విభాగం ఖాళీ శీర్షిక
+
+[Old.Category]
+    dialog.old.select.title=పాత డైలాగ్ శీర్షిక ఎంచుకోండి
+
+[Web.Defaults]
+    error.message=దోష సందేశం
