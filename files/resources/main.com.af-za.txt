@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Boodskap Afdeling Leë Opskrif
+
+[Old.Category]
+    dialog.old.select.title=Dialoog Ou Kies Titel
+
+[Web.Defaults]
+    error.message=Foutboodskap

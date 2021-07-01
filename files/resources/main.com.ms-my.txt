@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Pengepala Seksyen Mesej
+
+[Old.Category]
+    dialog.old.select.title=Dialog Pilih Tajuk Lama
+
+[Web.Defaults]
+    error.message=Mesej ralat
