@@ -1,8 +1,8 @@
 [Section.Headers]
-    message.section.empty.header=سرآیند خالی بخش پیام
+    message.section.empty.header=بخش پیام سرصفحه خالی
 
 [Old.Category]
-    dialog.old.select.title=انتخاب عنوان قدیمی محاوره
+    dialog.old.select.title=برگزیدن عنوان محاوره قدیمی
 
 [Web.Defaults]
     error.message=پیام خطا
