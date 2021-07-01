@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Τμήμα μηνύματος Κενή κεφαλίδα
-
-[Old.Category]
-    dialog.old.select.title=Διάλογος παλιού τίτλου επιλογής
-
-[Web.Defaults]
-    error.message=Μήνυμα σφάλματος

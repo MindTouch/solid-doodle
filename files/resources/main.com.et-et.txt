@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Sõnumi sektsiooni tühi päis
-
-[Old.Category]
-    dialog.old.select.title=Dialoog Vana Valige pealkiri
-
-[Web.Defaults]
-    error.message=Tõrketeade

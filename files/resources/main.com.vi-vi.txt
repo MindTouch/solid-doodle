@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Phần tin nhắn rỗng tiêu đề
-
-[Old.Category]
-    dialog.old.select.title=Hộp thoại Chọn Tiêu đề cũ
-
-[Web.Defaults]
-    error.message=Thông báo lỗi

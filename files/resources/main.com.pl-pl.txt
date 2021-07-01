@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Sekcja wiadomości Pusty nagłówek
-
-[Old.Category]
-    dialog.old.select.title=Okno dialogowe Stary Tytuł Wybierz
-
-[Web.Defaults]
-    error.message=Komunikat o błędzie

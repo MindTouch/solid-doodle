@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=İleti Bölümü Boş Üstbilgi
-
-[Old.Category]
-    dialog.old.select.title=Dialog Eski Seçme Başlığı
-
-[Web.Defaults]
-    error.message=Hata mesajı

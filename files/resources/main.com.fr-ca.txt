@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Message Section En-tête vide
-
-[Old.Category]
-    dialog.old.select.title=Boîte de dialogue Ancien titre
-
-[Web.Defaults]
-    error.message=Message d'erreur

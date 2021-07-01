@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Seksyon ng Mensahe Walang laman
-
-[Old.Category]
-    dialog.old.select.title=Dialog Lumang Piliin ang Pamagat
-
-[Web.Defaults]
-    error.message=Mensahe ng error

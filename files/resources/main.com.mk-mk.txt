@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Порака Дел Испразни заглавие
-
-[Old.Category]
-    dialog.old.select.title=Стар дијалог Изберете наслов
-
-[Web.Defaults]
-    error.message=Порака за грешка

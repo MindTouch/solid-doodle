@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Časť správy prázdna hlavička
-
-[Old.Category]
-    dialog.old.select.title=Dialóg Starý názov výberu
-
-[Web.Defaults]
-    error.message=Chybové hlásenie

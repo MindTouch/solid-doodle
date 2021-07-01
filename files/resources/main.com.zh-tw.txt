@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=訊息區段空白標頭
-
-[Old.Category]
-    dialog.old.select.title=對話框舊選擇標題
-
-[Web.Defaults]
-    error.message=錯誤訊息

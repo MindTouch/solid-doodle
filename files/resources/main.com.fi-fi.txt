@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Viestiosan tyhjä otsikko
-
-[Old.Category]
-    dialog.old.select.title=Valintaikkuna Vanha Valitse nimi
-
-[Web.Defaults]
-    error.message=Virhesanoma

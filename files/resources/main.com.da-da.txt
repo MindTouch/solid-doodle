@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Meddelelsesafsnittet Tøm sidehoved
-
-[Old.Category]
-    dialog.old.select.title=Dialogen Gammel Vælg titel
-
-[Web.Defaults]
-    error.message=Fejlmeddelelse
