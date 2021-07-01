@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Mesaj Seksyon Vide Header
+
+[Old.Category]
+    dialog.old.select.title=Dyalòg Old Chwazi Tit
+
+[Web.Defaults]
+    error.message=Mesaj erè

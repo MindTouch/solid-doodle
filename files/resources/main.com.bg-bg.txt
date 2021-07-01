@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Секция за съобщения празен колонтитул
+
+[Old.Category]
+    dialog.old.select.title=Старо избиране на заглавие
+
+[Web.Defaults]
+    error.message=Съобщение за грешка
