@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=സന്ദേശം വിഭാഗം ശൂന്യമായ ഹെഡ്ഡർ
+
+[Old.Category]
+    dialog.old.select.title=പഴയ ഡയലോഗ് തിരഞ്ഞെടുക്കുക ശീർഷകം
+
+[Web.Defaults]
+    error.message=പിശക് സന്ദേശം
