@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=संदेश अनुभाग खाली हैडर
+
+[Old.Category]
+    dialog.old.select.title=डायलॉग ओल्ड सिलेक्ट टाइटल
+
+[Web.Defaults]
+    error.message=त्रुटि संदेश
