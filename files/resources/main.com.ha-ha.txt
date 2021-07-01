@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Saƙo Sashe mara kyau
+
+[Old.Category]
+    dialog.old.select.title=Tattaunawa Tsohon Zaɓi Title
+
+[Web.Defaults]
+    error.message=Saƙon kuskure
