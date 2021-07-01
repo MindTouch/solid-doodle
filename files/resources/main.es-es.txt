@@ -1,3 +1,0 @@
-[Article.Comments]
-    comment-was-deleted=El comentario #$1 fue eliminado por $2.
-    header-save-comment=Guardar comentario

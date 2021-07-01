@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Odjeljak poruke Prazno zaglavlje
-
-[Old.Category]
-    dialog.old.select.title=Dijalog Stari Odaberi naslov
-
-[Web.Defaults]
-    error.message=Poruka o pogrešci

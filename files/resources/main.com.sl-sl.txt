@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Odsek sporočila Prazna glava
-
-[Old.Category]
-    dialog.old.select.title=Pogovorno okno Stara izbira naslova
-
-[Web.Defaults]
-    error.message=Sporočilo o napaki

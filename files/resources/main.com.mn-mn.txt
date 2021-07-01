@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Зурвас Хэсэг Хоосон Толгой
-
-[Old.Category]
-    dialog.old.select.title=Dialog Хуучин нэр сонгоно уу
-
-[Web.Defaults]
-    error.message=Алдааны мэдэгдэл

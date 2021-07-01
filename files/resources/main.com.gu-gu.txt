@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=સંદેશ વિભાગ ખાલી મથાળું
-
-[Old.Category]
-    dialog.old.select.title=ડાયલોગ જૂના શીર્ષક પસંદ કરો
-
-[Web.Defaults]
-    error.message=ભૂલ સંદેશ

@@ -1,3 +1,10 @@
-[Section.Headers]
-    message.confirm.header=Message Confirm Header
-    message.section.empty.header=Message Section Empty Header
+[Dialog.CopyMove]
+    placeholder.search=Search
+
+[F1]
+    dialog.text.back=Back
+    dialog.text.forward=Forward
+    dialog.text.hint=search
+    dialog.text.home=Home
+    dialog.text.open=Open article
+

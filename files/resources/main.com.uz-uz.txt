@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Xabar bo'limi Bo'sh Header
-
-[Old.Category]
-    dialog.old.select.title=Dialog Old tanlang nomi
-
-[Web.Defaults]
-    error.message=Xato xabari

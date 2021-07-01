@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=메시지 섹션 빈 머리글
-
-[Old.Category]
-    dialog.old.select.title=대화 상자 이전 선택 제목
-
-[Web.Defaults]
-    error.message=오류 메시지

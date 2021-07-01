@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Nachrichtenabschnitt Leerer Header
-
-[Old.Category]
-    dialog.old.select.title=Dialog Alt Titel auswählen
-
-[Web.Defaults]
-    error.message=Fehlermeldung

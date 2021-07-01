@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Mesaj Bölməsi Boş Başlıq
-
-[Old.Category]
-    dialog.old.select.title=Dialoq Köhnə Başlığı seçin
-
-[Web.Defaults]
-    error.message=Səhv mesajı

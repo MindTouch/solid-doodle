@@ -1,8 +1,0 @@
-[Section.Headers]
-    message.section.empty.header=Část zprávy prázdné záhlaví
-
-[Old.Category]
-    dialog.old.select.title=Dialog Starý výběr nadpisu
-
-[Web.Defaults]
-    error.message=Chybová zpráva
