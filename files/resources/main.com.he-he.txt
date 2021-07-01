@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=כותרת ריקה מקטע הודעה
+
+[Old.Category]
+    dialog.old.select.title=כותרת בחירה ישנה
+
+[Web.Defaults]
+    error.message=הודעת שגיאה
