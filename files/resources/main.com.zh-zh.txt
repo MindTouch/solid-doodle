@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=消息部分为空标题
+
+[Old.Category]
+    dialog.old.select.title=对话框旧选择标题
+
+[Web.Defaults]
+    error.message=错误消息

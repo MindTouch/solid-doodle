@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=පණිවුඩය අංශය හිස් ශීර්ෂකය
+
+[Old.Category]
+    dialog.old.select.title=ඩයලොග් පැරණි මාතෘකාව තෝරන්න
+
+[Web.Defaults]
+    error.message=දෝෂ පණිවිඩය
