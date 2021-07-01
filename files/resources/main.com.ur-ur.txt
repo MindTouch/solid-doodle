@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=پیغام کا سیکشن خالی ہیڈر
+
+[Old.Category]
+    dialog.old.select.title=ڈائیلاگ پرانے منتخب عنوان
+
+[Web.Defaults]
+    error.message=غلطی کا پیغام

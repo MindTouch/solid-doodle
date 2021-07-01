@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Skilaboð kafla tómur haus
+
+[Old.Category]
+    dialog.old.select.title=Gömul Valmynd Veldu titil
+
+[Web.Defaults]
+    error.message=Villuboð
