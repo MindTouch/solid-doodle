@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Հաղորդագրություն բաժինը դատարկ վերնագիր
+
+[Old.Category]
+    dialog.old.select.title=Երկխոսություն Հին Ընտրեք Վերնագիր
+
+[Web.Defaults]
+    error.message=Սխալ հաղորդագրություն

@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Header Kosong Bagian Pesan
+
+[Old.Category]
+    dialog.old.select.title=Dialog Pilih Judul Lama
+
+[Web.Defaults]
+    error.message=Pesan galat

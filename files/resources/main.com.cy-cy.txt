@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Neges Adran Pennawd Gwag
+
+[Old.Category]
+    dialog.old.select.title=Deialog Hen Dethol Teitl
+
+[Web.Defaults]
+    error.message=Neges gwall

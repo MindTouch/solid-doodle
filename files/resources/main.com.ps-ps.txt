@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=استوزه برخه تش سرۍ
+
+[Old.Category]
+    dialog.old.select.title=کړکۍ پخوانۍ سرليک ټاکل
+
+[Web.Defaults]
+    error.message=تېروتنه استوزه
