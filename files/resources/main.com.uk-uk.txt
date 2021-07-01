@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Розділ повідомлення Порожній заголовок
+
+[Old.Category]
+    dialog.old.select.title=Діалогове вікно Вибрати заголовок
+
+[Web.Defaults]
+    error.message=Повідомлення про помилку
