@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=ส่วนข้อความ ส่วนหัวที่ว่างเปล่า
+
+[Old.Category]
+    dialog.old.select.title=กล่องโต้ตอบ เลือกชื่อเดิม
+
+[Web.Defaults]
+    error.message=ข้อความแสดงข้อผิดพลาด
