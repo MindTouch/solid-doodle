@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Avsnitt för meddelande tomt huvud
+
+[Old.Category]
+    dialog.old.select.title=Dialogrutan Gamla Välj
+
+[Web.Defaults]
+    error.message=Felmeddelande
