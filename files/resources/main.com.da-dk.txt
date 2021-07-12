@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Meddelelsesafsnittet Tøm sidehoved
+[Dialog.CopyMove]
+    placeholder.search=Søg
 
-[Old.Category]
-    dialog.old.select.title=Dialogen Gammel Vælg titel
+[F1]
+    dialog.text.back=Tilbage
+    dialog.text.forward=Fremad
+    dialog.text.hint=søg
+    dialog.text.home=Hjem
+    dialog.text.open=Åbn artikel
 
-[Web.Defaults]
-    error.message=Fejlmeddelelse
+[MindTouch.Help.Page]
+    category-selector=Finjuster resultater ved at vælge et filter.
+    help-header-label=Hjælp-resultater for
+    in=i
+    label-filter=Søgning i
+    label-result-count=Om {0} resultater
+    label-search-all=Alle resultater
+    label.page-rating-no=Nej
+    label.page-rating-yes=Ja
+    more=Mere
+    no-search-results=Beklager, vi kan ikke finde det, du leder efter.
+    no-search-try=Prøv at søge efter noget andet, vælge en kategori, eller prøv at oprette en billet.
+    recommended=(Anbefales)
+    search-error=Søgning er stødt på en fejl.
+    search-error-try=Prøv igen senere.
+    search-unavailable=Beklager, søgning er ikke tilgængelig i øjeblikket.
+    show-more-search=Vis flere resultater
+    tooltip.scrollNext=Rul til næste
+    tooltip.scrollPrev=Rul til forrige
+    warning.search-only-english=Søg er kun tilgængelig på engelsk
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(dato oprettet)
+    featured.articles.created.title=Nyligt tilføjet
+    featured.articles.rated.label=(bedømmelse)
+    featured.articles.rated.title=Højst bedømte
+    featured.articles.updated.label=(dato opdateret)
+    featured.articles.updated.title=Nyligt opdateret
+    featured.articles.viewed.label=(visninger)
+    featured.articles.viewed.title=Mest populære
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Faneblade
+    label.guide.tabscrollleft=Rul faner til venstre
+    label.guide.tabscrollright=Rul faner til højre
+    label.reveal.showAll=Vis alle
+    label.reveal.showLess=Vis mindre
+    label.search.placeholder=Søg
+    type.how-to=Sådan gør du
+    type.howto=Sådan gør du
+    type.reference=Henvisning
+    type.topic=Emne
+    type.topic-category=kategori
+    type.topic-guide=Guide
+    type.topic-portfolio=portefølje
+    type.unclassified=Uklassificeret
+
+[MindTouch.LearningPath]
+    label.view-pages=Se sider
+    message.page-count=<span>Sider:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Skjul
+    button.toggle.show=Vis
+    label.attachments=Medtag vedhæftede filer
+    label.attachments-description=Indholdstype
+    label.attachments.type.binary=Andet
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Billede
+    label.classification=Klassificering
+    label.clear-all=Ryd alle filtre
+    label.description=Filtrer resultater
+    label.filters=Filtre
+    label.location=Beliggenhed
+    label.location-empty=Der er ingen steder at filtrere efter
+
+[MindTouch.Subscriptions]
+    cancel=annullere
+    caption.normal=Du abonnerer på følgende sider.
+    caption.nosubscriptions=Du abonnerer ikke på nogen sider.
+    column.page=Side
+    column.recursive=E-mail-meddelelser til
+    link-title=Få mere at vide om administration af meddelelser i MindTouch
+    nonrecursive=Kun denne side
+    nonrecursive.draft=Kun dette udkast
+    recursive.many=$1 sider
+    recursive.many.draft=$1 udkast
+    recursive.many.overflow=Abonneret på alle undersider
+    recursive.many.overflow.draft=Abonneret på alle undersideudkast
+    recursive.one=1 side
+    recursive.one.draft=1 udkast
+    unsubscribe=Afmeld
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Luk meddelelse
+
+[Page.AuthenticationProviders]
+    page-title=Log ind
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Besøg success.mindtouch.com for at få alle hjælpeemner. </a>
+
+[Page.Error]
+    not-found=Siden blev ikke fundet
+    not-found-error=Beklager, siden på $1 kunne ikke findes.
+    not-found-results=Relaterede søgeresultater:
+    page-title=Fejl
+
+[Page.FeedbackRating]
+    button.leave-feedback=Efterlad feedback
+    button.rating-no=Nej
+    button.rating-yes=Ja
+    button.submit-feedback=Indsend feedback
+    label.checkbox.contact-me=Ja, du kan kontakte mig om denne feedback.
+    label.feedback-question=Hvordan kan vi forbedre denne artikel?
+    label.last-rated=- Du sidst bedømt denne artikel på $1
+    label.rating-message=Var denne artikel nyttig?
+    legend.feedback-form=Efterlad feedback
+    message.contact.no=Nej
+    message.contact.yes=Ja
+    message.submit.error=Der opstod en fejl under forsøget på at sende din feedback. Prøv igen på et senere tidspunkt.
+    message.submit.success=Din feedback er blevet indsendt. Du kan til enhver tid sende mere feedback.
+
+[Page.LiveTags]
+    label.article=Artikel type
+
+[Page.LoginPasswordRegister]
+    page-title=Log ind og tilmelding
+    tab.login=Log ind
+    tab.password=Nulstil adgangskode
+    tab.register=Registrering
+
+[Page.Preferences]
+    error.invalid-email=Angiv en gyldig e-mailadresse
+    form.email=E-mail-adresse
+    form.fullname=Vist navn
+    form.fullname.help=Kun til udstillingsformål
+    form.hint.password-characters=Adgangskoden skal indeholde mindst 3 af følgende tegn: små bogstaver, store bogstaver, cifre eller symboler.
+    form.hint.password-length=Adgangskoden skal være på mindst 8 tegn
+    form.hint.password-match=Adgangskoderne skal stemme overens
+    form.hint.password.restricted-words=Adgangskoden kan ikke indeholde almindelige adgangskodeord
+    form.legend.information=Mine oplysninger
+    form.legend.password=Min adgangskode
+    form.password.new=Ny adgangskode
+    form.password.old=Gammel adgangskode
+    form.password.submit=Skift adgangskode
+    form.password.verify=Indtast ny adgangskode igen
+    form.submit=Gem mine oplysninger
+
+[Page.Tags]
+    message.notags=Denne side har ingen mærker.
+    page-title=Site tags
+    tags-inserted-from-template=Tags anbefalet af skabelonen:
+    tags-inserted-heading=Side- tags:
+
+[Page.UserLogin]
+    error=Dit login mislykkedes. Bekræft venligst dit brugernavn og din adgangskode.
+    page-title=Log ind
+    submit-login=Log ind
+    user-name=Brugernavn
+    user-password=Adgangskode
+
+[Page.UserLogout]
+    page-title=Log ud
+    success=Du er logget ud med succes.
+
+[Page.UserPassword]
+    form.submit=Nulstil adgangskode
+    page-title=Nulstil adgangskode
+    success.email-sent=Instruktioner til nulstilling af adgangskode er blevet sendt til den e-mail-adresse, der er registreret for denne konto. Hvis du ikke modtager en e-mail, skal du tjekke din stavemåde og prøve igen. Kontakt din webstedsadministrator, hvis du fortsat har problemer med at logge på.
+
+[Page.UserRegistration]
+    error.email.match=De indtastede e-mails stemmer ikke overens.
+    error.password.match=De indtastede adgangskoder stemmer ikke overens.
+    form.email=E-mail
+    form.email.verify=Bekræft e-mail
+    form.fullname=Fulde navn <span class="note">(valgfrit)</span>
+    form.password=Adgangskode
+    form.password.verify=Bekræft adgangskode
+    form.submit=Opret en konto
+    form.username=Brugernavn
+    page-title=Opret en konto
+    success.created=Bruger <strong>$1</strong> er blevet oprettet.
+
+[Page.Welcome]
+    community-banner-text=Du kan nu bidrage med og dele indhold.
+    community-banner-title=Velkommen, 1 dollar. Din konto er blevet oprettet.
+    community-get-started-text=<strong>Her er nogle tips til at hjælpe dig med at komme i gang:</strong>
+    community-tip1-text=Giv webstedsejere værdifuld feedback om indholdet af webstedet. Var artiklen nyttig? Klik på <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ja</span>. Hvis ikke, skal du klikke på <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Giv feedback</span> for at fortælle os, hvordan vi kan forbedre os. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Få mere at vide</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Start en samtale ved at kommentere på en side. Bidrage dine egne oplysninger eller svar på andre brugers kommentarer. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Få mere at vide</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Nulstil adgangskode
+
+[Product]
+    powered-by-site=Drevet af MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Log ind
+    header.recommended-articles=Anbefalede artikler
+    header.toc=Indholdsfortegnelse
+    label.back-to-top=Tilbage til toppen
+    label.global-location-toggle=Udvide/kollapse global placering
+    label.global-navigation-toggle=Udvid/Skjul globalt hierarki
+    label.last-updated=Sidst opdateret
+    label.last-updated-by=af
+    label.no-recommended-articles=Der er ingen anbefalede artikler.
+    label.password=Adgangskode
+    label.pdf-export=Gem som PDF
+    label.signout=Log ud
+    label.site-search.button=Søg
+    label.site-search.input=Søg
+    label.skip-link=Spring til hovedindhold
+    label.tags=Tags
+    label.user-preferences=Mine præferencer
+    label.username=Brugernavn
+    link.quick-login=Log ind
+    link.site-search=Søg site
+    placeholder.site-search.input=Hvordan kan vi hjælpe dig?
+    tooltip.back-to-top=Gå tilbage til toppen af denne artikel
+    tooltip.browse-back=Gå tilbage til forrige artikel
+    tooltip.pdf-export=Eksportér side som PDF-fil
+    tooltip.signout=Klik for at logge af dette websted
+    tooltip.skip-link=Tryk på enter for at springe til hovedindholdet
+    tooltip.user-preferences=Klik for at ændre dine brugerindstillinger
+
+[Skin.Common]
+    copyright=Ophavsret
+    home=Hjem
+
+[System.API]
+    no-headers=Ingen overskrifter
+    opensearch-shortname=$1 Søg
+
+[Users]
+    email.body.html.content=<p>Tillykke, <br/><br/>\ r\ n\ r\ nDu har nu en konto på $4. <br/><br/>Log på for øjeblikkeligt at begynde at samarbejde med andre medlemmer af fællesskabet. Nedenfor finder du oplysninger om webstedets adgang:<br/><br/>\ r\ n\ r\ nWebstedets URL: <a href="$2">$2</a><br/>\ r\ NUser navn: $1<br/>Adgangskode: $3<br/><br/>\ r\ n\ r\ nHvis du har brug for hjælp til at komme i gang eller har specifikke spørgsmål om <a href="$2">$4</a>, bedes du kontakte webstedets administrator. </p>
+    email.body.html.content.nopassword=<p>Tillykke, <br/><br/>\ r\ n\ r\ nDu har nu en konto på $3. <br/><br/>Log på for øjeblikkeligt at begynde at samarbejde med andre medlemmer af fællesskabet. Nedenfor er dine oplysninger om adgang til webstedet:<br/><br/>\ r\ n\ r\ nWebstedets URL: <a href="$2">$2</a><br/>\ r\ NUser navn: $1<br/><br/><em>Kontakt webstedets administrator, hvis du ikke kender din adgangskode. </em><br/><br/>\ r\ n\ r\ nHvis du har brug for hjælp til at komme i gang eller har specifikke spørgsmål om <a href="$2">$3</a>, skal du kontakte webstedets administrator. </p>
+    email.body.text=\ r\ nTillykke,\ r\ n\ r\ nDu har nu en konto på $4. Log på for øjeblikkeligt at begynde at samarbejde med andre medlemmer af fællesskabet. Nedenfor finder du oplysninger om webstedets adgang:\ r\ n\ r\ nWebstedets URL: $2\ r\ nuser navn: $1\ r\ nAdgangskode: $3\ r\ n\ r\ nHvis du har brug for hjælp til at komme i gang eller har specifikke spørgsmål om $4, bedes du kontakte webstedets administrator.
+    email.body.text.nopassword=\ r\ nTillykke,\ r\ n\ r\ nDu har nu en konto på $3. Log på for øjeblikkeligt at begynde at samarbejde med andre medlemmer af fællesskabet. Nedenfor er dine oplysninger om adgang til webstedet:\ r\ n\ r\ nWebstedets URL: $2\ r\ NUser navn: $1\ r\ nKontakt webstedets administrator, hvis du ikke kender din adgangskode. \ r\ n\ r\ nHvis du har brug for hjælp til at komme i gang eller har specifikke spørgsmål om $3, skal du kontakte webstedets administrator.
+    email.external.body.html.content=<p>Tillykke, <br/><br/>\ r\ n\ r\ nDu har nu en konto på $3. <br/><br/>Log på for øjeblikkeligt at begynde at samarbejde med andre medlemmer af fællesskabet. Nedenfor er oplysninger om adgang til webstedet:<br/><br/>\ r\ n\ r\ nWebstedets URL: <a href="$2">$2</a><br/>\ r\ NUser navn: $1<br/><br/>\ r\ n\ r\ nHvis du har brug for hjælp til at komme i gang eller har specifikke spørgsmål om <a href="$2">$3</a>, bedes du kontakte webstedets administrator. </p>
+    email.subject=$1 Log på detaljer
+    form.password.instructions=Adgangskoder skal være mindst 8 tegn i længden og indeholde mindst 3 af følgende tegn: små bogstaver, store bogstaver, cifre eller symboler.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Det anmodede MindTouch Touchpoint kunne ikke indlæses af din webbrowser.
+    label.back-to-top=Tilbage til toppen
+
+[WebWidget.F1]
+    label.help-button=Hjælp
+    title.help-button=Hjælp
+
+[WebWidget.Login]
+    label.authenticated-user=Ligneret på MindTouch som {{brugernavn}}
+    label.sign-in=Log ind på MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Klik for at skjule oversigt
+    label.disabled-message=Prøv igen senere.
+    label.disabled-title=Beklager, søgning er ikke tilgængelig i øjeblikket.
+    label.expand-summary=Klik for at udvide oversigt
+    label.forbidden-message=Log ind, eller kontakt din webstedsadministrator.
+    label.forbidden-title=Du har ikke tilladelse til at bruge denne funktion.
+    label.input-hint=Søg
+    label.no-results-faceting-message=Prøv at søge efter noget andet eller vælge en kategori.
+    label.no-results-message=Prøv at søge efter noget andet.
+    label.no-results-title=Beklager, vi kan ikke finde det, du leder efter.
+    label.recommended=Anbefalet
+    label.refine-search=Finjuster søgning
+    label.show-more=Vis mere
+
+[WebWidgets]
+    label.authenticated-user=Hej, {{username}}!
+    label.nav.back=Tilbage
+    label.nav.forward=Fremad
+    label.nav.home=Hjem
+
+[Component.Translate]
+    label.choose-language=Vælg sprog
+    label.english=engelsk
+    label.update-failed=Oversættelse ufuldstændig
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=・本
+    language.chinese=中
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Side indhold oversat ved hjælp af maskinoversættelse
+    dialog.translated-mindtouch=Oversat af MindTouch
