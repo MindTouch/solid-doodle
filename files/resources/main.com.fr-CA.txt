@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Message Section En-tête vide
+[Dialog.CopyMove]
+    placeholder.search=Rechercher
 
-[Old.Category]
-    dialog.old.select.title=Boîte de dialogue Ancien titre
+[F1]
+    dialog.text.back=Retour
+    dialog.text.forward=Avancer
+    dialog.text.hint=recherche
+    dialog.text.home=Accueil
+    dialog.text.open=Ouvrir l'article
 
-[Web.Defaults]
-    error.message=Message d'erreur
+[MindTouch.Help.Page]
+    category-selector=Affinez les résultats en sélectionnant un filtre.
+    help-header-label=Résultats de l'aide pour
+    in=dans
+    label-filter=Recherche dans
+    label-result-count=À propos de {0} résultats
+    label-search-all=Tous les résultats
+    label.page-rating-no=Non
+    label.page-rating-yes=Oui
+    more=Plus
+    no-search-results=Désolé, nous ne trouvons pas ce que vous cherchez.
+    no-search-try=Essayez de rechercher autre chose, de sélectionner une catégorie ou d'essayer de créer un ticket.
+    recommended=(Recommandé)
+    search-error=La recherche a rencontré une erreur.
+    search-error-try=Veuillez réessayer plus tard.
+    search-unavailable=Désolé, la recherche n'est actuellement pas disponible.
+    show-more-search=Afficher plus de résultats
+    tooltip.scrollNext=Faites défiler jusqu'à
+    tooltip.scrollPrev=Faites défiler jusqu'au précédent
+    warning.search-only-english=La recherche n'est disponible qu'en anglais
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(date de création)
+    featured.articles.created.title=Ajouté récemment
+    featured.articles.rated.label=(note)
+    featured.articles.rated.title=La plus haute note
+    featured.articles.updated.label=(date de mise à jour)
+    featured.articles.updated.title=Mise à jour récente
+    featured.articles.viewed.label=(vues)
+    featured.articles.viewed.title=Les plus populaires
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Onglet
+    label.guide.tabscrollleft=Onglets de défilement à gauche
+    label.guide.tabscrollright=Faites défiler les onglets vers la droite
+    label.reveal.showAll=Afficher tout
+    label.reveal.showLess=Afficher moins
+    label.search.placeholder=Rechercher
+    type.how-to=Comment faire
+    type.howto=Comment faire
+    type.reference=Référence
+    type.topic=Sujet
+    type.topic-category=Catégorie
+    type.topic-guide=Guide
+    type.topic-portfolio=Portfolio
+    type.unclassified=Non classé
+
+[MindTouch.LearningPath]
+    label.view-pages=Afficher les pages
+    message.page-count=<span>Pages :</span> 1$
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Masquer
+    button.toggle.show=Montrer
+    label.attachments=Inclure les pièces jointes
+    label.attachments-description=Type de contenu
+    label.attachments.type.binary=Autre
+    label.attachments.type.document=Document
+    label.attachments.type.image=Image
+    label.classification=Classification
+    label.clear-all=Effacer tous les filtres
+    label.description=Filtrer les résultats
+    label.filters=Filtres
+    label.location=Emplacement
+    label.location-empty=Il n'y a pas d'emplacements à filtrer par
+
+[MindTouch.Subscriptions]
+    cancel=Annuler
+    caption.normal=Vous êtes abonné aux pages suivantes.
+    caption.nosubscriptions=Vous n'êtes abonné à aucune page.
+    column.page=Page
+    column.recursive=Notifications par e-mail pour
+    link-title=En savoir plus sur la gestion des notifications dans MindTouch
+    nonrecursive=Cette page uniquement
+    nonrecursive.draft=Ce projet seulement
+    recursive.many=$1 pages
+    recursive.many.draft=$1 brouillons
+    recursive.many.overflow=Abonné à toutes les sous-pages
+    recursive.many.overflow.draft=Abonné à tous les brouillons de sous-page
+    recursive.one=1 page
+    recursive.one.draft=1 brouillon
+    unsubscribe=Se désabonner
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Fermer le message
+
+[Page.AuthenticationProviders]
+    page-title=Se connecter
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Visitez success.mindtouch.com pour toutes les rubriques d'aide. </a>
+
+[Page.Error]
+    not-found=Page introuvable
+    not-found-error=Désolé, la page à $1 n'a pas pu être trouvée.
+    not-found-results=Résultats de recherche connexes :
+    page-title=Erreur
+
+[Page.FeedbackRating]
+    button.leave-feedback=Laisser des commentaires
+    button.rating-no=Non
+    button.rating-yes=Oui
+    button.submit-feedback=Soumettre vos commentaires
+    label.checkbox.contact-me=Oui, vous pouvez me contacter au sujet de ces commentaires.
+    label.feedback-question=Comment pouvons-nous améliorer cet article ?
+    label.last-rated=— Vous avez évalué la dernière fois cet article sur $1
+    label.rating-message=Cet article a-t-il été utile ?
+    legend.feedback-form=Laisser des commentaires
+    message.contact.no=Non
+    message.contact.yes=Oui
+    message.submit.error=Une erreur s'est produite lors de la tentative d'envoi de vos commentaires. Veuillez réessayer ultérieurement.
+    message.submit.success=Vos commentaires ont été soumis avec succès. Vous pouvez soumettre plus de commentaires à tout moment.
+
+[Page.LiveTags]
+    label.article=Type d'article
+
+[Page.LoginPasswordRegister]
+    page-title=Connexion et inscription
+    tab.login=Se connecter
+    tab.password=réinitialisation du mot
+    tab.register=Inscription
+
+[Page.Preferences]
+    error.invalid-email=Veuillez spécifier une adresse e-mail valide
+    form.email=Adresse e-mail
+    form.fullname=Nom d'affichage
+    form.fullname.help=À des fins d'affichage uniquement
+    form.hint.password-characters=Le mot de passe doit contenir au moins 3 des caractères suivants : minuscules, majuscules, chiffres ou symboles.
+    form.hint.password-length=Le mot de passe doit comporter au moins 8 caractères
+    form.hint.password-match=Les mots de passe doivent correspondre
+    form.hint.password.restricted-words=Le mot de passe ne peut pas contenir de mots de passe
+    form.legend.information=Mes informations
+    form.legend.password=Mon mot de passe
+    form.password.new=Nouveau mot de passe
+    form.password.old=ancien mot de passe
+    form.password.submit=Modifier mot de passe
+    form.password.verify=Retaper le nouveau mot de passe
+    form.submit=Sauvegarder mes informations
+
+[Page.Tags]
+    message.notags=Cette page n'a pas de balises.
+    page-title=Tags du site
+    tags-inserted-from-template=Tags recommandés par le modèle :
+    tags-inserted-heading=Tags de page :
+
+[Page.UserLogin]
+    error=Votre connexion a échoué. Veuillez vérifier votre nom d'utilisateur et votre mot de passe.
+    page-title=Se connecter
+    submit-login=Se connecter
+    user-name=Nom d'utilisateur
+    user-password=Mot de passe
+
+[Page.UserLogout]
+    page-title=Déconnexion
+    success=Vous avez réussi à vous déconnecté.
+
+[Page.UserPassword]
+    form.submit=réinitialisation du mot
+    page-title=réinitialisation du mot
+    success.email-sent=Les instructions de réinitialisation du mot de passe ont été envoyées à l'adresse e-mail enregistrée pour ce compte. Si vous ne recevez pas d'e-mail, veuillez vérifier votre orthographe et réessayer. Contactez l'administrateur de votre site si vous continuez à avoir des problèmes de connexion.
+
+[Page.UserRegistration]
+    error.email.match=Les e-mails que vous avez saisis ne correspondent pas.
+    error.password.match=Les mots de passe que vous avez saisis ne correspondent pas.
+    form.email=Courrier électronique
+    form.email.verify=Vérifier l'e-mail
+    form.fullname=Nom complet <span class="note">(facultatif)</span>
+    form.password=Mot de passe
+    form.password.verify=Vérifier mot de passe
+    form.submit=Créer un compte
+    form.username=Nom d'utilisateur
+    page-title=Créer un compte
+    success.created=L'utilisateur <strong>$1</strong> a été créé.
+
+[Page.Welcome]
+    community-banner-text=Vous pouvez maintenant contribuer et partager du contenu.
+    community-banner-title=Bienvenue, 1$. Votre compte a été créé.
+    community-get-started-text=<strong>Voici quelques conseils pour vous aider à démarrer :</strong>
+    community-tip1-text=Fournir aux propriétaires de sites des commentaires précieux sur le contenu du site. L'article a-t-il été utile ? Cliquez sur <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Oui</span>. Si ce n'est pas le cas, cliquez sur <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Laisser des commentaires</span> pour nous dire comment nous pouvons améliorer. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">En savoir plus</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Commencez une conversation en commentant une page. Contribuez vos propres informations ou répondez aux commentaires d'autres utilisateurs. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">En savoir plus</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=réinitialisation du mot
+
+[Product]
+    powered-by-site=Propulsé par MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Se connecter
+    header.recommended-articles=Articles recommandés
+    header.toc=Table des matières
+    label.back-to-top=Retour en haut
+    label.global-location-toggle=Développer/réduire l'emplacement global
+    label.global-navigation-toggle=Développer/réduire la hiérarchie globale
+    label.last-updated=Dernière mise à jour
+    label.last-updated-by=par
+    label.no-recommended-articles=Il n'y a pas d'articles recommandés.
+    label.password=Mot de passe
+    label.pdf-export=Enregistrer au format PDF
+    label.signout=Déconnexion
+    label.site-search.button=Rechercher
+    label.site-search.input=Rechercher
+    label.skip-link=Passer au contenu principal
+    label.tags=Tags
+    label.user-preferences=Mes préférences
+    label.username=Nom d'utilisateur
+    link.quick-login=Se connecter
+    link.site-search=Site de recherche
+    placeholder.site-search.input=Comment pouvons-nous vous aider ?
+    tooltip.back-to-top=Retour en haut de cet article
+    tooltip.browse-back=Retourner à l'article précédent
+    tooltip.pdf-export=Exporter la page au format PDF
+    tooltip.signout=Cliquez pour vous déconnecter de ce site
+    tooltip.skip-link=Appuyez sur Entrée pour passer au contenu principal
+    tooltip.user-preferences=Cliquez pour modifier vos préférences d'utilisateur
+
+[Skin.Common]
+    copyright=Droit d'auteur
+    home=Accueil
+
+[System.API]
+    no-headers=Pas d'en-têtes
+    opensearch-shortname=$1 Recherche
+
+[Users]
+    email.body.html.content=<p>Félicitations, <br/><br/> \ r \ n \ r \ nVous avez maintenant un compte à 4$. <br/><br/>Connectez-vous pour commencer instantanément à collaborer avec d'autres membres de la communauté. Vous trouverez ci-dessous les détails d'accès à votre site :<br/><br/> \ r \ n \ r \ nURL du site : <a href="$2">$2</a><br/> \ r \ nNom d'utilisateur : $1<br/>Mot de passe : $3<br/><br/> \ r \ n \ r \ nSi vous avez besoin d'aide pour démarrer ou si vous avez des questions précises sur <a href="$2">$4</a>, veuillez contacter l'administrateur du site. </p>
+    email.body.html.content.nopassword=<p>Félicitations, <br/><br/> \ r \ n \ r \ nVous avez maintenant un compte à 3$. <br/><br/>Connectez-vous pour commencer instantanément à collaborer avec d'autres membres de la communauté. Vous trouverez ci-dessous les détails d'accès à votre site :<br/><br/> \ r \ n \ r \ nURL du site : <a href="$2">$2</a><br/> \ r \ nNom d'utilisateur : $1<br/><br/><em>Contactez l'administrateur du site si vous ne connaissez pas votre mot de passe. </em><br/><br/>\ r \ n \ r \ nSi vous avez besoin d'aide pour démarrer ou si vous avez des questions spécifiques sur <a href="$2">3$</a>, veuillez contacter l'administrateur du site. </p>
+    email.body.text= \ r \ nFélicitations, \ r \ n \ r \ nVous avez maintenant un compte à 4$. Connectez-vous pour commencer instantanément à collaborer avec d'autres membres de la communauté. Voici les détails d'accès à votre site : \ r \ n \ r \ nURL du site : $2 \ r \ nNom d'utilisateur : $1 \ r \ nMot de passe : $3 \ r \ n \ r \ nSi vous avez besoin d'aide pour démarrer ou si vous avez des questions spécifiques sur $4, veuillez contacter l'administrateur du site.
+    email.body.text.nopassword= \ r \ nFélicitations, \ r \ n \ r \ nVous avez maintenant un compte à 3$. Connectez-vous pour commencer instantanément à collaborer avec d'autres membres de la communauté. Vous trouverez ci-dessous les détails d'accès à votre site : \ r \ n \ r \ nURL du site : $2 \ r \ nNom d'utilisateur : $1 \ r \ nContactez l'administrateur du site si vous ne connaissez pas votre mot de passe.  \ r \ n \ r \ nSi vous avez besoin d'aide pour démarrer ou si vous avez des questions spécifiques sur 3$, veuillez contacter l'administrateur du site.
+    email.external.body.html.content=<p>Félicitations, <br/><br/> \ r \ n \ r \ nVous avez maintenant un compte à 3$. <br/><br/>Connectez-vous pour commencer instantanément à collaborer avec d'autres membres de la communauté. Voici les détails d'accès à votre site :<br/><br/> \ r \ n \ r \ nURL du site : <a href="$2">$2</a><br/> \ r \ nNom d'utilisateur : $1<br/><br/> \ r \ n \ r \ nSi vous avez besoin d'aide pour démarrer ou si vous avez des questions spécifiques sur <a href="$2">$3</a>, veuillez contacter l'administrateur du site. </p>
+    email.subject=$1 Détails de connexion
+    form.password.instructions=Les mots de passe doivent comporter au moins 8 caractères et contenir au moins 3 des caractères suivants : minuscules, majuscules, chiffres ou symboles.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Le point tactile MindTouch demandé n'a pas pu être chargé par votre navigateur Web.
+    label.back-to-top=Retour en haut
+
+[WebWidget.F1]
+    label.help-button=Aide
+    title.help-button=Aide
+
+[WebWidget.Login]
+    label.authenticated-user=S'est connecté à MindTouch en tant que {{username}}
+    label.sign-in=Se connecter à MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Cliquez pour réduire le résumé
+    label.disabled-message=Veuillez réessayer plus tard.
+    label.disabled-title=Désolé, la recherche n'est actuellement pas disponible.
+    label.expand-summary=Cliquez pour développer le résumé
+    label.forbidden-message=Veuillez vous connecter ou contacter l'administrateur de votre site.
+    label.forbidden-title=Vous n'avez pas l'autorisation d'utiliser cette fonctionnalité.
+    label.input-hint=Rechercher
+    label.no-results-faceting-message=Essayez de rechercher autre chose ou de sélectionner une catégorie.
+    label.no-results-message=Essayez de chercher autre chose.
+    label.no-results-title=Désolé, nous ne trouvons pas ce que vous cherchez.
+    label.recommended=Recommandé
+    label.refine-search=Affiner la recherche
+    label.show-more=Afficher plus
+
+[WebWidgets]
+    label.authenticated-user=Bonjour, {{username}} !
+    label.nav.back=Retour
+    label.nav.forward=Avancer
+    label.nav.home=Accueil
+
+[Component.Translate]
+    label.choose-language=Choisir la langue
+    label.english=Anglais
+    label.update-failed=Traduction incomplète
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen au Canada
+    language.italian=Italiano
+    title.translated-machine=Contenu de la page traduit en utilisant la traduction automatique
+    dialog.translated-mindtouch=Traduit par MindTouch
