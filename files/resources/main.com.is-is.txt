@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Skilaboð kafla tómur haus
+[Dialog.CopyMove]
+    placeholder.search=Leita
 
-[Old.Category]
-    dialog.old.select.title=Gömul Valmynd Veldu titil
+[F1]
+    dialog.text.back=Til baka
+    dialog.text.forward=Áfram
+    dialog.text.hint=leit
+    dialog.text.home=Heim
+    dialog.text.open=Opna grein
 
-[Web.Defaults]
-    error.message=Villuboð
+[MindTouch.Help.Page]
+    category-selector=betrumbæta niðurstöður með því að velja síu.
+    help-header-label=Hjálp niðurstöður fyrir
+    in=í
+    label-filter=Leitað í
+    label-result-count=Um {0} niðurstöður
+    label-search-all=Allar niðurstöður
+    label.page-rating-no=Nei
+    label.page-rating-yes=Já
+    more=Meira
+    no-search-results=Því miður, við getum ekki fundið það sem þú ert að leita að.
+    no-search-try=Prófaðu að leita að einhverju öðru, velja flokk eða reyna að búa til miða.
+    recommended=(Mælt með)
+    search-error=Leit hefur komið upp villu.
+    search-error-try=Vinsamlegast reyndu aftur seinna.
+    search-unavailable=Því miður, search er ekki aðgengilegur eins og er.
+    show-more-search=Sýna fleiri niðurstöður
+    tooltip.scrollNext=Skrunaðu að næsta
+    tooltip.scrollPrev=Skrunaðu að fyrri
+    warning.search-only-english=Leit er aðeins í boði á ensku
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(dagsetning búin)
+    featured.articles.created.title=Nýlega bætt
+    featured.articles.rated.label=(einkunn)
+    featured.articles.rated.title=Hæsta einkunn
+    featured.articles.updated.label=(dagsetning uppfærð)
+    featured.articles.updated.title=Nýlega uppfært
+    featured.articles.viewed.label=(skoðanir)
+    featured.articles.viewed.title=Vinsælast
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Flipa
+    label.guide.tabscrollleft=Flettu flipa til vinstri
+    label.guide.tabscrollright=Flettu flipa til hægri
+    label.reveal.showAll=Sýna allt
+    label.reveal.showLess=Sýna minna
+    label.search.placeholder=Leita
+    type.how-to=Hvernig-til
+    type.howto=Hvernig-til
+    type.reference=Tilvísun
+    type.topic=Topic
+    type.topic-category=Flokkur
+    type.topic-guide=Guide
+    type.topic-portfolio=eignasafn
+    type.unclassified=Óflokkuð
+
+[MindTouch.LearningPath]
+    label.view-pages=Skoða síður
+    message.page-count=<span>Síður:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Fela
+    button.toggle.show=Sýna
+    label.attachments=Hafa viðhengi
+    label.attachments-description=Efni Tegund
+    label.attachments.type.binary=Annað
+    label.attachments.type.document=Skjal
+    label.attachments.type.image=Mynd
+    label.classification=Flokkun
+    label.clear-all=Hreinsaðu allar síur
+    label.description=Sía Niðurstöður
+    label.filters=síur
+    label.location=Staðsetning
+    label.location-empty=Það eru engar staðir til að sía eftir
+
+[MindTouch.Subscriptions]
+    cancel=Hætta
+    caption.normal=Þú ert áskrifandi að eftirfarandi síðum.
+    caption.nosubscriptions=Þú ert ekki áskrifandi að neinum síðum.
+    column.page=Blaðsíða
+    column.recursive=Email tilkynningar fyrir
+    link-title=Lærðu meira um stjórnun tilkynninga í MindTouch
+    nonrecursive=Þessi síða aðeins
+    nonrecursive.draft=Þessi drög aðeins
+    recursive.many=$1 síður
+    recursive.many.draft=$1 drög
+    recursive.many.overflow=Gerast áskrifandi að öllum undirsíðum
+    recursive.many.overflow.draft=Gerast áskrifandi að öllum undirsíðu drög
+    recursive.one=1 síða
+    recursive.one.draft=1 drög
+    unsubscribe=Afskrá
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Loka skilaboðum
+
+[Page.AuthenticationProviders]
+    page-title=Skráðu þig inn
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Heimsæktu success.mindtouch.com fyrir alla hjálparefni. </a>
+
+[Page.Error]
+    not-found=Síða fannst ekki
+    not-found-error=Því miður var ekki hægt að finna síðuna á $1.
+    not-found-results=Tengdar leitarniðurstöður:
+    page-title=Villa
+
+[Page.FeedbackRating]
+    button.leave-feedback=Leyfi viðbrögð
+    button.rating-no=Nei
+    button.rating-yes=Já
+    button.submit-feedback=Senda inn athugasemdir
+    label.checkbox.contact-me=Já, þú gætir haft samband við mig um þessa endurgjöf.
+    label.feedback-question=Hvernig getum við bætt þessa grein?
+    label.last-rated=— Þú einkunnir síðast þessa grein á $1
+    label.rating-message=Var þessi grein gagnleg?
+    legend.feedback-form=Leyfi viðbrögð
+    message.contact.no=Nei
+    message.contact.yes=Já
+    message.submit.error=Villa kom upp á meðan reynt var að senda athugasemdir þínar. Vinsamlegast reyndu aftur síðar.
+    message.submit.success=Athugasemdir þínar hafa verið sendar með góðum árangri. Þú getur sent inn fleiri athugasemdir hvenær sem er.
+
+[Page.LiveTags]
+    label.article=grein tegund
+
+[Page.LoginPasswordRegister]
+    page-title=Skráðu þig inn og skráning
+    tab.login=Skráðu þig inn
+    tab.password=Endurstilla lykilorð
+    tab.register=Skráning
+
+[Page.Preferences]
+    error.invalid-email=Vinsamlegast tilgreinið gilt netfang
+    form.email=Netfang
+    form.fullname=Nafn til birtingar
+    form.fullname.help=Aðeins til skjás
+    form.hint.password-characters=Lykilorðið verður að innihalda að minnsta kosti 3 af eftirfarandi stöfum: lágstafi, hástafi, tölustafi eða tákn.
+    form.hint.password-length=Lykilorðið verður að vera að minnsta kosti 8 stafir að lengd
+    form.hint.password-match=Lykilorðin verða að passa
+    form.hint.password.restricted-words=Lykilorðið getur ekki innihaldið algeng lykilorð orð
+    form.legend.information=Upplýsingarnar mínar
+    form.legend.password=Lykilorðið mitt
+    form.password.new=Nýtt lykilorð
+    form.password.old=Gamalt lykilorð
+    form.password.submit=Breyta lykilorði
+    form.password.verify=Retype nýtt lykilorð
+    form.submit=Vista upplýsingarnar mínar
+
+[Page.Tags]
+    message.notags=Þessi síða hefur engin merki.
+    page-title=Veftré merki
+    tags-inserted-from-template=Tags mælt með sniðmátinu:
+    tags-inserted-heading=Blaðsíðutög:
+
+[Page.UserLogin]
+    error=Innskráning þín hefur mistekist. Vinsamlegast staðfestu notandanafn og lykilorð.
+    page-title=Skráðu þig inn
+    submit-login=Skráðu þig inn
+    user-name=Notandanafn
+    user-password=lykilorð
+
+[Page.UserLogout]
+    page-title=Skráðu þig út
+    success=Þú hefur skráð þig út.
+
+[Page.UserPassword]
+    form.submit=Endurstilla lykilorð
+    page-title=Endurstilla lykilorð
+    success.email-sent=Leiðbeiningar um endurstillingu lykilorðs hafa verið sendar á netfangið sem skráð er fyrir þennan reikning. Ef þú færð ekki tölvupóst skaltu athuga stafsetninguna þína og reyna aftur. Hafðu samband við umsjónaraðila vefsvæðisins ef þú heldur áfram að hafa vandamál við innskráningu.
+
+[Page.UserRegistration]
+    error.email.match=Tölvupósturinn sem þú slóst inn passa ekki.
+    error.password.match=Lykilorðin sem þú slóst inn passa ekki.
+    form.email=Email
+    form.email.verify=Staðfestu tölvupóst
+    form.fullname=Fullt nafn <span class="note">(valfrjálst)</span>
+    form.password=lykilorð
+    form.password.verify=Staðfestu lykilorð
+    form.submit=Búa til reikning
+    form.username=Notandanafn
+    page-title=Búa til reikning
+    success.created=Notandi <strong>$1</strong> hefur verið búin til.
+
+[Page.Welcome]
+    community-banner-text=Þú getur nú lagt sitt af mörkum og deilt efni.
+    community-banner-title=Velkomin, $1. Reikningurinn þinn hefur verið stofnaður.
+    community-get-started-text=<strong>Hér eru nokkrar ábendingar til að hjálpa þér að byrja:</strong>
+    community-tip1-text=Veita síðuna eigendur með dýrmætur viðbrögð um innihald af the staður. Var greinin gagnleg? Smelltu á <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Já</span>. Ef ekki, smelltu á <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Skildu eftir viðbrögð</span> til að segja okkur hvernig við getum bætt okkur. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Lærðu meira</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Byrjaðu samtal með því að tjá sig á síðu. Stuðla eigin upplýsingar eða svara athugasemdum annarra notenda. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Lærðu meira</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Endurstilla lykilorð
+
+[Product]
+    powered-by-site=Knúið af MindTou
+
+[Skin.Columbia]
+    button.quick-login=Skráðu þig inn
+    header.recommended-articles=Mælt með greinum
+    header.toc=Innihaldslýsing
+    label.back-to-top=Til baka efst
+    label.global-location-toggle=Stækka/hrynja alþjóðlegt staðsetning
+    label.global-navigation-toggle=Stækka/hrynja alþjóðlegt stigveldi
+    label.last-updated=Síðast uppfært
+    label.last-updated-by=eftir
+    label.no-recommended-articles=Það eru engar ráðlagðar greinar.
+    label.password=lykilorð
+    label.pdf-export=Vistaðu sem PDF
+    label.signout=Skráðu þig út
+    label.site-search.button=Leita
+    label.site-search.input=Leita
+    label.skip-link=Sleppa yfir í aðalefni
+    label.tags=Tags
+    label.user-preferences=Mínar óskir
+    label.username=Notandanafn
+    link.quick-login=Skráðu þig inn
+    link.site-search=Leita á síðuna
+    placeholder.site-search.input=Hvernig getum við hjálpað þér?
+    tooltip.back-to-top=Hoppa aftur efst á þessari grein
+    tooltip.browse-back=Fara aftur í fyrri grein
+    tooltip.pdf-export=Flytja út síðu sem PDF
+    tooltip.signout=Smelltu til að skrá sig út af þessari síðu
+    tooltip.skip-link=Ýttu á Enter til að sleppa yfir í aðalefnið
+    tooltip.user-preferences=Smelltu til að breyta notendastillingum þínum
+
+[Skin.Common]
+    copyright=Höfundarréttur
+    home=Heim
+
+[System.API]
+    no-headers=Engar hausar
+    opensearch-shortname=$1 Leita
+
+[Users]
+    email.body.html.content=<p>Til hamingju, <br/><br/>\ r\ n\ r\ nÞú ert nú með reikning á $4. <br/><br/>Skráðu þig inn til að hefja samstundis samstarf við aðra samfélagsmeðlimi. Hér að neðan eru upplýsingar um aðgang á síðuna þína:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nNotandanafn: $1<br/>Lykilorð: $3<br/><br/>\ r\ n\ r\ nEf þú þarft hjálp að byrja eða hafa sérstakar spurningar um <a href="$2">$4</a>, vinsamlegast hafðu samband við síðuna stjórnandi. </p>
+    email.body.html.content.nopassword=<p>Til hamingju, <br/><br/>\ r\ n\ r\ nÞú ert nú með reikning á $3. <br/><br/>Skráðu þig inn til að hefja samstundis samstarf við aðra samfélagsmeðlimi. Hér að neðan eru upplýsingar um aðgang að vefsvæðinu þínu:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nNotandanafn: $1<br/><br/><em>Hafðu samband við kerfisstjóra ef þú veist ekki lykilorðið þitt. </em><br/><br/>\ r\ n\ r\ nEf þú þarft hjálp að byrja eða hafa sérstakar spurningar um <a href="$2">$3</a>, vinsamlegast hafðu samband við síðuna stjórnandi. </p>
+    email.body.text=\ r\ nTil hamingju,\ r\ n\ r\ nÞú ert nú með reikning á $4. Skráðu þig inn til að hefja samstundis samstarf við aðra samfélagsmeðlimi. Hér að neðan eru upplýsingar um aðgang að vefsvæðinu þínu:\ r\ n\ r\ nSite URL: $2\ r\ nNotandanafn: $1\ r\ nPassword: $3\ r\ n\ r\ nEf þú þarft hjálp að byrja eða hafa sérstakar spurningar um $4, vinsamlegast hafðu samband við síðuna stjórnandi.
+    email.body.text.nopassword=\ r\ nTil hamingju,\ r\ n\ r\ nÞú ert nú með reikning á $3. Skráðu þig inn til að hefja samstundis samstarf við aðra samfélagsmeðlimi. Hér að neðan eru upplýsingar um aðgang að vefsvæðinu þínu:\ r\ n\ r\ nSite URL: $2\ r\ nNotandanafn: $1\ r\ nHafðu samband við vefstjóra ef þú veist ekki lykilorðið þitt. \ r\ n\ r\ nEf þú þarft hjálp að byrja eða hafa sérstakar spurningar um $3, vinsamlegast hafðu samband við síðuna stjórnandi.
+    email.external.body.html.content=<p>Til hamingju, <br/><br/>\ r\ n\ r\ nÞú ert nú með reikning á $3. <br/><br/>Skráðu þig inn til að hefja samstundis samstarf við aðra samfélagsmeðlimi. Hér að neðan eru upplýsingar um aðgang á síðuna þína:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nNotandanafn: $1<br/><br/>\ r\ n\ r\ nEf þú þarft hjálp að byrja eða hafa sérstakar spurningar um <a href="$2">$3</a>, vinsamlegast hafðu samband við síðuna stjórnandi. </p>
+    email.subject=$1 Skráðu þig inn Upplýsingar
+    form.password.instructions=Lykilorð skulu vera að lágmarki 8 stafir að lengd og innihalda að minnsta kosti 3 af eftirfarandi stöfum: lágstafi, hástafi, tölustafi eða tákn.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Umbeðinn MindTouch Touchpoint gæti ekki verið hlaðinn af vafranum þínum.
+    label.back-to-top=Til baka efst
+
+[WebWidget.F1]
+    label.help-button=Hjálp
+    title.help-button=Hjálp
+
+[WebWidget.Login]
+    label.authenticated-user=Undirritaður inn á MindTouch sem {{notandanafn}}
+    label.sign-in=Innskráning í MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Smelltu til að hrynja samantekt
+    label.disabled-message=Vinsamlegast reyndu aftur seinna.
+    label.disabled-title=Því miður, search er ekki aðgengilegur eins og er.
+    label.expand-summary=Smelltu til að auka samantekt
+    label.forbidden-message=Vinsamlegast skráðu þig inn eða hafðu samband við umsjónaraðila vefsvæðisins.
+    label.forbidden-title=Þú hefur ekki leyfi til að nota þennan eiginleika.
+    label.input-hint=Leita
+    label.no-results-faceting-message=Reyndu að leita að einhverju öðru eða velja flokk.
+    label.no-results-message=Reyndu að leita að einhverju öðru.
+    label.no-results-title=Því miður, við getum ekki fundið það sem þú ert að leita að.
+    label.recommended=Mælt
+    label.refine-search=betrumbæta leit
+    label.show-more=Sýna meira
+
+[WebWidgets]
+    label.authenticated-user=Halló, {{notandanafn}}!
+    label.nav.back=Til baka
+    label.nav.forward=Áfram
+    label.nav.home=Heim
+
+[Component.Translate]
+    label.choose-language=Veldu tungumál
+    label.english=Enska
+    label.update-failed=Ófullkomin þýðing
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Danska
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Page efni þýtt með vél þýðingu
+    dialog.translated-mindtouch=Þýtt af MindTouch
