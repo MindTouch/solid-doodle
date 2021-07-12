@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Mesaj Bölməsi Boş Başlıq
+[Dialog.CopyMove]
+    placeholder.search=Axtarış
 
-[Old.Category]
-    dialog.old.select.title=Dialoq Köhnə Başlığı seçin
+[F1]
+    dialog.text.back=Geri
+    dialog.text.forward=Forward
+    dialog.text.hint=axtarış
+    dialog.text.home=Ana səhifə
+    dialog.text.open=Açıq məqalə
 
-[Web.Defaults]
-    error.message=Səhv mesajı
+[MindTouch.Help.Page]
+    category-selector=Bir filtr seçərək nəticələri dəqiqləşdirin.
+    help-header-label=Nəticələr üçün kömək
+    in=ilə
+    label-filter=Axtarış
+    label-result-count={0} nəticələri haqqında
+    label-search-all=Bütün nəticələr
+    label.page-rating-no=Xeyr
+    label.page-rating-yes=Bəli
+    more=Daha çox
+    no-search-results=Bağışlayın, aradığınız şeyi tapa bilmirik.
+    no-search-try=Başqa bir şey axtarmağa, bir kateqoriya seçməyə və ya bilet yaratmağa cəhd edin.
+    recommended=(Tövsiyə olunur)
+    search-error=Axtarış bir səhvlə qarşılaşdı.
+    search-error-try=Daha sonra yenidən cəhd edin.
+    search-unavailable=Bağışlayın, axtarış hazırda mümkün deyil.
+    show-more-search=Daha çox nəticə göstər
+    tooltip.scrollNext=Növbəti gedin
+    tooltip.scrollPrev=Əvvəlki gedin
+    warning.search-only-english=Axtarış yalnız ingilis dilində mövcuddur
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(tarix yaradılmışdır)
+    featured.articles.created.title=Bu yaxınlarda əlavə
+    featured.articles.rated.label=(reytinq)
+    featured.articles.rated.title=Ən yüksək qiymətləndirilib
+    featured.articles.updated.label=(tarix yenilənir)
+    featured.articles.updated.title=Bu yaxınlarda yenilənir
+    featured.articles.viewed.label=(Baxışlar)
+    featured.articles.viewed.title=Ən populyar
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Nişanlanmış
+    label.guide.tabscrollleft=Nişanlar sola gedin
+    label.guide.tabscrollright=Nişanlar sağa fırladın
+    label.reveal.showAll=Hamısını göstər
+    label.reveal.showLess=Daha az göstər
+    label.search.placeholder=Axtarış
+    type.how-to=Necə etməli
+    type.howto=Necə etməli
+    type.reference=Referans
+    type.topic=Mövzu
+    type.topic-category=Kateqoriya
+    type.topic-guide=Guide
+    type.topic-portfolio=Portfel
+    type.unclassified=təsnif edilməmiş
+
+[MindTouch.LearningPath]
+    label.view-pages=Səhifələrə baxın
+    message.page-count=<span>Səhifələr:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Gizlət
+    button.toggle.show=Göstərmək
+    label.attachments=Əlavələr daxil edin
+    label.attachments-description=Məzmun növü
+    label.attachments.type.binary=Digər
+    label.attachments.type.document=Sənəd
+    label.attachments.type.image=Image
+    label.classification=Təsnifat
+    label.clear-all=Bütün filtrləri təmizlə
+    label.description=Filtr nəticələri
+    label.filters=Filtrlər
+    label.location=Yerləşmə
+    label.location-empty=Süzgəc üçün heç bir yer yoxdur
+
+[MindTouch.Subscriptions]
+    cancel=Ləğv
+    caption.normal=Aşağıdakı səhifələrə abunə olursunuz.
+    caption.nosubscriptions=Siz hər hansı bir səhifəyə abunə deyilsiniz.
+    column.page=Səhifə
+    column.recursive=E-poçt bildirişləri
+    link-title=MindTouch-da bildirişlərin idarə edilməsi haqqında daha ətraflı məlumat
+    nonrecursive=Bu səhifə yalnız
+    nonrecursive.draft=Bu layihə yalnız
+    recursive.many=$1 səhifələr
+    recursive.many.draft=$1 layihələri
+    recursive.many.overflow=Bütün alt səhifələrə abunə
+    recursive.many.overflow.draft=Bütün alt səhifə layihələrinə abunə
+    recursive.one=1 səhifə
+    recursive.one.draft=1 layihəsi
+    unsubscribe=Abunəlikdən çıxmaq
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Mesajı bağla
+
+[Page.AuthenticationProviders]
+    page-title=Daxil ol
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Bütün yardım mövzuları üçün success.mindtouch.com səhifəsinə baxın. </a>
+
+[Page.Error]
+    not-found=Səhifə tapılmadı
+    not-found-error=Bağışlayın, $1-da səhifə tapıla bilmədi.
+    not-found-results=Əlaqəli axtarış nəticələri:
+    page-title=Səhv
+
+[Page.FeedbackRating]
+    button.leave-feedback=Əlaqə buraxın
+    button.rating-no=Xeyr
+    button.rating-yes=Bəli
+    button.submit-feedback=Əlaqə göndər
+    label.checkbox.contact-me=Bəli, bu geribildirim haqqında mənə müraciət edə bilərsiniz.
+    label.feedback-question=Bu məqaləni necə inkişaf etdirə bilərik?
+    label.last-rated=— Siz son bu məqalə qiymətləndirilib $1
+    label.rating-message=Bu məqalə faydalı oldu?
+    legend.feedback-form=Əlaqə buraxın
+    message.contact.no=Xeyr
+    message.contact.yes=Bəli
+    message.submit.error=Geribildiriminizi göndərməyə cəhd edərkən bir səhv baş verdi. Daha sonra yenidən cəhd edin.
+    message.submit.success=Geribildiriminiz uğurla təqdim edilmişdir. İstənilən vaxt daha çox rəy təqdim edə bilərsiniz.
+
+[Page.LiveTags]
+    label.article=Məqalənin növü
+
+[Page.LoginPasswordRegister]
+    page-title=Daxil ol və qeydiyyat
+    tab.login=Daxil ol
+    tab.password=Şifrəni yeniləyin
+    tab.register=Qeydiyyat
+
+[Page.Preferences]
+    error.invalid-email=Xahiş edirik etibarlı bir e-poçt ünvanı göstərin
+    form.email=E-poçt ünvanı
+    form.fullname=Göstərici adı
+    form.fullname.help=Yalnız ekran məqsədləri üçün
+    form.hint.password-characters=Şifrə aşağıdakı simvollardan ən azı 3-ü olmalıdır: kiçik, böyük, rəqəm və ya simvollar.
+    form.hint.password-length=Şifrə ən azı 8 karakter uzunluğunda olmalıdır
+    form.hint.password-match=Parollar uyğun olmalıdır
+    form.hint.password.restricted-words=Şifrədə ümumi parol sözləri ola bilməz
+    form.legend.information=Mənim məlumat
+    form.legend.password=Mənim şifrəm
+    form.password.new=Yeni şifrə
+    form.password.old=Köhnə parol
+    form.password.submit=Şifrəni dəyişdirin
+    form.password.verify=Yeni şifrəni yenidən yazın
+    form.submit=Məlumatlarımı saxla
+
+[Page.Tags]
+    message.notags=Bu səhifənin heç bir etiketi yoxdur.
+    page-title=Sayt etiketləri
+    tags-inserted-from-template=Şablon tərəfindən tövsiyə olunan etiketlər:
+    tags-inserted-heading=Səhifə etiketləri:
+
+[Page.UserLogin]
+    error=Sizin giriş uğursuz oldu. İstifadəçi adınızı və şifrənizi yoxlayın.
+    page-title=Daxil ol
+    submit-login=Daxil ol
+    user-name=İstifadəçi adı
+    user-password=Şifrə
+
+[Page.UserLogout]
+    page-title=Çıxın
+    success=Siz uğurla imza atdınız.
+
+[Page.UserPassword]
+    form.submit=Şifrəni yeniləyin
+    page-title=Şifrəni yeniləyin
+    success.email-sent=Bu hesab üçün qeydiyyata alınmış e-poçt ünvanına parol sıfırlama təlimatları göndərilmişdir. Bir e-poçt almırsınızsa, yazım yoxlayın və yenidən cəhd edin. İmzalanma məsələləri yaşamağa davam etsəniz, site administratorunuzla əlaqə saxlayın.
+
+[Page.UserRegistration]
+    error.email.match=Daxil etdiyiniz e-poçt uyğun deyil.
+    error.password.match=Daxil etdiyiniz parollar uyğun deyil.
+    form.email=E-poçt
+    form.email.verify=E-poçtu yoxlayın
+    form.fullname=Tam adı <span class="note">(isteğe bağlı)</span>
+    form.password=Şifrə
+    form.password.verify=Şifrəni yoxlayın
+    form.submit=Hesab yaradın
+    form.username=İstifadəçi adı
+    page-title=Hesab yaradın
+    success.created=İstifadəçi <strong>$1</strong> yaradılmışdır.
+
+[Page.Welcome]
+    community-banner-text=İndi məzmunu qatqı təmin edə və paylaşa bilərsiniz.
+    community-banner-title=Xoş gəlmisiniz, $1. Hesabınız yaradılmışdır.
+    community-get-started-text=<strong>Başlamanıza kömək etmək üçün bəzi məsləhətlər:</strong>
+    community-tip1-text=Saytın məzmunu haqqında sayt sahiblərinə qiymətli rəylər verin. Məqalə faydalı oldu? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Bəli</span>düyməsini basın. Əgər yoxsa, necə inkişaf edə biləcəyimizi bizə <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">bildirmək üçün Əlaqə buraxın</span> . <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Daha çox məlumat əldə edin</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Bir səhifəyə şərh edərək söhbətə başlayın. Öz məlumatlarınıza kömək edin və ya digər istifadəçinin şərhlərinə cavab verin. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Daha çox məlumat əldə edin</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Şifrəni yeniləyin
+
+[Product]
+    powered-by-site=MindTouch tərəfindən təchiz edilmişdir
+
+[Skin.Columbia]
+    button.quick-login=Daxil ol
+    header.recommended-articles=Tövsiyə olunan
+    header.toc=Mündəricat
+    label.back-to-top=Yuxarı qayıt
+    label.global-location-toggle=Qlobal yeri genişləndirmək və yıxmaq
+    label.global-navigation-toggle=Qlobal iyerarxiyanı genişləndirmək/yıxmaq
+    label.last-updated=Son yeniləmə
+    label.last-updated-by=tərəfindən
+    label.no-recommended-articles=Tövsiyə olunan məqalələr yoxdur.
+    label.password=Şifrə
+    label.pdf-export=PDF olaraq saxla
+    label.signout=Çıxın
+    label.site-search.button=Axtarış
+    label.site-search.input=Axtarış
+    label.skip-link=Əsas məzmuna keçin
+    label.tags=Tags
+    label.user-preferences=Mənim seçimlərim
+    label.username=İstifadəçi adı
+    link.quick-login=Daxil ol
+    link.site-search=Axtarış saytı
+    placeholder.site-search.input=Sizə necə kömək edə bilərik?
+    tooltip.back-to-top=Bu maddənin üstünə geri dönün
+    tooltip.browse-back=Əvvəlki məqaləyə geri qayıdın
+    tooltip.pdf-export=PDF olaraq səhifəni ixrac edin
+    tooltip.signout=Bu saytdan çıxmaq üçün basın
+    tooltip.skip-link=Əsas məzmuna keçmək üçün enter düyməsini basın
+    tooltip.user-preferences=İstifadəçi seçimlərinizi dəyişdirmək üçün basın
+
+[Skin.Common]
+    copyright=Müəllif hüquqları
+    home=Ana səhifə
+
+[System.API]
+    no-headers=Heç bir başlıq yoxdur
+    opensearch-shortname=$1 Axtarış
+
+[Users]
+    email.body.html.content=<p>Təbrik edirik, <br/><br/>\ r\ n\ r\ nİndi $4 hesabınız var. <br/><br/>Dərhal digər icma üzvləri ilə əməkdaşlığa başlamaq üçün daxil olun. Aşağıda saytınıza giriş detalları verilmişdir:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nİstifadəçi adı: $1<br/>Şifrə: $3<br/><br/>\ r\ n\ r\ nBaşlamağa kömək lazımdırsa və ya <a href="$2">$4</a>haqqında xüsusi suallarınız varsa, sayt administratoruna müraciət edin. </p>
+    email.body.html.content.nopassword=<p>Təbrik edirik, <br/><br/>\ r\ n\ r\ nİndi $3-da bir hesabınız var. <br/><br/>Dərhal digər icma üzvləri ilə əməkdaşlığa başlamaq üçün daxil olun. Aşağıda saytınıza giriş məlumatları verilmişdir:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nİstifadəçi adı: $1<em>Şifrənizi bilmirsinizsə site administratoruna<br/><br/>müraciət edin. </em><br/><br/>\ r\ n\ r\ nBaşlamağa kömək lazımdırsa və ya <a href="$2">$3</a>haqqında xüsusi suallarınız varsa, saytın administratoruna müraciət edin. </p>
+    email.body.text=\ r\ nTəbrik edirik,\ r\ n\ r\ nİndi $4 hesabınız var. Dərhal digər icma üzvləri ilə əməkdaşlığa başlamaq üçün daxil olun. Aşağıda saytınıza giriş detalları verilmişdir:\ r\ n\ r\ nSite URL: $2\ r\ nİstifadəçi adı: $1\ r\ nPassword: $3\ r\ n\ nBaşlamağa kömək lazımdırsa və ya $4 haqqında xüsusi suallarınız varsa, sayt administratoruna müraciət edin.
+    email.body.text.nopassword=\ r\ nTəbrik edirik,\ r\ n\ r\ nİndi $3-da bir hesabınız var. Dərhal digər icma üzvləri ilə əməkdaşlığa başlamaq üçün daxil olun. Aşağıda saytınıza giriş məlumatları verilmişdir:\ r\ n\ r\ nSite URL: $2\ r\ nİstifadəçi adı: $1\ r\ nŞifrənizi bilmirsinizsə site administratoruna müraciət edin. \ r\ n\ r\ nBaşlamağa kömək lazımdırsa və ya $3 haqqında xüsusi suallarınız varsa, saytın administratoruna müraciət edin.
+    email.external.body.html.content=<p>Təbrik edirik, <br/><br/>\ r\ n\ r\ nİndi $3-da bir hesabınız var. <br/><br/>Dərhal digər icma üzvləri ilə əməkdaşlığa başlamaq üçün daxil olun. Aşağıda saytınıza giriş məlumatları verilmişdir:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nİstifadəçi adı: $1<br/><br/>\ r\ n\ r\ nBaşlamağa kömək lazımdırsa və ya <a href="$2">$3</a>haqqında xüsusi suallarınız varsa, sayt administratoruna müraciət edin. </p>
+    email.subject=$1 Daxil ol Ətraflı
+    form.password.instructions=Şifrələr ən azı 8 simvol uzunluğunda olmalıdır və aşağıdakı simvollardan ən azı 3-ü ehtiva edir: kiçik, böyük, rəqəm və ya simvollar.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=İstədiyiniz MindTouch Touchpoint veb brauzeriniz tərəfindən yüklənə bilmədi.
+    label.back-to-top=Yuxarı qayıt
+
+[WebWidget.F1]
+    label.help-button=Kömək
+    title.help-button=Kömək
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch-da {{username}} kimi imzalandı
+    label.sign-in=MindTouch-a daxil olun
+
+[WebWidget.Search]
+    label.collapse-summary=Xülasə çökmək üçün basın
+    label.disabled-message=Daha sonra yenidən cəhd edin.
+    label.disabled-title=Bağışlayın, axtarış hazırda mümkün deyil.
+    label.expand-summary=Xülasə genişləndirmək üçün basın
+    label.forbidden-message=Daxil olun və ya site administratorunuzla əlaqə saxlayın.
+    label.forbidden-title=Bu funksiyanı istifadə etmək icazəniz yoxdur.
+    label.input-hint=Axtarış
+    label.no-results-faceting-message=Başqa bir şey axtarmağa və ya bir kateqoriya seçməyə cəhd edin.
+    label.no-results-message=Başqa bir şey axtarmağa çalışın.
+    label.no-results-title=Bağışlayın, aradığınız şeyi tapa bilmirik.
+    label.recommended=Tövsiyə
+    label.refine-search=Axtarışı dəqiqləşdirin
+    label.show-more=Daha çox göstər
+
+[WebWidgets]
+    label.authenticated-user=Salam, {{istifadəçi adı}}!
+    label.nav.back=Geri
+    label.nav.forward=Forward
+    label.nav.home=Ana səhifə
+
+[Component.Translate]
+    label.choose-language=Dil Seçin
+    label.english=İngilis
+    label.update-failed=Tərcümə natamam
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中エー
+    language.french=Français
+    language.portuguese=Portuqaliyalı
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dank
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Səhifə məzmunu maşın tərcümə istifadə edərək
+    dialog.translated-mindtouch=MindTouch tərəfindən tərcümə
