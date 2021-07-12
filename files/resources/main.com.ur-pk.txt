@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=پیغام کا سیکشن خالی ہیڈر
+[Dialog.CopyMove]
+    placeholder.search=تلاش
 
-[Old.Category]
-    dialog.old.select.title=ڈائیلاگ پرانے منتخب عنوان
+[F1]
+    dialog.text.back=واپس
+    dialog.text.forward=فارورڈ
+    dialog.text.hint=تلاش کریں
+    dialog.text.home=ہوم
+    dialog.text.open=مضمون کھولیں
 
-[Web.Defaults]
-    error.message=غلطی کا پیغام
+[MindTouch.Help.Page]
+    category-selector=فلٹر منتخب کرکے نتائج کو بہتر بنائیں.
+    help-header-label=مدد کے نتائج
+    in=اندرون
+    label-filter=میں تلاش
+    label-result-count=کے بارے میں {0} نتائج
+    label-search-all=تمام نتائج
+    label.page-rating-no=نہیں
+    label.page-rating-yes=جی ہاں
+    more=مزید
+    no-search-results=معذرت، ہم آپ کے لئے تلاش کر رہے ہیں جو تلاش نہیں کر سکتے.
+    no-search-try=کسی اور چیز کے لئے تلاش کرنے کی کوشش کریں، کسی قسم کا انتخاب کریں، یا ٹکٹ بنانے کی کوشش کریں۔
+    recommended=(تجویز کردہ)
+    search-error=تلاش نے ایک غلطی کا سامنا کیا ہے.
+    search-error-try=براہ مہربانی بعد میں دوبارہ کوشش کریں۔
+    search-unavailable=معذرت، تلاش فی الحال دستیاب نہیں ہے.
+    show-more-search=مزید نتائج دکھائیں
+    tooltip.scrollNext=اگلے پر سکرال کریں
+    tooltip.scrollPrev=پچھلے تک سکرال
+    warning.search-only-english=تلاش صرف انگریزی میں دستیاب ہے
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(تاریخ پیدا)
+    featured.articles.created.title=حال ہی میں شامل
+    featured.articles.rated.label=(درجہ بندی)
+    featured.articles.rated.title=سب سے زیادہ درجہ بندی
+    featured.articles.updated.label=(تاریخ اپ ڈیٹ)
+    featured.articles.updated.title=حال ہی میں تازہ
+    featured.articles.viewed.label=(خیالات)
+    featured.articles.viewed.title=سب سے زیادہ مقبول
+    label.guide-subpage-display-single=سنگل
+    label.guide-subpage-display-tabbed=ٹیبڈ
+    label.guide.tabscrollleft=سکرال ٹیب بائیں
+    label.guide.tabscrollright=سکرال ٹیب دائیں
+    label.reveal.showAll=تمام دکھائیں
+    label.reveal.showLess=کم دکھائیں
+    label.search.placeholder=تلاش
+    type.how-to=کیسے-
+    type.howto=کیسے-
+    type.reference=حوالہ
+    type.topic=موضوع
+    type.topic-category=زمرہ
+    type.topic-guide=گائیڈ
+    type.topic-portfolio=پورٹ فولیو
+    type.unclassified=غیر خفیہ
+
+[MindTouch.LearningPath]
+    label.view-pages=صفحات دیکھیں
+    message.page-count=<span>صفحات:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=چھپائیں
+    button.toggle.show=دکھائیں
+    label.attachments=منسلکات شامل کریں
+    label.attachments-description=مواد کی قسم
+    label.attachments.type.binary=دیگر
+    label.attachments.type.document=دستاویز
+    label.attachments.type.image=تصویری
+    label.classification=درجہ بندی
+    label.clear-all=تمام فلٹر صاف کریں
+    label.description=فلٹر کے نتائج
+    label.filters=فلٹرز
+    label.location=مقام
+    label.location-empty=فلٹر کرنے کے لئے کوئی جگہ نہیں ہے
+
+[MindTouch.Subscriptions]
+    cancel=منسوخ
+    caption.normal=آپ مندرجہ ذیل صفحات کی سبسکرائب کر رہے ہیں.
+    caption.nosubscriptions=آپ کسی بھی صفحات کی سبسکرائب نہیں ہیں.
+    column.page=صفحہ
+    column.recursive=ای میل اطلاعات
+    link-title=MindTouch میں اطلاعات کے انتظام کے متعلق مزید جانیں
+    nonrecursive=صرف یہ صفحہ
+    nonrecursive.draft=صرف یہ مسودہ
+    recursive.many=$1 صفحات
+    recursive.many.draft=$1 ڈرافٹس
+    recursive.many.overflow=تمام ذیلی صفحات کو سبسکرائب کیا گیا
+    recursive.many.overflow.draft=تمام ذیلی صفحہ ڈرافٹس کو سبسکرائب کیا
+    recursive.one=1 صفحہ
+    recursive.one.draft=1 مسودہ
+    unsubscribe=رکنیت ختم
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=پیغام بند کریں
+
+[Page.AuthenticationProviders]
+    page-title=سائن ان کریں
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">مدد کے تمام موضوعات کے لئے success.mindtouch.com ملاحظہ کریں۔ </a>
+
+[Page.Error]
+    not-found=صفحہ نہیں ملا
+    not-found-error=معذرت، $1 پر صفحہ نہیں مل سکا.
+    not-found-results=متعلقہ تلاش کے نتائج:
+    page-title=غلطی
+
+[Page.FeedbackRating]
+    button.leave-feedback=رائے چھوڑیں
+    button.rating-no=نہیں
+    button.rating-yes=جی ہاں
+    button.submit-feedback=رائے جمع کرائیں
+    label.checkbox.contact-me=جی ہاں، آپ اس رائے کے بارے میں مجھ سے رابطہ کر سکتے ہیں.
+    label.feedback-question=ہم اس مضمون کو کیسے بہتر بنا سکتے ہیں؟
+    label.last-rated=- آپ نے آخری بار $1 پر اس مضمون کی درجہ بندی کی
+    label.rating-message=کیا یہ مضمون مددگار تھا؟
+    legend.feedback-form=رائے چھوڑیں
+    message.contact.no=نہیں
+    message.contact.yes=جی ہاں
+    message.submit.error=آپ کی رائے بھیجنے کی کوشش کے دوران ایک غلطی ہوئی۔ براہ مہربانی بعد میں دوبارہ کوشش کریں۔
+    message.submit.success=آپ کی رائے کامیابی سے پیش کی گئی ہے. آپ کسی بھی وقت مزید رائے جمع کر سکتے ہیں.
+
+[Page.LiveTags]
+    label.article=آرٹیکل کی قسم
+
+[Page.LoginPasswordRegister]
+    page-title=سائن ان کریں اور رجسٹریشن
+    tab.login=سائن ان کریں
+    tab.password=پاس ورڈ ری سیٹ
+    tab.register=رجسٹریشن
+
+[Page.Preferences]
+    error.invalid-email=براہ کرم ایک درست ای میل پتہ کی وضاحت کریں
+    form.email=ای میل ایڈریس
+    form.fullname=ڈسپلے نام
+    form.fullname.help=صرف ڈسپلے مقاصد کے لئے
+    form.hint.password-characters=پاس ورڈ مندرجہ ذیل حروف میں سے کم از کم 3 پر مشتمل ہونا ضروری ہے: چھوٹے، بڑے، ہندسوں یا علامات.
+    form.hint.password-length=پاس ورڈ لمبائی میں کم از کم 8 حروف ہونا ضروری ہے
+    form.hint.password-match=پاس ورڈز سے ملنا ضروری ہے
+    form.hint.password.restricted-words=پاس ورڈ عام پاس ورڈ کے الفاظ پر مشتمل نہیں ہو سکتے
+    form.legend.information=میری معلومات
+    form.legend.password=میرا پاس ورڈ
+    form.password.new=نیا پاس ورڈ
+    form.password.old=پرانا پاس ورڈ
+    form.password.submit=پاس ورڈ تبدیل کریں
+    form.password.verify=نیا پاس ورڈ دوبارہ ٹائپ کریں
+    form.submit=میری معلومات محفوظ کریں
+
+[Page.Tags]
+    message.notags=اس صفحہ میں کوئی ٹیگ نہیں ہے۔
+    page-title=ویب سائٹ کے ٹیگز
+    tags-inserted-from-template=ٹیمپلیٹ کی طرف سے سفارش کردہ ٹیگز:
+    tags-inserted-heading=صفحہ ٹیگز:
+
+[Page.UserLogin]
+    error=آپ کا سائن ان ناکام ہو چکا ہے۔ براہ کرم اپنا صارف نام اور پاس ورڈ کی تصدیق کریں۔
+    page-title=سائن ان کریں
+    submit-login=سائن ان کریں
+    user-name=صارف کا نام
+    user-password=پاس ورڈ
+
+[Page.UserLogout]
+    page-title=سائن آؤٹ
+    success=آپ نے کامیابی سے سائن آؤٹ کیا ہے۔
+
+[Page.UserPassword]
+    form.submit=پاس ورڈ ری سیٹ
+    page-title=پاس ورڈ ری سیٹ
+    success.email-sent=اس اکاؤنٹ کے لئے رجسٹرڈ ای میل ایڈریس پر پاس ورڈ ری سیٹ کی ہدایات بھیجی گئی ہیں۔ اگر آپ کو کوئی ای میل موصول نہیں ہوتا تو براہ کرم اپنے ہجے چیک کریں اور دوبارہ کوشش کریں۔ اگر آپ سائن ان کرنے میں مسائل جاری رکھتے ہیں تو اپنی سائٹ کے منتظم سے رابطہ کریں۔
+
+[Page.UserRegistration]
+    error.email.match=آپ کے درج کردہ ای میلز سے میل نہیں کھاتے۔
+    error.password.match=جو پاس ورڈ آپ نے درج کیا ہے وہ میل نہیں کھاتے۔
+    form.email=ای میل
+    form.email.verify=ای میل کی تصدیق کریں
+    form.fullname=مکمل نام <span class="note">(اختیاری)</span>
+    form.password=پاس ورڈ
+    form.password.verify=پاس ورڈ کی تصدیق کریں
+    form.submit=ایک اکاؤنٹ بنائیں
+    form.username=صارف کا نام
+    page-title=ایک اکاؤنٹ بنائیں
+    success.created=صارف <strong>$1</strong> تخلیق کیا گیا ہے.
+
+[Page.Welcome]
+    community-banner-text=اب آپ مواد میں شراکت اور اشتراک کر سکتے ہیں.
+    community-banner-title=خوش آمدید، $1. آپ کا اکاؤنٹ بنایا گیا ہے.
+    community-get-started-text=<strong>آپ کو شروع کرنے میں مدد کرنے کے لئے یہاں کچھ تجاویز ہیں:</strong>
+    community-tip1-text=سائٹ کے مالکان کو سائٹ کے مواد کے بارے میں قیمتی رائے کے ساتھ فراہم کریں. کیا مضمون مددگار تھا؟ <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">ہاں</span>پر کلک کریں۔ اگر نہیں، تو ہمیں یہ بتانے کے لئے کہ ہم کس طرح بہتر بنا سکتے ہیں، <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">رائے چھوڑیں</span> <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">مزید جانیں</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=کسی صفحے پر تبصرہ کرکے گفتگو شروع کریں۔ اپنی معلومات میں شراکت کریں یا دوسرے صارف کے تبصرے کا جواب دیں. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">مزید جانیں</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=پاس ورڈ ری سیٹ
+
+[Product]
+    powered-by-site=MindTouch کی طرف سے طاقت
+
+[Skin.Columbia]
+    button.quick-login=سائن ان کریں
+    header.recommended-articles=تجویز کردہ مضامین
+    header.toc=مشمولات کی جدول
+    label.back-to-top=اوپر کی طرف واپس
+    label.global-location-toggle=عالمی محل وقوع کو توسید/
+    label.global-navigation-toggle=عالمی تنظیمی ڈھانچے کو توسیع اور خاتمہ
+    label.last-updated=آخری اپ ڈیٹ
+    label.last-updated-by=بذریعہ
+    label.no-recommended-articles=کوئی سفارش کردہ مضامین نہیں ہیں.
+    label.password=پاس ورڈ
+    label.pdf-export=PDF کے طور پر محفوظ کریں
+    label.signout=سائن آؤٹ
+    label.site-search.button=تلاش
+    label.site-search.input=تلاش
+    label.skip-link=اہم مواد پر جائیں
+    label.tags=ٹیگز
+    label.user-preferences=میری ترجیحات
+    label.username=صارف کا نام
+    link.quick-login=سائن ان کریں
+    link.site-search=تلاش سائٹ
+    placeholder.site-search.input=ہم آپ کی مدد کیسے کر سکتے ہیں؟
+    tooltip.back-to-top=اس مضمون کے سب سے اوپر واپس جائیں
+    tooltip.browse-back=پچھلے مضمون پر واپس جائیں
+    tooltip.pdf-export=پی ڈی ایف کے طور پر برآمد صفحہ
+    tooltip.signout=اس سائٹ سے سائن آؤٹ کرنے کے لئے کلک کریں
+    tooltip.skip-link=اہم مواد پر جانے کے لئے درج کریں دبائیں
+    tooltip.user-preferences=اپنی صارف کی ترجیحات تبدیل کرنے کے لئے کلک کریں
+
+[Skin.Common]
+    copyright=کاپی رائٹ
+    home=ہوم
+
+[System.API]
+    no-headers=کوئی ہیڈر نہیں
+    opensearch-shortname=$1 تلاش کریں
+
+[Users]
+    email.body.html.content=<p>مبارک ہو، <br/><br/>\ r\ n\ r\ nآپ کے پاس اب $4 پر ایک اکاؤنٹ ہے. <br/><br/>فوری طور پر دیگر کمیونٹی کے ارکان کے ساتھ تعاون شروع کرنے کے لئے سائن ان کریں. ذیل میں آپ کی سائٹ تک رسائی کی تفصیلات ہیں:<br/><br/>\ r\ n\ r\ nسائٹ یو آر ایل: <a href="$2">$2</a><br/>\ r\ nUser نام: $1<br/>پاس ورڈ: $3<br/><br/>\ r\ n\ r\ nاگر آپ کو شروع کرنے میں مدد کی ضرورت ہے یا <a href="$2">$4</a>کے بارے میں مخصوص سوالات ہیں، تو براہ کرم سائٹ ایڈمنسٹریٹر سے رابطہ کریں. </p>
+    email.body.html.content.nopassword=<p>مبارک ہو، <br/><br/>\ r\ n\ r\ nآپ کے پاس اب $3 پر ایک اکاؤنٹ ہے. <br/><br/>فوری طور پر دیگر کمیونٹی کے ارکان کے ساتھ تعاون شروع کرنے کے لئے سائن ان کریں. ذیل میں آپ کی ویب سائٹ تک رسائی کی تفصیلات ہیں:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser نام: $1<em>سائٹ منتظم سے<br/><br/>رابطہ کریں اگر آپ اپنا پاس ورڈ نہیں جانتے. </em><br/><br/>\ r\ n\ r\ nاگر آپ کو شروع کرنے میں مدد کی ضرورت ہے یا <a href="$2">$3</a>کے بارے میں مخصوص سوالات ہیں، تو براہ کرم سائٹ کے منتظم سے رابطہ کریں. </p>
+    email.body.text=\ r\ nمبارکباد،\ r\ n\ r\ nآپ کے پاس $4 پر اکاؤنٹ ہے. فوری طور پر دیگر کمیونٹی کے ارکان کے ساتھ تعاون شروع کرنے کے لئے سائن ان کریں. ذیل میں آپ کی سائٹ تک رسائی کی تفصیلات ہیں:\ r\ n\ r\ nسائٹ یو آر ایل: $2\ r\ nUser نام: $1\ r\ nPassword: $3\ r\ n\ r\ nاگر آپ کو شروع کرنے میں مدد کی ضرورت ہے یا $4 کے بارے میں مخصوص سوالات ہیں، تو براہ کرم سائٹ منتظم سے رابطہ کریں.
+    email.body.text.nopassword=\ r\ nمبارکباد،\ r\ n\ r\ nآپ کے پاس $3 پر ایک اکاؤنٹ ہے. فوری طور پر دیگر کمیونٹی کے ارکان کے ساتھ تعاون شروع کرنے کے لئے سائن ان کریں. ذیل میں آپ کی ویب سائٹ تک رسائی کی تفصیلات ہیں:\ r\ n\ r\ nسائٹ یو آر ایل: $2\ r\ nUser نام: $1\ r\ nاگر آپ اپنا پاس ورڈ نہیں جانتے تو سائٹ کے منتظم سے رابطہ کریں. \ r\ n\ r\ nاگر آپ کو شروع کرنے میں مدد کی ضرورت ہے یا $3 کے بارے میں مخصوص سوالات ہیں، تو براہ کرم سائٹ کے منتظم سے رابطہ کریں.
+    email.external.body.html.content=<p>مبارک ہو، <br/><br/>\ r\ n\ r\ nآپ کے پاس اب $3 پر ایک اکاؤنٹ ہے. <br/><br/>فوری طور پر دیگر کمیونٹی کے ارکان کے ساتھ تعاون شروع کرنے کے لئے سائن ان کریں. ذیل میں آپ کی سائٹ تک رسائی کی تفصیلات ہیں:<br/><br/>\ r\ n\ r\ nسائٹ یو آر ایل: <a href="$2">$2</a><br/>\ r\ nUser نام: $1<br/><br/>\ r\ n\ r\ nاگر آپ کو شروع کرنے میں مدد کی ضرورت ہے یا <a href="$2">$3</a>کے بارے میں مخصوص سوالات ہیں، تو براہ کرم سائٹ ایڈمنسٹریٹر سے رابطہ کریں. </p>
+    email.subject=$1 تفصیلات میں سائن ان کریں
+    form.password.instructions=پاس ورڈز کی لمبائی میں کم از کم 8 حروف ہوں اور مندرجہ ذیل حروف میں سے کم از کم 3 پر مشتمل ہوں: چھوٹے، بڑے، ہندسے یا علامت۔
+
+[WebWidget.Common]
+    error.web-browser-unsupported=درخواست کردہ MindTouch Touch Point آپ کے ویب براؤزر کے ذریعے لوڈ نہیں کیا جا سکا۔
+    label.back-to-top=اوپر کی طرف واپس
+
+[WebWidget.F1]
+    label.help-button=مدد
+    title.help-button=مدد
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch میں {{{صارف نام}} کے طور پر سائن ان
+    label.sign-in=MindTouch میں سائن ان کریں
+
+[WebWidget.Search]
+    label.collapse-summary=خلاصہ ختم کرنے کے لئے کلک
+    label.disabled-message=براہ مہربانی بعد میں دوبارہ کوشش کریں۔
+    label.disabled-title=معذرت، تلاش فی الحال دستیاب نہیں ہے.
+    label.expand-summary=خلاصہ بڑھانے کے لئے کلک
+    label.forbidden-message=برائے مہربانی لاگ ان کریں، یا اپنی سائٹ کے منتظم سے رابطہ کریں۔
+    label.forbidden-title=آپ کو اس خصوصیت کو استعمال کرنے کی اجازت نہیں ہے۔
+    label.input-hint=تلاش
+    label.no-results-faceting-message=کسی اور چیز کو تلاش کرنے یا زمرے کو منتخب کرنے کی کوشش کریں۔
+    label.no-results-message=کسی اور چیز کے لئے تلاش کرنے کی کوشش کریں.
+    label.no-results-title=معذرت، ہم آپ کے لئے تلاش کر رہے ہیں جو تلاش نہیں کر سکتے.
+    label.recommended=تجویز کردہ
+    label.refine-search=تلاش کو بہتر بنائیں
+    label.show-more=مزید دکھائیں
+
+[WebWidgets]
+    label.authenticated-user=ہیلو، {{صارف نام}}!
+    label.nav.back=واپس
+    label.nav.forward=فارورڈ
+    label.nav.home=ہوم
+
+[Component.Translate]
+    label.choose-language=زبان کا انتخاب کریں
+    label.english=انگریزی
+    label.update-failed=ترجمہ نامکمل
+    language.spanish=اسپاینول
+    language.german=ڈوئچ
+    language.japanese=日本
+    language.chinese=中
+    language.french=Français
+    language.portuguese=پرتگیزی
+    language.dutch=نیڈرلینڈز
+    language.korean=한국어
+    language.swedish=سونسکا
+    language.danish=ڈینسک
+    language.finnish=سومالین
+    language.italian=اطالوی
+    title.translated-machine=صفحہ مواد مشین ترجمہ کا استعمال کرتے ہوئے ترجمہ
+    dialog.translated-mindtouch=منڈ ٹچ کی طرف سے ترجمہ
