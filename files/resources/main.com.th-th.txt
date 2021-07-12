@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=ส่วนข้อความ ส่วนหัวที่ว่างเปล่า
+[Dialog.CopyMove]
+    placeholder.search=ค้นหา
 
-[Old.Category]
-    dialog.old.select.title=กล่องโต้ตอบ เลือกชื่อเดิม
+[F1]
+    dialog.text.back=ย้อนกลับ
+    dialog.text.forward=ไปข้างหน้า
+    dialog.text.hint=ค้นหา
+    dialog.text.home=หน้าหลัก
+    dialog.text.open=เปิดบทความ
 
-[Web.Defaults]
-    error.message=ข้อความแสดงข้อผิดพลาด
+[MindTouch.Help.Page]
+    category-selector=ปรับแต่งผลลัพธ์โดยการเลือกตัวกรอง
+    help-header-label=ผลลัพธ์วิธีใช้สำหรับ
+    in=ใน
+    label-filter=กำลังค้นหาใน
+    label-result-count=เกี่ยวกับผลลัพธ์ {0}
+    label-search-all=ผลลัพธ์ทั้งหมด
+    label.page-rating-no=ไม่
+    label.page-rating-yes=ใช่
+    more=เพิ่มเติม
+    no-search-results=ขออภัย เราไม่พบสิ่งที่คุณกำลังมองหา
+    no-search-try=ลองค้นหาสิ่งอื่น เลือกหมวดหมู่ หรือลองสร้างตั๋ว
+    recommended=(แนะนำ)
+    search-error=การค้นหาพบข้อผิดพลาด
+    search-error-try=โปรดลองใหม่อีกครั้งในภายหลัง
+    search-unavailable=ขออภัย ขณะนี้การค้นหาไม่พร้อมใช้งาน
+    show-more-search=แสดงผลลัพธ์เพิ่มเติม
+    tooltip.scrollNext=เลื่อนไปถัดไป
+    tooltip.scrollPrev=เลื่อนไปก่อนหน้า
+    warning.search-only-english=ค้นหาได้เฉพาะในภาษาอังกฤษเท่านั้น
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(วันที่สร้าง)
+    featured.articles.created.title=เพิ่มเมื่อเร็ว ๆ นี้
+    featured.articles.rated.label=(คะแนน)
+    featured.articles.rated.title=คะแนนสูงสุด
+    featured.articles.updated.label=(วันที่อัพเดท)
+    featured.articles.updated.title=อัปเดตล่าสุด
+    featured.articles.viewed.label=(มุมมอง)
+    featured.articles.viewed.title=นิยมมากที่สุด
+    label.guide-subpage-display-single=ซิงเกิล
+    label.guide-subpage-display-tabbed=แบบแท็บ
+    label.guide.tabscrollleft=เลื่อนแท็บไปทางซ้าย
+    label.guide.tabscrollright=เลื่อนแท็บไปทางขวา
+    label.reveal.showAll=แสดงทั้งหมด
+    label.reveal.showLess=แสดงน้อยลง
+    label.search.placeholder=ค้นหา
+    type.how-to=วิธีการใช้
+    type.howto=วิธีการใช้
+    type.reference=อ้างอิง
+    type.topic=กระทู้
+    type.topic-category=หมวดหมู่
+    type.topic-guide=ไกด์
+    type.topic-portfolio=ผลงาน
+    type.unclassified=ไม่จำแนก
+
+[MindTouch.LearningPath]
+    label.view-pages=ดูหน้า
+    message.page-count=<span>หน้า:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=ซ่อน
+    button.toggle.show=แสดง
+    label.attachments=รวมไฟล์แนบ
+    label.attachments-description=ประเภทเนื้อหา
+    label.attachments.type.binary=อื่น ๆ
+    label.attachments.type.document=เอกสารประกอบ
+    label.attachments.type.image=ภาพ
+    label.classification=การจำแนกประเภท
+    label.clear-all=ล้างตัวกรองทั้งหมด
+    label.description=กรองผลลัพธ์
+    label.filters=ตัวกรอง
+    label.location=สถานที่ตั้ง
+    label.location-empty=ไม่มีตำแหน่งที่จะกรองตาม
+
+[MindTouch.Subscriptions]
+    cancel=ยกเลิก
+    caption.normal=คุณสมัครสมาชิกหน้าต่อไปนี้.
+    caption.nosubscriptions=คุณไม่ได้สมัครสมาชิกหน้าเว็บใด ๆ
+    column.page=หน้า
+    column.recursive=การแจ้งเตือนทางอีเมลสำหรับ
+    link-title=เรียนรู้เพิ่มเติมเกี่ยวกับการจัดการการแจ้งเตือนใน MindTouch
+    nonrecursive=หน้านี้เท่านั้น
+    nonrecursive.draft=ฉบับร่างนี้เท่านั้น
+    recursive.many=$1 หน้า
+    recursive.many.draft=$1 ร่าง
+    recursive.many.overflow=สมัครสมาชิกหน้าย่อยทั้งหมด
+    recursive.many.overflow.draft=สมัครรับแบบร่างหน้าย่อยทั้งหมด
+    recursive.one=1 หน้า
+    recursive.one.draft=1 ร่าง
+    unsubscribe=ยกเลิกการสมัคร
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=ปิดข้อความ
+
+[Page.AuthenticationProviders]
+    page-title=ลงชื่อเข้าใช้
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">เยี่ยมชม success.mindtouch.com สำหรับหัวข้อความช่วยเหลือทั้งหมด</a>
+
+[Page.Error]
+    not-found=ไม่พบหน้าเว็บ
+    not-found-error=ขออภัย ไม่พบหน้าในราคา $1
+    not-found-results=ผลการค้นหาที่เกี่ยวข้อง:
+    page-title=ข้อผิดพลาด
+
+[Page.FeedbackRating]
+    button.leave-feedback=แสดงความคิดเห็น
+    button.rating-no=ไม่
+    button.rating-yes=ใช่
+    button.submit-feedback=ส่งคำติชม
+    label.checkbox.contact-me=ใช่ คุณสามารถติดต่อฉันเกี่ยวกับข้อเสนอแนะนี้
+    label.feedback-question=วิธีที่เราสามารถปรับปรุงบทความนี้?
+    label.last-rated=— คุณให้คะแนนบทความนี้ล่าสุดเมื่อ $1
+    label.rating-message=บทความนี้มีประโยชน์หรือไม่
+    legend.feedback-form=แสดงความคิดเห็น
+    message.contact.no=ไม่
+    message.contact.yes=ใช่
+    message.submit.error=เกิดข้อผิดพลาดขณะพยายามส่งคำติชมของคุณโปรดลองอีกครั้งในภายหลัง
+    message.submit.success=ส่งคำติชมของคุณเรียบร้อยแล้วคุณสามารถส่งคำติชมเพิ่มเติมได้ตลอดเวลา
+
+[Page.LiveTags]
+    label.article=ประเภทบทความ
+
+[Page.LoginPasswordRegister]
+    page-title=ลงชื่อเข้าใช้และลงทะเบียน
+    tab.login=ลงชื่อเข้าใช้
+    tab.password=รีเซ็ตรหัสผ่าน
+    tab.register=การลงทะเบียน
+
+[Page.Preferences]
+    error.invalid-email=กรุณาระบุที่อยู่อีเมลที่ถูกต้อง
+    form.email=ที่อยู่อีเมล
+    form.fullname=ชื่อที่แสดง
+    form.fullname.help=เพื่อวัตถุประสงค์ในการแสดงเท่านั้น
+    form.hint.password-characters=รหัสผ่านต้องมีอย่างน้อย 3 ตัวอักษรต่อไปนี้: ตัวพิมพ์เล็ก ตัวพิมพ์ใหญ่ ตัวเลข หรือสัญลักษณ์
+    form.hint.password-length=รหัสผ่านต้องมีความยาวอย่างน้อย 8 อักขระ
+    form.hint.password-match=รหัสผ่านต้องตรงกับ
+    form.hint.password.restricted-words=รหัสผ่านไม่สามารถประกอบด้วยคำรหัสผ่านทั่วไป
+    form.legend.information=ข้อมูลของฉัน
+    form.legend.password=รหัสผ่านของฉัน
+    form.password.new=รหัสผ่านใหม่
+    form.password.old=รหัสผ่านเก่า
+    form.password.submit=เปลี่ยนรหัสผ่าน
+    form.password.verify=พิมพ์รหัสผ่านใหม่อีกครั้ง
+    form.submit=บันทึกข้อมูลของฉัน
+
+[Page.Tags]
+    message.notags=หน้านี้ไม่มีแท็ก
+    page-title=แท็กไซต์
+    tags-inserted-from-template=แท็กที่แนะนำโดยแม่แบบ:
+    tags-inserted-heading=แท็กหน้า:
+
+[Page.UserLogin]
+    error=การเข้าสู่ระบบของคุณล้มเหลวกรุณาตรวจสอบชื่อผู้ใช้และรหัสผ่านของคุณ
+    page-title=ลงชื่อเข้าใช้
+    submit-login=ลงชื่อเข้าใช้
+    user-name=ชื่อผู้ใช้
+    user-password=รหัสผ่าน
+
+[Page.UserLogout]
+    page-title=ออกจากระบบ
+    success=คุณได้ออกจากระบบเรียบร้อยแล้ว
+
+[Page.UserPassword]
+    form.submit=รีเซ็ตรหัสผ่าน
+    page-title=รีเซ็ตรหัสผ่าน
+    success.email-sent=คำแนะนำในการรีเซ็ตรหัสผ่านถูกส่งไปยังที่อยู่อีเมลที่ลงทะเบียนสำหรับบัญชีนี้หากคุณไม่ได้รับอีเมล โปรดตรวจสอบการสะกดของคุณและลองอีกครั้งติดต่อผู้ดูแลระบบไซต์ของคุณหากคุณยังคงมีปัญหาในการลงชื่อเข้าใช้
+
+[Page.UserRegistration]
+    error.email.match=อีเมลที่คุณป้อนไม่ตรงกัน
+    error.password.match=รหัสผ่านที่คุณป้อนไม่ตรงกัน
+    form.email=อีเมล์
+    form.email.verify=ยืนยันอีเมล
+    form.fullname=ชื่อเต็ม <span class="note">(ตัวเลือก)</span>
+    form.password=รหัสผ่าน
+    form.password.verify=ยืนยันรหัสผ่าน
+    form.submit=สร้างบัญชี
+    form.username=ชื่อผู้ใช้
+    page-title=สร้างบัญชี
+    success.created=ผู้ใช้ <strong>$1</strong> ถูกสร้างขึ้น
+
+[Page.Welcome]
+    community-banner-text=ตอนนี้คุณสามารถมีส่วนร่วมและแบ่งปันเนื้อหา
+    community-banner-title=ยินดีต้อนรับ $1บัญชีของคุณถูกสร้างขึ้น
+    community-get-started-text=<strong>ต่อไปนี้คือเคล็ดลับบางอย่างที่จะช่วยให้คุณเริ่มต้นใช้งาน</strong>
+    community-tip1-text=ให้เจ้าของเว็บไซต์ด้วยข้อเสนอแนะที่มีคุณค่าเกี่ยวกับเนื้อหาของไซต์บทความนี้มีประโยชน์หรือไม่คลิก <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">ใช่</span>ถ้าไม่ ให้คลิก <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">แสดงความคิดเห็น</span> เพื่อบอกเราว่าเราสามารถปรับปรุงได้อย่างไร<br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">เรียนรู้เพิ่มเติม</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=เริ่มการสนทนาโดยการแสดงความคิดเห็นบนหน้าเว็บแบ่งปันข้อมูลของคุณเองหรือตอบกลับความคิดเห็นของผู้ใช้อื่น<br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">เรียนรู้เพิ่มเติม</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=รีเซ็ตรหัสผ่าน
+
+[Product]
+    powered-by-site=ขับเคลื่อนโดย MindTouch
+
+[Skin.Columbia]
+    button.quick-login=ลงชื่อเข้าใช้
+    header.recommended-articles=บทความแนะนำ
+    header.toc=สารบัญ
+    label.back-to-top=กลับสู่ด้านบน
+    label.global-location-toggle=ขยาย/ยุบตำแหน่งที่ตั้งส่วนกลาง
+    label.global-navigation-toggle=ขยาย/ยุบลำดับชั้นทั่วโลก
+    label.last-updated=อัปเดตล่าสุด
+    label.last-updated-by=โดย
+    label.no-recommended-articles=ไม่มีบทความแนะนำ
+    label.password=รหัสผ่าน
+    label.pdf-export=บันทึกเป็น PDF
+    label.signout=ออกจากระบบ
+    label.site-search.button=ค้นหา
+    label.site-search.input=ค้นหา
+    label.skip-link=ข้ามไปยังเนื้อหาหลัก
+    label.tags=ป้ายกำกับ
+    label.user-preferences=ความชอบของฉัน
+    label.username=ชื่อผู้ใช้
+    link.quick-login=ลงชื่อเข้าใช้
+    link.site-search=ค้นหาไซต์
+    placeholder.site-search.input=เราช่วยอะไรคุณได้บ้าง?
+    tooltip.back-to-top=ย้อนกลับไปยังด้านบนของบทความนี้
+    tooltip.browse-back=กลับไปที่บทความก่อนหน้า
+    tooltip.pdf-export=ส่งออกหน้าเป็น PDF
+    tooltip.signout=คลิกเพื่อออกจากระบบเว็บไซต์นี้
+    tooltip.skip-link=กด Enter เพื่อข้ามไปยังเนื้อหาหลัก
+    tooltip.user-preferences=คลิกเพื่อเปลี่ยนการตั้งค่าผู้ใช้ของคุณ
+
+[Skin.Common]
+    copyright=ลิขสิทธิ์
+    home=หน้าหลัก
+
+[System.API]
+    no-headers=ไม่มีส่วนหัว
+    opensearch-shortname=$1 ค้นหา
+
+[Users]
+    email.body.html.content=<p>ขอแสดงความยินดี <br/><br/>\ r\ n\ r\ nตอนนี้คุณมีบัญชีอยู่ที่ $4<br/><br/>ลงชื่อเข้าใช้เพื่อเริ่มต้นการทำงานร่วมกันกับสมาชิกในชุมชนคนอื่นๆ ทันทีด้านล่างนี้คือรายละเอียดการเข้าถึงเว็บไซต์ของคุณ:<br/><br/>\ r\ n\ r\ nURL: <a href="$2">$2</a><br/>\ r\ nชื่อผู้ใช้: $1<br/>รหัสผ่าน: $3<br/><br/>\ r\ n\ r\ nหากคุณต้องการความช่วยเหลือในการเริ่มต้นหรือมีคำถามที่เฉพาะเจาะจงเกี่ยวกับ <a href="$2">$4</a>โปรดติดต่อผู้ดูแลระบบไซต์</p>
+    email.body.html.content.nopassword=<p>ขอแสดงความยินดี <br/><br/>\ r\ n\ r\ nตอนนี้คุณมีบัญชีอยู่ที่ $3<br/><br/>ลงชื่อเข้าใช้เพื่อเริ่มต้นการทำงานร่วมกันกับสมาชิกในชุมชนคนอื่นๆ ทันทีด้านล่างมีรายละเอียดการเข้าถึงเว็บไซต์ของคุณ:<br/><br/>\ r\ n\ r\ nURL ไซต์: <a href="$2">$2</a><br/>\ r\ nชื่อผู้ใช้: $1<br/><br/><em>ติดต่อผู้ดูแลระบบเว็บไซต์ถ้าคุณไม่ทราบรหัสผ่านของคุณ.</em><br/><br/>\ r\ n\ r\ nหากคุณต้องการความช่วยเหลือในการเริ่มต้นหรือมีคำถามเฉพาะเกี่ยวกับ <a href="$2">$3</a>โปรดติดต่อผู้ดูแลระบบไซต์</p>
+    email.body.text=\ r\ nขอแสดงความยินดี\ r\ n\ r\ nตอนนี้คุณมีบัญชีอยู่ที่ $4ลงชื่อเข้าใช้เพื่อเริ่มต้นการทำงานร่วมกันกับสมาชิกในชุมชนคนอื่นๆ ทันทีด้านล่างนี้คือรายละเอียดการเข้าถึงเว็บไซต์ของคุณ:\ r\ n\ r\ nURL: $2\ r\ nชื่อผู้ใช้: $1\ r\ nPassword: $3\ r\ n\ r\ nหากคุณต้องการความช่วยเหลือในการเริ่มต้นหรือมีคำถามที่เฉพาะเจาะจงเกี่ยวกับ $4 โปรดติดต่อผู้ดูแลระบบไซต์
+    email.body.text.nopassword=\ r\ nขอแสดงความยินดี\ r\ n\ r\ nตอนนี้คุณมีบัญชีอยู่ที่ $3ลงชื่อเข้าใช้เพื่อเริ่มต้นการทำงานร่วมกันกับสมาชิกในชุมชนคนอื่นๆ ทันทีด้านล่างนี้คือรายละเอียดการเข้าถึงเว็บไซต์ของคุณ:\ r\ n\ r\ nURL: $2\ r\ nชื่อผู้ใช้: $1\ r\ nติดต่อผู้ดูแลระบบเว็บไซต์ถ้าคุณไม่ทราบรหัสผ่านของคุณ\ r\ n\ r\ nหากคุณต้องการความช่วยเหลือในการเริ่มต้นหรือมีคำถามเฉพาะเกี่ยวกับ $3 โปรดติดต่อผู้ดูแลระบบไซต์
+    email.external.body.html.content=<p>ขอแสดงความยินดี <br/><br/>\ r\ n\ r\ nตอนนี้คุณมีบัญชีอยู่ที่ $3<br/><br/>ลงชื่อเข้าใช้เพื่อเริ่มต้นการทำงานร่วมกันกับสมาชิกในชุมชนคนอื่นๆ ทันทีด้านล่างนี้คือรายละเอียดการเข้าถึงเว็บไซต์ของคุณ:<br/><br/>\ r\ n\ r\ nURL: <a href="$2">$2</a><br/>\ r\ nชื่อผู้ใช้: $1<br/><br/>\ r\ n\ r\ nหากคุณต้องการความช่วยเหลือในการเริ่มต้นหรือมีคำถามที่เฉพาะเจาะจงเกี่ยวกับ <a href="$2">$3</a>โปรดติดต่อผู้ดูแลระบบไซต์</p>
+    email.subject=$1 ลงชื่อเข้าใช้ รายละเอียด
+    form.password.instructions=รหัสผ่านต้องมีความยาวอย่างน้อย 8 อักขระ และมีอักขระอย่างน้อย 3 ตัวต่อไปนี้: ตัวพิมพ์เล็ก ตัวพิมพ์ใหญ่ ตัวเลข หรือสัญลักษณ์
+
+[WebWidget.Common]
+    error.web-browser-unsupported=เว็บเบราเซอร์ของคุณไม่สามารถโหลด MindTouch Touchpoint ที่ร้องขอได้
+    label.back-to-top=กลับสู่ด้านบน
+
+[WebWidget.F1]
+    label.help-button=ความช่วยเหลือ
+    title.help-button=ความช่วยเหลือ
+
+[WebWidget.Login]
+    label.authenticated-user=ลงชื่อเข้าใช้ MindTouch เป็น {{username}}}
+    label.sign-in=ลงชื่อเข้าใช้ MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=คลิกเพื่อยุบสรุป
+    label.disabled-message=โปรดลองใหม่อีกครั้งในภายหลัง
+    label.disabled-title=ขออภัย ขณะนี้การค้นหาไม่พร้อมใช้งาน
+    label.expand-summary=คลิกเพื่อขยายสรุป
+    label.forbidden-message=กรุณาเข้าสู่ระบบ, หรือติดต่อผู้ดูแลระบบเว็บไซต์ของคุณ.
+    label.forbidden-title=คุณไม่มีสิทธิ์ที่จะใช้คุณลักษณะนี้
+    label.input-hint=ค้นหา
+    label.no-results-faceting-message=ลองค้นหาสิ่งอื่นหรือเลือกหมวดหมู่
+    label.no-results-message=ลองค้นหาอย่างอื่นสิ
+    label.no-results-title=ขออภัย เราไม่พบสิ่งที่คุณกำลังมองหา
+    label.recommended=แนะนำ
+    label.refine-search=ปรับแต่งการค้นหา
+    label.show-more=แสดงเพิ่มเติม
+
+[WebWidgets]
+    label.authenticated-user=สวัสดี {{ชื่อผู้ใช้}}!
+    label.nav.back=ย้อนกลับ
+    label.nav.forward=ไปข้างหน้า
+    label.nav.home=หน้าหลัก
+
+[Component.Translate]
+    label.choose-language=เลือกภาษา
+    label.english=อังกฤษ
+    label.update-failed=การแปลไม่สมบูรณ์
+    language.spanish=ภาษาเอสปาญอล
+    language.german=ดอยช์ช
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=ฟรองซัวส์
+    language.portuguese=โปรตุเกสซา
+    language.dutch=เนเดอร์แลนด์
+    language.korean=한
+    language.swedish=สเวนสกา
+    language.danish=เกี่ยวกับประเทศเดนมาร์ก
+    language.finnish=สุมมาลัยเนน
+    language.italian=อิตาเลียโน
+    title.translated-machine=เนื้อหาของหน้าแปลโดยใช้เครื่องแปลภาษา
+    dialog.translated-mindtouch=แปลโดย MindTouch
