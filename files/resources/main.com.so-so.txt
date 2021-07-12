@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Fariin Qaybta Madaxa Madhan
+[Dialog.CopyMove]
+    placeholder.search=Baadhitaanka
 
-[Old.Category]
-    dialog.old.select.title=Dialog Dooro Ciwaanka Hore
+[F1]
+    dialog.text.back=Dib
+    dialog.text.forward=Horay
+    dialog.text.hint=raadin
+    dialog.text.home=Guriga
+    dialog.text.open=Qoraal furan
 
-[Web.Defaults]
-    error.message=Fariin khalad ah
+[MindTouch.Help.Page]
+    category-selector=Nadiifi natiijooyinka adigoo dooranaya filter.
+    help-header-label=Natiijooyinka caawinta
+    in=gudaha
+    label-filter=Raadinta in
+    label-result-count=Ku saabsan {0} natiijooyinka
+    label-search-all=Dhamaan natiijooyinka
+    label.page-rating-no=Maya
+    label.page-rating-yes=Haa
+    more=Badan
+    no-search-results=Waan ka xunnahay, ma heli karno waxa aad raadineyso.
+    no-search-try=Isku day inaad raadiso wax kale, xulato qayb, ama isku day inaad abuurto tigidh.
+    recommended=(Talinayaa)
+    search-error=Raadinta ayaa la kulmay qalad.
+    search-error-try=Fadlan mar dambe isku day.
+    search-unavailable=Waan ka xunnahay, raadinta hadda lama heli karo.
+    show-more-search=Tus natiijooyin dheeraad ah
+    tooltip.scrollNext=Scroll to xiga
+    tooltip.scrollPrev=Scroll to hore
+    warning.search-only-english=Raadinta waxaa kaliya oo laga heli karaa Ingiriisi
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(taariikhda la abuuray)
+    featured.articles.created.title=Dhawaan lagu daray
+    featured.articles.rated.label=(qiimeynta)
+    featured.articles.rated.title=Ugu sarreeya lagu qiimeeyo
+    featured.articles.updated.label=(taariikhda la cusbooneysiiyay)
+    featured.articles.updated.title=Dhawaan la cusboonaysiiyay
+    featured.articles.viewed.label=(aragtiyo)
+    featured.articles.viewed.title=Ugu caansan
+    label.guide-subpage-display-single=Kaliya
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Diiwaanka bidix
+    label.guide.tabscrollright=Tixraac tabs xaq
+    label.reveal.showAll=Tus dhammaan
+    label.reveal.showLess=Muuji wax ka yar
+    label.search.placeholder=Baadhitaanka
+    type.how-to=Sidee-loo
+    type.howto=Sidee-loo
+    type.reference=Tixraaca
+    type.topic=mawduuc
+    type.topic-category=Qaybta
+    type.topic-guide=Hagaha
+    type.topic-portfolio=Portfolio
+    type.unclassified=Unclassified
+
+[MindTouch.LearningPath]
+    label.view-pages=Eeg boggaga
+    message.page-count=<span>Bogagga:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Qari
+    button.toggle.show=Tusid
+    label.attachments=Ku dar lifaaqyada
+    label.attachments-description=Nooca Macluumaadka
+    label.attachments.type.binary=Kale
+    label.attachments.type.document=Dukumenti
+    label.attachments.type.image=Sawir
+    label.classification=Qoondaynta
+    label.clear-all=Nadiifi dhamaan shaandhada
+    label.description=Natiijooyinka Filter
+    label.filters=Filtarrada
+    label.location=Goob
+    label.location-empty=Ma jiraan goobo lagu shaandheeyo
+
+[MindTouch.Subscriptions]
+    cancel=Jooji
+    caption.normal=Waxaad heshiiska boggaga soo socda.
+    caption.nosubscriptions=Waxaad aan heshiiska boggaga kasta.
+    column.page=Bog
+    column.recursive=Ogeysiisyada Emailka ee
+    link-title=Baro wax badan oo ku saabsan maareynta ogeysiisyada MindTouch
+    nonrecursive=Boggan kaliya
+    nonrecursive.draft=Qabyo qoraalkan oo kaliya
+    recursive.many=$1 bog
+    recursive.many.draft=$1 Istimaalka
+    recursive.many.overflow=Diiwaangelinta dhammaan bogagga hoose
+    recursive.many.overflow.draft=Waxaa lagu qoray dhammaan qoraallada bogga
+    recursive.one=1 bog
+    recursive.one.draft=1 qabyada ah
+    unsubscribe=Unsubscribe
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Fariin u dhow
+
+[Page.AuthenticationProviders]
+    page-title=Gal
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Booqo succ.mindtouch.com ee dhammaan mawduucyada caawimaad. </a>
+
+[Page.Error]
+    not-found=Bogga lama helin
+    not-found-error=Waan ka xunnahay, bogga $1 lama heli karo.
+    not-found-results=Natiijooyinka raadinta la xiriira:
+    page-title=khalad
+
+[Page.FeedbackRating]
+    button.leave-feedback=Ka tag jawaab celinta
+    button.rating-no=Maya
+    button.rating-yes=Haa
+    button.submit-feedback=Gudbi jawaab celin
+    label.checkbox.contact-me=Haa, waad ila soo xiriiri kartaa wax ku saabsan jawaab celintaan.
+    label.feedback-question=Sidee baan u hagaajin karnaa qodobkan?
+    label.last-rated=- Waxaad ugu dambeyntii ku qiimeysay qodobkan $1
+    label.rating-message=Miyuu maqaalkan waxtar leh?
+    legend.feedback-form=Ka tag jawaab celinta
+    message.contact.no=Maya
+    message.contact.yes=Haa
+    message.submit.error=Qalad ayaa dhacay markii uu isku dayay in uu soo diro jawaab-celintaada. Fadlan isku day mar kale waqti dambe.
+    message.submit.success=Jawaab-celintaada ayaa si guul leh loo soo gudbiyay. Waxaad soo gudbin kartaa jawaab-celin dheeraad ah waqti kasta.
+
+[Page.LiveTags]
+    label.article=Nooca Qodobka
+
+[Page.LoginPasswordRegister]
+    page-title=Gal iyo diiwaangelinta
+    tab.login=Gal
+    tab.password=Dib u celinta sirta
+    tab.register=Diiwaangelinta
+
+[Page.Preferences]
+    error.invalid-email=Fadlan sheeg cinwaanka email sax ah
+    form.email=Cinwaanka emailka
+    form.fullname=Muuji magaca
+    form.fullname.help=Ujeedooyinka bandhigga kaliya
+    form.hint.password-characters=Lambarka sirta ah waa inuu ku jiraa ugu yaraan 3 ka mid ah jilayaasha soo socda: yaryar, xaraf, lambar ama calaamado.
+    form.hint.password-length=Lambarka sirta ah waa inuu ahaadaa ugu yaraan 8 xaraf oo dherer ah
+    form.hint.password-match=Ereyada sirta ah waa inay u dhigmaan
+    form.hint.password.restricted-words=Password kuma jiri karo erayada sirta ah ee caadiga ah
+    form.legend.information=Macluumaadkayga
+    form.legend.password=My password
+    form.password.new=password cusub
+    form.password.old=Password hore
+    form.password.submit=Beddel lambarka sirta
+    form.password.verify=Retype password cusub
+    form.submit=Keydso macluumaadkayga
+
+[Page.Tags]
+    message.notags=Boggan waxa uu leeyahay tags no.
+    page-title=Calaamadaha bogga
+    tags-inserted-from-template=Tags taliyeen by template ah:
+    tags-inserted-heading=Boga tags:
+
+[Page.UserLogin]
+    error=Calaamadaada ayaa ku guuldareysatay. Fadlan xaqiiji in aad username iyo password.
+    page-title=Gal
+    submit-login=Gal
+    user-name=Username
+    user-password=Password
+
+[Page.UserLogout]
+    page-title=Saxiix
+    success=Waxaad si guul leh u saxiixay baxay.
+
+[Page.UserPassword]
+    form.submit=Dib u celinta sirta
+    page-title=Dib u celinta sirta
+    success.email-sent=tilmaamaha keddibna Password ayaa loo soo diray cinwaanka e-mail ka diiwaan gashan account this. Haddii aadan helin email ah, fadlan hubi higaada iyo isku day mar kale. La xiriir maamulaha boggaaga haddii aad sii wadato inaad haysato arrimaha saxiixa.
+
+[Page.UserRegistration]
+    error.email.match=Emails aad soo gashay ma waafaqsana.
+    error.password.match=Ereyada sirta ah ee aad soo gashay ma waafaqsana.
+    form.email=Email
+    form.email.verify=Hubi Email
+    form.fullname=Magaca buuxa <span class="note">(ikhtiyaari)</span>
+    form.password=Password
+    form.password.verify=Hubi lambarka sirta
+    form.submit=Create ah account
+    form.username=Username
+    page-title=Create ah account
+    success.created=Isticmaale <strong>$1</strong> ayaa la abuuray.
+
+[Page.Welcome]
+    community-banner-text=Hadda waxaad gacan ka geysan kartaa oo wadaagi kartaa content.
+    community-banner-title=Soo dhawoow, $1. Akoonkaaga ayaa la abuuray.
+    community-get-started-text=<strong>Waa kuwan talooyin kaa caawinaya inaad bilowdo:</strong>
+    community-tip1-text=Bixi milkiilayaasha goobta leh jawaab celin qiimo leh oo ku saabsan mawduuca goobta. Maqaalku ma waxtar buu ahaa? Guji <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Haa</span>. Haddii aadan, riix <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Leave jawaab-celin</span> si aad noogu sheegto sida aan u hagaajin karno. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Wax badan ka baro</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Bilow wada hadal adigoo ka faallooda bogga. Ka qayb macluumaad adiga kuu gaar ah ama jawaab comments kale user ee. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Wax badan ka baro</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Dib u celinta sirta
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Gal
+    header.recommended-articles=Qoraalada lagu taliyay
+    header.toc=Jadwalka waxyaabaha ku jira
+    label.back-to-top=Back to top
+    label.global-location-toggle=Goobta caalamiga ah ee ballaarin/burburinta
+    label.global-navigation-toggle=Balaadhin/burburin heer caalami ah
+    label.last-updated=La cusbooneysiiyay
+    label.last-updated-by=by
+    label.no-recommended-articles=Ma jiraan wax articles talinayaa.
+    label.password=Password
+    label.pdf-export=Badbaadi sida PDF
+    label.signout=Saxiix
+    label.site-search.button=Baadhitaanka
+    label.site-search.input=Baadhitaanka
+    label.skip-link=U gudub waxyaabaha ugu muhiimsan
+    label.tags=Tags
+    label.user-preferences=My door bidayso
+    label.username=Username
+    link.quick-login=Gal
+    link.site-search=Goobta raadinta
+    placeholder.site-search.input=Sidee baan kuu caawin karnaa?
+    tooltip.back-to-top=Ku bood dib ugu soo noqoshada maqaalkan
+    tooltip.browse-back=Ku noqo maqaalkii hore
+    tooltip.pdf-export=Bogga dhoofinta sida PDF
+    tooltip.signout=Guji si aad u saxiixdo boggan
+    tooltip.skip-link=Riix gali si aad u gudubto waxyaabaha ugu muhiimsan
+    tooltip.user-preferences=Riix si aad u bedesho doorbidkaaga isticmaalaha
+
+[Skin.Common]
+    copyright=Xuquuqda daabacaadda
+    home=Guriga
+
+[System.API]
+    no-headers=No cinwaanada
+    opensearch-shortname=$1 Baadhitaan
+
+[Users]
+    email.body.html.content=<p>Hambalyo, <br/><br/>\ r\ n\ r\ nHadda waxaad ku leedahay xisaab $4. <br/><br/>Gal si dhakhso ah u bilaabaan iskaashi lala yeesho xubnaha kale ee bulshada. Hoos waxaa ku qoran faahfaahinta helitaanka boggaaga:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser Name: $1<br/>Password: $3<br/><br/>\ r\ n\ r\ nHaddii aad u baahan tahay caawimaad aad bilowdo ama aad qabto su'aalo gaar ah oo ku saabsan <a href="$2">$4</a>, fadlan la xiriir maamulaha goobta. </p>
+    email.body.html.content.nopassword=<p>Hambalyo, <br/><br/>\ r\ n\ r\ nHadda waxaad ku leedahay xisaab $3. <br/><br/>Gal si dhakhso ah u bilaabaan iskaashi lala yeesho xubnaha kale ee bulshada. Hoos waxaa ku qoran faahfaahinta helitaanka goobta:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser Name: $1<br/><br/><em>La xiriir maamulaha goobta haddii aadan aqoon sirtaada. </em><br/><br/>\ r\ n\ r\ nHaddii aad u baahan tahay caawimaad aad bilowdo ama aad qabto su'aalo gaar ah oo ku saabsan <a href="$2">$3</a>, fadlan la xiriir maamulaha goobta. </p>
+    email.body.text=\ r\ nHambalyo,\ r\ n\ r\ nHadda waxaad leedahay xisaab $4. Gal si dhakhso ah u bilaabaan iskaashi lala yeesho xubnaha kale ee bulshada. Hoos waxaa ku qoran faahfaahinta helitaanka boggaaga:\ r\ n\ r\ nSite URL: $2\ r\ nUser Name: $1\ r\ nPassword: $3\ r\ n\ r\ nHaddii aad u baahan tahay caawimaad aad aad bilowdo ama aad qabto su'aalo gaar ah oo ku saabsan $4, fadlan la xiriir maamulaha goobta.
+    email.body.text.nopassword=\ r\ nHambalyo,\ r\ n\ r\ nHadda waxaad leedahay xisaab $3. Gal si dhakhso ah u bilaabaan iskaashi lala yeesho xubnaha kale ee bulshada. Hoos waxaa ku qoran faahfaahinta helitaanka goobta:\ r\ n\ r\ nSite URL: $2\ r\ nUser Name: $1\ r\ nContact maamulaha goobta haddii aadan aqoon password. \ r\ n\ r\ nHaddii aad u baahan tahay caawimaad aad bilowdo ama aad qabto su'aalo gaar ah oo ku saabsan $3, fadlan la xiriir maamulaha goobta.
+    email.external.body.html.content=<p>Hambalyo, <br/><br/>\ r\ n\ r\ nHadda waxaad ku leedahay xisaab $3. <br/><br/>Gal si dhakhso ah u bilaabaan iskaashi lala yeesho xubnaha kale ee bulshada. Hoos waxaa ku qoran faahfaahinta helitaanka boggaaga:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser Name: $1<br/><br/>\ r\ n\ r\ nIF aad u baahan tahay caawimaad aad bilowdo ama aad qabto su'aalo gaar ah oo ku saabsan <a href="$2">$3</a>, fadlan la xiriir maamulaha goobta. </p>
+    email.subject=$1 Saxiix Details
+    form.password.instructions=Passwords waa in ay ahaadaan ugu yaraan 8 xaraf oo dherer ah oo ay ku jiraan ugu yaraan 3 ka mid ah jilayaasha soo socda: boorsada yar, weyn, lambar ama calaamado.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=MindTouch Touchpoint la codsaday laguma dari karo shabakadaada internetka.
+    label.back-to-top=Back to top
+
+[WebWidget.F1]
+    label.help-button=Caawimaad
+    title.help-button=Caawimaad
+
+[WebWidget.Login]
+    label.authenticated-user=Waxaa lagu saxiixay MindTouch sida {{username}}
+    label.sign-in=Gal ilaa MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Guji si aad u burburto kooban
+    label.disabled-message=Fadlan mar dambe isku day.
+    label.disabled-title=Waan ka xunnahay, raadinta hadda lama heli karo.
+    label.expand-summary=Guji si aad u ballaariso koobida
+    label.forbidden-message=Fadlan gasho, ama la xiriir maamulaha goobta aad.
+    label.forbidden-title=Ma aha in aad ogolaansho in aad isticmaasho habkaani.
+    label.input-hint=Baadhitaanka
+    label.no-results-faceting-message=Isku day inaad raadiso wax kale ama aad doorato qayb.
+    label.no-results-message=Isku day inaad raadiso wax kale.
+    label.no-results-title=Waan ka xunnahay, ma heli karno waxa aad raadineyso.
+    label.recommended=talinayo
+    label.refine-search=Sifee raadinta
+    label.show-more=Muuji wax dheeraad ah
+
+[WebWidgets]
+    label.authenticated-user=Hello, {{username}!
+    label.nav.back=Dib
+    label.nav.forward=Horay
+    label.nav.home=Guriga
+
+[Component.Translate]
+    label.choose-language=Dooro Luqadda
+    label.english=Ingiriis
+    label.update-failed=Turjumaad dhamaystiran
+    language.spanish=Español
+    language.german=Jarmal
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Faransiiska
+    language.portuguese=Portugesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Bogga content turjumay iyadoo la isticmaalayo tarjumaadda
+    dialog.translated-mindtouch=Waxaa tarjumay MindTouch
