@@ -1,293 +1,293 @@
 [Dialog.CopyMove]
-    placeholder.search=搜尋
+    placeholder.search=搜索
 
 [F1]
     dialog.text.back=返回
     dialog.text.forward=向前
-    dialog.text.hint=搜尋
-    dialog.text.home=首頁
-    dialog.text.open=開啟文章
+    dialog.text.hint=搜索
+    dialog.text.home=首页
+    dialog.text.open=打开文章
 
 [MindTouch.Help.Page]
-    category-selector=透過選取篩選來縮小結果。
-    help-header-label=的說明結果
+    category-selector=通过选择筛选器来优化结果。
+    help-header-label=的帮助结果
     in=在
-    label-filter=搜尋
-    label-result-count=關於 {0} 結果
-    label-search-all=所有結果
-    label.page-rating-no=沒有
-    label.page-rating-yes=是
+    label-filter=在中搜索
+    label-result-count=关于 {0} 个结果
+    label-search-all=所有结果
+    label.page-rating-no=不
+    label.page-rating-yes=是的
     more=更多
-    no-search-results=抱歉，我們找不到您想要的內容。
-    no-search-try=嘗試搜尋其他項目、選取類別，或嘗試建立票證。
-    recommended=(建議使用)
-    search-error=搜尋發生錯誤。
-    search-error-try=請稍後再試。
-    search-unavailable=抱歉，目前無法搜尋。
-    show-more-search=顯示更多結果
-    tooltip.scrollNext=捲動到下一個
-    tooltip.scrollPrev=捲動到上一個
-    warning.search-only-english=搜尋僅提供英文版本
+    no-search-results=抱歉，我们找不到你要找的东西。
+    no-search-try=尝试搜索其他东西、选择类别，或者尝试创建票证。
+    recommended=（推荐）
+    search-error=搜索遇到错误。
+    search-error-try=请稍后重试。
+    search-unavailable=抱歉，搜索目前不可用。
+    show-more-search=显示更多结果
+    tooltip.scrollNext=滚动到下一个
+    tooltip.scrollPrev=滚动到上一个
+    warning.search-only-english=搜索仅提供英文版
 
 [MindTouch.IDF3]
-    featured.articles.created.label=(建立日期)
-    featured.articles.created.title=最近新增
-    featured.articles.rated.label=(評分)
-    featured.articles.rated.title=評分最高
-    featured.articles.updated.label=(更新日期)
+    featured.articles.created.label=（创建日期）
+    featured.articles.created.title=最近添加
+    featured.articles.rated.label=（评级）
+    featured.articles.rated.title=评分最高
+    featured.articles.updated.label=（日期已更新）
     featured.articles.updated.title=最近更新
-    featured.articles.viewed.label=(視圖)
-    featured.articles.viewed.title=最受歡迎
-    label.guide-subpage-display-single=單
-    label.guide-subpage-display-tabbed=標籤式
-    label.guide.tabscrollleft=向左捲動分頁
-    label.guide.tabscrollright=向右捲動分頁
-    label.reveal.showAll=全部顯示
-    label.reveal.showLess=顯示較少
-    label.search.placeholder=搜尋
-    type.how-to=操作方法
-    type.howto=操作方法
-    type.reference=參考
-    type.topic=主題
-    type.topic-category=品類
+    featured.articles.viewed.label=（视图）
+    featured.articles.viewed.title=最受欢迎
+    label.guide-subpage-display-single=单
+    label.guide-subpage-display-tabbed=选项卡式
+    label.guide.tabscrollleft=向左滚动标签页
+    label.guide.tabscrollright=向右滚动标签页
+    label.reveal.showAll=显示所有
+    label.reveal.showLess=显示更少
+    label.search.placeholder=搜索
+    type.how-to=如何
+    type.howto=如何
+    type.reference=参考
+    type.topic=话题
+    type.topic-category=类别
     type.topic-guide=指南
-    type.topic-portfolio=投資組合
-    type.unclassified=未分類
+    type.topic-portfolio=组合
+    type.unclassified=未分类
 
 [MindTouch.LearningPath]
-    label.view-pages=檢視頁面
-    message.page-count=<span>頁面：</span> $1
+    label.view-pages=查看页面
+    message.page-count=<span>页面：</span>$1
 
 [MindTouch.SearchFilters]
-    button.toggle.hide=隱藏
-    button.toggle.show=顯示
-    label.attachments=包含附件
-    label.attachments-description=內容類型
+    button.toggle.hide=隐藏
+    button.toggle.show=显示
+    label.attachments=包括附件
+    label.attachments-description=内容类型
     label.attachments.type.binary=其他
-    label.attachments.type.document=文件
-    label.attachments.type.image=影像
-    label.classification=分類
-    label.clear-all=清除所有篩選器
-    label.description=篩選結果
-    label.filters=過濾器
+    label.attachments.type.document=文档
+    label.attachments.type.image=图片
+    label.classification=分类
+    label.clear-all=清除所有筛选器
+    label.description=筛选结果
+    label.filters=过滤器
     label.location=位置
-    label.location-empty=沒有位置可以依
+    label.location-empty=没有可以筛选的地点
 
 [MindTouch.Subscriptions]
     cancel=取消
-    caption.normal=您已訂閱以下頁面。
-    caption.nosubscriptions=您沒有訂閱任何頁面。
-    column.page=頁
-    column.recursive=的電子郵件通知
-    link-title=進一步了解如何在 MindTouch 中管理通知
-    nonrecursive=僅限此頁面
-    nonrecursive.draft=只有這個草案
-    recursive.many=$1 頁
-    recursive.many.draft=$1 草稿
-    recursive.many.overflow=已訂閱所有子頁面
-    recursive.many.overflow.draft=訂閱所有子頁面草稿
-    recursive.one=1 頁
-    recursive.one.draft=1 個草稿
-    unsubscribe=取消訂閱
+    caption.normal=您已订阅以下页面。
+    caption.nosubscriptions=你没有订阅任何页面。
+    column.page=页
+    column.recursive=的电子邮件通知
+    link-title=详细了解在 MindTouch 中管理通知
+    nonrecursive=仅限本页
+    nonrecursive.draft=仅限于此草案
+    recursive.many=1 美元页
+    recursive.many.draft=1 美元的草稿
+    recursive.many.overflow=已订阅所有子页面
+    recursive.many.overflow.draft=已订阅所有子页面草稿
+    recursive.one=1 页
+    recursive.one.draft=1 份草稿
+    unsubscribe=取消订阅
 
 [MindTouch.Templates.Controls.InfoMessage]
-    button.close.message=關閉訊息
+    button.close.message=关闭消息
 
 [Page.AuthenticationProviders]
-    page-title=登入
+    page-title=登录
 
 [Page.BlankArticle]
-    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">請造訪成功的 .mindtouch.com 以取得所有說明主題。</a>
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">访问成功 .mindtouch.com 了解所有帮助主题。</a>
 
 [Page.Error]
-    not-found=找不到頁面
-    not-found-error=抱歉，找不到 $1 的頁面。
-    not-found-results=相關搜尋結果：
-    page-title=錯誤
+    not-found=找不到页面
+    not-found-error=抱歉，找不到价值 1 美元的页面。
+    not-found-results=相关搜索结果：
+    page-title=错误
 
 [Page.FeedbackRating]
-    button.leave-feedback=留下信用評價
-    button.rating-no=沒有
-    button.rating-yes=是
-    button.submit-feedback=提交意見反應
-    label.checkbox.contact-me=可以，您可以聯絡我有關此意見反應。
-    label.feedback-question=我們如何改善這篇文章？
-    label.last-rated=— 您最後評分這篇文章的價格為 $1
-    label.rating-message=這篇文章對您有幫助嗎？
-    legend.feedback-form=留下信用評價
-    message.contact.no=沒有
-    message.contact.yes=是
-    message.submit.error=嘗試傳送您的意見反應時發生錯誤。請稍後再試一次。
-    message.submit.success=您的信用評價已成功提交。您可以隨時提交更多意見反應。
+    button.leave-feedback=留下反馈
+    button.rating-no=不
+    button.rating-yes=是的
+    button.submit-feedback=提交反馈
+    label.checkbox.contact-me=是的，你可以就此反馈与我联系。
+    label.feedback-question=我们如何改进这篇文章？
+    label.last-rated=— 你最后一次将本文评分为 1 美元
+    label.rating-message=这篇文章有帮助吗？
+    legend.feedback-form=留下反馈
+    message.contact.no=不
+    message.contact.yes=是的
+    message.submit.error=尝试发送反馈时出错。请稍后再试一次。
+    message.submit.success=您的反馈已成功提交。你可以随时提交更多反馈。
 
 [Page.LiveTags]
-    label.article=文章類型
+    label.article=文章类型
 
 [Page.LoginPasswordRegister]
-    page-title=登入並註冊
-    tab.login=登入
-    tab.password=密碼重設
-    tab.register=註冊
+    page-title=登录和注册
+    tab.login=登录
+    tab.password=密码重置
+    tab.register=注册
 
 [Page.Preferences]
-    error.invalid-email=請指定有效的電子郵件地址
-    form.email=電子郵件地址
-    form.fullname=顯示名稱
-    form.fullname.help=僅供顯示用途
-    form.hint.password-characters=密碼必須包含下列至少 3 個字元：小寫、大寫、數字或符號。
-    form.hint.password-length=密碼長度必須至少為 8 個字元
-    form.hint.password-match=密碼必須符合
-    form.hint.password.restricted-words=密碼不能包含一般密碼字詞
-    form.legend.information=我的資訊
-    form.legend.password=我的密碼
-    form.password.new=新密碼
-    form.password.old=舊密碼
-    form.password.submit=變更密碼
-    form.password.verify=重新輸入新密碼
-    form.submit=儲存我的資訊
+    error.invalid-email=请指定有效的电子邮件地址
+    form.email=电子邮箱
+    form.fullname=显示名称
+    form.fullname.help=仅用于展示目的
+    form.hint.password-characters=密码必须至少包含以下 3 个字符：小写、大写、数字或符号。
+    form.hint.password-length=密码长度必须至少为 8 个字符
+    form.hint.password-match=密码必须匹配
+    form.hint.password.restricted-words=密码不能包含常见的密码词
+    form.legend.information=我的信息
+    form.legend.password=我的密码
+    form.password.new=新密码
+    form.password.old=旧密码
+    form.password.submit=更改密码
+    form.password.verify=重新键入新密码
+    form.submit=保存我的信息
 
 [Page.Tags]
-    message.notags=此頁面沒有標籤。
-    page-title=網站標籤
-    tags-inserted-from-template=模板推薦的標籤：
-    tags-inserted-heading=頁面標記：
+    message.notags=此页面没有标签。
+    page-title=站点标签
+    tags-inserted-from-template=模板推荐的标签：
+    tags-inserted-heading=页面标签：
 
 [Page.UserLogin]
-    error=您的登入失敗。請驗證您的使用者名稱和密碼。
-    page-title=登入
-    submit-login=登入
-    user-name=使用者名
-    user-password=密碼
+    error=您的登录失败。请验证你的用户名和密码。
+    page-title=登录
+    submit-login=登录
+    user-name=用户名
+    user-password=密码
 
 [Page.UserLogout]
-    page-title=登出
-    success=您已成功登出。
+    page-title=注销
+    success=你已成功注销。
 
 [Page.UserPassword]
-    form.submit=密碼重設
-    page-title=密碼重設
-    success.email-sent=密碼重設指示已傳送至此帳號註冊的電子郵件地址。如果您沒有收到電子郵件，請檢查拼字並再試一次。如果您持續登入時遇到問題，請聯絡您的網站管理員。
+    form.submit=密码重置
+    page-title=密码重置
+    success.email-sent=密码重置说明已发送到为此账户注册的电子邮件地址。如果您没有收到电子邮件，请检查拼写并重试。如果您仍然存在登录问题，请与站点管理员联系。
 
 [Page.UserRegistration]
-    error.email.match=您輸入的電子郵件不符。
-    error.password.match=您輸入的密碼不相符。
-    form.email=電子郵件
-    form.email.verify=驗證電子郵件
-    form.fullname=全名 <span class="note"> (選擇性) </span>
-    form.password=密碼
-    form.password.verify=驗證密碼
-    form.submit=建立帳戶
-    form.username=使用者名
-    page-title=建立帳戶
-    success.created=已建立使用者 <strong> $1 </strong>。
+    error.email.match=您输入的电子邮件不匹配。
+    error.password.match=您输入的密码不匹配。
+    form.email=电子邮
+    form.email.verify=验证邮件
+    form.fullname=全名<span class="note">（可选）</span>
+    form.password=密码
+    form.password.verify=验证密码
+    form.submit=创建账户
+    form.username=用户名
+    page-title=创建账户
+    success.created=用户 <strong>1 美元</strong>已创建。
 
 [Page.Welcome]
-    community-banner-text=您現在可以貢獻和分享內容。
-    community-banner-title=歡迎，1 美元您的帳戶已建立。
-    community-get-started-text=<strong>以下是一些協助您開始使用的秘訣：</strong>
-    community-tip1-text=為網站擁有者提供有關網站內容的寶貴意見反應。這篇文章對你有幫助嗎？按一下「<span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes"> 是 </span>」。如果沒有，請按一下 [<span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback"> 留下意見回饋 </span>]，告訴我們如何改進。<br /> <a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">進一步了解 </a>
+    community-banner-text=您现在可以贡献和分享内容。
+    community-banner-title=欢迎，1 美元。您的账户已创建。
+    community-get-started-text=<strong>以下是一些帮助你入门的提示：</strong>
+    community-tip1-text=向网站所有者提供有关网站内容的宝贵反馈。这篇文章有帮助吗？单击<span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">是</span>。如果没有，请点击<span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">留下反馈</span>以告诉我们如何改进。<br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">了解更多</a>
     community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
-    community-tip2-text=透過在頁面上註解開始對話。提供您自己的資訊或回覆其他使用者的意見。<br /> <a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">進一步了解 </a>
+    community-tip2-text=通过评论页面开始对话。提供自己的信息或回复其他用户的评论。<br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">了解更多</a>
     community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
-    reset.password.welcome=密碼重設
+    reset.password.welcome=密码重置
 
 [Product]
-    powered-by-site=由「智慧觸控」提供支援
+    powered-by-site=由 MindTouch 供电
 
 [Skin.Columbia]
-    button.quick-login=登入
-    header.recommended-articles=推薦文章
-    header.toc=目錄
-    label.back-to-top=返回頁首
-    label.global-location-toggle=展開/收疊全球位置
-    label.global-navigation-toggle=展開/收疊全球階層
+    button.quick-login=登录
+    header.recommended-articles=推荐文章
+    header.toc=目录
+    label.back-to-top=返回顶部
+    label.global-location-toggle=展开/折叠全球位置
+    label.global-navigation-toggle=展开/折叠全球层次结构
     label.last-updated=上次更新
-    label.last-updated-by=通過
-    label.no-recommended-articles=沒有推薦的文章。
-    label.password=密碼
-    label.pdf-export=另存為 PDF
-    label.signout=登出
-    label.site-search.button=搜尋
-    label.site-search.input=搜尋
-    label.skip-link=跳至主要內容
-    label.tags=標籤
-    label.user-preferences=我的偏好設定
-    label.username=使用者名
-    link.quick-login=登入
-    link.site-search=搜尋網站
-    placeholder.site-search.input=我們可以如何幫助您？
-    tooltip.back-to-top=跳回這篇文章的頂端
+    label.last-updated-by=通过
+    label.no-recommended-articles=没有推荐的文章。
+    label.password=密码
+    label.pdf-export=另存为 PDF
+    label.signout=注销
+    label.site-search.button=搜索
+    label.site-search.input=搜索
+    label.skip-link=跳到主要内容
+    label.tags=标签
+    label.user-preferences=我的偏好
+    label.username=用户名
+    link.quick-login=登录
+    link.site-search=搜索网站
+    placeholder.site-search.input=我们能怎么帮你？
+    tooltip.back-to-top=跳回本文的顶部
     tooltip.browse-back=返回上一篇文章
-    tooltip.pdf-export=將頁面轉存為 PDF
-    tooltip.signout=按一下以登出本網站
-    tooltip.skip-link=按 Enter 鍵跳至主要內容
-    tooltip.user-preferences=按一下以變更使用者偏好設定
+    tooltip.pdf-export=将页面导出为 PDF
+    tooltip.signout=点击退出此网站
+    tooltip.skip-link=按 Enter 键跳至主要内容
+    tooltip.user-preferences=单击以更改用户首选项
 
 [Skin.Common]
-    copyright=版權
-    home=首頁
+    copyright=版权
+    home=首页
 
 [System.API]
-    no-headers=沒有標頭
-    opensearch-shortname=$1 搜尋
+    no-headers=没有标题
+    opensearch-shortname=$1 搜索
 
 [Users]
-    email.body.html.content=<p>恭喜，<br/> <br/>\ r\ n\ r\ n 您現在擁有 $4 的帳號。<br/> <br/>登入即可立即開始與其他社群成員合作。以下是您的網站存取詳細資訊：<br/> <br/>\ r\ n\ r\ n 網站網址：<a href="$2"> $2 </a> <br/>\ r\ n 使用者名稱：$1 <br/> 密碼：$3 <br/> <br/>\ r\ n\ n\ r\ n 如果您需要協助開始使用或有關於 <a href="$2"> $4 </a> 的特定問題，請聯絡網站管理員。</p>
-    email.body.html.content.nopassword=<p>恭喜，<br/> <br/>\ r\ n\ r\ n 您現在擁有 $3 的帳戶。<br/> <br/>登入即可立即開始與其他社群成員合作。以下是您的網站存取詳細資訊：<br/> <br/>\ r\ n\ r\ n 網站網址：<a href="$2"> $2 </a> <br/>\ r\ n 使用者名稱：$1 <em> 如果您不知道密碼，<br/> <br/> 請聯絡網站管理員。</em> <br/> <br/>\ r\ n\ r\ n 如果您需要協助開始使用，或對 <a href="$2"> $3 </a> 有特定問題，請聯絡網站管理員。</p>
-    email.body.text=\ r\ n 恭喜您，\ r\ n\ r\ n 您現在擁有 $4 的帳號。登入即可立即開始與其他社群成員合作。以下是您的網站存取詳細資訊：\ r\ n\ r\ n 網站網址：$2\ r\ n 使用者名稱：$1\ r\ n 密碼：$3\ r\ n\ n 如果您需要協助開始使用或有關於 $4 的特定問題，請聯絡網站管理員。
-    email.body.text.nopassword=\ r\ n 恭喜您，\ r\ n\ r\ n 您現在擁有 $3 的帳號。登入即可立即開始與其他社群成員合作。以下是您的網站存取詳細資訊：\ r\ n\ r\ n 網站 URL：$2\ r\ n 使用者名稱：$1\ r\ n 如果您不知道密碼，請聯絡網站管理員。\ r\ n\ r\ n 如果您需要協助開始使用，或對 $3 有特定問題，請聯絡網站管理員。
-    email.external.body.html.content=<p>恭喜，<br/> <br/>\ r\ n\ r\ n 您現在擁有 $3 的帳戶。<br/> <br/>登入即可立即開始與其他社群成員合作。以下是您的網站存取詳細資訊：<br/> <br/>\ r\ n\ r\ n 網站 URL：<a href="$2"> $2 </a> <br/>\ r\ n 使用者名稱：$1 <br/> <br/>\ r\ n\ r\ n 如果您需要協助開始使用或有關於 <a href="$2"> $3 </a> 的特定問題，請聯絡網站管理員。</p>
-    email.subject=$1 登入詳細資料
-    form.password.instructions=密碼長度必須至少為 8 個字元，且至少包含 3 個以下字元：小寫、大寫、數字或符號。
+    email.body.html.content=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 4 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1<br/> 密码：$3<br/><br/>\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$4</a> 的具体问题，请联系站点管理员。</p>
+    email.body.html.content.nopassword=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 3 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1 <em>如果您不知道密码，<br/><br/>请联系站点管理员。</em><br/><br/>\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$3</a> 的具体问题，请联系站点管理员。</p>
+    email.body.text=\ r\ n 恭喜，\ r\ n\ r\ n 您现在拥有 4 美元的账户。登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：\ r\ n\ r\ n 网站 URL：$2\ r\ n 用户名：$1\ r\ n 密码：$3\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 $4 的具体问题，请联系站点管理员。
+    email.body.text.nopassword=\ r\ n 恭喜，\ r\ n\ r\ n 现在您的账户为 3 美元。登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：\ r\ n\ r\ n 站点 URL：$2\ r\ n 用户名：$1\ r\ n 如果您不知道密码，请与站点管理员联系。\ r\ n\ r\ n 如果您需要入门帮助或有关于 $3 的具体问题，请联系站点管理员。
+    email.external.body.html.content=<p>恭喜，<br/><br/>\ r\ n\ r\ n 您现在拥有 3 美元的账户。<br/><br/>登录即可立即开始与其他社区成员协作。以下是您的站点访问详细信息：<br/><br/>\ r\ n\ r\ n 网站 URL：<a href="$2">$2</a><br/>\ r\ n 用户名：$1<br/><br/>\ r\ n\ r\ n\ r\ n 如果您需要入门帮助或有关于 <a href="$2">$3</a> 的具体问题，请联系站点管理员。</p>
+    email.subject=$1 登录详情
+    form.password.instructions=密码长度必须至少为 8 个字符，并且至少包含以下 3 个字符：小写、大写、数字或符号。
 
 [WebWidget.Common]
-    error.web-browser-unsupported=您的網頁瀏覽器無法載入要求的 MindTouch 接觸點。
-    label.back-to-top=返回頁首
+    error.web-browser-unsupported=您的网络浏览器无法加载请求的 MindTouch 触点。
+    label.back-to-top=返回顶部
 
 [WebWidget.F1]
-    label.help-button=說明
-    title.help-button=說明
+    label.help-button=帮助
+    title.help-button=帮助
 
 [WebWidget.Login]
-    label.authenticated-user=以 {{使用者名稱}} 的身分登入「心靈觸控」
-    label.sign-in=登入「智觸」
+    label.authenticated-user=以 {{用户名}} 身份登录 MindTouch
+    label.sign-in=登录 MindTouch
 
 [WebWidget.Search]
-    label.collapse-summary=按一下以收合摘要
-    label.disabled-message=請稍後再試。
-    label.disabled-title=抱歉，目前無法搜尋。
-    label.expand-summary=按一下以展開摘要
-    label.forbidden-message=請登入，或聯絡您的網站管理員。
-    label.forbidden-title=您沒有使用此功能的權限。
-    label.input-hint=搜尋
-    label.no-results-faceting-message=嘗試搜尋其他項目或選取類別。
-    label.no-results-message=嘗試尋找別的東西。
-    label.no-results-title=抱歉，我們找不到您想要的內容。
-    label.recommended=建議
-    label.refine-search=精簡搜尋
-    label.show-more=顯示更多
+    label.collapse-summary=单击以折叠摘要
+    label.disabled-message=请稍后重试。
+    label.disabled-title=抱歉，搜索目前不可用。
+    label.expand-summary=点击展开摘要
+    label.forbidden-message=请登录，或联系站点管理员。
+    label.forbidden-title=你没有权限使用此功能。
+    label.input-hint=搜索
+    label.no-results-faceting-message=尝试搜索别的东西或选择一个类别。
+    label.no-results-message=尝试寻找别的东西。
+    label.no-results-title=抱歉，我们找不到你要找的东西。
+    label.recommended=推荐
+    label.refine-search=细化搜索
+    label.show-more=显示更多
 
 [WebWidgets]
-    label.authenticated-user=你好, {{用戶名}}!
+    label.authenticated-user=你好，{{username}}！
     label.nav.back=返回
     label.nav.forward=向前
-    label.nav.home=首頁
+    label.nav.home=首页
 
 [Component.Translate]
-    label.choose-language=選擇語言
-    label.english=英語
-    label.update-failed=翻譯未完成
-    language.spanish=西班牙文
-    language.german=德國
-    language.japanese=日本語
+    label.choose-language=选择语言
+    label.english=英语
+    label.update-failed=翻译不完整
+    language.spanish=西班牙语
+    language.german=德语
+    language.japanese=日語語
     language.chinese=中国人
-    language.french=法國
-    language.portuguese=葡萄牙
-    language.dutch=荷蘭
-    language.korean=국
-    language.swedish=斯文斯卡
-    language.danish=但斯克
-    language.finnish=索馬拉寧
-    language.italian=意大利
-    title.translated-machine=使用機器翻譯翻譯的頁面內容
-    dialog.translated-mindtouch=由「思維觸」翻譯
+    language.french=法语
+    language.portuguese=波图格萨
+    language.dutch=荷兰
+    language.korean=한국어
+    language.swedish=瑞典语
+    language.danish=丹麦语
+    language.finnish=suomalainen
+    language.italian=意大利语
+    title.translated-machine=使用机器翻译翻译的页面内容
+    dialog.translated-mindtouch=由 MindTouch 翻译
