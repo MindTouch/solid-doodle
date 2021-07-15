@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=বার্তা বিভাগ ফাঁকা শীর্ষচরণ
+
+[Old.Category]
+    dialog.old.select.title=ডায়ালগ পুরাতন নির্বাচন শিরোনাম
+
+[Web.Defaults]
+    error.message=ত্রুটি বার্তা

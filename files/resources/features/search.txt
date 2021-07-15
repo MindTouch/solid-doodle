@@ -1,0 +1,7 @@
+[MindTouch.SearchLocationNav]
+    label.current-location=Viewing:
+
+[MindTouch.SearchFilters]
+    label.attachments.v2=View attachments
+    label.clear-all.v2=Reset filters
+    label.description.v2=Filter results by:

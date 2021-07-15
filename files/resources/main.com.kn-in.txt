@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=ಸಂದೇಶ ವಿಭಾಗ ಖಾಲಿ ಶಿರೋಲೇಖ
+
+[Old.Category]
+    dialog.old.select.title=ಡೈಲಾಗ್ ಹಳೆಯ ಆಯ್ಕೆ ಶೀರ್ಷಿಕೆ
+
+[Web.Defaults]
+    error.message=ಸಂದೇಶ ದೋಷ

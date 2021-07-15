@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=შეტყობინების განყოფილება ცარიელი ჰედერი
+
+[Old.Category]
+    dialog.old.select.title=დიალოგი ძველი აირჩიეთ სათაური
+
+[Web.Defaults]
+    error.message=შეცდომის შეტყობინება

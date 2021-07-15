@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=የመልዕክት ክፍል ባዶ ራስጌ
+
+[Old.Category]
+    dialog.old.select.title=ንግግር የድሮ ርዕስ ይምረጡ
+
+[Web.Defaults]
+    error.message=የስህተት መልዕክት

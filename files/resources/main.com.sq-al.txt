@@ -1,0 +1,8 @@
+[Section.Headers]
+    message.section.empty.header=Mesazhi Seksioni bosh Header
+
+[Old.Category]
+    dialog.old.select.title=Dialog Titulli i Vjetër Zgjidh
+
+[Web.Defaults]
+    error.message=Mesazh gabimi
