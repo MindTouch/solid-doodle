@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=メッセージセクション空のヘッダー
+[Dialog.CopyMove]
+    placeholder.search=検索
 
-[Old.Category]
-    dialog.old.select.title=[古いタイトルを選択] ダイアログ
+[F1]
+    dialog.text.back=戻る
+    dialog.text.forward=フォワード
+    dialog.text.hint=検索
+    dialog.text.home=ホーム
+    dialog.text.open=記事を開く
 
-[Web.Defaults]
-    error.message=エラーメッセージ
+[MindTouch.Help.Page]
+    category-selector=フィルタを選択して結果を絞り込みます。
+    help-header-label=ヘルプの結果
+    in=に
+    label-filter=検索中
+    label-result-count={0} の結果について
+    label-search-all=すべての結果
+    label.page-rating-no=なし
+    label.page-rating-yes=はい
+    more=もっと
+    no-search-results=申し訳ありませんが、お探しのものが見つかりませんでした。
+    no-search-try=他のものを検索したり、カテゴリを選択したり、チケットを作成してみてください。
+    recommended=(推奨)
+    search-error=検索にエラーが発生しました。
+    search-error-try=後でもう一度お試しください。
+    search-unavailable=申し訳ありませんが、検索は現在ご利用いただけません。
+    show-more-search=さらに結果を表示する
+    tooltip.scrollNext=次へスクロール
+    tooltip.scrollPrev=前へスクロール
+    warning.search-only-english=検索は英語でのみ利用できます。
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(作成日)
+    featured.articles.created.title=最近追加された
+    featured.articles.rated.label=(評価)
+    featured.articles.rated.title=最高評価
+    featured.articles.updated.label=(更新日)
+    featured.articles.updated.title=最近更新されました
+    featured.articles.viewed.label=(ビュー)
+    featured.articles.viewed.title=最も人気がある
+    label.guide-subpage-display-single=単一
+    label.guide-subpage-display-tabbed=タブ付き
+    label.guide.tabscrollleft=タブを左にスクロール
+    label.guide.tabscrollright=タブを右にスクロール
+    label.reveal.showAll=すべて表示
+    label.reveal.showLess=以下を表示
+    label.search.placeholder=検索
+    type.how-to=ハウツー
+    type.howto=ハウツー
+    type.reference=参考
+    type.topic=トピック
+    type.topic-category=カテゴリ
+    type.topic-guide=ガイド
+    type.topic-portfolio=ポートフォリオ
+    type.unclassified=未分類
+
+[MindTouch.LearningPath]
+    label.view-pages=ページの表示
+    message.page-count=<span>ページ:</span>$1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=隠す
+    button.toggle.show=[表示]
+    label.attachments=添付ファイルを含める
+    label.attachments-description=コンテンツタイプ
+    label.attachments.type.binary=その他
+    label.attachments.type.document=ドキュメント
+    label.attachments.type.image=イメージ
+    label.classification=分類
+    label.clear-all=すべてのフィルターをクリア
+    label.description=結果をフィルタする
+    label.filters=フィルタ
+    label.location=所在地
+    label.location-empty=フィルタリングする場所はありません
+
+[MindTouch.Subscriptions]
+    cancel=キャンセル
+    caption.normal=次のページに登録されています。
+    caption.nosubscriptions=どのページにも登録されていません。
+    column.page=ページ
+    column.recursive=のメール通知
+    link-title=MindTouch での通知の管理についてさらに詳しく
+    nonrecursive=このページのみ
+    nonrecursive.draft=このドラフトのみ
+    recursive.many=$1 ページ
+    recursive.many.draft=$1 ドラフト
+    recursive.many.overflow=すべてのサブページにサブスクライブ
+    recursive.many.overflow.draft=すべてのサブページの下書きを購読しました
+    recursive.one=1 ページ
+    recursive.one.draft=1 ドラフト
+    unsubscribe=購読解除
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=メッセージを閉じる
+
+[Page.AuthenticationProviders]
+    page-title=サインイン
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">すべてのヘルプトピックについては、success.mindtouch.com にアクセスしてください。</a>
+
+[Page.Error]
+    not-found=ページが見つかりません
+    not-found-error=申し訳ありませんが、$1 のページが見つかりませんでした。
+    not-found-results=関連する検索結果:
+    page-title=エラー
+
+[Page.FeedbackRating]
+    button.leave-feedback=フィードバックを残す
+    button.rating-no=なし
+    button.rating-yes=はい
+    button.submit-feedback=フィードバックを送信
+    label.checkbox.contact-me=はい、このフィードバックについて私に連絡してください。
+    label.feedback-question=この記事をどう改善できるの？
+    label.last-rated=— この記事を前回評価しました $1
+    label.rating-message=この記事は役に立ちましたか？
+    legend.feedback-form=フィードバックを残す
+    message.contact.no=なし
+    message.contact.yes=はい
+    message.submit.error=フィードバックの送信中にエラーが発生しました。後でもう一度試してください。
+    message.submit.success=フィードバックは正常に送信されました。フィードバックはいつでも送信できます。
+
+[Page.LiveTags]
+    label.article=記事タイプ
+
+[Page.LoginPasswordRegister]
+    page-title=サインインして登録
+    tab.login=サインイン
+    tab.password=パスワードリセット
+    tab.register=登録
+
+[Page.Preferences]
+    error.invalid-email=有効なメールアドレスを指定してください
+    form.email=メールアドレス
+    form.fullname=表示名
+    form.fullname.help=表示目的のみ
+    form.hint.password-characters=パスワードには、小文字、大文字、数字、記号の3文字以上を含める必要があります。
+    form.hint.password-length=パスワードの長さは 8 文字以上である必要があります。
+    form.hint.password-match=パスワードは一致する必要があります
+    form.hint.password.restricted-words=パスワードに共通のパスワード単語を含めることはできません。
+    form.legend.information=マイ情報
+    form.legend.password=マイパスワード
+    form.password.new=新しいパスワード
+    form.password.old=古いパスワード
+    form.password.submit=パスワードを変更する
+    form.password.verify=新しいパスワードを再入力する
+    form.submit=自分の情報を保存する
+
+[Page.Tags]
+    message.notags=このページにはタグがありません。
+    page-title=サイトタグ
+    tags-inserted-from-template=テンプレートが推奨するタグ:
+    tags-inserted-heading=ページタグ:
+
+[Page.UserLogin]
+    error=サインインに失敗しました。ユーザー名とパスワードを確認してください。
+    page-title=サインイン
+    submit-login=サインイン
+    user-name=ユーザー名
+    user-password=パスワード
+
+[Page.UserLogout]
+    page-title=サインアウト
+    success=正常にサインアウトしました。
+
+[Page.UserPassword]
+    form.submit=パスワードリセット
+    page-title=パスワードリセット
+    success.email-sent=パスワードのリセット手順が、このアカウントに登録されている電子メールアドレスに送信されました。メールが届かない場合は、スペルをチェックして、もう一度試してください。引き続きサインインで問題が発生する場合は、サイト管理者に問い合わせてください。
+
+[Page.UserRegistration]
+    error.email.match=入力したメールが一致しません。
+    error.password.match=入力したパスワードが一致しません。
+    form.email=メール
+    form.email.verify=メールを検証する
+    form.fullname=フルネーム <span class="note">(オプション)</span>
+    form.password=パスワード
+    form.password.verify=パスワードの確認
+    form.submit=アカウントを作成する
+    form.username=ユーザー名
+    page-title=アカウントを作成する
+    success.created=ユーザー <strong>$1</strong> が作成されました。
+
+[Page.Welcome]
+    community-banner-text=これで、コンテンツをコントリビュートして共有できるようになりました。
+    community-banner-title=ようこそ、$1アカウントが作成されました。
+    community-get-started-text=<strong>始めるのに役立つヒントをいくつか紹介します。</strong>
+    community-tip1-text=サイトの所有者に、サイトのコンテンツに関する貴重なフィードバックを提供します。記事は役に立ちましたか？[<span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">はい</span>] をクリックします。そうでない場合は、[<span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">フィードバックを残す</span>] をクリックして、改善方法を教えてください。<br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">もっと詳しく</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ページにコメントして会話を始めましょう。自分の情報を投稿したり、他のユーザーのコメントに返信したりできます。<br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">もっと詳しく</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=パスワードリセット
+
+[Product]
+    powered-by-site=MindTouchが搭載
+
+[Skin.Columbia]
+    button.quick-login=サインイン
+    header.recommended-articles=おすすめ記事
+    header.toc=目次
+    label.back-to-top=トップに戻る
+    label.global-location-toggle=グローバルロケーションを展開/折りたたむ
+    label.global-navigation-toggle=グローバル階層を展開/折りたたむ
+    label.last-updated=最終更新日
+    label.last-updated-by=によって
+    label.no-recommended-articles=おすすめの記事はありません。
+    label.password=パスワード
+    label.pdf-export=PDF として保存
+    label.signout=サインアウト
+    label.site-search.button=検索
+    label.site-search.input=検索
+    label.skip-link=メインコンテンツにスキップ
+    label.tags=タグ
+    label.user-preferences=マイプリファレンス
+    label.username=ユーザー名
+    link.quick-login=サインイン
+    link.site-search=検索サイト
+    placeholder.site-search.input=どうお手伝いできるの？
+    tooltip.back-to-top=この記事のトップに戻る
+    tooltip.browse-back=前の記事に戻る
+    tooltip.pdf-export=ページを PDF としてエクスポートする
+    tooltip.signout=クリックしてこのサイトからサインアウトする
+    tooltip.skip-link=Enter キーを押して、メインコンテンツにスキップします
+    tooltip.user-preferences=クリックして、ユーザー設定を変更します。
+
+[Skin.Common]
+    copyright=著作権
+    home=ホーム
+
+[System.API]
+    no-headers=ヘッダーなし
+    opensearch-shortname=$1 検索
+
+[Users]
+    email.body.html.content=<p>おめでとう、<br/><br/>\ r\ n\ r\ n今 $4 のアカウントを持っています。<br/><br/>サインインすると、他のコミュニティメンバーとのコラボレーションをすぐに開始できます。サイトアクセスの詳細は次のとおりです。<br/><br/>\ r\ n\ r\ nサイト URL: <a href="$2">$2</a><br/>\ r\ nユーザー名:$1<br/> パスワード:$3<br/><br/>\ r\ n\ r\ nはじめにヘルプが必要な場合、または <a href="$2">$4</a> に関する具体的な質問がある場合は、サイト管理者に連絡してください。</p>
+    email.body.html.content.nopassword=<p>おめでとう、<br/><br/>\ r\ n\ r\ n今 $3 のアカウントがあります。<br/><br/>サインインすると、他のコミュニティメンバーとのコラボレーションをすぐに開始できます。サイトアクセスの詳細は次のとおりです。<br/><br/>\ r\ n\ r\ nサイト URL: <a href="$2">$2</a><br/>\ r\ nユーザー名:$1 <em>パスワードがわからない場合は、<br/><br/>サイト管理者に連絡してください。</em><br/><br/>\ r\ n\ r\ nはじめにヘルプが必要な場合や、<a href="$2">$3</a> について具体的な質問がある場合は、サイト管理者に問い合わせてください。</p>
+    email.body.text=\ r\ nおめでとう、\ r\ n\ r\ n今 $4 のアカウントを持っています。サインインすると、他のコミュニティメンバーとのコラボレーションをすぐに開始できます。サイトアクセスの詳細は次のとおりです。\ r\ n\ r\ nサイト URL: $2\ r\ nユーザー名:$1\ r\ nパスワード:$3\ r\ n\ r\ nはじめにヘルプが必要な場合、または $4 に関する具体的な質問がある場合は、サイト管理者に連絡してください。
+    email.body.text.nopassword=\ r\ nおめでとう、\ r\ n\ r\ n今 $3 のアカウントがあります。サインインすると、他のコミュニティメンバーとのコラボレーションをすぐに開始できます。サイトアクセスの詳細は次のとおりです。\ r\ n\ r\ nサイト URL: $2\ r\ nユーザー名:$1\ r\ nパスワードがわからない場合は、サイト管理者に連絡してください。\ r\ n\ r\ nはじめにヘルプが必要な場合や、$3 について具体的な質問がある場合は、サイト管理者に問い合わせてください。
+    email.external.body.html.content=<p>おめでとう、<br/><br/>\ r\ n\ r\ n今 $3 のアカウントがあります。<br/><br/>サインインすると、他のコミュニティメンバーとのコラボレーションをすぐに開始できます。サイトアクセスの詳細は次のとおりです。<br/><br/>\ r\ n\ r\ nサイト URL: <a href="$2">$2</a><br/>\ r\ nユーザー名:$1<br/><br/>\ r\ n\ r\ nはじめにヘルプが必要な場合、または <a href="$2">$3</a> に関する具体的な質問がある場合は、サイト管理者に問い合わせてください。</p>
+    email.subject=$1 ログインの詳細
+    form.password.instructions=パスワードの長さは 8 文字以上で、小文字、大文字、数字、記号の3文字以上である必要があります。
+
+[WebWidget.Common]
+    error.web-browser-unsupported=リクエストされた MindTouch タッチポイントを Web ブラウザーで読み込めませんでした。
+    label.back-to-top=トップに戻る
+
+[WebWidget.F1]
+    label.help-button=ヘルプ
+    title.help-button=ヘルプ
+
+[WebWidget.Login]
+    label.authenticated-user={{ユーザー名}} としてMindTouch にサインインします
+    label.sign-in=MindTouch にサインインする
+
+[WebWidget.Search]
+    label.collapse-summary=クリックして要約を折りたたむ
+    label.disabled-message=後でもう一度お試しください。
+    label.disabled-title=申し訳ありませんが、検索は現在ご利用いただけません。
+    label.expand-summary=クリックして概要を展開します。
+    label.forbidden-message=ログインするか、サイト管理者に問い合わせてください。
+    label.forbidden-title=この機能を使用する権限がありません。
+    label.input-hint=検索
+    label.no-results-faceting-message=他のものを検索するか、カテゴリを選択してみてください。
+    label.no-results-message=他のものを探してみてください。
+    label.no-results-title=申し訳ありませんが、お探しのものが見つかりませんでした。
+    label.recommended=おすすめ
+    label.refine-search=検索を絞り込む
+    label.show-more=もっと表示
+
+[WebWidgets]
+    label.authenticated-user=こんにちは、{{ユーザー名}}！
+    label.nav.back=戻る
+    label.nav.forward=フォワード
+    label.nav.home=ホーム
+
+[Component.Translate]
+    label.choose-language=言語を選択
+    label.english=英語
+    label.update-failed=翻訳が不完全です
+    language.spanish=エスパニョール
+    language.german=ドイッチュ
+    language.japanese=日本語は
+    language.chinese=中国人
+    language.french=フランセ
+    language.portuguese=ポルトゥゲサ
+    language.dutch=オランダ
+    language.korean=한국어
+    language.swedish=スヴェンスカ
+    language.danish=デンマーク語
+    language.finnish=スオマライネン
+    language.italian=イタリアーノ
+    title.translated-machine=機械翻訳を使用して翻訳されたページコンテンツ
+    dialog.translated-mindtouch=MindTouchによる翻訳済み
