@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Phần tin nhắn rỗng tiêu đề
+[Dialog.CopyMove]
+    placeholder.search=Tìm kiếm
 
-[Old.Category]
-    dialog.old.select.title=Hộp thoại Chọn Tiêu đề cũ
+[F1]
+    dialog.text.back=Quay lại
+    dialog.text.forward=Chuyển tiếp
+    dialog.text.hint=Tìm kiếm
+    dialog.text.home=Trang chủ
+    dialog.text.open=Mở bài viết
 
-[Web.Defaults]
-    error.message=Thông báo lỗi
+[MindTouch.Help.Page]
+    category-selector=Tinh chỉnh kết quả bằng cách chọn một bộ lọc.
+    help-header-label=Kết quả trợ giúp cho
+    in=trong
+    label-filter=Tìm kiếm trong
+    label-result-count=Về {0} kết quả
+    label-search-all=Tất cả các kết quả
+    label.page-rating-no=Không
+    label.page-rating-yes=Vâng
+    more=Thêm
+    no-search-results=Rất tiếc, chúng tôi không tìm thấy những gì bạn đang tìm kiếm.
+    no-search-try=Hãy thử tìm kiếm thứ gì đó khác, chọn danh mục hoặc thử tạo vé.
+    recommended=(Khuyến nghị)
+    search-error=Tìm kiếm đã gặp lỗi.
+    search-error-try=Vui lòng thử lại sau.
+    search-unavailable=Rất tiếc, tìm kiếm hiện không khả dụng.
+    show-more-search=Hiển thị thêm kết quả
+    tooltip.scrollNext=Cuộn tới tiếp theo
+    tooltip.scrollPrev=Cuộn đến trước
+    warning.search-only-english=Tìm kiếm chỉ có sẵn bằng tiếng Anh
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(ngày tạo)
+    featured.articles.created.title=Đã thêm gần đây
+    featured.articles.rated.label=(Đánh giá)
+    featured.articles.rated.title=Được đánh giá cao nhất
+    featured.articles.updated.label=(ngày cập nhật)
+    featured.articles.updated.title=Cập nhật gần đây
+    featured.articles.viewed.label=(lượt xem)
+    featured.articles.viewed.title=Phổ biến nhất
+    label.guide-subpage-display-single=Đơn
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Cuộn tab sang trái
+    label.guide.tabscrollright=Cuộn tab sang phải
+    label.reveal.showAll=Hiển thị tất cả
+    label.reveal.showLess=Hiển thị ít hơn
+    label.search.placeholder=Tìm kiếm
+    type.how-to=Làm thế nào để
+    type.howto=Làm thế nào để
+    type.reference=Tài liệu tham khảo
+    type.topic=Chủ đề
+    type.topic-category=Thể loại
+    type.topic-guide=Hướng dẫn
+    type.topic-portfolio=Danh mục đầu tư
+    type.unclassified=Chưa được phân loại
+
+[MindTouch.LearningPath]
+    label.view-pages=Xem trang
+    message.page-count=<span>Các trang: </span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Ẩn
+    button.toggle.show=Hiển thị
+    label.attachments=Bao gồm các tệp đính kèm
+    label.attachments-description=Loại nội dung
+    label.attachments.type.binary=Khác
+    label.attachments.type.document=Tài liệu
+    label.attachments.type.image=Ảnh
+    label.classification=Phân loại
+    label.clear-all=Xóa tất cả các bộ lọc
+    label.description=Kết quả lọc
+    label.filters=Bộ lọc
+    label.location=Vị trí
+    label.location-empty=Không có vị trí nào để lọc theo
+
+[MindTouch.Subscriptions]
+    cancel=Hủy
+    caption.normal=Bạn đã đăng ký vào các trang sau đây.
+    caption.nosubscriptions=Bạn không đăng ký vào bất kỳ trang nào.
+    column.page=Trang
+    column.recursive=Thông báo email cho
+    link-title=Tìm hiểu thêm về quản lý thông báo trong MindTouch
+    nonrecursive=Trang này chỉ
+    nonrecursive.draft=Dự thảo này chỉ
+    recursive.many=$1 trang
+    recursive.many.draft=$1 bản nháp
+    recursive.many.overflow=Đăng ký tất cả các trang con
+    recursive.many.overflow.draft=Đăng ký tất cả các bản nháp trang con
+    recursive.one=1 trang
+    recursive.one.draft=1 bản nháp
+    unsubscribe=Hủy đăng ký
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Đóng tin nhắn
+
+[Page.AuthenticationProviders]
+    page-title=Đăng nhập
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Truy cập success.mindtouch.com cho tất cả các chủ đề trợ giúp. </a>
+
+[Page.Error]
+    not-found=Không tìm thấy trang
+    not-found-error=Rất tiếc, không thể tìm thấy trang ở mức $1.
+    not-found-results=Kết quả tìm kiếm liên quan:
+    page-title=Lỗi
+
+[Page.FeedbackRating]
+    button.leave-feedback=Để lại phản hồi
+    button.rating-no=Không
+    button.rating-yes=Vâng
+    button.submit-feedback=Gửi phản hồi
+    label.checkbox.contact-me=Có, bạn có thể liên hệ với tôi về phản hồi này.
+    label.feedback-question=Làm thế nào chúng ta có thể cải thiện bài viết này?
+    label.last-rated=— Bạn đánh giá bài viết này lần cuối trên $1
+    label.rating-message=Bài viết này có hữu ích không?
+    legend.feedback-form=Để lại phản hồi
+    message.contact.no=Không
+    message.contact.yes=Vâng
+    message.submit.error=Đã xảy ra lỗi khi cố gắng gửi phản hồi của bạn. Vui lòng thử lại vào một thời gian sau.
+    message.submit.success=Phản hồi của bạn đã được gửi thành công. Bạn có thể gửi thêm phản hồi bất cứ lúc nào.
+
+[Page.LiveTags]
+    label.article=Loại bài viết
+
+[Page.LoginPasswordRegister]
+    page-title=Đăng nhập và đăng ký
+    tab.login=Đăng nhập
+    tab.password=Đặt lại mật khẩu
+    tab.register=Đăng ký
+
+[Page.Preferences]
+    error.invalid-email=Vui lòng chỉ định một địa chỉ email hợp lệ
+    form.email=Địa chỉ email
+    form.fullname=Tên hiển thị
+    form.fullname.help=Chỉ dành cho mục đích hiển thị
+    form.hint.password-characters=Mật khẩu phải chứa ít nhất 3 trong số các ký tự sau: chữ thường, chữ hoa, chữ số hoặc ký hiệu.
+    form.hint.password-length=Mật khẩu phải có chiều dài ít nhất 8 ký tự
+    form.hint.password-match=Mật khẩu phải khớp
+    form.hint.password.restricted-words=Mật khẩu không thể chứa các từ mật khẩu phổ biến
+    form.legend.information=Thông tin của tôi
+    form.legend.password=Mật khẩu của tôi
+    form.password.new=Mật khẩu mới
+    form.password.old=Mật khẩu cũ
+    form.password.submit=Thay đổi mật khẩu
+    form.password.verify=Nhập lại mật khẩu mới
+    form.submit=Lưu thông tin của tôi
+
+[Page.Tags]
+    message.notags=Trang này không có thẻ.
+    page-title=Thẻ trang web
+    tags-inserted-from-template=Thẻ được đề xuất bởi mẫu:
+    tags-inserted-heading=Thẻ trang:
+
+[Page.UserLogin]
+    error=Đăng nhập của bạn đã thất bại. Vui lòng xác minh tên người dùng và mật khẩu của bạn.
+    page-title=Đăng nhập
+    submit-login=Đăng nhập
+    user-name=Tên đăng nhập
+    user-password=Mật khẩu
+
+[Page.UserLogout]
+    page-title=Đăng xuất
+    success=Bạn đã đăng xuất thành công.
+
+[Page.UserPassword]
+    form.submit=Đặt lại mật khẩu
+    page-title=Đặt lại mật khẩu
+    success.email-sent=Hướng dẫn đặt lại mật khẩu đã được gửi đến địa chỉ e-mail đã đăng ký cho tài khoản này. Nếu bạn không nhận được email, vui lòng kiểm tra chính tả của bạn và thử lại. Liên hệ với người quản trị trang web của bạn nếu bạn tiếp tục gặp sự cố khi đăng nhập.
+
+[Page.UserRegistration]
+    error.email.match=Các email bạn đã nhập không khớp.
+    error.password.match=Mật khẩu bạn nhập không khớp.
+    form.email=Email
+    form.email.verify=Xác minh Email
+    form.fullname=Tên đầy đủ <span class="note"> (tùy chọn) </span>
+    form.password=Mật khẩu
+    form.password.verify=Xác minh mật khẩu
+    form.submit=Tạo một tài khoản
+    form.username=Tên đăng nhập
+    page-title=Tạo một tài khoản
+    success.created=Người dùng <strong> $1 </strong> đã được tạo.
+
+[Page.Welcome]
+    community-banner-text=Bây giờ bạn có thể đóng góp và chia sẻ nội dung.
+    community-banner-title=Chào mừng, 1 đô. Tài khoản của bạn đã được tạo.
+    community-get-started-text=<strong>Dưới đây là một số mẹo giúp bạn bắt đầu: </strong>
+    community-tip1-text=Cung cấp cho chủ sở hữu trang web phản hồi có giá trị về nội dung của trang web. Bài viết có hữu ích không? Bấm <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes"> Yes </span>. Nếu không, hãy nhấp vào <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback"> Để lại phản hồi </span> để cho chúng tôi biết cách chúng tôi có thể cải thiện. <br /> <a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Tìm hiểu thêm </a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Bắt đầu một cuộc trò chuyện bằng cách nhận xét trên một trang. Đóng góp thông tin của riêng bạn hoặc trả lời nhận xét của người dùng khác. <br /> <a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Tìm hiểu thêm </a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Đặt lại mật khẩu
+
+[Product]
+    powered-by-site=Được hỗ trợ bởi MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Đăng nhập
+    header.recommended-articles=Bài viết được đề xuất
+    header.toc=Mục lục
+    label.back-to-top=Quay lại đầu trang
+    label.global-location-toggle=Mở rộng/thu gọn vị trí toàn cầu
+    label.global-navigation-toggle=Mở rộng/thu gọn hệ thống phân cấp toàn cầu
+    label.last-updated=Cập nhật lần cuối
+    label.last-updated-by=bởi
+    label.no-recommended-articles=Không có bài viết được đề nghị.
+    label.password=Mật khẩu
+    label.pdf-export=Lưu dưới dạng PDF
+    label.signout=Đăng xuất
+    label.site-search.button=Tìm kiếm
+    label.site-search.input=Tìm kiếm
+    label.skip-link=Chuyển đến nội dung chính
+    label.tags=Thẻ
+    label.user-preferences=Tùy chọn của tôi
+    label.username=Tên đăng nhập
+    link.quick-login=Đăng nhập
+    link.site-search=Tìm kiếm trang web
+    placeholder.site-search.input=Chúng tôi có thể giúp gì cho bạn?
+    tooltip.back-to-top=Nhảy trở lại đầu bài viết này
+    tooltip.browse-back=Quay lại bài viết trước
+    tooltip.pdf-export=Xuất trang dưới dạng PDF
+    tooltip.signout=Nhấn vào đây để đăng xuất khỏi trang web này
+    tooltip.skip-link=Nhấn enter để chuyển đến nội dung chính
+    tooltip.user-preferences=Nhấn vào đây để thay đổi tùy chọn người dùng của bạn
+
+[Skin.Common]
+    copyright=Bản quyền
+    home=Trang chủ
+
+[System.API]
+    no-headers=Không có tiêu đề
+    opensearch-shortname=$1 Tìm kiếm
+
+[Users]
+    email.body.html.content=<p>Xin chúc mừng, <br/> <br/>\ r\ n\ r\ nBây giờ bạn đã có một tài khoản tại $4. <br/> <br/>Đăng nhập để ngay lập tức bắt đầu cộng tác với các thành viên cộng đồng khác. Dưới đây là chi tiết truy cập trang web của bạn: <br/> <br/>\ r\ n\ r\ nURL trang web: <a href="$2"> $2 </a> <br/>\ r\ nTên người dùng: $1 <br/> Mật khẩu: $3 <br/> <br/>\ r\ n\ r\ nNếu bạn cần trợ giúp bắt đầu hoặc có câu hỏi cụ thể về <a href="$2"> $4 </a>, vui lòng liên hệ với quản trị viên trang web. </p>
+    email.body.html.content.nopassword=<p>Xin chúc mừng, <br/> <br/>\ r\ n\ r\ nBây giờ bạn đã có một tài khoản tại $3. <br/> <br/>Đăng nhập để ngay lập tức bắt đầu cộng tác với các thành viên cộng đồng khác. Dưới đây là chi tiết truy cập trang web của bạn: <br/> <br/>\ r\ n\ r\ nURL trang web: <a href="$2"> $2 </a> <br/>\ r\ nTên người dùng: $1 <br/> <br/> <em> Liên hệ với người quản trị trang web nếu bạn không biết mật khẩu của mình. </em> <br/> <br/>\ r\ n\ r\ nNếu bạn cần trợ giúp bắt đầu hoặc có câu hỏi cụ thể về <a href="$2"> $3 </a>, vui lòng liên hệ với quản trị viên trang web. </p>
+    email.body.text=\ r\ nXin chúc mừng,\ r\ n\ r\ nBây giờ bạn đã có một tài khoản tại $4. Đăng nhập để ngay lập tức bắt đầu cộng tác với các thành viên cộng đồng khác. Dưới đây là chi tiết truy cập trang web của bạn:\ r\ n\ r\ nURL trang web: $2\ r\ nTên người dùng: $1\ r\ nMật khẩu: $3\ r\ n\ r\ nNếu bạn cần trợ giúp bắt đầu hoặc có câu hỏi cụ thể về $4, vui lòng liên hệ với quản trị viên trang web.
+    email.body.text.nopassword=\ r\ nXin chúc mừng,\ r\ n\ r\ nBây giờ bạn đã có một tài khoản tại $3. Đăng nhập để ngay lập tức bắt đầu cộng tác với các thành viên cộng đồng khác. Dưới đây là chi tiết truy cập trang web của bạn:\ r\ n\ r\ nURL trang web: $2\ r\ nTên người dùng: $1\ r\ nLiên hệ với người quản trị trang web nếu bạn không biết mật khẩu của mình. \ r\ n\ r\ nNếu bạn cần trợ giúp bắt đầu hoặc có câu hỏi cụ thể về $3, vui lòng liên hệ với quản trị viên trang web.
+    email.external.body.html.content=<p>Xin chúc mừng, <br/> <br/>\ r\ n\ r\ nBây giờ bạn đã có một tài khoản tại $3. <br/> <br/>Đăng nhập để ngay lập tức bắt đầu cộng tác với các thành viên cộng đồng khác. Dưới đây là chi tiết truy cập trang web của bạn: <br/> <br/>\ r\ n\ r\ nURL trang web: <a href="$2"> $2 </a> <br/>\ r\ nTên người dùng: $1 <br/> <br/>\ r\ n\ r\ nNếu bạn cần trợ giúp bắt đầu hoặc có câu hỏi cụ thể về <a href="$2"> $3 </a>, vui lòng liên hệ với quản trị viên trang web. </p>
+    email.subject=$1 Đăng nhập Chi tiết
+    form.password.instructions=Mật khẩu phải có chiều dài tối thiểu 8 ký tự và chứa ít nhất 3 ký tự sau: chữ thường, chữ hoa, chữ số hoặc ký hiệu.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Trình duyệt web của bạn không thể tải Điểm cảm ứng MindTouch được yêu cầu.
+    label.back-to-top=Quay lại đầu trang
+
+[WebWidget.F1]
+    label.help-button=Trợ giúp
+    title.help-button=Trợ giúp
+
+[WebWidget.Login]
+    label.authenticated-user=Đăng nhập vào MindTouch dưới dạng {{username}}
+    label.sign-in=Đăng nhập vào MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Nhấn vào đây để thu gọn tóm tắt
+    label.disabled-message=Vui lòng thử lại sau.
+    label.disabled-title=Rất tiếc, tìm kiếm hiện không khả dụng.
+    label.expand-summary=Nhấn vào đây để mở rộng tóm tắt
+    label.forbidden-message=Vui lòng đăng nhập hoặc liên hệ với quản trị viên trang web của bạn.
+    label.forbidden-title=Bạn không có quyền sử dụng tính năng này.
+    label.input-hint=Tìm kiếm
+    label.no-results-faceting-message=Hãy thử tìm kiếm thứ gì đó khác hoặc chọn một thể loại.
+    label.no-results-message=Hãy thử tìm kiếm cái gì khác.
+    label.no-results-title=Rất tiếc, chúng tôi không tìm thấy những gì bạn đang tìm kiếm.
+    label.recommended=Khuyến nghị
+    label.refine-search=Tinh chỉnh tìm kiếm
+    label.show-more=Xem thêm
+
+[WebWidgets]
+    label.authenticated-user=Xin chào, {{username}}!
+    label.nav.back=Quay lại
+    label.nav.forward=Chuyển tiếp
+    label.nav.home=Trang chủ
+
+[Component.Translate]
+    label.choose-language=Chọn ngôn ngữ
+    label.english=Anh
+    label.update-failed=Dịch chưa đầy đủ
+    language.spanish=Tiếng Español
+    language.german=Tiếng Deutsch
+    language.japanese=日 本 語
+    language.chinese=中 国 人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Tiếng Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Tiếng Italiano
+    title.translated-machine=Nội dung trang được dịch bằng máy dịch
+    dialog.translated-mindtouch=Dịch bởi MindTouch
