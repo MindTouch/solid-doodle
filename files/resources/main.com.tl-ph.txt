@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Seksyon ng Mensahe Walang laman
+[Dialog.CopyMove]
+    placeholder.search=Paghahanap
 
-[Old.Category]
-    dialog.old.select.title=Dialog Lumang Piliin ang Pamagat
+[F1]
+    dialog.text.back=Bumalik
+    dialog.text.forward=Ipasa
+    dialog.text.hint=paghahanap
+    dialog.text.home=Home
+    dialog.text.open=Buksan ang artikulo
 
-[Web.Defaults]
-    error.message=Mensahe ng error
+[MindTouch.Help.Page]
+    category-selector=Pinuhin ang mga resulta sa pamamagitan ng pagpili ng filter.
+    help-header-label=Mga resulta ng tulong para sa
+    in=sa
+    label-filter=Naghahanap sa
+    label-result-count=Tungkol sa {0} results
+    label-search-all=Lahat ng resulta
+    label.page-rating-no=Walang
+    label.page-rating-yes=Oo
+    more=Higit pa
+    no-search-results=Paumanhin, hindi namin mahanap kung ano ang iyong hinahanap.
+    no-search-try=Subukang maghanap ng ibang bagay, pumili ng isang kategorya, o subukan ang paglikha ng tiket.
+    recommended=(Inirerekomenda)
+    search-error=Nakatagpo ang paghahanap ng isang error.
+    search-error-try=Mangyaring subukan muli mamaya.
+    search-unavailable=Paumanhin, ang paghahanap ay kasalukuyang hindi magagamit.
+    show-more-search=Magpakita ng higit pang mga resulta
+    tooltip.scrollNext=Mag-scroll sa susunod
+    tooltip.scrollPrev=Mag-scroll sa nakaraang
+    warning.search-only-english=Ang paghahanap ay magagamit lamang sa Ingles
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(petsa na nilikha)
+    featured.articles.created.title=Kamakailan idinagdag
+    featured.articles.rated.label=(rating)
+    featured.articles.rated.title=Pinakamataas na rated
+    featured.articles.updated.label=(petsa na-update)
+    featured.articles.updated.title=Kamakailang na-update
+    featured.articles.viewed.label=(mga tanawin)
+    featured.articles.viewed.title=Pinakatanyag
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Naka-tab
+    label.guide.tabscrollleft=Mag-scroll ng mga tab sa kaliwa
+    label.guide.tabscrollright=Mag-scroll ng mga tab sa kanan
+    label.reveal.showAll=Ipakita ang lahat
+    label.reveal.showLess=Ipakita ang mas mababa
+    label.search.placeholder=Paghahanap
+    type.how-to=Paano
+    type.howto=Paano
+    type.reference=Sanggunian
+    type.topic=Paksa
+    type.topic-category=Kategorya
+    type.topic-guide=Gabay
+    type.topic-portfolio=Portfolio
+    type.unclassified=Hindi Na-classify
+
+[MindTouch.LearningPath]
+    label.view-pages=Tingnan ang mga pahina
+    message.page-count=<span>Mga pahina:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Itago
+    button.toggle.show=Ipakita
+    label.attachments=Isama ang mga attachment
+    label.attachments-description=Uri ng Nilalaman
+    label.attachments.type.binary=Iba
+    label.attachments.type.document=Dokumento
+    label.attachments.type.image=Imahe
+    label.classification=Pag-uuri
+    label.clear-all=I-clear ang lahat ng mga filter
+    label.description=Filter Resulta
+    label.filters=Mga Filter
+    label.location=Lokasyon
+    label.location-empty=Walang mga lokasyon upang i-filter sa pamamagitan ng
+
+[MindTouch.Subscriptions]
+    cancel=Kanselahin
+    caption.normal=Naka-subscribe ka sa mga sumusunod na pahina.
+    caption.nosubscriptions=Hindi ka naka-subscribe sa anumang mga pahina.
+    column.page=Pahina
+    column.recursive=Mga abiso sa email para sa
+    link-title=Matuto nang higit pa tungkol sa pamamahala ng mga notification sa MindTouch
+    nonrecursive=Ang pahinang ito lamang
+    nonrecursive.draft=Ang draft na ito lamang
+    recursive.many=$1 na mga pahina
+    recursive.many.draft=$1 mga draft
+    recursive.many.overflow=Naka-subscribe sa lahat ng mga subpage
+    recursive.many.overflow.draft=Naka-subscribe sa lahat ng mga draft ng subpage
+    recursive.one=1 pahina
+    recursive.one.draft=1 draft
+    unsubscribe=Mag-unsubscribe
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Isara ang mensahe
+
+[Page.AuthenticationProviders]
+    page-title=Mag-sign in
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Bisitahin ang tagumpay.mindtouch.com para sa lahat ng mga paksa ng tulong. </a>
+
+[Page.Error]
+    not-found=Hindi nahanap ang pahina
+    not-found-error=Paumanhin, ang pahina sa $1 ay hindi matagpuan.
+    not-found-results=Mga kaugnay na resulta ng paghahanap:
+    page-title=Error
+
+[Page.FeedbackRating]
+    button.leave-feedback=Mag-iwan ng feedback
+    button.rating-no=Walang
+    button.rating-yes=Oo
+    button.submit-feedback=Magsumite ng feedback
+    label.checkbox.contact-me=Oo, maaari kang makipag-ugnay sa akin tungkol sa feedback na ito.
+    label.feedback-question=Paano natin mapapabuti ang artikulong ito?
+    label.last-rated=- Huling na-rate mo ang artikulong ito sa $1
+    label.rating-message=Nakatutulong ba ang artikulong ito?
+    legend.feedback-form=Mag-iwan ng feedback
+    message.contact.no=Walang
+    message.contact.yes=Oo
+    message.submit.error=May naganap na error habang sinusubukang ipadala ang iyong feedback. Mangyaring subukan muli sa ibang pagkakataon.
+    message.submit.success=Matagumpay na naisumite ang iyong feedback. Maaari kang magsumite ng mas maraming feedback anumang oras.
+
+[Page.LiveTags]
+    label.article=Uri ng artikulo
+
+[Page.LoginPasswordRegister]
+    page-title=Mag-sign in at pagpaparehistro
+    tab.login=Mag-sign in
+    tab.password=Pag-reset ng password
+    tab.register=Pagpaparehistro
+
+[Page.Preferences]
+    error.invalid-email=Mangyaring tukuyin ang isang wastong email address
+    form.email=Email address
+    form.fullname=Pangalan ng display
+    form.fullname.help=Para sa mga layunin ng display lamang
+    form.hint.password-characters=Ang password ay dapat maglaman ng hindi bababa sa 3 ng mga sumusunod na character: lowercase, uppercase, digit o simbolo.
+    form.hint.password-length=Ang password ay dapat na hindi bababa sa 8 character ang haba
+    form.hint.password-match=Dapat tumugma ang mga password
+    form.hint.password.restricted-words=Ang password ay hindi maaaring maglaman ng karaniwang mga salita ng password
+    form.legend.information=Ang aking impormasyon
+    form.legend.password=Ang aking password
+    form.password.new=Bagong password
+    form.password.old=Lumang password
+    form.password.submit=Baguhin ang password
+    form.password.verify=I-retype ang bagong password
+    form.submit=I-save ang aking impormasyon
+
+[Page.Tags]
+    message.notags=Walang mga tag ang pahinang ito.
+    page-title=Mga tag ng site
+    tags-inserted-from-template=Mga tag na inirerekomenda ng template:
+    tags-inserted-heading=Mga tag ng pahina:
+
+[Page.UserLogin]
+    error=Nabigo ang iyong pag-sign in. Mangyaring i-verify ang iyong username at password.
+    page-title=Mag-sign in
+    submit-login=Mag-sign in
+    user-name=Username
+    user-password=Password
+
+[Page.UserLogout]
+    page-title=Mag-sign out
+    success=Matagumpay kang naka-sign out.
+
+[Page.UserPassword]
+    form.submit=Pag-reset ng password
+    page-title=Pag-reset ng password
+    success.email-sent=Ang mga tagubilin sa pag-reset ng password ay naipadala sa e-mail address na nakarehistro para sa account na ito. Kung hindi ka nakatanggap ng email, mangyaring suriin ang iyong spelling at subukang muli. Makipag-ugnay sa administrator ng iyong site kung patuloy kang may mga isyu sa pag-sign in.
+
+[Page.UserRegistration]
+    error.email.match=Ang mga email na iyong ipinasok ay hindi tumutugma.
+    error.password.match=Ang mga password na iyong ipinasok ay hindi tumutugma.
+    form.email=Email
+    form.email.verify=I-verify ang Email
+    form.fullname=Buong pangalan <span class="note">(opsyonal)</span>
+    form.password=Password
+    form.password.verify=I-verify ang password
+    form.submit=Gumawa ng account
+    form.username=Username
+    page-title=Gumawa ng account
+    success.created=Ang user <strong>$1</strong> ay nalikha.
+
+[Page.Welcome]
+    community-banner-text=Maaari ka na ngayong mag-ambag at magbahagi ng nilalaman.
+    community-banner-title=Maligayang pagdating, $1. Nilikha ang iyong account.
+    community-get-started-text=<strong>Narito ang ilang mga tip upang matulungan kang makapagsimula:</strong>
+    community-tip1-text=Magbigay ng mga may-ari ng site na may mahalagang feedback tungkol sa nilalaman ng site. Nakatutulong ba ang artikulo? I-click ang <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Oo</span>. Kung hindi, i-click ang <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Mag-iwan ng feedback</span> upang sabihin sa amin kung paano namin mapapabuti. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Matuto nang higit pa</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Magsimula ng pag-uusap sa pamamagitan ng pagkomento sa isang pahina. Mag-ambag ng iyong sariling impormasyon o tumugon sa mga komento ng ibang user. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Matuto nang higit pa</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Pag-reset ng password
+
+[Product]
+    powered-by-site=Pinapatakbo ng MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Mag-sign in
+    header.recommended-articles=Inirerekumendang
+    header.toc=Talaan ng mga nilalaman
+    label.back-to-top=Bumalik sa itaas
+    label.global-location-toggle=Expat/tiklupin ang global na lokasyon
+    label.global-navigation-toggle=Expan/tiklupin ang global hierarchy
+    label.last-updated=Huling na-update
+    label.last-updated-by=ng
+    label.no-recommended-articles=Walang mga inirekumendang artikulo.
+    label.password=Password
+    label.pdf-export=I-save bilang PDF
+    label.signout=Mag-sign out
+    label.site-search.button=Paghahanap
+    label.site-search.input=Paghahanap
+    label.skip-link=Laktawan sa pangunahing nilalaman
+    label.tags=Tags
+    label.user-preferences=Aking mga kagustuhan
+    label.username=Username
+    link.quick-login=Mag-sign in
+    link.site-search=Site ng paghahanap
+    placeholder.site-search.input=Paano namin matutulungan ka?
+    tooltip.back-to-top=Tumalon pabalik sa tuktok ng artikulong ito
+    tooltip.browse-back=Bumalik sa nakaraang artikulo
+    tooltip.pdf-export=I-export ang pahina bilang isang PDF
+    tooltip.signout=I-click upang mag-sign out sa site na ito
+    tooltip.skip-link=Pindutin ang enter upang laktawan sa pangunahing nilalaman
+    tooltip.user-preferences=I-click upang baguhin ang iyong mga kagustuhan ng user
+
+[Skin.Common]
+    copyright=Copyright
+    home=Home
+
+[System.API]
+    no-headers=Walang header
+    opensearch-shortname=$1 Paghahanap
+
+[Users]
+    email.body.html.content=<p>Binabati kita, <br/><br/>\ r\ n\ r\ nMayroon ka na ngayong account sa $4. <br/><br/>Mag-sign in upang agad na magsimulang makipagtulungan sa ibang miyembro ng komunidad. Nasa ibaba ang mga detalye ng pag-access ng iyong site:<br/><br/>\ r\ n\ r\ nURL ng site: <a href="$2">$2</a><br/>\ r\ nPangalan ng user: $1<br/>Password: $3<br/><br/>\ r\ n\ r\ nKung kailangan mo ng tulong sa pagsisimula o magkaroon ng mga partikular na katanungan tungkol sa <a href="$2">$4</a>, mangyaring makipag-ugnay sa administrator ng site. </p>
+    email.body.html.content.nopassword=<p>Binabati kita, <br/><br/>\ r\ n\ r\ nMayroon ka na ngayong account sa $3. <br/><br/>Mag-sign in upang agad na magsimulang makipagtulungan sa ibang miyembro ng komunidad. Nasa ibaba ang mga detalye ng pag-access ng iyong site:<br/><br/>\ r\ n\ r\ nURL ng site: <a href="$2">$2</a><br/>\ r\ nPangalan ng user: $1<br/><br/><em>Makipag-ugnay sa administrator ng site kung hindi mo alam ang iyong password. </em><br/><br/>\ r\ n\ r\ nKung kailangan mo ng tulong sa pagsisimula o magkaroon ng mga partikular na katanungan tungkol sa <a href="$2">$3</a>, mangyaring makipag-ugnay sa administrator ng site. </p>
+    email.body.text=\ r\ nBinabati kita,\ r\ n\ r\ nMayroon ka na ngayong account sa $4. Mag-sign in upang agad na magsimulang makipagtulungan sa ibang miyembro ng komunidad. Nasa ibaba ang mga detalye ng pag-access ng iyong site:\ r\ n\ r\ nURL ng site: $2\ r\ nPangalan ng user: $1\ r\ nPassword: $3\ r\ n\ r\ nKung kailangan mo ng tulong sa pagsisimula o magkaroon ng mga partikular na katanungan tungkol sa $4, mangyaring makipag-ugnay sa administrator ng site.
+    email.body.text.nopassword=\ r\ nBinabati kita,\ r\ n\ r\ nMayroon ka na ngayong account sa $3. Mag-sign in upang agad na magsimulang makipagtulungan sa ibang miyembro ng komunidad. Nasa ibaba ang mga detalye ng pag-access ng iyong site:\ r\ n\ r\ nURL ng site: $2\ r\ nPangalan ng user: $1\ r\ nMakipag-ugnay sa administrator ng site kung hindi mo alam ang iyong password. \ r\ n\ r\ nKung kailangan mo ng tulong sa pagsisimula o magkaroon ng mga partikular na katanungan tungkol sa $3, mangyaring makipag-ugnay sa administrator ng site.
+    email.external.body.html.content=<p>Binabati kita, <br/><br/>\ r\ n\ r\ nMayroon ka na ngayong account sa $3. <br/><br/>Mag-sign in upang agad na magsimulang makipagtulungan sa ibang miyembro ng komunidad. Nasa ibaba ang mga detalye ng pag-access ng iyong site:<br/><br/>\ r\ n\ r\ nURL ng site: <a href="$2">$2</a><br/>\ r\ nPangalan ng user: $1<br/><br/>\ r\ n\ r\ nKung kailangan mo ng tulong sa pagsisimula o magkaroon ng mga partikular na katanungan tungkol sa <a href="$2">$3</a>, mangyaring makipag-ugnay sa administrator ng site. </p>
+    email.subject=$1 Mag-sign in Detalye
+    form.password.instructions=Ang mga password ay dapat na isang minimum na 8 character ang haba at naglalaman ng hindi bababa sa 3 sa mga sumusunod na character: lowercase, uppercase, digit o simbolo.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Ang hiniling na MindTouch Touchpoint ay hindi mai-load ng iyong web browser.
+    label.back-to-top=Bumalik sa itaas
+
+[WebWidget.F1]
+    label.help-button=Tulong
+    title.help-button=Tulong
+
+[WebWidget.Login]
+    label.authenticated-user=Naka-sign in sa MindTouch bilang {username}}
+    label.sign-in=Mag-sign in sa MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=I-click upang tiklupin ang buod
+    label.disabled-message=Mangyaring subukan muli mamaya.
+    label.disabled-title=Paumanhin, ang paghahanap ay kasalukuyang hindi magagamit.
+    label.expand-summary=I-click upang palawakin ang buod
+    label.forbidden-message=Mangyaring mag-log in, o makipag-ugnay sa administrator ng iyong site.
+    label.forbidden-title=Wala kang pahintulot na gamitin ang tampok na ito.
+    label.input-hint=Paghahanap
+    label.no-results-faceting-message=Subukang maghanap ng ibang bagay o pumili ng isang kategorya.
+    label.no-results-message=Subukang maghanap ng ibang bagay.
+    label.no-results-title=Paumanhin, hindi namin mahanap kung ano ang iyong hinahanap.
+    label.recommended=Inirekomenda
+    label.refine-search=Pinuhin ang paghahanap
+    label.show-more=Magpakita ng higit pa
+
+[WebWidgets]
+    label.authenticated-user=Hello, {{username}}!
+    label.nav.back=Bumalik
+    label.nav.forward=Ipasa
+    label.nav.home=Home
+
+[Component.Translate]
+    label.choose-language=Pumili ng Wika
+    label.english=Ingles
+    label.update-failed=Hindi kumpleto ang pagsasalin
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本本
+    language.chinese=中国空
+    language.french=Français
+    language.portuguese=Portuges
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italia
+    title.translated-machine=Nilalaman ng pahina na isinalin gamit ang pagsasalin
+    dialog.translated-mindtouch=Isinalin sa pamamagitan ng MindTouch
