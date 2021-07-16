@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Sõnumi sektsiooni tühi päis
+[Dialog.CopyMove]
+    placeholder.search=Otsing
 
-[Old.Category]
-    dialog.old.select.title=Dialoog Vana Valige pealkiri
+[F1]
+    dialog.text.back=Tagasi
+    dialog.text.forward=Edasi
+    dialog.text.hint=otsing
+    dialog.text.home=Kodu
+    dialog.text.open=Artikli avamine
 
-[Web.Defaults]
-    error.message=Tõrketeade
+[MindTouch.Help.Page]
+    category-selector=Täpsustage tulemusi, valides filtri.
+    help-header-label=Abi tulemused
+    in=sees
+    label-filter=Otsimine
+    label-result-count=Teave {0} tulemuste kohta
+    label-search-all=Kõik tulemused
+    label.page-rating-no=Ei
+    label.page-rating-yes=Jah
+    more=Veel
+    no-search-results=Vabandust, me ei leia seda, mida otsite.
+    no-search-try=Proovige otsida midagi muud, valida kategooria või proovida luua pilet.
+    recommended=(Soovitatav)
+    search-error=Otsing ilmnes tõrge.
+    search-error-try=Proovige hiljem uuesti.
+    search-unavailable=Vabandame, otsing pole praegu saadaval.
+    show-more-search=Näita rohkem tulemusi
+    tooltip.scrollNext=Kerige järgmisena
+    tooltip.scrollPrev=Kerige eelmisele
+    warning.search-only-english=Otsing on saadaval ainult inglise keeles
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(loomise kuupäev)
+    featured.articles.created.title=Hiljuti lisatud
+    featured.articles.rated.label=(hinnang)
+    featured.articles.rated.title=Kõrgeim hinnatud
+    featured.articles.updated.label=(ajakohastatud kuupäev)
+    featured.articles.updated.title=Hiljuti uuendatud
+    featured.articles.viewed.label=(vaatamist)
+    featured.articles.viewed.title=Populaarseim
+    label.guide-subpage-display-single=Ühekohaline
+    label.guide-subpage-display-tabbed=Vahekaartidega
+    label.guide.tabscrollleft=Vahekaartide kerimine vasakule
+    label.guide.tabscrollright=Vahekaartide kerimine paremale
+    label.reveal.showAll=Näita kõiki
+    label.reveal.showLess=Näita vähem
+    label.search.placeholder=Otsing
+    type.how-to=Kuidas-kuni
+    type.howto=Kuidas-kuni
+    type.reference=Viide
+    type.topic=Teema
+    type.topic-category=Kategooria
+    type.topic-guide=Juhend
+    type.topic-portfolio=Portfolio
+    type.unclassified=Klassifitseerimata
+
+[MindTouch.LearningPath]
+    label.view-pages=Lehekülgede vaatamine
+    message.page-count=<span>Leheküljed:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Peida
+    button.toggle.show=Näita
+    label.attachments=Lisage manuseid
+    label.attachments-description=Sisu tüüp
+    label.attachments.type.binary=Muud
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Pilt
+    label.classification=Klassifikatsioon
+    label.clear-all=Eemalda kõik filtrid
+    label.description=Filtreeri tulemused
+    label.filters=Filtrid
+    label.location=Asukoht
+    label.location-empty=Puuduvad kohad, mida filtreerida
+
+[MindTouch.Subscriptions]
+    cancel=Tühista
+    caption.normal=Olete tellinud järgmistel lehekülgedel.
+    caption.nosubscriptions=Sa ei ole tellinud ühtegi lehekülge.
+    column.page=Leht
+    column.recursive=E-posti teavitused
+    link-title=Lisateave teavituste haldamise kohta MindTouchis
+    nonrecursive=Ainult see lehekülg
+    nonrecursive.draft=Ainult käesolev eelnõu
+    recursive.many=$1 lehekülge
+    recursive.many.draft=$1 eelnõud
+    recursive.many.overflow=Tellitud kõik alamlehed
+    recursive.many.overflow.draft=Tellitud kõik alamlehe mustandid
+    recursive.one=1 lehekülg
+    recursive.one.draft=1 eelnõu
+    unsubscribe=Tühista tellimus
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Sulge sõnum
+
+[Page.AuthenticationProviders]
+    page-title=Logige sisse
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Külastage edu.mindtouch.com kõigi spikriteemade jaoks. </a>
+
+[Page.Error]
+    not-found=Lehte ei leitud
+    not-found-error=Vabandame, lehte $1 ei leitud.
+    not-found-results=Seotud otsingu tulemused:
+    page-title=Viga
+
+[Page.FeedbackRating]
+    button.leave-feedback=Jäta tagasiside
+    button.rating-no=Ei
+    button.rating-yes=Jah
+    button.submit-feedback=Saada tagasisidet
+    label.checkbox.contact-me=Jah, võite minuga selle tagasiside kohta ühendust võtta.
+    label.feedback-question=Kuidas me saame seda artiklit parandada?
+    label.last-rated=— Sa viimati hinnatud see artikkel $1
+    label.rating-message=Kas see artikkel oli kasulik?
+    legend.feedback-form=Jäta tagasiside
+    message.contact.no=Ei
+    message.contact.yes=Jah
+    message.submit.error=Tagasiside saatmise katsel ilmnes tõrge. Palun proovige hiljem uuesti.
+    message.submit.success=Teie tagasiside on edukalt esitatud. Võite esitada rohkem tagasisidet igal ajal.
+
+[Page.LiveTags]
+    label.article=Artikli tüüp
+
+[Page.LoginPasswordRegister]
+    page-title=Logi sisse ja registreerimine
+    tab.login=Logige sisse
+    tab.password=Parooli lähtestamine
+    tab.register=Registreerimine
+
+[Page.Preferences]
+    error.invalid-email=Palun täpsustage kehtiv e-posti aadress
+    form.email=E-posti aadress
+    form.fullname=Kuvatav nimi
+    form.fullname.help=Ainult kuvamise eesmärgil
+    form.hint.password-characters=Parool peab sisaldama vähemalt 3 järgmistest märkidest: väiketähed, suurtähed, numbrid või sümbolid.
+    form.hint.password-length=Parool peab olema vähemalt 8 tähemärki pikk
+    form.hint.password-match=Paroolid peavad vastama
+    form.hint.password.restricted-words=Parool ei tohi sisaldada tavalisi parooli sõnu
+    form.legend.information=Minu informatsioon
+    form.legend.password=Minu parool
+    form.password.new=Uus parool
+    form.password.old=Vana parool
+    form.password.submit=Muuda parooli
+    form.password.verify=Tippige uus parool uuesti
+    form.submit=Salvesta minu teave
+
+[Page.Tags]
+    message.notags=Sellel lehel pole silte.
+    page-title=Saidi sildid
+    tags-inserted-from-template=Malli poolt soovitatud sildid:
+    tags-inserted-heading=Lehekülje sildid:
+
+[Page.UserLogin]
+    error=Sisselogimine nurjus. Palun kontrollige oma kasutajanime ja parooli.
+    page-title=Logige sisse
+    submit-login=Logige sisse
+    user-name=Kasutajanimi
+    user-password=Parool
+
+[Page.UserLogout]
+    page-title=Logi välja
+    success=Olete edukalt välja loginud.
+
+[Page.UserPassword]
+    form.submit=Parooli lähtestamine
+    page-title=Parooli lähtestamine
+    success.email-sent=Parooli lähtestamise juhised on saadetud selle konto jaoks registreeritud e-posti aadressile. Kui te ei saa e-kirja, kontrollige oma õigekirja ja proovige uuesti. Kui teil on endiselt probleeme sisselogimisega, pöörduge oma saidi administraatori poole.
+
+[Page.UserRegistration]
+    error.email.match=Sisestatud e-kirjad ei sobi kokku.
+    error.password.match=Sisestatud paroolid ei ühti.
+    form.email=E-post
+    form.email.verify=Kinnita e-kiri
+    form.fullname=Täielik nimi <span class="note">(valikuline)</span>
+    form.password=Parool
+    form.password.verify=Parooli kinnitamine
+    form.submit=Konto loomine
+    form.username=Kasutajanimi
+    page-title=Konto loomine
+    success.created=Kasutaja <strong>$1</strong> on loodud.
+
+[Page.Welcome]
+    community-banner-text=Nüüd saate sisu kaastööd anda ja jagada.
+    community-banner-title=Tere tulemast, $1. Teie konto on loodud.
+    community-get-started-text=<strong>Siin on mõned nõuanded, mis aitavad teil alustada.</strong>
+    community-tip1-text=Pakkuge saidi omanikele väärtuslikku tagasisidet saidi sisu kohta. Kas artikkel oli kasulik? Klõpsake nuppu <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Jah</span>. Kui ei, siis klõpsake käsku <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Jäta tagasiside</span> , et öelda meile, kuidas saame parandada. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Lugege lisateavet</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Alustage vestlust, kommenteerides lehte. Toetage oma andmed või vastake teiste kasutaja kommentaaridele. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Lugege lisateavet</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Parooli lähtestamine
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Logige sisse
+    header.recommended-articles=Soovitatavad artiklid
+    header.toc=Sisukord
+    label.back-to-top=Tagasi ülespoole
+    label.global-location-toggle=Laienda/ahenda globaalne asukoht
+    label.global-navigation-toggle=Laiendamine/ahenda globaalne hierarhia
+    label.last-updated=Viimati värskendatud
+    label.last-updated-by=kõrval
+    label.no-recommended-articles=Soovitatavaid artikleid pole.
+    label.password=Parool
+    label.pdf-export=Salvesta PDF-failina
+    label.signout=Logi välja
+    label.site-search.button=Otsing
+    label.site-search.input=Otsing
+    label.skip-link=Jäta vahele põhisisu juurde
+    label.tags=Sildid
+    label.user-preferences=Minu eelistused
+    label.username=Kasutajanimi
+    link.quick-login=Logige sisse
+    link.site-search=Otsi saiti
+    placeholder.site-search.input=Kuidas me saame teid aidata?
+    tooltip.back-to-top=Hüpata tagasi selle artikli tippu
+    tooltip.browse-back=Eelmise artikli juurde naasmine
+    tooltip.pdf-export=Lehe eksportimine PDF-failina
+    tooltip.signout=Klõpsake sellel saidil välja logimiseks
+    tooltip.skip-link=Peamise sisuga vahele jätmiseks vajutage sisestusklahvi
+    tooltip.user-preferences=Kasutajate eelistuste muutmiseks klõpsake
+
+[Skin.Common]
+    copyright=Autoriõigused
+    home=Kodu
+
+[System.API]
+    no-headers=Päised puuduvad
+    opensearch-shortname=$1 Otsing
+
+[Users]
+    email.body.html.content=<p>Õnnitleme, <br/><br/>\ r\ n\ r\ nNüüd on konto $4. <br/><br/>Logige sisse, et alustada koheselt koostööd teiste kogukonna liikmetega. Allpool on toodud saidi juurdepääsu üksikasjad:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nuser nimi: $1<br/>Parool: $3<br/><br/>\ r\ n\ r\ nKui vajate abi alustamiseks või teil on konkreetseid küsimusi <a href="$2">$4</a>kohta, võtke ühendust saidi administraatoriga. </p>
+    email.body.html.content.nopassword=<p>Õnnitleme, <br/><br/>\ r\ n\ r\ nNüüd on konto $3. <br/><br/>Logige sisse, et alustada koheselt koostööd teiste kogukonna liikmetega. Allpool on toodud teie saidi juurdepääsu üksikasjad:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nuser nimi: $1<br/><br/><em>Pöörduge saidi administraatori poole, kui te ei tea oma parooli. </em><br/><br/>\ r\ n\ r\ nKui vajate abi alustamiseks või teil on konkreetseid küsimusi <a href="$2">$3</a>kohta, võtke palun ühendust saidi administraatoriga. </p>
+    email.body.text=\ r\ nÕnnitleme,\ r\ n\ r\ nNüüd on konto $4. Logige sisse, et alustada koheselt koostööd teiste kogukonna liikmetega. Allpool on toodud saidi juurdepääsu üksikasjad:\ r\ n\ r\ nSite URL: $2\ r\ nuser nimi: $1\ r\ nParool: $3\ r\ n\ r\ nKui vajate abi alustamiseks või teil on konkreetseid küsimusi $4 kohta, võtke ühendust saidi administraatoriga.
+    email.body.text.nopassword=\ r\ nÕnnitleme,\ r\ n\ r\ nNüüd on konto $3. Logige sisse, et alustada koheselt koostööd teiste kogukonna liikmetega. Allpool on teie saidi juurdepääsu üksikasjad:\ r\ n\ r\ nSite URL: $2\ r\ nuser nimi: $1\ r\ nVõtke ühendust saidi administraatoriga, kui te ei tea oma parooli. \ r\ n\ r\ nKui vajate abi alustamiseks või teil on konkreetseid küsimusi $3 kohta, võtke palun ühendust saidi administraatoriga.
+    email.external.body.html.content=<p>Õnnitleme, <br/><br/>\ r\ n\ r\ nNüüd on konto $3. <br/><br/>Logige sisse, et alustada koheselt koostööd teiste kogukonna liikmetega. Allpool on toodud teie saidi juurdepääsu üksikasjad:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nuser nimi: $1<br/><br/>\ r\ n\ r\ nKui vajate abi alustamiseks või teil on konkreetseid küsimusi <a href="$2">$3</a>kohta, võtke ühendust saidi administraatoriga. </p>
+    email.subject=$1 Logi sisse üksikasjad
+    form.password.instructions=Paroolid peavad olema vähemalt 8 märki pikkused ja sisaldama vähemalt 3 järgmistest märkidest: väiketähed, suurtähed, numbrid või sümbolid.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Taotletud MindTouch Touchpoint ei saanud laadida teie veebibrauser.
+    label.back-to-top=Tagasi ülespoole
+
+[WebWidget.F1]
+    label.help-button=Abi
+    title.help-button=Abi
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouchi sisse logitud kujul {{kasutajanimi}}
+    label.sign-in=Logige MindTouchi sisse
+
+[WebWidget.Search]
+    label.collapse-summary=Klõpsake kokkuvõtte ahendamiseks
+    label.disabled-message=Proovige hiljem uuesti.
+    label.disabled-title=Vabandame, otsing pole praegu saadaval.
+    label.expand-summary=Klõpsake kokkuvõtte laiendamiseks
+    label.forbidden-message=Palun logige sisse või pöörduge oma saidi administraatori poole.
+    label.forbidden-title=Teil pole õigust selle funktsiooni kasutamiseks.
+    label.input-hint=Otsing
+    label.no-results-faceting-message=Proovige otsida midagi muud või valida kategooria.
+    label.no-results-message=Proovige otsida midagi muud.
+    label.no-results-title=Vabandust, me ei leia seda, mida otsite.
+    label.recommended=Soovitatav
+    label.refine-search=Täpsusta otsing
+    label.show-more=Näita rohkem
+
+[WebWidgets]
+    label.authenticated-user=Tere, {{kasutajanimi}}!
+    label.nav.back=Tagasi
+    label.nav.forward=Edasi
+    label.nav.home=Kodu
+
+[Component.Translate]
+    label.choose-language=Vali keel
+    label.english=Inglise
+    label.update-failed=Tõlge Mittetäielik
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Masintõlke abil tõlgitud lehe sisu
+    dialog.translated-mindtouch=Tõlkinud MindTouch
