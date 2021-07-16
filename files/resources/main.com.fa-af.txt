@@ -1,0 +1,293 @@
+[Dialog.CopyMove]
+    placeholder.search=جستجو
+
+[F1]
+    dialog.text.back=عقب
+    dialog.text.forward=رو به جلو
+    dialog.text.hint=جستجو
+    dialog.text.home=صفحه اصلی
+    dialog.text.open=باز کردن مقاله
+
+[MindTouch.Help.Page]
+    category-selector=نتایج را با انتخاب یک فیلتر اصلاح کنید.
+    help-header-label=نتایج راهنما برای
+    in=در
+    label-filter=جستجو در
+    label-result-count=درباره نتایج {0}
+    label-search-all=همه نتایج
+    label.page-rating-no=نه
+    label.page-rating-yes=بله
+    more=بیشتر
+    no-search-results=ببخشيد، نميتونيم چيزي که دنبالشي رو پيدا کنيم.
+    no-search-try=سعی کنید چیز دیگری را جستجو کنید، یک دسته را انتخاب کنید، یا سعی کنید یک بلیط ایجاد کنید.
+    recommended=(توصیه شده)
+    search-error=جستجو با یک خطا مواجه شده است.
+    search-error-try=لطفا بعدا دوباره امتحان کنید.
+    search-unavailable=متأسفانه جستجو در حال حاضر در دسترس نیست.
+    show-more-search=نمایش نتایج بیشتر
+    tooltip.scrollNext=به بعدی بروید
+    tooltip.scrollPrev=به قسمت قبلی بروید
+    warning.search-only-english=جستجو فقط به زبان انگلیسی در دسترس است
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(تاریخ ایجاد شده)
+    featured.articles.created.title=به تازگی اضافه شده است
+    featured.articles.rated.label=(رتبه بندی)
+    featured.articles.rated.title=بالاترین امتیاز
+    featured.articles.updated.label=(تاریخ به روز رسانی)
+    featured.articles.updated.title=به تازگی به روز شده
+    featured.articles.viewed.label=(نمایش ها)
+    featured.articles.viewed.title=محبوب ترین
+    label.guide-subpage-display-single=تک
+    label.guide-subpage-display-tabbed=تبدار
+    label.guide.tabscrollleft=زبانه های پیمایش به سمت چپ
+    label.guide.tabscrollright=زبانه ها را به سمت راست حرکت دهید
+    label.reveal.showAll=نمایش همه
+    label.reveal.showLess=نمایش کمتر
+    label.search.placeholder=جستجو
+    type.how-to=چگونه به
+    type.howto=چگونه به
+    type.reference=مرجع
+    type.topic=موضوع
+    type.topic-category=دسته بندی
+    type.topic-guide=راهنمای
+    type.topic-portfolio=نمونه کارها
+    type.unclassified=طبقه بندی نشده
+
+[MindTouch.LearningPath]
+    label.view-pages=نمایش صفحات
+    message.page-count=<span>صفحات:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=مخفی کردن
+    button.toggle.show=نمایش
+    label.attachments=شامل پیوست ها
+    label.attachments-description=نوع محتوا
+    label.attachments.type.binary=سایر
+    label.attachments.type.document=سند
+    label.attachments.type.image=تصویر
+    label.classification=طبقه بندی
+    label.clear-all=پاک کردن همه فیلترها
+    label.description=فیلتر نتایج
+    label.filters=فیلترها
+    label.location=محل سکونت
+    label.location-empty=هیچ مکانی برای فیلتر کردن بر اساس
+
+[MindTouch.Subscriptions]
+    cancel=لغو
+    caption.normal=شما در صفحات زیر مشترک شده اید.
+    caption.nosubscriptions=شما به هیچ صفحه‌ای مشترک نیستید.
+    column.page=صفحه
+    column.recursive=اطلاعیه های ایمیل برای
+    link-title=درباره مدیریت اعلان‌ها در MindTouch بیشتر بدانید
+    nonrecursive=فقط این صفحه
+    nonrecursive.draft=این پیش نویس تنها
+    recursive.many=$1 صفحه
+    recursive.many.draft=$1 پیش نویس
+    recursive.many.overflow=مشترک شدن در تمام صفحات فرعی
+    recursive.many.overflow.draft=مشترک شدن در تمام پیش نویس های زیر صفحه
+    recursive.one=۱ صفحه
+    recursive.one.draft=1 پیش نویس
+    unsubscribe=لغو اشتراک
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=بستن پیام
+
+[Page.AuthenticationProviders]
+    page-title=ورود به سیستم
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">مشاهده succi.mindtouch.com برای همه موضوعات کمک. </a>
+
+[Page.Error]
+    not-found=صفحه یافت نشد
+    not-found-error=متأسفانه صفحه $1 یافت نشد.
+    not-found-results=نتایج جستجوی مرتبط:
+    page-title=خطا
+
+[Page.FeedbackRating]
+    button.leave-feedback=ترک بازخورد
+    button.rating-no=نه
+    button.rating-yes=بله
+    button.submit-feedback=ارسال بازخورد
+    label.checkbox.contact-me=بله، شما می توانید در مورد این بازخورد با من تماس بگیرید.
+    label.feedback-question=چگونه می توانیم این مقاله را بهبود بخشیم؟
+    label.last-rated=— آخرین امتیاز به این مقاله در $1
+    label.rating-message=آیا این مقاله مفید بود؟
+    legend.feedback-form=ترک بازخورد
+    message.contact.no=نه
+    message.contact.yes=بله
+    message.submit.error=هنگام تلاش برای ارسال انتقادات و پیشنهادات شما خطایی رخ داد. لطفا در زمان بعد دوباره امتحان کنید.
+    message.submit.success=نظرات شما با موفقیت ارائه شده است. شما می توانید بازخورد بیشتری را در هر زمان ارسال کنید.
+
+[Page.LiveTags]
+    label.article=نوع مقاله
+
+[Page.LoginPasswordRegister]
+    page-title=ورود و ثبت نام
+    tab.login=ورود به سیستم
+    tab.password=تنظیم مجدد رمز عبور
+    tab.register=ثبت نام
+
+[Page.Preferences]
+    error.invalid-email=لطفا یک آدرس ایمیل معتبر مشخص کنید
+    form.email=آدرس ایمیل
+    form.fullname=نام نمایشی
+    form.fullname.help=فقط برای مقاصد نمایش
+    form.hint.password-characters=رمز عبور باید شامل حداقل 3 کاراکتر زیر باشد: حروف کوچک، بزرگ، رقم یا علامت.
+    form.hint.password-length=رمز عبور باید حداقل 8 کاراکتر باشد
+    form.hint.password-match=رمزهای عبور باید مطابقت داشته باشند
+    form.hint.password.restricted-words=رمز عبور نمی تواند حاوی کلمات رمز عبور معمولی باشد
+    form.legend.information=اطلاعات من
+    form.legend.password=رمز عبور من
+    form.password.new=رمز عبور جدید
+    form.password.old=رمز عبور قدیمی
+    form.password.submit=تغییر رمز عبور
+    form.password.verify=رمز عبور جدید را تایپ کنید
+    form.submit=اطلاعات من را ذخیره کنید
+
+[Page.Tags]
+    message.notags=این صفحه هیچ برچسبی ندارد.
+    page-title=برچسب های سایت
+    tags-inserted-from-template=برچسب های توصیه شده توسط قالب:
+    tags-inserted-heading=برچسب‌های صفحه:
+
+[Page.UserLogin]
+    error=ورود به سیستم شما شکست خورده لطفا نام کاربری و رمز عبور خود را بررسی کنید.
+    page-title=ورود به سیستم
+    submit-login=ورود به سیستم
+    user-name=نام کاربری
+    user-password=رمز عبور
+
+[Page.UserLogout]
+    page-title=از سیستم خارج شوید
+    success=شما با موفقیت از سیستم خارج شده اید.
+
+[Page.UserPassword]
+    form.submit=تنظیم مجدد رمز عبور
+    page-title=تنظیم مجدد رمز عبور
+    success.email-sent=دستورالعمل تنظیم مجدد رمز عبور به آدرس ایمیل ثبت شده برای این حساب ارسال شده است. اگر شما یک ایمیل دریافت نمی, لطفا املای خود را بررسی کنید و دوباره سعی کنید. اگر همچنان مشکلی در ورود به سیستم دارید، با مدیر سایت خود تماس بگیرید.
+
+[Page.UserRegistration]
+    error.email.match=ایمیل هایی که وارد کردید با هم مطابقت ندارند.
+    error.password.match=رمزهای عبور وارد شده با هم مطابقت ندارند.
+    form.email=ایمیل
+    form.email.verify=تأیید ایمیل
+    form.fullname=نام کامل <span class="note">) اختیاری (</span>
+    form.password=رمز عبور
+    form.password.verify=تأیید رمز عبور
+    form.submit=یک حساب کاربری ایجاد کنید
+    form.username=نام کاربری
+    page-title=یک حساب کاربری ایجاد کنید
+    success.created=کاربر <strong>$1</strong> ایجاد شده است.
+
+[Page.Welcome]
+    community-banner-text=شما هم اکنون می توانید مشارکت و به اشتراک گذاری محتوا.
+    community-banner-title=خوش آمديد، يک دلار حساب کاربری شما ایجاد شده است.
+    community-get-started-text=<strong>در اینجا چند نکته برای کمک به شروع به کار ارائه شده است:</strong>
+    community-tip1-text=ارائه صاحبان سایت با بازخورد ارزشمند در مورد محتوای سایت. آیا مقاله مفید بود؟ روی <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">بله</span>کلیک کنید. اگر نه، روی <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">ترک بازخورد</span> کلیک کنید تا به ما بگویید چگونه می توانیم بهبود پیدا کنیم. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">بیشتر بدانید</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=گفتگو را با اظهار نظر در یک صفحه شروع کنید. اطلاعات خود را به اشتراک بگذارید یا به نظرات کاربران دیگر پاسخ دهید. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">بیشتر بدانید</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=تنظیم مجدد رمز عبور
+
+[Product]
+    powered-by-site=طراحی شده توسط MindTouch
+
+[Skin.Columbia]
+    button.quick-login=ورود به سیستم
+    header.recommended-articles=مقالات توصیه شده
+    header.toc=فهرست مطالب
+    label.back-to-top=بازگشت به بالا
+    label.global-location-toggle=گسترش دادن/سقوط مکان جهانی
+    label.global-navigation-toggle=گسترش دادن/فروپاشی سلسله مراتب جهانی
+    label.last-updated=آخرین به روز رسانی
+    label.last-updated-by=توسط
+    label.no-recommended-articles=هیچ مقاله توصیه می شود وجود دارد.
+    label.password=رمز عبور
+    label.pdf-export=ذخیره به عنوان PDF
+    label.signout=از سیستم خارج شوید
+    label.site-search.button=جستجو
+    label.site-search.input=جستجو
+    label.skip-link=پرش به محتوای اصلی
+    label.tags=برچسب ها
+    label.user-preferences=ترجیحات من
+    label.username=نام کاربری
+    link.quick-login=ورود به سیستم
+    link.site-search=جستجو در سایت
+    placeholder.site-search.input=چگونه می توانیم به شما کمک کنیم؟
+    tooltip.back-to-top=بازگشت به بالای این مقاله
+    tooltip.browse-back=بازگشت به مقاله قبلی
+    tooltip.pdf-export=صادرات صفحه به عنوان یک PDF
+    tooltip.signout=برای خروج از این سایت کلیک کنید
+    tooltip.skip-link=برای رفتن به محتوای اصلی، Enter را فشار دهید
+    tooltip.user-preferences=کلیک کنید تا تنظیمات کاربری خود را تغییر دهید
+
+[Skin.Common]
+    copyright=کپی رایت
+    home=صفحه اصلی
+
+[System.API]
+    no-headers=بدون سرآیند
+    opensearch-shortname=$1 جستجو
+
+[Users]
+    email.body.html.content=<p>تبریک میگم، <br/><br/>\ r\ n\ r\ nشما در حال حاضر یک حساب کاربری در $4 دارید. <br/><br/>به سیستم وارد شوید تا بلافاصله با سایر اعضای جامعه همکاری کنید. در زیر جزئیات دسترسی به سایت شما وجود دارد:<br/><br/>\ r\ n\ r\ nURL سایت: <a href="$2">$2</a><br/>\ r\ nنام کاربری: $1<br/>رمز عبور: $3<br/><br/>\ r\ n\ r\ nاگر به کمک نیاز دارید شروع کنید یا سؤالات خاصی در مورد <a href="$2">$4</a>دارید، لطفا با مدیر سایت تماس بگیرید. </p>
+    email.body.html.content.nopassword=<p>تبریک میگم، <br/><br/>\ r\ n\ r\ nشما در حال حاضر یک حساب کاربری در $3 دارید. <br/><br/>به سیستم وارد شوید تا بلافاصله با سایر اعضای جامعه همکاری کنید. در زیر جزئیات دسترسی به سایت شما وجود دارد:<br/><br/>\ r\ n\ r\ nURL سایت: <a href="$2">$2</a><br/>\ r\ nنام کاربری: $1<em>اگر رمز عبور خود را نمی دانید با مدیر سایت<br/><br/>تماس بگیرید. </em><br/><br/>\ r\ n\ r\ nاگر برای شروع کار نیاز به کمک دارید یا سؤالات خاصی در مورد <a href="$2">$3</a>دارید، لطفا با مدیر سایت تماس بگیرید. </p>
+    email.body.text=\ r\ nتبریک،\ r\ n\ r\ nشما اکنون یک حساب کاربری در $4 دارید. به سیستم وارد شوید تا بلافاصله با سایر اعضای جامعه همکاری کنید. در زیر جزئیات دسترسی به سایت شما وجود دارد:\ r\ n\ r\ nURL سایت: $2\ r\ nنام کاربری: $1\ r\ nرمز عبور: $3\ r\ n\ r\ nاگر به کمک نیاز دارید شروع کنید یا سوالات خاصی در مورد $4 دارید، لطفا با مدیر سایت تماس بگیرید.
+    email.body.text.nopassword=\ r\ nتبریکات،\ r\ n\ r\ nشما در حال حاضر یک حساب کاربری در $3 دارید. به سیستم وارد شوید تا بلافاصله با سایر اعضای جامعه همکاری کنید. در زیر جزئیات دسترسی به سایت شما وجود دارد:\ r\ n\ r\ nURL سایت: $2\ r\ nنام کاربری: $1\ r\ nتماس با مدیر سایت اگر رمز عبور خود را نمی دانید. \ r\ n\ r\ nاگر برای شروع کار نیاز به کمک دارید یا سؤالات خاصی در مورد $3 دارید، لطفا با مدیر سایت تماس بگیرید.
+    email.external.body.html.content=<p>تبریک میگم، <br/><br/>\ r\ n\ r\ nشما در حال حاضر یک حساب کاربری در $3 دارید. <br/><br/>به سیستم وارد شوید تا بلافاصله با سایر اعضای جامعه همکاری کنید. در زیر جزئیات دسترسی به سایت شما وجود دارد:<br/><br/>\ r\ n\ r\ nURL سایت: <a href="$2">$2</a><br/>\ r\ nنام کاربری: $1<br/><br/>\ r\ n\ r\ nاگر به کمک نیاز دارید شروع کنید یا سؤالات خاصی در مورد <a href="$2">$3</a>دارید، لطفا با مدیر سایت تماس بگیرید. </p>
+    email.subject=$1 ورود به جزئیات
+    form.password.instructions=رمزهای عبور باید حداقل 8 کاراکتر داشته باشند و حداقل 3 کاراکتر از حروف زیر را شامل شوند: حروف کوچک، حروف بزرگ، رقم یا علامت.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=MindTouch Point درخواست شده توسط مرورگر وب شما قابل بارگذاری نیست.
+    label.back-to-top=بازگشت به بالا
+
+[WebWidget.F1]
+    label.help-button=کمک
+    title.help-button=کمک
+
+[WebWidget.Login]
+    label.authenticated-user=ورود به MindTouch به عنوان {{username}}
+    label.sign-in=وارد MindTouch شوید
+
+[WebWidget.Search]
+    label.collapse-summary=کلیک کنید تا خلاصه
+    label.disabled-message=لطفا بعدا دوباره امتحان کنید.
+    label.disabled-title=متأسفانه جستجو در حال حاضر در دسترس نیست.
+    label.expand-summary=برای گسترش خلاصه کلیک کنید
+    label.forbidden-message=لطفا وارد سیستم شوید، یا با مدیر سایت خود تماس بگیرید.
+    label.forbidden-title=شما اجازه استفاده از این ویژگی را ندارید.
+    label.input-hint=جستجو
+    label.no-results-faceting-message=سعی کنید برای چیز دیگری جستجو کنید یا یک دسته را انتخاب کنید.
+    label.no-results-message=سعي کن دنبال يه چيز ديگه بگردي
+    label.no-results-title=ببخشيد، نميتونيم چيزي که دنبالشي رو پيدا کنيم.
+    label.recommended=توصیه می شود
+    label.refine-search=محدود کردن جستجو
+    label.show-more=نمایش بیشتر
+
+[WebWidgets]
+    label.authenticated-user=سلام, {{username}}!
+    label.nav.back=عقب
+    label.nav.forward=رو به جلو
+    label.nav.home=صفحه اصلی
+
+[Component.Translate]
+    label.choose-language=زبان را انتخاب کنید
+    label.english=انگلیسی
+    label.update-failed=ترجمه ناقص
+    language.spanish=اسپانیول
+    language.german=دویچ
+    language.japanese=日本語
+    language.chinese=中
+    language.french=فرانچا
+    language.portuguese=پرتغالی
+    language.dutch=هلند
+    language.korean=한국어
+    language.swedish=گرینویچ
+    language.danish=دانسک
+    language.finnish=سوماالین
+    language.italian=ايتاليانو
+    title.translated-machine=محتوای صفحه ترجمه شده با استفاده از ترجمه ماشینی
+    dialog.translated-mindtouch=ترجمه شده توسط MindTouch
