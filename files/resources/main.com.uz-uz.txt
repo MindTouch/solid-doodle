@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Xabar bo'limi Bo'sh Header
+[Dialog.CopyMove]
+    placeholder.search=Qidiruv
 
-[Old.Category]
-    dialog.old.select.title=Dialog Old tanlang nomi
+[F1]
+    dialog.text.back=Orqaga
+    dialog.text.forward=Oldinga
+    dialog.text.hint=qidirmoq
+    dialog.text.home=uy
+    dialog.text.open=Ochiq maqola
 
-[Web.Defaults]
-    error.message=Xato xabari
+[MindTouch.Help.Page]
+    category-selector=Filtrni tanlab natijalarni tozalang.
+    help-header-label=Yordam natijalari
+    in=ichida
+    label-filter=Izlash
+    label-result-count=Haqida {0} natijalar
+    label-search-all=Barcha natijalar
+    label.page-rating-no=Yo'q
+    label.page-rating-yes=Ha
+    more=Ko'proq
+    no-search-results=Kechirasiz, biz siz qidirayotgan narsani topa olmaymiz.
+    no-search-try=Boshqa biror narsani qidirib ko'ring, toifani tanlang yoki chiptani yaratishga harakat qiling.
+    recommended=(Tavsiya etiladi)
+    search-error=Qidiruv xato bilan duch keldi.
+    search-error-try=Iltimos, keyinroq qayta urinib ko'ring.
+    search-unavailable=Kechirasiz, qidiruv hozirda mavjud emas.
+    show-more-search=Ko'proq natijalarni ko'rsatish
+    tooltip.scrollNext=Keyingi o'ting
+    tooltip.scrollPrev=Oldingi o'ting
+    warning.search-only-english=Qidiruv faqat ingliz tilida mavjud
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(yaratilgan sana)
+    featured.articles.created.title=Yaqinda qo'shilgan
+    featured.articles.rated.label=(Reyting)
+    featured.articles.rated.title=Eng yuqori baholadi
+    featured.articles.updated.label=(yangilangan sana)
+    featured.articles.updated.title=Yaqinda yangilandi
+    featured.articles.viewed.label=(Ko'rishlar)
+    featured.articles.viewed.title=Eng mashhur
+    label.guide-subpage-display-single=Yagona
+    label.guide-subpage-display-tabbed=Sekmeli
+    label.guide.tabscrollleft=Scroll tabs chap
+    label.guide.tabscrollright=O'tish yorliqlari o'ng
+    label.reveal.showAll=Hammasini ko'rsatish
+    label.reveal.showLess=Kamroq ko'rsatish
+    label.search.placeholder=Qidiruv
+    type.how-to=Qanday-uchun
+    type.howto=Qanday-uchun
+    type.reference=Malumot
+    type.topic=Mavzu
+    type.topic-category=Turkum
+    type.topic-guide=Guide
+    type.topic-portfolio=Port
+    type.unclassified=Tasniflanmagan
+
+[MindTouch.LearningPath]
+    label.view-pages=Sahifalarni ko'rish
+    message.page-count=<span>Sahifalar:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Yashirish
+    button.toggle.show=Show
+    label.attachments=Qo'shimchalarni qo'shing
+    label.attachments-description=Kontent turi
+    label.attachments.type.binary=Boshqa
+    label.attachments.type.document=Hujjat
+    label.attachments.type.image=Rasm
+    label.classification=tasnifi
+    label.clear-all=Barcha filtrlarni tozalash
+    label.description=Filter natijalari
+    label.filters=filtrlar
+    label.location=Manzil
+    label.location-empty=tomonidan filtrlash uchun hech qanday joy yo'q
+
+[MindTouch.Subscriptions]
+    cancel=Bekor
+    caption.normal=Siz quyidagi sahifalarga obuna bo'lasiz.
+    caption.nosubscriptions=Siz hech qanday sahifalarga obuna emassiz.
+    column.page=Sahifa
+    column.recursive=E-pochta xabarnomalari
+    link-title=MindTouch xabarnomalarni boshqarish haqida ko'proq bilib oling
+    nonrecursive=Bu sahifa faqat
+    nonrecursive.draft=Bu qoralama faqat
+    recursive.many=$1 sahifalar
+    recursive.many.draft=$1 shashka
+    recursive.many.overflow=Barcha pastki sahifalarga obuna bo'ldi
+    recursive.many.overflow.draft=Barcha pastki sahifalarga obuna bo'ldi
+    recursive.one=1 sahifa
+    recursive.one.draft=1 loyihasi
+    unsubscribe=Obunani bekor
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Xabarni yoping
+
+[Page.AuthenticationProviders]
+    page-title=Kirish
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Visit success.mindtouch.com barcha yordam mavzular uchun. </a>
+
+[Page.Error]
+    not-found=Sahifa topilmadi
+    not-found-error=Kechirasiz, $1 da sahifa topilmadi.
+    not-found-results=Tegishli qidiruv natijalari:
+    page-title=Xato
+
+[Page.FeedbackRating]
+    button.leave-feedback=Fikrlarni qoldiring
+    button.rating-no=Yo'q
+    button.rating-yes=Ha
+    button.submit-feedback=Teskari aloqa
+    label.checkbox.contact-me=Ha, siz bu geribildirim haqida men bilan bog'lanishingiz mumkin.
+    label.feedback-question=Ushbu maqolani qanday yaxshilashimiz mumkin?
+    label.last-rated=- Siz ushbu maqolani oxirgi marta $1 ga baholadingiz
+    label.rating-message=Ushbu maqola foydali bo'lganmi?
+    legend.feedback-form=Fikrlarni qoldiring
+    message.contact.no=Yo'q
+    message.contact.yes=Ha
+    message.submit.error=Fikringizni yuborishga urinayotganda xatolik yuz berdi. Iltimos, keyinroq qayta urinib ko'ring.
+    message.submit.success=Sizning fikringiz muvaffaqiyatli taqdim etildi. Siz istalgan vaqtda ko'proq hisobot yuborishingiz mumkin.
+
+[Page.LiveTags]
+    label.article=Maqola turi
+
+[Page.LoginPasswordRegister]
+    page-title=Kirish va ro'yxatdan o'tish
+    tab.login=Kirish
+    tab.password=Parolni tiklash
+    tab.register=Ro'yxatdan o'tish
+
+[Page.Preferences]
+    error.invalid-email=Iltimos, tegishli elektron pochta manzilini ko'rsating
+    form.email=Elektron pochta manzili
+    form.fullname=Displey nomi
+    form.fullname.help=Ko'rsatiladigan maqsadlar uchun faqat
+    form.hint.password-characters=Parol quyidagi belgilarning kamida 3 tasi bo'lishi kerak: kichik harflar, katta harflar, raqamlar yoki belgilar.
+    form.hint.password-length=Parol uzunligi kamida 8 belgidan iborat bo'lishi kerak
+    form.hint.password-match=Parollar mos kelishi kerak
+    form.hint.password.restricted-words=Parol umumiy parol so'zlarini o'z ichiga olmaydi
+    form.legend.information=Mening ma'lumotlarim
+    form.legend.password=Mening parolim
+    form.password.new=Yangi parol
+    form.password.old=Eski parol
+    form.password.submit=Parolni oʻzgartirish
+    form.password.verify=Yangi parolni qayta kiriting
+    form.submit=Mening ma'lumotlarimni saqlash
+
+[Page.Tags]
+    message.notags=Ushbu sahifada teglar yo'q.
+    page-title=Sayt teglari
+    tags-inserted-from-template=Andoza tomonidan tavsiya etilgan teglar:
+    tags-inserted-heading=Sahifa teglari:
+
+[Page.UserLogin]
+    error=Sizning belgilaringiz muvaffaqiyatsiz tugadi. Iltimos, foydalanuvchi nomingiz va parolingizni tekshiring.
+    page-title=Kirish
+    submit-login=Kirish
+    user-name=Foydalanuvchi nomi
+    user-password=Parol
+
+[Page.UserLogout]
+    page-title=Chiqdi
+    success=Siz muvaffaqiyatli imzoladingiz.
+
+[Page.UserPassword]
+    form.submit=Parolni tiklash
+    page-title=Parolni tiklash
+    success.email-sent=Parolni tiklash bo'yicha ko'rsatmalar ushbu hisob uchun ro'yxatdan o'tgan elektron pochta manziliga yuborildi. Agar siz elektron pochta xabarini olmasangiz, iltimos, imlo tekshiring va qaytadan urinib ko'ring. Agar siz imzolash masalalarini davom ettirsangiz, sayt administratoriga murojaat qiling.
+
+[Page.UserRegistration]
+    error.email.match=Siz kiritgan elektron pochta xabarlari mos kelmaydi.
+    error.password.match=Siz kiritgan parollar mos kelmaydi.
+    form.email=Email
+    form.email.verify=E-pochtani tasdiqlang
+    form.fullname=To'liq ism <span class="note">(ixtiyoriy)</span>
+    form.password=Parol
+    form.password.verify=Parolni tasdiqlang
+    form.submit=Hisob yaratish
+    form.username=Foydalanuvchi nomi
+    page-title=Hisob yaratish
+    success.created=Foydalanuvchi <strong>$1</strong> yaratildi.
+
+[Page.Welcome]
+    community-banner-text=Endi siz hissa qo'shishingiz va tarkibni almashishingiz mumkin.
+    community-banner-title=Xush kelibsiz, $1. Sizning hisobingiz yaratildi.
+    community-get-started-text=<strong>Bu yerda siz boshlash yordam berish uchun bir necha maslahatlar:</strong>
+    community-tip1-text=Sayt egalariga sayt mazmuni haqida qimmatli fikr-mulohazalarni taqdim eting. Maqola foydali bo'lganmi? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ha</span>ni bosing. Agar yo'q bo'lsa, bosing <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Fikringizni qoldiring</span> , qanday qilib yaxshilashimiz mumkinligini bizga aytib bering. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Ko'proq bilib oling</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Bir sahifada sharhlab suhbatni boshlang. O'z ma'lumotingizni qo'shing yoki boshqa foydalanuvchining sharhlariga javob bering. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Ko'proq bilib oling</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Parolni tiklash
+
+[Product]
+    powered-by-site=Tomonidan qo'llab-quvvatlanadi MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Kirish
+    header.recommended-articles=Tavsiya etilgan maqolalar
+    header.toc=Mundarija
+    label.back-to-top=Orqaga tepaga
+    label.global-location-toggle=Kengaytirilgan/global joylashuvi
+    label.global-navigation-toggle=Kengaygan/global ierarxiyani buzish
+    label.last-updated=Oxirgi yangilangan
+    label.last-updated-by=tomonidan
+    label.no-recommended-articles=Tavsiya etilgan maqolalar yo'q.
+    label.password=Parol
+    label.pdf-export=PDF sifatida saqlash
+    label.signout=Chiqdi
+    label.site-search.button=Qidiruv
+    label.site-search.input=Qidiruv
+    label.skip-link=Asosiy tarkibga o'tish
+    label.tags=Teglar
+    label.user-preferences=Mening afzalliklarim
+    label.username=Foydalanuvchi nomi
+    link.quick-login=Kirish
+    link.site-search=Qidiruv sayt
+    placeholder.site-search.input=Sizga qanday yordam berishimiz mumkin?
+    tooltip.back-to-top=Ushbu maqolaning ustiga qaytib O'tish
+    tooltip.browse-back=Oldingi maqolaga qaytib boring
+    tooltip.pdf-export=PDF sifatida eksport sahifa
+    tooltip.signout=Ushbu saytdan chiqish uchun bosing
+    tooltip.skip-link=Asosiy tarkibga o'tish uchun Enter tugmasini bosing
+    tooltip.user-preferences=Foydalanuvchi afzalliklarini o'zgartirish uchun bosing
+
+[Skin.Common]
+    copyright=Mualliflik huquqi
+    home=uy
+
+[System.API]
+    no-headers=Sarlavhalar yo'q
+    opensearch-shortname=$1 Qidiruv
+
+[Users]
+    email.body.html.content=<p>Tabriklaymiz, <br/><br/>\ r\ n\ r\ nSiz endi $4 da hisob bor. <br/><br/>Bir zumda boshqa jamoa a'zolari bilan hamkorlik boshlash uchun kiring. Quyida saytga kirish tafsilotlari mavjud:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nFoydalanuvchi nomi: $1<br/>Parol: $3<br/><br/>\ r\ n\ r\ nAgar siz boshlashga yordam kerak bo'lsa yoki <a href="$2">$4</a>haqida aniq savollaringiz bo'lsa, sayt administratoriga murojaat qiling. </p>
+    email.body.html.content.nopassword=<p>Tabriklaymiz, <br/><br/>\ r\ n\ r\ nEndi $3 da hisob qaydnomangiz bor. <br/><br/>Bir zumda boshqa jamoa a'zolari bilan hamkorlik boshlash uchun kiring. Quyida saytga kirish tafsilotlari mavjud:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nFoydalanuvchi nomi: $1<em>Agar parolingizni bilmasangiz sayt administratoriga<br/><br/>murojaat qiling. </em><br/><br/>\ r\ n\ r\ nAgar boshlash yordam kerak yoki <a href="$2">$3</a>haqida aniq savollar bo'lsa, sayt ma'muri murojaat qiling. </p>
+    email.body.text=\ r\ nTabriklaymiz,\ r\ n\ r\ nSiz endi $4 da hisob bor. Bir zumda boshqa jamoa a'zolari bilan hamkorlik boshlash uchun kiring. Quyida saytga kirish tafsilotlari mavjud:\ r\ n\ r\ nSite URL: $2\ r\ nFoydalanuvchi nomi: $1\ r\ nPassword: $3\ r\ n\ r\ nAgar siz boshlashga yordam kerak bo'lsa yoki $4 haqida aniq savollaringiz bo'lsa, sayt administratoriga murojaat qiling.
+    email.body.text.nopassword=\ r\ nTabriklaymiz,\ r\ n\ r\ nSiz endi $3 da hisob bor. Bir zumda boshqa jamoa a'zolari bilan hamkorlik boshlash uchun kiring. Quyida saytga kirish tafsilotlari mavjud:\ r\ n\ r\ nSite URL: $2\ r\ nFoydalanuvchi nomi: $1\ r\ nParolni bilmasangiz sayt administratoriga murojaat qiling. \ r\ n\ r\ nAgar boshlash yordam kerak yoki $3 haqida aniq savollar bo'lsa, sayt ma'muri murojaat qiling.
+    email.external.body.html.content=<p>Tabriklaymiz, <br/><br/>\ r\ n\ r\ nEndi $3 da hisob qaydnomangiz bor. <br/><br/>Bir zumda boshqa jamoa a'zolari bilan hamkorlik boshlash uchun kiring. Quyida saytga kirish tafsilotlari mavjud:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nFoydalanuvchi nomi: $1<br/><br/>\ r\ n\ r\ nAgar siz boshlashga yordam kerak bo'lsa yoki <a href="$2">$3</a>haqida aniq savollaringiz bo'lsa, sayt administratoriga murojaat qiling. </p>
+    email.subject=$1 Kirish Tafsilotlar
+    form.password.instructions=Parollar uzunligi kamida 8 belgidan iborat bo'lishi kerak va quyidagi belgilarning kamida 3 tasi bo'lishi kerak: kichik harflar, katta harflar, raqamlar yoki belgilar.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Talab qilingan MindTouch Touchpoint veb-brauzeringiz tomonidan yuklanmadi.
+    label.back-to-top=Orqaga tepaga
+
+[WebWidget.F1]
+    label.help-button=Yordam
+    title.help-button=Yordam
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch uchun {{username}} sifatida imzolangan
+    label.sign-in=MindTouch kiring
+
+[WebWidget.Search]
+    label.collapse-summary=Xulosa qulashi uchun bosing
+    label.disabled-message=Iltimos, keyinroq qayta urinib ko'ring.
+    label.disabled-title=Kechirasiz, qidiruv hozirda mavjud emas.
+    label.expand-summary=Xulosa kengaytirish uchun bosing
+    label.forbidden-message=Iltimos, tizimga kiring yoki sayt administratoriga murojaat qiling.
+    label.forbidden-title=Ushbu xususiyatdan foydalanish uchun sizda ruxsat yo'q.
+    label.input-hint=Qidiruv
+    label.no-results-faceting-message=Boshqa biror narsani qidirishga yoki toifani tanlashga harakat qiling.
+    label.no-results-message=Boshqa biror narsani qidirishga harakat qiling.
+    label.no-results-title=Kechirasiz, biz siz qidirayotgan narsani topa olmaymiz.
+    label.recommended=Tavsiya
+    label.refine-search=Qidiruvni takomillashtirish
+    label.show-more=Ko'proq ko'rsatish
+
+[WebWidgets]
+    label.authenticated-user=Salom, {{username}}!
+    label.nav.back=Orqaga
+    label.nav.forward=Oldinga
+    label.nav.home=uy
+
+[Component.Translate]
+    label.choose-language=Tilni tanlang
+    label.english=Ingliz
+    label.update-failed=Tarjima to'liq
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalain
+    language.italian=Italiano
+    title.translated-machine=Sahifa tarkibi mashina tarjimasi yordamida tarjima qilingan
+    dialog.translated-mindtouch=MindTouch tomonidan tarjima qilingan
