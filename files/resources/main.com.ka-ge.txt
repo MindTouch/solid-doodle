@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=შეტყობინების განყოფილება ცარიელი ჰედერი
+[Dialog.CopyMove]
+    placeholder.search=ძებნა
 
-[Old.Category]
-    dialog.old.select.title=დიალოგი ძველი აირჩიეთ სათაური
+[F1]
+    dialog.text.back=უკან
+    dialog.text.forward=Forward
+    dialog.text.hint=ძებნა
+    dialog.text.home=მთავარი
+    dialog.text.open=სტატიის გახსნა
 
-[Web.Defaults]
-    error.message=შეცდომის შეტყობინება
+[MindTouch.Help.Page]
+    category-selector=ფილტრის შერჩევით შედეგების დახვეწა.
+    help-header-label=დახმარების შედეგები
+    in=შიგნით
+    label-filter=ძებნაში
+    label-result-count=შესახებ {0} შედეგები
+    label-search-all=ყველა შედეგი
+    label.page-rating-no=არა
+    label.page-rating-yes=დიახ
+    more=მეტი
+    no-search-results=უკაცრავად, ჩვენ ვერ ვპოულობთ იმას, რასაც ეძებთ.
+    no-search-try=სცადეთ მოძებნოთ რაღაც სხვა, აირჩიეთ კატეგორია, ან სცადოთ ბილეთის შექმნა.
+    recommended=(რეკომენდირებული)
+    search-error=ძებნა შეცდომას შეექმნა.
+    search-error-try=გთხოვთ სცადოთ მოგვიანებით.
+    search-unavailable=უკაცრავად, ძიება ამჟამად მიუწვდომელია.
+    show-more-search=მეტი შედეგის ჩვენება
+    tooltip.scrollNext=გადაახვიეთ შემდეგი
+    tooltip.scrollPrev=გადახვევა წინა
+    warning.search-only-english=ძებნა ხელმისაწვდომია მხოლოდ ინგლისურ ენაზე
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(თარიღი შეიქმნა)
+    featured.articles.created.title=ახლახანს დაემატა
+    featured.articles.rated.label=(რეიტინგი)
+    featured.articles.rated.title=ყველაზე რეიტინგული
+    featured.articles.updated.label=(თარიღი განახლებულია)
+    featured.articles.updated.title=ახლახანს განახლდა
+    featured.articles.viewed.label=(ნახვები)
+    featured.articles.viewed.title=ყველაზე პოპულარული
+    label.guide-subpage-display-single=სინგლის
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=ჩანართების მარცხნივ
+    label.guide.tabscrollright=ჩანართების გადახვევა მარჯვნივ
+    label.reveal.showAll=აჩვენე ყველა
+    label.reveal.showLess=აჩვენე ნაკლები
+    label.search.placeholder=ძებნა
+    type.how-to=როგორ-ტო
+    type.howto=როგორ-ტო
+    type.reference=ცნობარი
+    type.topic=თემა
+    type.topic-category=კატეგორია
+    type.topic-guide=გზამკვლევი
+    type.topic-portfolio=პორტფოლიო
+    type.unclassified=არაკლასიფიცირებული
+
+[MindTouch.LearningPath]
+    label.view-pages=გვერდების ნახვა
+    message.page-count=<span>გვერდები:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=დამალვა
+    button.toggle.show=აჩვენე
+    label.attachments=დანართების ჩართვა
+    label.attachments-description=კონტენტის ტიპი
+    label.attachments.type.binary=სხვა
+    label.attachments.type.document=დოკუმენტი
+    label.attachments.type.image=გამოსახულება
+    label.classification=კლასიფიკაცია
+    label.clear-all=ყველა ფილტრის გასუფთავება
+    label.description=ფილტრის შედეგები
+    label.filters=ფილტრები
+    label.location=მდებარეობა
+    label.location-empty=არ არსებობს ადგილები, რათა გავფილტროთ
+
+[MindTouch.Subscriptions]
+    cancel=გაუქმება
+    caption.normal=თქვენ გამოწერილი ხართ შემდეგ გვერდებზე.
+    caption.nosubscriptions=თქვენ არ გამოწერილი რომელიმე გვერდს.
+    column.page=გვერდი
+    column.recursive=ელფოსტის შეტყობინებები
+    link-title=შეიტყვეთ მეტი MindTouch- ში შეტყობინებების მართვის
+    nonrecursive=მხოლოდ ეს გვერდი
+    nonrecursive.draft=ეს პროექტი მხოლოდ
+    recursive.many=$1 გვერდები
+    recursive.many.draft=$1 კანონპროექტი
+    recursive.many.overflow=გამოწერილი ყველა ქვეგვერდს
+    recursive.many.overflow.draft=გამოწერილი ყველა ქვეგვერდის ნახაზზე
+    recursive.one=1 გვერდი
+    recursive.one.draft=1 პროექტი
+    unsubscribe=გამოწერა
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=შეტყობინების დახურვა
+
+[Page.AuthenticationProviders]
+    page-title=შედით სისტემაში
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">ეწვიეთ success.mindtouch.com ყველა დახმარების თემა. </a>
+
+[Page.Error]
+    not-found=გვერდი ვერ მოიძებნა
+    not-found-error=უკაცრავად, გვერდი $1 ვერ მოიძებნა.
+    not-found-results=დაკავშირებული ძიების შედეგები:
+    page-title=შეცდომა
+
+[Page.FeedbackRating]
+    button.leave-feedback=დატოვე კავშირი
+    button.rating-no=არა
+    button.rating-yes=დიახ
+    button.submit-feedback=გამოხმაურება
+    label.checkbox.contact-me=დიახ, შეგიძლიათ დამიკავშირდეთ ამ გამოხმაურებაზე.
+    label.feedback-question=როგორ შეგვიძლია გავაუმჯობესოთ ეს სტატია?
+    label.last-rated=— თქვენ ბოლო შეაფასა ეს სტატია $1
+    label.rating-message=იყო ეს სტატია სასარგებლო?
+    legend.feedback-form=დატოვე კავშირი
+    message.contact.no=არა
+    message.contact.yes=დიახ
+    message.submit.error=თქვენი გამოხმაურების გაგზავნის მცდელობისას მოხდა შეცდომა. გთხოვთ, სცადოთ მოგვიანებით.
+    message.submit.success=თქვენი გამოხმაურება წარმატებით იქნა წარმოდგენილი. თქვენ შეგიძლიათ წარმოადგინოთ მეტი კავშირი ნებისმიერ დროს.
+
+[Page.LiveTags]
+    label.article=სტატიის ტიპი
+
+[Page.LoginPasswordRegister]
+    page-title=შესვლა და რეგისტრაცია
+    tab.login=შედით სისტემაში
+    tab.password=პაროლის აღდგენა
+    tab.register=რეგისტრაცია
+
+[Page.Preferences]
+    error.invalid-email=გთხოვთ მიუთითოთ სწორი ელ. ფოსტის მისამართი
+    form.email=ელფოსტის მისამართი
+    form.fullname=ეკრანის სახელი
+    form.fullname.help=მხოლოდ დისპლეის მიზნებისათვის
+    form.hint.password-characters=პაროლი უნდა შეიცავდეს მინიმუმ 3 შემდეგ სიმბოლოებს: ამას, ზედა, ციფრებს ან სიმბოლოებს.
+    form.hint.password-length=პაროლი უნდა იყოს მინიმუმ 8 სიმბოლო
+    form.hint.password-match=პაროლები უნდა შეესაბამებოდეს
+    form.hint.password.restricted-words=პაროლი არ შეიცავს საერთო პაროლის სიტყვებს
+    form.legend.information=ჩემი ინფორმაცია
+    form.legend.password=ჩემი პაროლი
+    form.password.new=ახალი პაროლი
+    form.password.old=ძველი პაროლი
+    form.password.submit=პაროლის შეცვლა
+    form.password.verify=ახალი პაროლის აღდგენა
+    form.submit=ჩემი ინფორმაციის შენახვა
+
+[Page.Tags]
+    message.notags=ეს გვერდი არ აქვს tags.
+    page-title=საიტის ტეგები
+    tags-inserted-from-template=შაბლონის მიერ რეკომენდებული ტეგები:
+    tags-inserted-heading=გვერდის ტეგები:
+
+[Page.UserLogin]
+    error=შენი ნიშანი ვერ მოხერხდა. გთხოვთ გადაამოწმოთ თქვენი სახელი და პაროლი.
+    page-title=შედით სისტემაში
+    submit-login=შედით სისტემაში
+    user-name=მომხმარებლის სახელი
+    user-password=პაროლი
+
+[Page.UserLogout]
+    page-title=გამოიწერეთ
+    success=თქვენ წარმატებით მოაწერეს ხელი.
+
+[Page.UserPassword]
+    form.submit=პაროლის აღდგენა
+    page-title=პაროლის აღდგენა
+    success.email-sent=პაროლის აღდგენის ინსტრუქციები გაიგზავნა ამ ანგარიშზე რეგისტრირებულ ელ. ფოსტის მისამართზე. თუ თქვენ არ მიიღოს ელ, გთხოვთ შეამოწმოთ თქვენი მართლწერა და სცადეთ კიდევ ერთხელ. დაუკავშირდით თქვენს საიტის ადმინისტრატორს, თუ გააგრძელებთ ხელმოწერის საკითხებს.
+
+[Page.UserRegistration]
+    error.email.match=თქვენს მიერ შეყვანილი ელ არ ემთხვევა.
+    error.password.match=თქვენს მიერ შეყვანილი პაროლები არ ემთხვევა.
+    form.email=ელფოსტა
+    form.email.verify=ელ-ფოსტის შემოწმება
+    form.fullname=სრული სახელი <span class="note">(სურვილისამებრ)</span>
+    form.password=პაროლი
+    form.password.verify=პაროლის გადამოწმება
+    form.submit=ანგარიშის შექმნა
+    form.username=მომხმარებლის სახელი
+    page-title=ანგარიშის შექმნა
+    success.created=მომხმარებელი <strong>$1</strong> შეიქმნა.
+
+[Page.Welcome]
+    community-banner-text=ახლა თქვენ შეგიძლიათ წვლილი შეიტანოს და გაუზიაროს შინაარსი.
+    community-banner-title=მოგესალმებით, $1. თქვენი ანგარიში შეიქმნა.
+    community-get-started-text=<strong>აქ არის რამოდენიმე რჩევა, რათა დაგეხმაროთ დავიწყოთ:</strong>
+    community-tip1-text=უზრუნველყოს საიტის მფლობელები ღირებული უკუკავშირი საიტის შინაარსის შესახებ. იყო სტატია სასარგებლო? დააჭირეთ <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">დიახ</span>. თუ არა, დააჭირეთ <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">დატოვე კავშირი</span> გვითხრათ, როგორ შეგვიძლია გავაუმჯობესოთ. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">შეიტყვეთ მეტი</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=დაიწყეთ საუბარი გვერდზე კომენტირებისას. ხელი შეუწყოს თქვენი საკუთარი ინფორმაცია ან პასუხი სხვა მომხმარებლის კომენტარი. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">შეიტყვეთ მეტი</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=პაროლის აღდგენა
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=შედით სისტემაში
+    header.recommended-articles=რეკომენდებული სტატიები
+    header.toc=სარჩევი
+    label.back-to-top=თავში დაბრუნება
+    label.global-location-toggle=გაფართოება/დაშლის გლობალური მდებარეობა
+    label.global-navigation-toggle=გლობალური იერარქიის გაფართოება/დაშლა
+    label.last-updated=ბოლო განახლება
+    label.last-updated-by=მიერ
+    label.no-recommended-articles=რეკომენდებული სტატიები არ არის.
+    label.password=პაროლი
+    label.pdf-export=შენახვა როგორც PDF
+    label.signout=გამოიწერეთ
+    label.site-search.button=ძებნა
+    label.site-search.input=ძებნა
+    label.skip-link=ძირითადი შინაარსის გამოტოვება
+    label.tags=Tags
+    label.user-preferences=ჩემი არჩევანი
+    label.username=მომხმარებლის სახელი
+    link.quick-login=შედით სისტემაში
+    link.site-search=ძებნა საიტი
+    placeholder.site-search.input=როგორ შეგვიძლია დაგეხმაროთ?
+    tooltip.back-to-top=გადადით უკან ამ მუხლის
+    tooltip.browse-back=დაბრუნდით წინა სტატიაში
+    tooltip.pdf-export=ექსპორტის გვერდი როგორც PDF
+    tooltip.signout=დააჭირეთ ამ საიტიდან გამოსვლას
+    tooltip.skip-link=დააჭირეთ ღილაკს ძირითადი შინაარსის გამოტოვება
+    tooltip.user-preferences=დაწკაპეთ თქვენი მომხმარებლის პარამეტრების შესაცვლელად
+
+[Skin.Common]
+    copyright=საავტორო უფლებები
+    home=მთავარი
+
+[System.API]
+    no-headers=სათაურები არ არის
+    opensearch-shortname=$1 ძებნა
+
+[Users]
+    email.body.html.content=<p>გილოცავთ, <br/><br/>\ r\ n\ r\ nახლა გაქვთ ანგარიში $4. <br/><br/>შეხვიდეთ სისტემაში, რათა დაუყოვნებლივ დაიწყოს თანამშრომლობა სხვა საზოგადოების წევრებთან. ქვემოთ მოცემულია თქვენი საიტის წვდომის დეტალები:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser სახელი: $1<br/>პაროლი: $3<br/><br/>\ r\ n\ r\ nთუ თქვენ გჭირდებათ დახმარების მიღება ან გაქვთ კონკრეტული კითხვები <a href="$2">$4</a>, გთხოვთ დაუკავშირდეთ საიტის ადმინისტრატორს. </p>
+    email.body.html.content.nopassword=<p>გილოცავთ, <br/><br/>\ r\ n\ r\ nახლა გაქვთ ანგარიში $3. <br/><br/>შეხვიდეთ სისტემაში, რათა დაუყოვნებლივ დაიწყოს თანამშრომლობა სხვა საზოგადოების წევრებთან. ქვემოთ მოცემულია თქვენი საიტის წვდომის დეტალები:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser სახელი: $1<br/><br/><em>დაუკავშირდით საიტის ადმინისტრატორს, თუ არ იცით თქვენი პაროლი. </em><br/><br/>\ r\ n\ r\ nთუ თქვენ გჭირდებათ დახმარება დავიწყოთ ან გაქვთ კონკრეტული კითხვები <a href="$2">$3</a>, გთხოვთ დაუკავშირდეთ საიტის ადმინისტრატორს. </p>
+    email.body.text=\ r\ nგილოცავთ,\ r\ n\ r\ nახლა გაქვთ ანგარიში $4. შეხვიდეთ სისტემაში, რათა დაუყოვნებლივ დაიწყოს თანამშრომლობა სხვა საზოგადოების წევრებთან. ქვემოთ მოცემულია თქვენი საიტის წვდომის დეტალები:\ r\ n\ r\ nSite URL: $2\ r\ nUser სახელი: $1\ r\ nPassword: $3\ r\ n\ r\ nთუ გჭირდებათ დახმარების მიღება ან კონკრეტული კითხვები $4, გთხოვთ დაუკავშირდეთ საიტის ადმინისტრატორს.
+    email.body.text.nopassword=\ r\ nგილოცავთ,\ r\ n\ r\ nახლა გაქვთ ანგარიში $3. შეხვიდეთ სისტემაში, რათა დაუყოვნებლივ დაიწყოს თანამშრომლობა სხვა საზოგადოების წევრებთან. ქვემოთ მოცემულია თქვენი საიტის წვდომის დეტალები:\ r\ n\ r\ nSite URL: $2\ r\ nUser სახელი: $1\ r\ nContact საიტის ადმინისტრატორს, თუ არ იცით თქვენი პაროლი. \ r\ n\ r\ nთუ თქვენ გჭირდებათ დახმარება დავიწყოთ ან გაქვთ კონკრეტული კითხვები $3, გთხოვთ დაუკავშირდეთ საიტის ადმინისტრატორს.
+    email.external.body.html.content=<p>გილოცავთ, <br/><br/>\ r\ n\ r\ nახლა გაქვთ ანგარიში $3. <br/><br/>შეხვიდეთ სისტემაში, რათა დაუყოვნებლივ დაიწყოს თანამშრომლობა სხვა საზოგადოების წევრებთან. ქვემოთ მოცემულია თქვენი საიტის წვდომის დეტალები:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser სახელი: $1<br/><br/>\ r\ n\ r\ nთუ თქვენ გჭირდებათ დახმარების დაწყება ან გაქვთ კონკრეტული კითხვები <a href="$2">$3</a>, გთხოვთ დაუკავშირდეთ საიტის ადმინისტრატორს. </p>
+    email.subject=$1 შედით დეტალებში
+    form.password.instructions=პაროლები უნდა იყოს მინიმუმ 8 სიმბოლო სიგრძის და შეიცავდეს მინიმუმ 3 შემდეგ სიმბოლოებს: ამას, ზედა, ციფრებს ან სიმბოლოებს.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=მოთხოვნილი MindTouchpoint ვერ ჩაიტვირთა თქვენი ვებ-ბრაუზერი.
+    label.back-to-top=თავში დაბრუნება
+
+[WebWidget.F1]
+    label.help-button=დახმარება
+    title.help-button=დახმარება
+
+[WebWidget.Login]
+    label.authenticated-user=ხელი მოაწერეს MindTouch-ში როგორც {{მომხმარებლის სახელი}}
+    label.sign-in=შედით სისტემაში MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=დაწკაპეთ დაშლის შემაჯამებელი
+    label.disabled-message=გთხოვთ სცადოთ მოგვიანებით.
+    label.disabled-title=უკაცრავად, ძიება ამჟამად მიუწვდომელია.
+    label.expand-summary=დაწკაპეთ გაფართოების შემაჯამებელი
+    label.forbidden-message=გთხოვთ შეხვიდეთ სისტემაში, ან დაუკავშირდით თქვენს საიტის ადმინისტრატორს.
+    label.forbidden-title=თქვენ არ გაქვთ ამ ფუნქციის გამოყენების უფლება.
+    label.input-hint=ძებნა
+    label.no-results-faceting-message=სცადეთ მოძებნოთ რაღაც ან აირჩიოთ კატეგორია.
+    label.no-results-message=სცადეთ რაღაც სხვა რამეზე.
+    label.no-results-title=უკაცრავად, ჩვენ ვერ ვპოულობთ იმას, რასაც ეძებთ.
+    label.recommended=რეკომენდებულია
+    label.refine-search=დახვეწა ძებნა
+    label.show-more=აჩვენე მეტი
+
+[WebWidgets]
+    label.authenticated-user=გამარჯობა, {{მომხმარებლის სახელი}}!
+    label.nav.back=უკან
+    label.nav.forward=Forward
+    label.nav.home=მთავარი
+
+[Component.Translate]
+    label.choose-language=ენის არჩევა
+    label.english=ინგლისელი
+    label.update-failed=თარგმანი არასრულყოფილი
+    language.spanish=ესპანოლი
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=ფრანსუა
+    language.portuguese=პერიგუესა
+    language.dutch=ნედერლანდსი
+    language.korean=한국어
+    language.swedish=სვენსკა
+    language.danish=დანსკი
+    language.finnish=სუომალაინენი
+    language.italian=იტალიანო
+    title.translated-machine=გვერდი შინაარსი თარგმნილია გამოყენებით მანქანა თარგმანი
+    dialog.translated-mindtouch=თარგმნა MinkTouch
