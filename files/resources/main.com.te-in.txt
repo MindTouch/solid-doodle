@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=సందేశం విభాగం ఖాళీ శీర్షిక
+[Dialog.CopyMove]
+    placeholder.search=శోధన
 
-[Old.Category]
-    dialog.old.select.title=పాత డైలాగ్ శీర్షిక ఎంచుకోండి
+[F1]
+    dialog.text.back=తిరిగి
+    dialog.text.forward=ముందుకు
+    dialog.text.hint=వెతకండి
+    dialog.text.home=హోమ్
+    dialog.text.open=వ్యాసం తెరవండి
 
-[Web.Defaults]
-    error.message=దోష సందేశం
+[MindTouch.Help.Page]
+    category-selector=ఫిల్టర్ను ఎంచుకోవడం ద్వారా ఫలితాలను మెరుగుపరచండి.
+    help-header-label=ఫలితాల కోసం సహాయం చేయండి
+    in=లో
+    label-filter=లో శోధించడం
+    label-result-count=గురించి {0} ఫలితాలు
+    label-search-all=అన్ని ఫలితాలు
+    label.page-rating-no=లేదు
+    label.page-rating-yes=అవును
+    more=మరింత
+    no-search-results=క్షమించండి, మీరు వెతుకుతున్న దాన్ని మేము కనుగొనలేము.
+    no-search-try=వేరే ఏదో శోధించడం ప్రయత్నించండి, ఒక వర్గం ఎంచుకోవడం, లేదా ఒక టికెట్ సృష్టించడానికి ప్రయత్నించండి.
+    recommended=(సిఫార్సు చేయబడింది)
+    search-error=శోధన లోపం ఎదుర్కొంది.
+    search-error-try=దయచేసి తరువాత మళ్ళీ ప్రయత్నించండి.
+    search-unavailable=క్షమించండి, శోధన ప్రస్తుతం అందుబాటులో లేదు.
+    show-more-search=మరిన్ని ఫలితాలను చూపించు
+    tooltip.scrollNext=తదుపరి స్క్రోల్
+    tooltip.scrollPrev=మునుపటి స్క్రోల్
+    warning.search-only-english=శోధన ఆంగ్లంలో మాత్రమే అందుబాటులో ఉంది
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(రూపొందించినవారు తేదీ)
+    featured.articles.created.title=ఇటీవల జోడించబడింది
+    featured.articles.rated.label=(రేటింగ్)
+    featured.articles.rated.title=అత్యధిక రేటింగ్
+    featured.articles.updated.label=(తేదీ నవీకరించబడింది)
+    featured.articles.updated.title=ఇటీవల నవీకరించబడింది
+    featured.articles.viewed.label=(వీక్షణలు)
+    featured.articles.viewed.title=అత్యంత ప్రజాదరణ
+    label.guide-subpage-display-single=సింగిల్
+    label.guide-subpage-display-tabbed=టాబ్డ్
+    label.guide.tabscrollleft=స్క్రోల్ టాబ్లు వదిలి
+    label.guide.tabscrollright=స్క్రోల్ టాబ్లు కుడి
+    label.reveal.showAll=అన్ని చూపించు
+    label.reveal.showLess=తక్కువ చూపించు
+    label.search.placeholder=శోధన
+    type.how-to=ఎలా చేయాలి
+    type.howto=ఎలా చేయాలి
+    type.reference=సూచన
+    type.topic=అంశం
+    type.topic-category=వర్గం
+    type.topic-guide=గైడ్
+    type.topic-portfolio=పోర్ట్ఫోలియో
+    type.unclassified=వర్గీకరించని
+
+[MindTouch.LearningPath]
+    label.view-pages=పేజీలను వీక్షించండి
+    message.page-count=<span>పేజీలు:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=దాచు
+    button.toggle.show=చూపించు
+    label.attachments=జోడింపులను చేర్చండి
+    label.attachments-description=కంటెంట్ రకం
+    label.attachments.type.binary=ఇతర
+    label.attachments.type.document=డాక్యుమెంట్
+    label.attachments.type.image=చిత్రం
+    label.classification=వర్గీకరణ
+    label.clear-all=అన్ని ఫిల్టర్లను క్లియర్
+    label.description=వడపోత ఫలితాలు
+    label.filters=వడపోతలు
+    label.location=స్థానం
+    label.location-empty=ఫిల్టర్ చేయడానికి స్థానాలు లేవు
+
+[MindTouch.Subscriptions]
+    cancel=రద్దు
+    caption.normal=మీరు క్రింది పేజీలకు సభ్యత్వాన్ని పొందుతారు.
+    caption.nosubscriptions=మీరు ఏ పేజీలకు చందా లేదు.
+    column.page=పేజీ
+    column.recursive=ఇమెయిల్ నోటిఫికేషన్లు
+    link-title=MindTouch లో ప్రకటనలను నిర్వహించడం గురించి మరింత తెలుసుకోండి
+    nonrecursive=ఈ పేజీ మాత్రమే
+    nonrecursive.draft=ఈ డ్రాఫ్ట్ మాత్రమే
+    recursive.many=$1 పేజీలు
+    recursive.many.draft=$1 చిత్తుప్రతులు
+    recursive.many.overflow=అన్ని ఉపపేజీలకు సబ్స్క్రయిబ్
+    recursive.many.overflow.draft=అన్ని ఉపపేజీ చిత్తుప్రతులు సబ్స్క్రయిబ్
+    recursive.one=1 పేజీ
+    recursive.one.draft=1 డ్రాఫ్ట్
+    unsubscribe=అన్సబ్స్క్రయిబ్
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=సందేశాన్ని మూసివేయండి
+
+[Page.AuthenticationProviders]
+    page-title=సైన్ ఇన్
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">అన్ని సహాయ విషయాల కోసం విజయం.mindtouch.com ను సందర్శించండి. </a>
+
+[Page.Error]
+    not-found=పేజీ కనుగొనబడలేదు
+    not-found-error=క్షమించండి, $1 వద్ద ఉన్న పేజీ కనుగొనబడలేదు.
+    not-found-results=సంబంధిత శోధన ఫలితాలు:
+    page-title=లోపం
+
+[Page.FeedbackRating]
+    button.leave-feedback=అభిప్రాయాన్ని వదిలివేయండి
+    button.rating-no=లేదు
+    button.rating-yes=అవును
+    button.submit-feedback=అభిప్రాయాన్ని సమర్పించండి
+    label.checkbox.contact-me=అవును, మీరు ఈ ఫీడ్బ్యాక్ గురించి నన్ను సంప్రదించవచ్చు.
+    label.feedback-question=మేము ఈ కథనాన్ని ఎలా మెరుగుపరుస్తాము?
+    label.last-rated=— మీరు గత $1 ఈ వ్యాసం రేట్
+    label.rating-message=ఈ వ్యాసం సహాయకారిగా ఉందా?
+    legend.feedback-form=అభిప్రాయాన్ని వదిలివేయండి
+    message.contact.no=లేదు
+    message.contact.yes=అవును
+    message.submit.error=మీ అభిప్రాయాన్ని పంపడానికి ప్రయత్నిస్తున్నప్పుడు లోపం ఏర్పడింది. దయచేసి తరువాత సమయంలో మళ్ళీ ప్రయత్నించండి.
+    message.submit.success=మీ అభిప్రాయం విజయవంతంగా సమర్పించబడింది. మీరు ఎప్పుడైనా ఎక్కువ అభిప్రాయాన్ని సమర్పించవచ్చు.
+
+[Page.LiveTags]
+    label.article=వ్యాసం రకం
+
+[Page.LoginPasswordRegister]
+    page-title=సైన్ ఇన్ మరియు నమోదు
+    tab.login=సైన్ ఇన్
+    tab.password=పాస్వర్డ్ రీసెట్
+    tab.register=నమోదు
+
+[Page.Preferences]
+    error.invalid-email=దయచేసి చెల్లుబాటు అయ్యే ఇమెయిల్ చిరునామాను పేర్కొనండి
+    form.email=ఇమెయిల్ చిరునామా
+    form.fullname=ప్రదర్శన పేరు
+    form.fullname.help=ప్రదర్శన ప్రయోజనాల కోసం మాత్రమే
+    form.hint.password-characters=పాస్వర్డ్ కింది అక్షరాలను కనీసం 3 కలిగి ఉండాలి: చిన్న, పెద్ద, అంకెలు లేదా చిహ్నాలు.
+    form.hint.password-length=పాస్వర్డ్ పొడవు కనీసం 8 అక్షరాలు ఉండాలి
+    form.hint.password-match=పాస్వర్డ్లను సరిపోవాలి
+    form.hint.password.restricted-words=పాస్వర్డ్ సాధారణ పాస్వర్డ్ను పదాలు కలిగి ఉండకూడదు
+    form.legend.information=నా సమాచారం
+    form.legend.password=నా పాస్వర్డ్
+    form.password.new=కొత్త పాస్వర్డ్
+    form.password.old=పాత పాస్వర్డ్
+    form.password.submit=పాస్వర్డ్ను మార్చడం
+    form.password.verify=కొత్త పాస్వర్డ్ను రీటైప్ చేయండి
+    form.submit=నా సమాచారాన్ని సేవ్ చేయండి
+
+[Page.Tags]
+    message.notags=ఈ పేజీకి ట్యాగ్లు లేవు.
+    page-title=సైట్ టాగ్లు
+    tags-inserted-from-template=టాగ్లు టెంప్లేట్ సిఫార్సు:
+    tags-inserted-heading=పేజీ టాగ్లు:
+
+[Page.UserLogin]
+    error=మీ సైన్ ఇన్ విఫలమైంది. దయచేసి మీ యూజర్పేరు మరియు పాస్వర్డ్ను ధృవీకరించండి.
+    page-title=సైన్ ఇన్
+    submit-login=సైన్ ఇన్
+    user-name=వాడుకరిపేరు
+    user-password=పాస్వర్డ్
+
+[Page.UserLogout]
+    page-title=సైన్ అవుట్
+    success=మీరు విజయవంతంగా సైన్ అవుట్ చేశారు.
+
+[Page.UserPassword]
+    form.submit=పాస్వర్డ్ రీసెట్
+    page-title=పాస్వర్డ్ రీసెట్
+    success.email-sent=పాస్వర్డ్ రీసెట్ సూచనలను ఈ ఖాతా కోసం నమోదు ఇ-మెయిల్ చిరునామాకు పంపబడ్డాయి. మీకు ఇమెయిల్ రాకపోతే, దయచేసి మీ స్పెల్లింగ్ను తనిఖీ చేసి, మళ్లీ ప్రయత్నించండి. మీరు సైన్ ఇన్ సమస్యలు కొనసాగితే మీ సైట్ నిర్వాహకుడు సంప్రదించండి.
+
+[Page.UserRegistration]
+    error.email.match=మీరు నమోదు చేసిన ఇమెయిల్స్ సరిపోలడం లేదు.
+    error.password.match=మీరు నమోదు చేసిన పాస్వర్డ్లు సరిపోలడం లేదు.
+    form.email=ఇమెయిల్
+    form.email.verify=ఇమెయిల్ ధృవీకరించండి
+    form.fullname=పూర్తి పేరు <span class="note">(ఐచ్ఛిక)</span>
+    form.password=పాస్వర్డ్
+    form.password.verify=పాస్వర్డ్ను ధృవీకరించండి
+    form.submit=ఒక ఖాతాను సృష్టించండి
+    form.username=వాడుకరిపేరు
+    page-title=ఒక ఖాతాను సృష్టించండి
+    success.created=వాడుకరి <strong>$1</strong> సృష్టించబడింది.
+
+[Page.Welcome]
+    community-banner-text=మీరు ఇప్పుడు కంటెంట్ను దోహదం చేయవచ్చు మరియు పంచుకోవచ్చు.
+    community-banner-title=స్వాగతం, $1. మీ ఖాతా సృష్టించబడింది.
+    community-get-started-text=<strong>మీరు ప్రారంభించడానికి సహాయపడే కొన్ని చిట్కాలు ఇక్కడ ఉన్నాయి:</strong>
+    community-tip1-text=సైట్ యొక్క కంటెంట్ గురించి విలువైన అభిప్రాయంతో సైట్ యజమానులను అందించండి. వ్యాసం సహాయకారిగా ఉందా? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">అవును</span>క్లిక్ చేయండి. లేకపోతే, క్లిక్ <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">అభిప్రాయము వదిలి</span> మేము మెరుగుపరచడానికి ఎలా మాకు చెప్పడానికి. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">మరింత తెలుసుకోండి</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=ఒక పేజీలో వ్యాఖ్యానించడం ద్వారా సంభాషణను ప్రారంభించండి. మీ స్వంత సమాచారాన్ని అందించండి లేదా ఇతర వినియోగదారు వ్యాఖ్యలకు ప్రత్యుత్తరం ఇవ్వండి. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">మరింత తెలుసుకోండి</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=పాస్వర్డ్ రీసెట్
+
+[Product]
+    powered-by-site=మైండ్టచ్ ద్వారా ఆధారితం
+
+[Skin.Columbia]
+    button.quick-login=సైన్ ఇన్
+    header.recommended-articles=సిఫార్సు వ్యాసాలు
+    header.toc=విషయాల పట్టిక
+    label.back-to-top=తిరిగి పైకి
+    label.global-location-toggle=విస్తరించండి/ప్రపంచ స్థానాన్ని కూలిపోతుంది
+    label.global-navigation-toggle=విస్తరించడానికి/ప్రపంచ సోపానక్రమం కూలిపోతుంది
+    label.last-updated=చివరిగా నవీకరించబడింది
+    label.last-updated-by=చేత
+    label.no-recommended-articles=సిఫార్సు వ్యాసాలు లేవు.
+    label.password=పాస్వర్డ్
+    label.pdf-export=PDF గా సేవ్ చేయండి
+    label.signout=సైన్ అవుట్
+    label.site-search.button=శోధన
+    label.site-search.input=శోధన
+    label.skip-link=ప్రధాన కంటెంట్కు దాటవేయి
+    label.tags=టాగ్లు
+    label.user-preferences=నా ప్రాధాన్యతలు
+    label.username=వాడుకరిపేరు
+    link.quick-login=సైన్ ఇన్
+    link.site-search=శోధన సైట్
+    placeholder.site-search.input=మేము మీకు ఎలా సహాయపడగలం?
+    tooltip.back-to-top=ఈ వ్యాసం పైకి తిరిగి గెంతు
+    tooltip.browse-back=మునుపటి వ్యాసానికి తిరిగి వెళ్ళు
+    tooltip.pdf-export=PDF గా పేజీని ఎగుమతి చేయండి
+    tooltip.signout=ఈ సైట్ నుండి సైన్ అవుట్ చేయడానికి క్లిక్ చేయండి
+    tooltip.skip-link=ప్రెస్ ప్రధాన కంటెంట్ దాటవేయడానికి ఎంటర్
+    tooltip.user-preferences=మీ వినియోగదారు ప్రాధాన్యతలను మార్చడానికి క్లిక్ చేయండి
+
+[Skin.Common]
+    copyright=కాపీరైట్
+    home=హోమ్
+
+[System.API]
+    no-headers=శీర్షికలు లేవు
+    opensearch-shortname=$1 శోధన
+
+[Users]
+    email.body.html.content=<p>అభినందనలు, <br/><br/>\ r\ n\ r\ nమీరు ఇప్పుడు $4 వద్ద ఒక ఖాతాను కలిగి ఉన్నారు. <br/><br/>తక్షణమే ఇతర కమ్యూనిటీ సభ్యులతో సహకరించడం ప్రారంభించడానికి సైన్ ఇన్ చేయండి. క్రింద మీ సైట్ యాక్సెస్ వివరాలు ఉన్నాయి:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nవినియోగదారు పేరు: $1<br/>పాస్వర్డ్: $3<br/><br/>\ r\ n\ r\ nమీరు ప్రారంభించడానికి సహాయం లేదా గురించి నిర్దిష్ట ప్రశ్నలు అవసరం <a href="$2">$4</a>, దయచేసి సైట్ నిర్వాహకుడు సంప్రదించండి. </p>
+    email.body.html.content.nopassword=<p>అభినందనలు, <br/><br/>\ r\ n\ r\ nమీరు ఇప్పుడు $3 వద్ద ఒక ఖాతాను కలిగి ఉన్నారు. <br/><br/>తక్షణమే ఇతర కమ్యూనిటీ సభ్యులతో సహకరించడం ప్రారంభించడానికి సైన్ ఇన్ చేయండి. క్రింద మీ సైట్ యాక్సెస్ వివరాలు ఉన్నాయి:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nవినియోగదారు పేరు: $1<em>మీరు మీ పాస్వర్డ్ను తెలియకపోతే సైట్ నిర్వాహకుడు<br/><br/>సంప్రదించండి. </em><br/><br/>\ r\ n\ r\ nమీరు ప్రారంభించడానికి సహాయం అవసరం లేదా <a href="$2">$3</a>గురించి నిర్దిష్ట ప్రశ్నలు ఉంటే, దయచేసి సైట్ నిర్వాహకుడు సంప్రదించండి. </p>
+    email.body.text=\ r\ nఅభినందనలు,\ r\ n\ r\ nమీరు ఇప్పుడు $4 వద్ద ఒక ఖాతాను కలిగి ఉన్నారు. తక్షణమే ఇతర కమ్యూనిటీ సభ్యులతో సహకరించడం ప్రారంభించడానికి సైన్ ఇన్ చేయండి. క్రింద మీ సైట్ యాక్సెస్ వివరాలు ఉన్నాయి:\ r\ n\ r\ nSite URL: $2\ r\ nవినియోగదారు పేరు: $1\ r\ nపాస్వర్డ్: $3\ r\ n\ r\ nమీరు ప్రారంభించడానికి సహాయం లేదా గురించి నిర్దిష్ట ప్రశ్నలు అవసరం $4, దయచేసి సైట్ నిర్వాహకుడు సంప్రదించండి.
+    email.body.text.nopassword=\ r\ nఅభినందనలు,\ r\ n\ r\ nమీరు ఇప్పుడు $3 వద్ద ఒక ఖాతాను కలిగి ఉన్నారు. తక్షణమే ఇతర కమ్యూనిటీ సభ్యులతో సహకరించడం ప్రారంభించడానికి సైన్ ఇన్ చేయండి. క్రింద మీ సైట్ యాక్సెస్ వివరాలు ఉన్నాయి:\ r\ n\ r\ nSite URL: $2\ r\ nవినియోగదారు పేరు: $1\ r\ nమీరు మీ పాస్వర్డ్ను తెలియకపోతే సైట్ నిర్వాహకుడు సంప్రదించండి. \ r\ n\ r\ nమీరు ప్రారంభించడానికి సహాయం అవసరం లేదా $3 గురించి నిర్దిష్ట ప్రశ్నలు ఉంటే, దయచేసి సైట్ నిర్వాహకుడు సంప్రదించండి.
+    email.external.body.html.content=<p>అభినందనలు, <br/><br/>\ r\ n\ r\ nమీరు ఇప్పుడు $3 వద్ద ఒక ఖాతాను కలిగి ఉన్నారు. <br/><br/>తక్షణమే ఇతర కమ్యూనిటీ సభ్యులతో సహకరించడం ప్రారంభించడానికి సైన్ ఇన్ చేయండి. క్రింద మీ సైట్ యాక్సెస్ వివరాలు ఉన్నాయి:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nUser పేరు: $1<br/><br/>\ r\ n\ r\ nమీరు ప్రారంభించడానికి సహాయం అవసరం లేదా <a href="$2">$3</a>గురించి నిర్దిష్ట ప్రశ్నలు ఉంటే, దయచేసి సైట్ నిర్వాహకుడు సంప్రదించండి. </p>
+    email.subject=$1 వివరాలు సైన్ ఇన్
+    form.password.instructions=పాస్వర్డ్లు పొడవు కనీసం 8 అక్షరాలు ఉండాలి మరియు క్రింది అక్షరాలు కనీసం 3 కలిగి: చిన్న, పెద్ద, అంకెలు లేదా చిహ్నాలు.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=అభ్యర్థించిన MindTouch టచ్పాయింట్ మీ వెబ్ బ్రౌజర్ ద్వారా లోడ్ కాలేదు.
+    label.back-to-top=తిరిగి పైకి
+
+[WebWidget.F1]
+    label.help-button=సహాయం
+    title.help-button=సహాయం
+
+[WebWidget.Login]
+    label.authenticated-user={{వాడుకరిపేరు}} గా మైండ్టచ్ కు సైన్ ఇన్ చేయబడింది
+    label.sign-in=మైండ్టచ్ సైన్ ఇన్
+
+[WebWidget.Search]
+    label.collapse-summary=సారాంశాన్ని కూలిపోవడానికి క్లిక్ చేయండి
+    label.disabled-message=దయచేసి తరువాత మళ్ళీ ప్రయత్నించండి.
+    label.disabled-title=క్షమించండి, శోధన ప్రస్తుతం అందుబాటులో లేదు.
+    label.expand-summary=సారాంశాన్ని విస్తరించడానికి క్లిక్ చేయండి
+    label.forbidden-message=దయచేసి లాగిన్ అవ్వండి లేదా మీ సైట్ నిర్వాహకుడిని సంప్రదించండి.
+    label.forbidden-title=ఈ లక్షణాన్ని ఉపయోగించడానికి మీకు అనుమతి లేదు.
+    label.input-hint=శోధన
+    label.no-results-faceting-message=వేరే దేనికోసం శోధించడం లేదా వర్గాన్ని ఎంచుకోవడం ప్రయత్నించండి.
+    label.no-results-message=ఏదో శోధించడం ప్రయత్నించండి.
+    label.no-results-title=క్షమించండి, మీరు వెతుకుతున్న దాన్ని మేము కనుగొనలేము.
+    label.recommended=సిఫార్సు చేయబడింది
+    label.refine-search=శోధన మెరుగుపరచండి
+    label.show-more=మరింత చూపించు
+
+[WebWidgets]
+    label.authenticated-user=హలో, {{వినియోగదారు పేరు}!
+    label.nav.back=తిరిగి
+    label.nav.forward=ముందుకు
+    label.nav.home=హోమ్
+
+[Component.Translate]
+    label.choose-language=భాషను ఎంచుకోండి
+    label.english=ఆంగ్ల
+    label.update-failed=అనువాదం అసంపూర్తిగా
+    language.spanish=ఎస్పానోల్
+    language.german=డ్యూచ్
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=ఫ్రాంకాయిస్
+    language.portuguese=పోర్చుగీసా
+    language.dutch=నెడెర్లాండ్స్
+    language.korean=한국어
+    language.swedish=స్వెన్స్కా
+    language.danish=డాన్స్క్
+    language.finnish=సుయోమలైన్
+    language.italian=ఇటాలియనో
+    title.translated-machine=పేజీ కంటెంట్ యంత్ర అనువాదాన్ని ఉపయోగించి అనువదించబడింది
+    dialog.translated-mindtouch=మైండ్టచ్ ద్వారా అనువదించబడింది
