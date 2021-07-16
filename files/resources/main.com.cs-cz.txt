@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Část zprávy prázdné záhlaví
+[Dialog.CopyMove]
+    placeholder.search=Vyhledávání
 
-[Old.Category]
-    dialog.old.select.title=Dialog Starý výběr nadpisu
+[F1]
+    dialog.text.back=Zpět
+    dialog.text.forward=Vpřed
+    dialog.text.hint=hledání
+    dialog.text.home=Domů
+    dialog.text.open=Otevřít článek
 
-[Web.Defaults]
-    error.message=Chybová zpráva
+[MindTouch.Help.Page]
+    category-selector=Upřesněte výsledky výběrem filtru.
+    help-header-label=Výsledky nápovědy pro
+    in=v
+    label-filter=Vyhledávání v
+    label-result-count=O výsledcích {0}
+    label-search-all=Všechny výsledky
+    label.page-rating-no=Ne
+    label.page-rating-yes=Ano
+    more=Více
+    no-search-results=Promiňte, ale nemůžeme najít to, co hledáte.
+    no-search-try=Zkuste vyhledat něco jiného, vybrat kategorii nebo zkusit vytvořit lístek.
+    recommended=(doporučeno)
+    search-error=Hledání došlo k chybě.
+    search-error-try=Zkuste to prosím později.
+    search-unavailable=Omlouváme se, vyhledávání není momentálně k dispozici.
+    show-more-search=Zobrazit více výsledků
+    tooltip.scrollNext=Přejděte na další
+    tooltip.scrollPrev=Přejděte na předchozí
+    warning.search-only-english=Vyhledávání je k dispozici pouze v angličtině
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(datum vytvoření)
+    featured.articles.created.title=Nedávno přidané
+    featured.articles.rated.label=(hodnocení)
+    featured.articles.rated.title=Nejlépe hodnocené
+    featured.articles.updated.label=(datum aktualizace)
+    featured.articles.updated.title=Nedávno aktualizováno
+    featured.articles.viewed.label=(pohledy)
+    featured.articles.viewed.title=Nejoblíbenější
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Záložky
+    label.guide.tabscrollleft=Posunout karty doleva
+    label.guide.tabscrollright=Posunout karty doprava
+    label.reveal.showAll=Zobrazit všechny
+    label.reveal.showLess=Zobrazit méně
+    label.search.placeholder=Vyhledávání
+    type.how-to=Jak na to
+    type.howto=Jak na to
+    type.reference=Referenční
+    type.topic=Téma
+    type.topic-category=Kategorie
+    type.topic-guide=Průvodce
+    type.topic-portfolio=Portfolio
+    type.unclassified=Neklasifikovaný
+
+[MindTouch.LearningPath]
+    label.view-pages=Zobrazit stránky
+    message.page-count=<span>Stránky:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Skrýt
+    button.toggle.show=Zobrazit
+    label.attachments=Zahrnout přílohy
+    label.attachments-description=Typ obsahu
+    label.attachments.type.binary=Ostatní
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Obrázek
+    label.classification=Klasifikace
+    label.clear-all=Vymazat všechny filtry
+    label.description=Filtrovat výsledky
+    label.filters=Filtry
+    label.location=Lokace
+    label.location-empty=Neexistují žádná místa pro filtrování podle
+
+[MindTouch.Subscriptions]
+    cancel=Zrušit
+    caption.normal=Jste přihlášeni k odběru následujících stránek.
+    caption.nosubscriptions=Nejste přihlášeni k žádným stránkám.
+    column.page=Stránka
+    column.recursive=E-mailová oznámení pro
+    link-title=Další informace o správě oznámení v aplikaci MindTouch
+    nonrecursive=Pouze tato stránka
+    nonrecursive.draft=Pouze tento koncept
+    recursive.many=$1 stránky
+    recursive.many.draft=Koncepty za 1 dolar
+    recursive.many.overflow=Přihlášeny ke všem podstránkám
+    recursive.many.overflow.draft=Přihlášena ke všem konceptům podstránky
+    recursive.one=1 stránka
+    recursive.one.draft=1 návrh
+    unsubscribe=Odhlásit
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Zavřít zprávu
+
+[Page.AuthenticationProviders]
+    page-title=Přihlaste se
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Navštivte success.mindtouch.com pro všechna témata nápovědy. </a>
+
+[Page.Error]
+    not-found=Stránka nebyla nalezena
+    not-found-error=Omlouváme se, stránka na $1 nebyla nalezena.
+    not-found-results=Související výsledky hledání:
+    page-title=Chyba
+
+[Page.FeedbackRating]
+    button.leave-feedback=Nechte zpětnou vazbu
+    button.rating-no=Ne
+    button.rating-yes=Ano
+    button.submit-feedback=Odeslat zpětnou vaz
+    label.checkbox.contact-me=Ano, můžete mě kontaktovat ohledně této zpětné vazby.
+    label.feedback-question=Jak můžeme tento článek vylepšit?
+    label.last-rated=— Naposledy jste hodnotili tento článek na $1
+    label.rating-message=Byl tento článek užitečný?
+    legend.feedback-form=Nechte zpětnou vazbu
+    message.contact.no=Ne
+    message.contact.yes=Ano
+    message.submit.error=Při pokusu o odeslání zpětné vazby došlo k chybě. Zkuste to znovu později.
+    message.submit.success=Vaše zpětná vazba byla úspěšně odeslána. Více zpětné vazby můžete kdykoli odeslat.
+
+[Page.LiveTags]
+    label.article=Typ článku
+
+[Page.LoginPasswordRegister]
+    page-title=Přihlásit se a zaregistrovat
+    tab.login=Přihlaste se
+    tab.password=Reset hesla
+    tab.register=Registrace
+
+[Page.Preferences]
+    error.invalid-email=Zadejte platnou e-mailovou adresu
+    form.email=E-mailová adresa
+    form.fullname=Zobrazovaný název
+    form.fullname.help=Pouze pro účely zobrazení
+    form.hint.password-characters=Heslo musí obsahovat alespoň 3 z následujících znaků: malá písmena, velká písmena, číslice nebo symboly.
+    form.hint.password-length=Heslo musí mít délku alespoň 8 znaků
+    form.hint.password-match=Hesla se musí shodovat
+    form.hint.password.restricted-words=Heslo nemůže obsahovat běžná hesla
+    form.legend.information=Moje informace
+    form.legend.password=Moje heslo
+    form.password.new=Nové heslo
+    form.password.old=Staré heslo
+    form.password.submit=Změnit heslo
+    form.password.verify=Znovu zadejte nové heslo
+    form.submit=Uložit mé informace
+
+[Page.Tags]
+    message.notags=Tato stránka nemá žádné značky.
+    page-title=Značky stránek
+    tags-inserted-from-template=Štítky doporučené šablonou:
+    tags-inserted-heading=Tagy stránek:
+
+[Page.UserLogin]
+    error=Vaše přihlašování selhalo. Ověřte prosím své uživatelské jméno a heslo.
+    page-title=Přihlaste se
+    submit-login=Přihlaste se
+    user-name=Uživatelské jméno
+    user-password=Heslo
+
+[Page.UserLogout]
+    page-title=Odhlásit se
+    success=Úspěšně jste se odhlásili.
+
+[Page.UserPassword]
+    form.submit=Reset hesla
+    page-title=Reset hesla
+    success.email-sent=Pokyny pro obnovení hesla byly odeslány na e-mailovou adresu registrovanou pro tento účet. Pokud e-mail neobdržíte, zkontrolujte pravopis a zkuste to znovu. Pokud máte problémy s přihlášením, obraťte se na správce webu.
+
+[Page.UserRegistration]
+    error.email.match=Zadané e-maily se neshodují.
+    error.password.match=Zadaná hesla se neshodují.
+    form.email=E-mail
+    form.email.verify=Ověřte e-mail
+    form.fullname=Celé jméno <span class="note">(nepovinné)</span>
+    form.password=Heslo
+    form.password.verify=Ověřit heslo
+    form.submit=Vytvořit účet
+    form.username=Uživatelské jméno
+    page-title=Vytvořit účet
+    success.created=Uživatel <strong>$1</strong> byl vytvořen.
+
+[Page.Welcome]
+    community-banner-text=Nyní můžete přispívat a sdílet obsah.
+    community-banner-title=Vítej, $1. Váš účet byl vytvořen.
+    community-get-started-text=<strong>Zde je několik tipů, které vám pomohou začít:</strong>
+    community-tip1-text=Poskytněte vlastníkům stránek hodnotnou zpětnou vazbu o obsahu webu. Byl článek užitečný? Klepněte na tlačítko <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ano</span>. Pokud tomu tak není, klikněte na tlačítko <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Zanechat zpětnou vazbu</span> a sdělte nám, <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Dozvědět se více</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Začněte konverzaci komentováním na stránce. Přispějte vlastními informacemi nebo odpovězte na komentáře jiného uživatele. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Dozvědět se více</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Reset hesla
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Přihlaste se
+    header.recommended-articles=Doporučené články
+    header.toc=Obsah
+    label.back-to-top=Zpátky nahoru
+    label.global-location-toggle=Rozbalit/sbalit globální umístění
+    label.global-navigation-toggle=Rozbalit/sbalit globální hierarchii
+    label.last-updated=Naposledy aktualizováno
+    label.last-updated-by=podle
+    label.no-recommended-articles=Neexistují žádné doporučené články.
+    label.password=Heslo
+    label.pdf-export=Uložit jako PDF
+    label.signout=Odhlásit se
+    label.site-search.button=Vyhledávání
+    label.site-search.input=Vyhledávání
+    label.skip-link=Přeskočit na hlavní obsah
+    label.tags=Tagy
+    label.user-preferences=Moje preference
+    label.username=Uživatelské jméno
+    link.quick-login=Přihlaste se
+    link.site-search=Hledat stránky
+    placeholder.site-search.input=Jak vám můžeme pomoci?
+    tooltip.back-to-top=Přejít zpět na začátek tohoto článku
+    tooltip.browse-back=Návrat k předchozímu článku
+    tooltip.pdf-export=Exportovat stránku jako PDF
+    tooltip.signout=Kliknutím se odhlásíte z tohoto webu
+    tooltip.skip-link=Stisknutím klávesy enter přeskočte na hlavní obsah
+    tooltip.user-preferences=Kliknutím změníte své uživatelské předvolby
+
+[Skin.Common]
+    copyright=Autorská práva
+    home=Domů
+
+[System.API]
+    no-headers=Žádné záhlaví
+    opensearch-shortname=$1 Hledat
+
+[Users]
+    email.body.html.content=<p>Gratulujeme, <br/><br/>\ r\ n\ r\ nNyní máte účet na $4. <br/><br/>Přihlaste se a okamžitě začněte spolupracovat s ostatními členy komunity. Níže jsou uvedeny podrobnosti o přístupu k webu:<br/><br/>\ r\ n\ r\ nAdresa URL stránky: <a href="$2">$2</a><br/>\ r\ nuser name: $1<br/>Heslo: $3<br/><br/>\ r\ n\ r\ nPokud potřebujete pomoc s začátkem nebo máte konkrétní dotazy týkající se <a href="$2">$4</a>, obraťte se na správce webu. </p>
+    email.body.html.content.nopassword=<p>Gratulujeme, <br/><br/>\ r\ n\ r\ nNyní máte účet na $3. <br/><br/>Přihlaste se a okamžitě začněte spolupracovat s ostatními členy komunity. Níže jsou uvedeny údaje o přístupu k webu:<br/><br/>\ r\ n\ r\ nAdresa URL stránky: <a href="$2">$2</a><br/>\ r\ nuser name: $1<br/><br/><em>Kontaktujte správce webu, pokud neznáte své heslo. </em><br/><br/>\ r\ n\ r\ nPokud potřebujete pomoc s začátkem nebo máte konkrétní dotazy týkající se <a href="$2">$3</a>, obraťte se na správce webu. </p>
+    email.body.text=\ r\ nGratulujeme,\ r\ n\ r\ nNyní máte účet na $4. Přihlaste se a okamžitě začněte spolupracovat s ostatními členy komunity. Níže jsou uvedeny údaje o přístupu k webu:\ r\ n\ r\ nAdresa URL stránky: $2\ r\ nuser name: $1\ r\ nHeslo: $3\ r\ n\ r\ nPokud potřebujete pomoc s začátkem nebo máte konkrétní dotazy týkající se $4, obraťte se na správce webu.
+    email.body.text.nopassword=\ r\ nGratulujeme,\ r\ n\ r\ nNyní máte účet na $3. Přihlaste se a okamžitě začněte spolupracovat s ostatními členy komunity. Níže jsou uvedeny údaje o přístupu k webu:\ r\ n\ r\ nAdresa URL stránky: $2\ r\ nNázev: $1\ r\ nKontaktujte správce webu, pokud neznáte své heslo. \ r\ n\ r\ nPokud potřebujete pomoc s začátkem nebo máte konkrétní dotazy týkající se $3, obraťte se na správce webu.
+    email.external.body.html.content=<p>Gratulujeme, <br/><br/>\ r\ n\ r\ nNyní máte účet na $3. <br/><br/>Přihlaste se a okamžitě začněte spolupracovat s ostatními členy komunity. Níže jsou uvedeny podrobnosti o přístupu k webu:<br/><br/>\ r\ n\ r\ nAdresa URL stránky: <a href="$2">$2</a><br/>\ r\ nuser name: $1<br/><br/>\ r\ n\ r\ nPokud potřebujete pomoc s začátkem nebo máte konkrétní otázky týkající se <a href="$2">$3</a>, obraťte se na správce webu. </p>
+    email.subject=$1 Přihlásit podrobnosti
+    form.password.instructions=Hesla musí mít délku nejméně 8 znaků a musí obsahovat alespoň 3 z následujících znaků: malá písmena, velká písmena, číslice nebo symboly.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Požadovaný dotykový bod MindTouch Point nemohl být načten vaším webovým prohlížečem.
+    label.back-to-top=Zpátky nahoru
+
+[WebWidget.F1]
+    label.help-button=Nápověda
+    title.help-button=Nápověda
+
+[WebWidget.Login]
+    label.authenticated-user=Přihlášeno do MindTouch jako {{username}}
+    label.sign-in=Přihlásit se do MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Kliknutím sbalíte souhrn
+    label.disabled-message=Zkuste to prosím později.
+    label.disabled-title=Omlouváme se, vyhledávání není momentálně k dispozici.
+    label.expand-summary=Kliknutím rozbalte souhrn
+    label.forbidden-message=Přihlaste se, nebo se obraťte na správce webu.
+    label.forbidden-title=Nemáte oprávnění k použití této funkce.
+    label.input-hint=Vyhledávání
+    label.no-results-faceting-message=Zkuste vyhledat něco jiného nebo vybrat kategorii.
+    label.no-results-message=Zkuste hledat něco jiného.
+    label.no-results-title=Promiňte, ale nemůžeme najít to, co hledáte.
+    label.recommended=Doporučené
+    label.refine-search=Upřesnit vyhledávání
+    label.show-more=Zobrazit více
+
+[WebWidgets]
+    label.authenticated-user=Dobrý den, {{username}}!
+    label.nav.back=Zpět
+    label.nav.forward=Vpřed
+    label.nav.home=Domů
+
+[Component.Translate]
+    label.choose-language=Vybrat jazyk
+    label.english=Angličtina
+    label.update-failed=Překlad neúplný
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本
+    language.chinese=中国
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Kategorie: Nederlands
+    language.korean=한지
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Obsah stránky přeložen pomocí strojového překladu
+    dialog.translated-mindtouch=Přeložil MindTouch
