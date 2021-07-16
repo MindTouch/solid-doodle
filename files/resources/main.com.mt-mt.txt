@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Messaġġ Taqsima Header vojta
+[Dialog.CopyMove]
+    placeholder.search=Fittex
 
-[Old.Category]
-    dialog.old.select.title=Id-djalogu Qadim Agħżel Titolu
+[F1]
+    dialog.text.back=Lura
+    dialog.text.forward=Quddiem
+    dialog.text.hint=tfittxija
+    dialog.text.home=Home
+    dialog.text.open=Oġġett miftuħ
 
-[Web.Defaults]
-    error.message=Messaġġ ta' żball
+[MindTouch.Help.Page]
+    category-selector=Irfina r-riżultati billi tagħżel filtru.
+    help-header-label=Riżultati ta 'għajnuna għal
+    in=fi
+    label-filter=Tiftix fi
+    label-result-count=Dwar {0} riżultati
+    label-search-all=Ir-riżultati kollha
+    label.page-rating-no=Le
+    label.page-rating-yes=Iva
+    more=Aktar
+    no-search-results=Jiddispjacini, ma nistgħux insibu dak li qed tfittex.
+    no-search-try=Ipprova tfittex xi ħaġa oħra, tagħżel kategorija, jew tipprova toħloq biljett.
+    recommended=(Rakkomandat)
+    search-error=Fittex iltaqa 'ma' żball.
+    search-error-try=Jekk jogħġbok erġa' pprova aktar tard
+    search-unavailable=Jiddispjacini, it-tfittxija bħalissa mhix disponibbli.
+    show-more-search=Uri aktar riżultati
+    tooltip.scrollNext=Skrollja li jmiss
+    tooltip.scrollPrev=Skrollja għal qabel
+    warning.search-only-english=It-tiftix huwa disponibbli biss bl-Ingliż
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(data maħluqa)
+    featured.articles.created.title=Riċentement miżjud
+    featured.articles.rated.label=(klassifikazzjoni)
+    featured.articles.rated.title=Ogħla ratata
+    featured.articles.updated.label=(data aġġornata)
+    featured.articles.updated.title=Aġġornat dan l-aħħar
+    featured.articles.viewed.label=(fehmiet)
+    featured.articles.viewed.title=Aktar popolari
+    label.guide-subpage-display-single=Uniku
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Tabs scroll xellug
+    label.guide.tabscrollright=Skrollja tabs dritt
+    label.reveal.showAll=Uri kollha
+    label.reveal.showLess=Uri inqas
+    label.search.placeholder=Fittex
+    type.how-to=Kif-biex
+    type.howto=Kif-biex
+    type.reference=Referenza
+    type.topic=Tema
+    type.topic-category=Kategorija
+    type.topic-guide=Gwida
+    type.topic-portfolio=Il-portafoll
+    type.unclassified=Mhux klassifikat
+
+[MindTouch.LearningPath]
+    label.view-pages=Ara l-paġni
+    message.page-count=<span>Paġni:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Aħbi
+    button.toggle.show=Uri
+    label.attachments=Inkludi annessi
+    label.attachments-description=Tip ta' Kontenut
+    label.attachments.type.binary=Oħrajn
+    label.attachments.type.document=Dokument
+    label.attachments.type.image=Image
+    label.classification=Klassifikazzjoni
+    label.clear-all=Ċara l-filtri kollha
+    label.description=Riżultati Iffiltra
+    label.filters=Filtri
+    label.location=Post
+    label.location-empty=M'hemm l-ebda postijiet biex jiffiltraw minn
+
+[MindTouch.Subscriptions]
+    cancel=Iħassar
+    caption.normal=Inti sottoskritt għall-paġni li ġejjin.
+    caption.nosubscriptions=M'intix sottoskritt għal xi paġni.
+    column.page=Paġna
+    column.recursive=Notifiki bl-email
+    link-title=Sir af aktar dwar il-ġestjoni tan-notifiki f'MindTouch
+    nonrecursive=Din il-paġna biss
+    nonrecursive.draft=Dan l-abbozz biss
+    recursive.many=Paġni $1
+    recursive.many.draft=Abbozzi ta '$1
+    recursive.many.overflow=Abbonat għas-subpages kollha
+    recursive.many.overflow.draft=Abbonat għall-abbozzi tas-subpaġna kollha
+    recursive.one=Paġna 1
+    recursive.one.draft=Abbozz 1
+    unsubscribe=Ikkanċella
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Messaġġ mill-qrib
+
+[Page.AuthenticationProviders]
+    page-title=Iffirma
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Żur suċċess.mindtouch.com għas-suġġetti kollha ta 'għajnuna. </a>
+
+[Page.Error]
+    not-found=Paġna ma nstabitx
+    not-found-error=Jiddispjacini, il-paġna ta '$1 ma setgħetx tinstab.
+    not-found-results=Riżultati tat-tiftix relatati:
+    page-title=Żball
+
+[Page.FeedbackRating]
+    button.leave-feedback=Ħalli feedback
+    button.rating-no=Le
+    button.rating-yes=Iva
+    button.submit-feedback=Issottometti feedback
+    label.checkbox.contact-me=Iva, tista 'tikkuntattjani dwar dan ir-rispons.
+    label.feedback-question=Kif nistgħu ntejbu dan l-artikolu?
+    label.last-rated=- Inti l-aħħar ikklassifikat dan l-artikolu fuq $1
+    label.rating-message=Kien dan l-artikolu ta 'għajnuna?
+    legend.feedback-form=Ħalli feedback
+    message.contact.no=Le
+    message.contact.yes=Iva
+    message.submit.error=Żball seħħ waqt li ppruvaw jibagħtu feedback tiegħek. Jekk jogħġbok erġa 'pprova fi żmien aktar tard.
+    message.submit.success=Ir-rispons tiegħek ġie sottomess b'suċċess. Tista 'tissottometti aktar feedback fi kwalunkwe ħin.
+
+[Page.LiveTags]
+    label.article=Tip ta' Artikolu
+
+[Page.LoginPasswordRegister]
+    page-title=Sinjal u reġistrazzjoni
+    tab.login=Iffirma
+    tab.password=Irrisettja
+    tab.register=Reġistrazzjoni
+
+[Page.Preferences]
+    error.invalid-email=Jekk jogħġbok speċifika indirizz elettroniku validu
+    form.email=Indirizz tal-email
+    form.fullname=Isem tad-displej
+    form.fullname.help=Għal skopijiet ta' wiri biss
+    form.hint.password-characters=Il-password għandu jkun fiha mill-inqas 3 mill-karattri li ġejjin: minuskoli, uppercase, ċifri jew simboli.
+    form.hint.password-length=Il-password għandha tkun mill-inqas 8 karattri fit-tul
+    form.hint.password-match=Il-passwords għandhom jaqblu
+    form.hint.password.restricted-words=Il-password ma jistax ikun fiha kliem komuni tal-password
+    form.legend.information=L-informazzjoni tiegħi
+    form.legend.password=Il-password tiegħi
+    form.password.new=Password ġdida
+    form.password.old=Password Qadim
+    form.password.submit=Ibdel il-password
+    form.password.verify=Irristajpja password ġdida
+    form.submit=Issejvja l-informazzjoni tiegħi
+
+[Page.Tags]
+    message.notags=Din il-paġna m'għandha l-ebda tikketti.
+    page-title=Tikketti tas-sit
+    tags-inserted-from-template=Tags rakkomandati mill-mudell:
+    tags-inserted-heading=Paġna Tags:
+
+[Page.UserLogin]
+    error=Is-sinjal tiegħek falliet. Jekk jogħġbok ivverifika l-username u l-password tiegħek.
+    page-title=Iffirma
+    submit-login=Iffirma
+    user-name=Username
+    user-password=Password
+
+[Page.UserLogout]
+    page-title=Sign
+    success=Int iffirmajt b'suċċess.
+
+[Page.UserPassword]
+    form.submit=Irrisettja
+    page-title=Irrisettja
+    success.email-sent=L-istruzzjonijiet għall-reset tal-password intbagħtu lill-indirizz elettroniku rreġistrat għal dan il-kont. Jekk ma tirċevix email, jekk jogħġbok iċċekkja l-ortografija tiegħek u erġa 'pprova. Ikkuntattja lill-amministratur tas-sit tiegħek jekk tkompli jkollok problemi biex tidħol fihom.
+
+[Page.UserRegistration]
+    error.email.match=L-emails li daħħalt ma jaqblux.
+    error.password.match=Il-passwords li daħħalt ma jaqblux.
+    form.email=Email
+    form.email.verify=Ivverifika Email
+    form.fullname=Isem sħiħ <span class="note">(mhux obbligatorju)</span>
+    form.password=Password
+    form.password.verify=Ivverifika l-password
+    form.submit=Oħloq kont
+    form.username=Username
+    page-title=Oħloq kont
+    success.created=Utent <strong>$1</strong> ġiet maħluqa.
+
+[Page.Welcome]
+    community-banner-text=Issa tista 'tikkontribwixxi u taqsam il-kontenut.
+    community-banner-title=Merħba, $1. Il-kont tiegħek inħoloq.
+    community-get-started-text=<strong>Hawn huma xi suġġerimenti biex jgħinuk tibda:</strong>
+    community-tip1-text=Ipprovdi lis-sidien tas-sit b'rispons siewi dwar il-kontenut tas-sit. L-artiklu kien ta 'għajnuna? Ikklikkja <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Iva</span>. Jekk le, ikklikkja <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Ħalli feedback</span> biex tgħidilna kif nistgħu ntejbu. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Tgħallem aktar</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Ibda konverżazzjoni billi tikkummenta fuq paġna. Tikkontribwixxi l-informazzjoni tiegħek stess jew twieġeb għall-kummenti ta 'utent ieħor. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Tgħallem aktar</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Irrisettja
+
+[Product]
+    powered-by-site=Mħaddem minn MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Iffirma
+    header.recommended-articles=Artikli rakkomandati
+    header.toc=Tabella tal-kontenut
+    label.back-to-top=Lura għall-quċċata
+    label.global-location-toggle=Espansi/kollass post globali
+    label.global-navigation-toggle=Il-ġerarkija globali tal-espansi/kollass
+    label.last-updated=Aġġornata l-aħħar
+    label.last-updated-by=minn
+    label.no-recommended-articles=M'hemm l-ebda artikli rakkomandati.
+    label.password=Password
+    label.pdf-export=Issejvja bħala PDF
+    label.signout=Sign
+    label.site-search.button=Fittex
+    label.site-search.input=Fittex
+    label.skip-link=Aqbeż għall-kontenut prinċipali
+    label.tags=Tags
+    label.user-preferences=Il-preferenzi tiegħi
+    label.username=Username
+    link.quick-login=Iffirma
+    link.site-search=Fittex is-sit
+    placeholder.site-search.input=Kif nistgħu ngħinuk?
+    tooltip.back-to-top=Aqbeż lura għall-quċċata ta 'dan l-artikolu
+    tooltip.browse-back=Mur lura għall-artikolu preċedenti
+    tooltip.pdf-export=Paġna ta 'esportazzjoni bħala PDF
+    tooltip.signout=Ikklikkja biex tiffirma minn dan is-sit
+    tooltip.skip-link=Agħfas tidħol biex taqbeż il-kontenut prinċipali
+    tooltip.user-preferences=Ikklikkja biex tibdel il-preferenzi tal-utent tiegħek
+
+[Skin.Common]
+    copyright=Copyright
+    home=Home
+
+[System.API]
+    no-headers=L-ebda headers
+    opensearch-shortname=$1 Tfittxija
+
+[Users]
+    email.body.html.content=<p>Prosit, <br/><br/>\ r\ n\ r\ nIssa għandek kont ta '$4. <br/><br/>Iffirma biex tibda istantanjament tikkollabora ma 'membri oħra tal-komunità. Hawn taħt hawn id-dettalji tal-aċċess tas-sit tiegħek:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ Nuser isem: $1<br/>Password: $3<br/><br/>\ r\ n\ r\ nJekk għandek bżonn għajnuna biex tibda jew ikollok mistoqsijiet speċifiċi dwar <a href="$2">$4</a>, jekk jogħġbok ikkuntattja lill-amministratur tas-sit. </p>
+    email.body.html.content.nopassword=<p>Prosit, <br/><br/>\ r\ n\ r\ nIssa għandek kont ta '$3. <br/><br/>Iffirma biex tibda istantanjament tikkollabora ma 'membri oħra tal-komunità. Hawn taħt hawn id-dettalji tal-aċċess tas-sit tiegħek:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ Nuser isem: $1<br/><br/><em>Ikkuntattja l-amministratur tas-sit jekk ma tafx il-password tiegħek. </em><br/><br/>\ r\ n\ r\ nJekk għandek bżonn għajnuna biex tibda jew għandek mistoqsijiet speċifiċi dwar <a href="$2">$3</a>, jekk jogħġbok ikkuntattja lill-amministratur tas-sit. </p>
+    email.body.text=\ r\ nProsit,\ r\ n\ r\ r\ nIssa għandek kont ta '$4. Iffirma biex tibda istantanjament tikkollabora ma 'membri oħra tal-komunità. Hawn taħt hawn id-dettalji tal-aċċess tas-sit tiegħek:\ r\ n\ r\ nSite URL: $2\ r\ Nuser isem: $1\ r\ nPassword: $3\ r\ n\ r\ nJekk għandek bżonn għajnuna biex tibda jew għandek mistoqsijiet speċifiċi dwar $4, jekk jogħġbok ikkuntattja lill-amministratur tas-sit.
+    email.body.text.nopassword=\ r\ nProsit,\ r\ n\ r\ nIssa għandek kont ta '$3. Iffirma biex tibda istantanjament tikkollabora ma 'membri oħra tal-komunità. Hawn taħt hawn id-dettalji tal-aċċess tas-sit tiegħek:\ r\ n\ r\ nSite URL: $2\ r\ Nuser isem: $1\ r\ nIkkuntattja lill-amministratur tas-sit jekk ma tafx il-password tiegħek. \ r\ n\ r\ nJekk għandek bżonn għajnuna biex tibda jew għandek mistoqsijiet speċifiċi dwar $3, jekk jogħġbok ikkuntattja lill-amministratur tas-sit.
+    email.external.body.html.content=<p>Prosit, <br/><br/>\ r\ n\ r\ nIssa għandek kont ta '$3. <br/><br/>Iffirma biex tibda istantanjament tikkollabora ma 'membri oħra tal-komunità. Hawn taħt hawn id-dettalji tal-aċċess tas-sit tiegħek:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ Nuser isem: $1<br/><br/>\ r\ n\ r\ nJekk għandek bżonn tgħin biex tibda jew ikollok mistoqsijiet speċifiċi dwar <a href="$2">$3</a>, jekk jogħġbok ikkuntattja lill-amministratur tas-sit. </p>
+    email.subject=$1 Sinjal fid-Dettalji
+    form.password.instructions=Il-passwords għandhom ikunu ta' mill-inqas 8 karattri fit-tul u jkollhom mill-inqas 3 mill-karattri li ġejjin: minuskoli, uppercase, ċifri jew simboli.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Il MindTouch Touchpoint mitluba ma setgħux jiġu mgħobbija mill-web browser tiegħek.
+    label.back-to-top=Lura għall-quċċata
+
+[WebWidget.F1]
+    label.help-button=Għajnuna
+    title.help-button=Għajnuna
+
+[WebWidget.Login]
+    label.authenticated-user=Iffirmat fil MindTouch bħala {{username}}
+    label.sign-in=Iffirma għal MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Ikklikkja biex tiġbor sommarju
+    label.disabled-message=Jekk jogħġbok erġa' pprova aktar tard
+    label.disabled-title=Jiddispjacini, it-tfittxija bħalissa mhix disponibbli.
+    label.expand-summary=Ikklikkja biex tespandi sommarju
+    label.forbidden-message=Jekk jogħġbok idħol, jew ikkuntattja lill-amministratur tas-sit tiegħek.
+    label.forbidden-title=M'għandekx permess biex tuża din il-karatteristika.
+    label.input-hint=Fittex
+    label.no-results-faceting-message=Ipprova tfittex xi ħaġa oħra jew tagħżel kategorija.
+    label.no-results-message=Ipprova tfittex xi ħaġa oħra.
+    label.no-results-title=Jiddispjacini, ma nistgħux insibu dak li qed tfittex.
+    label.recommended=Rakkomandat
+    label.refine-search=Irfina t-tfittxija
+    label.show-more=Uri aktar
+
+[WebWidgets]
+    label.authenticated-user=Hello, {{username}}!
+    label.nav.back=Lura
+    label.nav.forward=Quddiem
+    label.nav.home=Home
+
+[Component.Translate]
+    label.choose-language=Agħżel Lingwa
+    label.english=Ingliż
+    label.update-failed=Traduzzjoni
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Kontenut paġna tradotti bl-użu traduzzjoni magna
+    dialog.translated-mindtouch=Tradott minn MindTouch
