@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Mesaj Seksyon Vide Header
+[Dialog.CopyMove]
+    placeholder.search=Rechèch
 
-[Old.Category]
-    dialog.old.select.title=Dyalòg Old Chwazi Tit
+[F1]
+    dialog.text.back=Retounen
+    dialog.text.forward=Forward
+    dialog.text.hint=rechèch
+    dialog.text.home=Kay
+    dialog.text.open=Louvri atik
 
-[Web.Defaults]
-    error.message=Mesaj erè
+[MindTouch.Help.Page]
+    category-selector=Rafine rezilta pa chwazi yon filtre.
+    help-header-label=Ede rezilta pou
+    in=nan
+    label-filter=Chèche nan
+    label-result-count=Konsènan rezilta {0}
+    label-search-all=Tout rezilta
+    label.page-rating-no=Pa gen
+    label.page-rating-yes=Wi
+    more=Plis
+    no-search-results=Padon, nou pa ka jwenn sa w ap chèche pou.
+    no-search-try=Eseye pou chèche yon lòt bagay, chwazi yon kategori, oswa eseye kreye yon tikè.
+    recommended=(Rekòmande)
+    search-error=Search te rankontre yon erè.
+    search-error-try=Tanpri eseye ankò pita.
+    search-unavailable=Padon, rechèch se kounye a disponib.
+    show-more-search=Montre plis rezilta
+    tooltip.scrollNext=Scroll pou pwochen
+    tooltip.scrollPrev=Scroll pou anvan
+    warning.search-only-english=Rechèch se sèlman ki disponib nan lang angle
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(dat kreye)
+    featured.articles.created.title=Dènyèman te ajoute
+    featured.articles.rated.label=(Rating)
+    featured.articles.rated.title=Pi wo rated
+    featured.articles.updated.label=(dat mete ajou)
+    featured.articles.updated.title=Dènyèman ajou
+    featured.articles.viewed.label=(Pwen de vi)
+    featured.articles.viewed.title=Ki pi popilè
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Scroll onglè kite
+    label.guide.tabscrollright=Scroll onglè dwat
+    label.reveal.showAll=Montre tout
+    label.reveal.showLess=Montre mwens
+    label.search.placeholder=Rechèch
+    type.how-to=Ki jan-a
+    type.howto=Ki jan-a
+    type.reference=Referans
+    type.topic=Topic
+    type.topic-category=kategori
+    type.topic-guide=Gid
+    type.topic-portfolio=Pòtfolyo
+    type.unclassified=Unclassified
+
+[MindTouch.LearningPath]
+    label.view-pages=View paj
+    message.page-count=<span>Paj:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Kache
+    button.toggle.show=Montre
+    label.attachments=Mete atachman
+    label.attachments-description=Kalite kontni
+    label.attachments.type.binary=Lòt
+    label.attachments.type.document=Dokiman
+    label.attachments.type.image=Imaj
+    label.classification=Klasifikasyon
+    label.clear-all=Klè tout filtè
+    label.description=Rezilta Filter
+    label.filters=Filtè
+    label.location=Kote
+    label.location-empty=Pa gen okenn kote yo filtre pa
+
+[MindTouch.Subscriptions]
+    cancel=Anile
+    caption.normal=Ou enskri nan paj sa yo.
+    caption.nosubscriptions=Ou pa enskri nan nenpòt paj.
+    column.page=paj
+    column.recursive=notifikasyon Imèl pou
+    link-title=Aprann plis sou jere notifikasyon nan MindTouch
+    nonrecursive=Paj sa a sèlman
+    nonrecursive.draft=Bouyon sa a sèlman
+    recursive.many=$1 paj
+    recursive.many.draft=$1 proje
+    recursive.many.overflow=Enskri nan tout subpages
+    recursive.many.overflow.draft=Enskri nan tout proje subpage
+    recursive.one=1 paj
+    recursive.one.draft=1 bouyon
+    unsubscribe=Dezabònman
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Fèmen mesaj
+
+[Page.AuthenticationProviders]
+    page-title=Siyen nan
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Vizite success.mindtouch.com pou tout sijè èd. </a>
+
+[Page.Error]
+    not-found=Paj pa jwenn
+    not-found-error=Padon, paj la nan $1 pa t 'kapab jwenn.
+    not-found-results=Ki gen rapò rezilta rechèch:
+    page-title=Erè
+
+[Page.FeedbackRating]
+    button.leave-feedback=Kite fidbak
+    button.rating-no=Pa gen
+    button.rating-yes=Wi
+    button.submit-feedback=Soumèt fidbak
+    label.checkbox.contact-me=Wi, ou ka kontakte m 'sou fidbak sa a.
+    label.feedback-question=Ki jan nou ka amelyore atik sa a?
+    label.last-rated=— Ou dènye rated atik sa a sou $1
+    label.rating-message=Te atik sa a itil?
+    legend.feedback-form=Kite fidbak
+    message.contact.no=Pa gen
+    message.contact.yes=Wi
+    message.submit.error=Yon erè ki te fèt pandan y ap eseye voye fidbak ou. Tanpri eseye ankò nan yon moman pita.
+    message.submit.success=Te fidbak ou te avèk siksè soumèt. Ou ka soumèt plis fidbak nan nenpòt ki lè.
+
+[Page.LiveTags]
+    label.article=Atik tip
+
+[Page.LoginPasswordRegister]
+    page-title=Siyen nan ak enskripsyon
+    tab.login=Siyen nan
+    tab.password=Reyajiste modpas
+    tab.register=Enskripsyon
+
+[Page.Preferences]
+    error.invalid-email=Tanpri presize yon adrès imel ki valab
+    form.email=Adrès Imèl
+    form.fullname=Ekspozisyon non
+    form.fullname.help=Pou rezon ekspozisyon sèlman
+    form.hint.password-characters=Modpas la dwe gen omwen 3 nan karaktè sa yo: miniskil, majuskul, chif oswa senbòl.
+    form.hint.password-length=Modpas la dwe omwen 8 karaktè nan longè
+    form.hint.password-match=Modpas yo dwe matche ak
+    form.hint.password.restricted-words=Modpas la pa ka gen mo modpas komen
+    form.legend.information=Enfòmasyon mwen
+    form.legend.password=Modpas mwen
+    form.password.new=Nouvo modpas
+    form.password.old=Modpas fin vye granmoun
+    form.password.submit=Chanje modpas
+    form.password.verify=Tape nouvo modpas
+    form.submit=Sove enfòmasyon mwen
+
+[Page.Tags]
+    message.notags=Paj sa a pa gen okenn Tags.
+    page-title=Sit Tags
+    tags-inserted-from-template=Tags rekòmande pa modèl la:
+    tags-inserted-heading=Paj Tags:
+
+[Page.UserLogin]
+    error=Te siy ou nan echwe. Tanpri verifye non itilizatè ou an ak modpas ou.
+    page-title=Siyen nan
+    submit-login=Siyen nan
+    user-name=non itilizatè
+    user-password=Modpas
+
+[Page.UserLogout]
+    page-title=Siyen deyò
+    success=Ou te avèk siksè siyen deyò.
+
+[Page.UserPassword]
+    form.submit=Reyajiste modpas
+    page-title=Reyajiste modpas
+    success.email-sent=Modpas Reyajiste enstriksyon yo te voye nan adrès la e-mail ki anrejistre pou kont sa a. Si ou pa resevwa yon imèl, tanpri tcheke òtograf ou epi eseye ankò. Kontakte administratè sit ou si ou kontinye gen pwoblèm siyen nan.
+
+[Page.UserRegistration]
+    error.email.match=Imèl yo ou te antre nan pa matche ak.
+    error.password.match=Modpas yo ou te antre nan pa matche ak.
+    form.email=Imèl
+    form.email.verify=Verify Imèl
+    form.fullname=Non konplè <span class="note">(si ou vle)</span>
+    form.password=Modpas
+    form.password.verify=Verify modpas
+    form.submit=Kreye yon kont
+    form.username=non itilizatè
+    page-title=Kreye yon kont
+    success.created=Itilizatè <strong>$1</strong> ki te kreye.
+
+[Page.Welcome]
+    community-banner-text=Ou kapab kounye a kontribye ak pataje kontni.
+    community-banner-title=Byenveni, $1. Te kont ou te kreye.
+    community-get-started-text=<strong>Men kèk konsèy pou ede ou kòmanse:</strong>
+    community-tip1-text=Bay mèt pwopriyete sit ak fidbak valab sou sa ki ekri nan sit la. Te atik la itil? Klike sou <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Wi</span>. Si ou pa, klike sou <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Kite fidbak</span> di nou ki jan nou ka amelyore. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Aprann plis</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Kòmanse yon konvèsasyon pa fè kòmantè sou yon paj. Kontribye enfòmasyon pwòp ou a oswa reponn a kòmantè itilizatè lòt la. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Aprann plis</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Reyajiste modpas
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Siyen nan
+    header.recommended-articles=Rekòmande atik
+    header.toc=Tablo nan sa
+    label.back-to-top=Retounen nan tèt
+    label.global-location-toggle=Ogmanje/tonbe kote mondyal
+    label.global-navigation-toggle=Egzanp/tonbe yerachi mondyal
+    label.last-updated=Dènye mete ajou
+    label.last-updated-by=pa
+    label.no-recommended-articles=Pa gen okenn atik rekòmande.
+    label.password=Modpas
+    label.pdf-export=Sove kòm PDF
+    label.signout=Siyen deyò
+    label.site-search.button=Rechèch
+    label.site-search.input=Rechèch
+    label.skip-link=Ale nan kontni prensipal
+    label.tags=Tags
+    label.user-preferences=preferans mwen
+    label.username=non itilizatè
+    link.quick-login=Siyen nan
+    link.site-search=Sit rechèch
+    placeholder.site-search.input=Ki jan nou ka ede w?
+    tooltip.back-to-top=Ale tounen nan tèt atik sa a
+    tooltip.browse-back=Tounen nan atik anvan
+    tooltip.pdf-export=Paj ekspòtasyon kòm yon PDF
+    tooltip.signout=Klike sou yo siyen soti nan sit sa a
+    tooltip.skip-link=Peze antre nan sote nan kontni prensipal la
+    tooltip.user-preferences=Klike sou chanje preferans itilizatè ou
+
+[Skin.Common]
+    copyright=Copyright
+    home=Kay
+
+[System.API]
+    no-headers=Pa gen Tèt
+    opensearch-shortname=$1 Rechèch
+
+[Users]
+    email.body.html.content=<p>Felisitasyon, <br/><br/>\ r\ n\ r\ nOu kounye a gen yon kont nan $4. <br/><br/>Siyen nan imedyatman kòmanse kolabore ak lòt manm kominote a. Anba la a se detay aksè sit ou:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nItilizatè non: $1<br/>Modpas: $3<br/><br/>\ r\ n\ r\ nIF ou bezwen èd pou kòmanse oswa ki gen kesyon espesifik sou <a href="$2">$4</a>, tanpri kontakte administratè sit la. </p>
+    email.body.html.content.nopassword=<p>Felisitasyon, <br/><br/>\ r\ n\ r\ nOu kounye a gen yon kont nan $3. <br/><br/>Siyen nan imedyatman kòmanse kolabore ak lòt manm kominote a. Anba la a se detay aksè sit ou:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nItilizatè non: $1<br/><br/><em>Kontakte administratè sit la si ou pa konnen modpas ou. </em><br/><br/>\ r\ n\ r\ nIF ou bezwen èd pou kòmanse oswa ou gen kesyon espesifik sou <a href="$2">$3</a>, tanpri kontakte administratè sit la. </p>
+    email.body.text=\ r\ nFelisitasyon,\ r\ n\ r\ nOu kounye a gen yon kont nan $4. Siyen nan imedyatman kòmanse kolabore ak lòt manm kominote a. Anba la a se detay aksè sit ou:\ r\ n\ r\ nSite URL: $2\ r\ nNon itilizatè: $1\ r\ nPassword: $3\ r\ n\ r\ r\ nIF ou bezwen èd pou jwenn te kòmanse oswa ki gen kesyon espesifik sou $4, tanpri kontakte administratè sit la.
+    email.body.text.nopassword=\ r\ nFelisitasyon,\ r\ n\ r\ nOu kounye a gen yon kont nan $3. Siyen nan imedyatman kòmanse kolabore ak lòt manm kominote a. Anba la a se detay aksè sit ou:\ r\ n\ r\ nSite URL: $2\ r\ nUser name: $1\ r\ nKontakte administratè sit la si ou pa konnen modpas ou. \ r\ n\ r\ nIF ou bezwen èd pou kòmanse oswa ou gen kesyon espesifik sou $3, tanpri kontakte administratè sit la.
+    email.external.body.html.content=<p>Felisitasyon, <br/><br/>\ r\ n\ r\ nOu kounye a gen yon kont nan $3. <br/><br/>Siyen nan imedyatman kòmanse kolabore ak lòt manm kominote a. Anba la a se detay aksè sit ou:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nItilizatè non: $1<br/><br/>\ r\ n\ r\ nIF ou bezwen èd pou kòmanse oswa ki gen kesyon espesifik sou <a href="$2">$3</a>, tanpri kontakte administratè sit la. </p>
+    email.subject=$1 Siyen nan detay
+    form.password.instructions=Modpas yo dwe yon minimòm de karaktè 8 nan longè epi yo gen omwen 3 nan karaktè sa yo: miniskil, majuskul, chif oswa senbòl.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=MindTouch Touchpoint a mande pa t 'kapab chaje pa navigatè entènèt ou an.
+    label.back-to-top=Retounen nan tèt
+
+[WebWidget.F1]
+    label.help-button=Ede
+    title.help-button=Ede
+
+[WebWidget.Login]
+    label.authenticated-user=Siyen nan MindTouch kòm {{non itilizatè}}
+    label.sign-in=Siyen nan MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Klike sou yo tonbe rezime
+    label.disabled-message=Tanpri eseye ankò pita.
+    label.disabled-title=Padon, rechèch se kounye a disponib.
+    label.expand-summary=Klike sou yo elaji rezime
+    label.forbidden-message=Tanpri ouvri sesyon an, oswa kontakte administratè sit ou.
+    label.forbidden-title=Ou pa gen pèmisyon yo sèvi ak karakteristik sa a.
+    label.input-hint=Rechèch
+    label.no-results-faceting-message=Eseye pou chèche yon lòt bagay oswa chwazi yon kategori.
+    label.no-results-message=Eseye pou chèche yon lòt bagay.
+    label.no-results-title=Padon, nou pa ka jwenn sa w ap chèche pou.
+    label.recommended=Rekòmande
+    label.refine-search=Rafine rechèch
+    label.show-more=Montre plis
+
+[WebWidgets]
+    label.authenticated-user=Bonjou, {{{non itilizatè}}!
+    label.nav.back=Retounen
+    label.nav.forward=Forward
+    label.nav.home=Kay
+
+[Component.Translate]
+    label.choose-language=Chwazi Lang
+    label.english=Angle
+    label.update-failed=Tradiksyon enkonplè
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Pòtigè
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Kontni paj tradui lè l sèvi avèk tradiksyon machin
+    dialog.translated-mindtouch=Tradwi pa MindTouch
