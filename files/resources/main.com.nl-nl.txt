@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Bericht sectie Lege koptekst
+[Dialog.CopyMove]
+    placeholder.search=Zoeken
 
-[Old.Category]
-    dialog.old.select.title=Dialoogvenster Oude titel selecteren
+[F1]
+    dialog.text.back=Achterkant
+    dialog.text.forward=Vooruit
+    dialog.text.hint=zoeken
+    dialog.text.home=Home
+    dialog.text.open=Open artikel
 
-[Web.Defaults]
-    error.message=Foutbericht
+[MindTouch.Help.Page]
+    category-selector=Verfijn de resultaten door een filter te selecteren.
+    help-header-label=Hulp-resultaten voor
+    in=in
+    label-filter=Zoeken in
+    label-result-count=Over {0} resultaten
+    label-search-all=Alle resultaten
+    label.page-rating-no=Nee
+    label.page-rating-yes=Ja
+    more=Meer
+    no-search-results=Sorry, we kunnen niet vinden wat je zoekt.
+    no-search-try=Probeer iets anders te zoeken, een categorie te selecteren of probeer een ticket aan te maken.
+    recommended=(Aanbevolen)
+    search-error=Zoeken is een fout opgetreden.
+    search-error-try=Probeer het later opnieuw.
+    search-unavailable=Sorry, zoeken is momenteel niet beschikbaar.
+    show-more-search=Meer resultaten tonen
+    tooltip.scrollNext=Scroll naar volgende
+    tooltip.scrollPrev=Scroll naar vorige
+    warning.search-only-english=Zoeken is alleen beschikbaar in het Engels
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(datum aangemaakt)
+    featured.articles.created.title=Recent toegevoegd
+    featured.articles.rated.label=(waardering)
+    featured.articles.rated.title=Hoogst gewaardeerde
+    featured.articles.updated.label=(datum bijgewerkt)
+    featured.articles.updated.title=Recent bijgewerkt
+    featured.articles.viewed.label=(uitzichten)
+    featured.articles.viewed.title=Populairste
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Scroll tabbladen naar links
+    label.guide.tabscrollright=Scroll tabbladen naar rechts
+    label.reveal.showAll=Alles tonen
+    label.reveal.showLess=Minder tonen
+    label.search.placeholder=Zoeken
+    type.how-to=How-to
+    type.howto=How-to
+    type.reference=Referentie
+    type.topic=Topic
+    type.topic-category=Categorie
+    type.topic-guide=Gids
+    type.topic-portfolio=Portfolio
+    type.unclassified=Niet geclassificeerd
+
+[MindTouch.LearningPath]
+    label.view-pages=Pagina's bekijken
+    message.page-count=<span>Pagina's:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Verstoppen
+    button.toggle.show=Tonen
+    label.attachments=Bevestig bijlagen
+    label.attachments-description=Type inhoud
+    label.attachments.type.binary=Overige
+    label.attachments.type.document=Document
+    label.attachments.type.image=Afbeelding
+    label.classification=Indeling
+    label.clear-all=Alle filters wissen
+    label.description=Resultaten filteren
+    label.filters=Filters
+    label.location=Locatie
+    label.location-empty=Er zijn geen locaties om op te filteren
+
+[MindTouch.Subscriptions]
+    cancel=Annuleren
+    caption.normal=Je bent geabonneerd op de volgende pagina's.
+    caption.nosubscriptions=Je bent op geen enkele pagina geabonneerd.
+    column.page=Pagina
+    column.recursive=E-mailmeldingen voor
+    link-title=Meer informatie over het beheren van meldingen in MindTouch
+    nonrecursive=Alleen deze pagina
+    nonrecursive.draft=Alleen deze conceptversie
+    recursive.many=$1 pagina's
+    recursive.many.draft=$1 concepten
+    recursive.many.overflow=Geabonneerd op alle subpagina's
+    recursive.many.overflow.draft=Geabonneerd op alle concepten van subpagina's
+    recursive.one=1 pagina
+    recursive.one.draft=1 diepgang
+    unsubscribe=Afmelden
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Bericht sluiten
+
+[Page.AuthenticationProviders]
+    page-title=Log in
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Ga naar success.mindtouch.com voor alle hulponderwerpen. </a>
+
+[Page.Error]
+    not-found=Pagina niet gevonden
+    not-found-error=Sorry, de pagina met $1 kon niet worden gevonden.
+    not-found-results=Gerelateerde zoekresultaten:
+    page-title=Fout
+
+[Page.FeedbackRating]
+    button.leave-feedback=Geef feedback
+    button.rating-no=Nee
+    button.rating-yes=Ja
+    button.submit-feedback=Feedback indienen
+    label.checkbox.contact-me=Ja, je kunt contact met me opnemen over deze feedback.
+    label.feedback-question=Hoe kunnen we dit artikel verbeteren?
+    label.last-rated=— Je hebt dit artikel voor het laatst beoordeeld op $1
+    label.rating-message=Was dit artikel nuttig?
+    legend.feedback-form=Geef feedback
+    message.contact.no=Nee
+    message.contact.yes=Ja
+    message.submit.error=Er is een fout opgetreden tijdens het verzenden van je feedback. Probeer het op een later tijdstip opnieuw.
+    message.submit.success=Je feedback is succesvol verzonden. Je kunt op elk moment meer feedback geven.
+
+[Page.LiveTags]
+    label.article=Type artikel
+
+[Page.LoginPasswordRegister]
+    page-title=Inloggen en inschrijven
+    tab.login=Log in
+    tab.password=Reset wachtwoord
+    tab.register=Registratie
+
+[Page.Preferences]
+    error.invalid-email=Geef een geldig e-mailadres op
+    form.email=E-mailadres
+    form.fullname=Weergavenaam
+    form.fullname.help=Alleen voor weergavedoeleinden
+    form.hint.password-characters=Het wachtwoord moet ten minste 3 van de volgende tekens bevatten: kleine letters, hoofdletters, cijfers of symbolen.
+    form.hint.password-length=Het wachtwoord moet minstens 8 tekens lang zijn
+    form.hint.password-match=De wachtwoorden moeten overeenkomen
+    form.hint.password.restricted-words=Het wachtwoord kan geen algemene wachtwoordwoorden bevatten
+    form.legend.information=Mijn informatie
+    form.legend.password=Mijn wachtwoord
+    form.password.new=Nieuw wachtwoord
+    form.password.old=Oud wachtwoord
+    form.password.submit=Verander wachtwoord
+    form.password.verify=Typ nieuw wachtwoord
+    form.submit=Sla mijn gegevens op
+
+[Page.Tags]
+    message.notags=Deze pagina bevat geen tags.
+    page-title=Site-tags
+    tags-inserted-from-template=Tags aanbevolen door de sjabloon:
+    tags-inserted-heading=Pagina-tags:
+
+[Page.UserLogin]
+    error=Je inloggen is mislukt. Controleer je gebruikersnaam en wachtwoord.
+    page-title=Log in
+    submit-login=Log in
+    user-name=Gebruikersnaam
+    user-password=Paswoord
+
+[Page.UserLogout]
+    page-title=Log uit
+    success=Je hebt je succesvol afgemeld.
+
+[Page.UserPassword]
+    form.submit=Reset wachtwoord
+    page-title=Reset wachtwoord
+    success.email-sent=Instructies voor het opnieuw instellen van wachtwoorden zijn verzonden naar het e-mailadres dat voor dit account is geregistreerd. Als je geen e-mail ontvangt, controleer dan je spelling en probeer het opnieuw. Neem contact op met de beheerder van je site als je nog steeds problemen ondervindt bij het aanmelden.
+
+[Page.UserRegistration]
+    error.email.match=De e-mails die je hebt ingevoerd komen niet overeen.
+    error.password.match=De wachtwoorden die je hebt ingevoerd komen niet overeen.
+    form.email=E-mail
+    form.email.verify=E-mail controleren
+    form.fullname=Volledige naam <span class="note">(optioneel)</span>
+    form.password=Paswoord
+    form.password.verify=wachtwoord verifiëren
+    form.submit=Maak een account aan
+    form.username=Gebruikersnaam
+    page-title=Maak een account aan
+    success.created=Er is <strong>$1</strong> gebruiker aangemaakt.
+
+[Page.Welcome]
+    community-banner-text=Je kunt nu bijdragen en content delen.
+    community-banner-title=Welkom, $1. Je account is aangemaakt.
+    community-get-started-text=<strong>Hier volgen enkele tips om aan de slag te gaan:</strong>
+    community-tip1-text=Geef site-eigenaren waardevolle feedback over de inhoud van de site. Was het artikel nuttig? Klik op <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ja</span>. Zo niet, klik dan op <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Feedback achterlaten</span> om ons te vertellen hoe we kunnen verbeteren. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Meer informatie</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Begin een gesprek door commentaar te geven op een pagina. Draag je eigen informatie bij of beantwoord de opmerkingen van andere gebruikers. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Meer informatie</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Reset wachtwoord
+
+[Product]
+    powered-by-site=Aangedreven door MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Log in
+    header.recommended-articles=Aanbevolen artikelen
+    header.toc=Inhoudsopgave
+    label.back-to-top=Terug naar boven
+    label.global-location-toggle=Globale locatie uitbreiden/samenvouwen
+    label.global-navigation-toggle=globale hiërarchie uitbreiden/samenvouwen
+    label.last-updated=Laatst bijgewerkt
+    label.last-updated-by=door
+    label.no-recommended-articles=Er zijn geen aanbevolen artikelen.
+    label.password=Paswoord
+    label.pdf-export=Opslaan als PDF
+    label.signout=Log uit
+    label.site-search.button=Zoeken
+    label.site-search.input=Zoeken
+    label.skip-link=Ga naar hoofdinhoud
+    label.tags=Tags
+    label.user-preferences=Mijn voorkeuren
+    label.username=Gebruikersnaam
+    link.quick-login=Log in
+    link.site-search=Site zoeken
+    placeholder.site-search.input=Hoe kunnen we je helpen?
+    tooltip.back-to-top=Ga terug naar de top van dit artikel
+    tooltip.browse-back=Ga terug naar het vorige artikel
+    tooltip.pdf-export=Pagina exporteren als PDF
+    tooltip.signout=Klik om je af te melden bij deze site
+    tooltip.skip-link=Druk op enter om naar de hoofdinhoud te gaan
+    tooltip.user-preferences=Klik om je gebruikersvoorkeuren te wijzigen
+
+[Skin.Common]
+    copyright=auteursrechtelijk
+    home=Home
+
+[System.API]
+    no-headers=Geen koppen
+    opensearch-shortname=$1 Zoeken
+
+[Users]
+    email.body.html.content=<p>Gefeliciteerd,<br/><br/>\ r\ n\ r\ nJe hebt nu een account voor $4. <br/><br/>Meld je aan om direct samen te werken met andere leden van de community. Hieronder vindt u de toegangsgegevens van uw site:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nGebruikersnaam: $1<br/> Wachtwoord: $3<br/><br/>\ r\ n\ r\ nAls u hulp nodig hebt om aan de slag te gaan of specifieke vragen hebt over <a href="$2">$4</a>, neem dan contact op met de sitebeheerder. </p>
+    email.body.html.content.nopassword=<p>Gefeliciteerd,<br/><br/>\ r\ n\ r\ nJe hebt nu een account voor $3. <br/><br/>Meld je aan om direct samen te werken met andere leden van de community. Hieronder vindt u de toegangsgegevens van uw site:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nGebruikersnaam: $1<br/><br/> <em>Neem contact op met de sitebeheerder als u uw wachtwoord niet weet. </em><br/><br/>\ r\ n\ r\ nAls je hulp nodig hebt om aan de slag te gaan of specifieke vragen hebt over <a href="$2">$3</a>, neem dan contact op met de sitebeheerder. </p>
+    email.body.text=\ r\ nGefeliciteerd,\ r\ n\ r\ nJe hebt nu een account voor $4. Meld je aan om direct samen te werken met andere leden van de community. Hieronder vindt u de toegangsgegevens van uw site:\ r\ n\ r\ nSite URL: $2\ r\ nGebruikersnaam: $1\ r\ nWachtwoord: $3\ r\ n\ r\ nAls u hulp nodig hebt om aan de slag te gaan of specifieke vragen hebt over $4, neem dan contact op met de sitebeheerder.
+    email.body.text.nopassword=\ r\ nGefeliciteerd,\ r\ n\ r\ nJe hebt nu een account voor $3. Meld je aan om direct samen te werken met andere leden van de community. Hieronder vindt u de toegangsgegevens van uw site:\ r\ n\ r\ nSite URL: $2\ r\ nGebruikersnaam: $1\ r\ nNeem contact op met de beheerder van de site als u uw wachtwoord niet weet. \ r\ n\ r\ nAls je hulp nodig hebt om aan de slag te gaan of specifieke vragen hebt over $3, neem dan contact op met de sitebeheerder.
+    email.external.body.html.content=<p>Gefeliciteerd,<br/><br/>\ r\ n\ r\ nJe hebt nu een account voor $3. <br/><br/>Meld je aan om direct samen te werken met andere leden van de community. Hieronder vindt u de toegangsgegevens van uw site:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nGebruikersnaam: $1<br/><br/>\ r\ n\ r\ nAls u hulp nodig hebt om aan de slag te gaan of specifieke vragen hebt over <a href="$2">$3</a>, neem dan contact op met de sitebeheerder. </p>
+    email.subject=$1 Inloggegevens
+    form.password.instructions=Wachtwoorden moeten minimaal 8 tekens lang zijn en ten minste 3 van de volgende tekens bevatten: kleine letters, hoofdletters, cijfers of symbolen.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Het gevraagde MindTouch Touchpoint kon niet worden geladen door uw webbrowser.
+    label.back-to-top=Terug naar boven
+
+[WebWidget.F1]
+    label.help-button=Hulp
+    title.help-button=Hulp
+
+[WebWidget.Login]
+    label.authenticated-user=Aangemeld bij MindTouch als {{username}}
+    label.sign-in=Meld je aan bij MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Klik om de samenvatting samen te vouwen
+    label.disabled-message=Probeer het later opnieuw.
+    label.disabled-title=Sorry, zoeken is momenteel niet beschikbaar.
+    label.expand-summary=Klik om overzicht uit te vouwen
+    label.forbidden-message=Log in of neem contact op met de beheerder van je site.
+    label.forbidden-title=Je hebt geen toestemming om deze functie te gebruiken.
+    label.input-hint=Zoeken
+    label.no-results-faceting-message=Probeer iets anders te zoeken of een categorie te selecteren.
+    label.no-results-message=Probeer eens naar iets anders te zoeken.
+    label.no-results-title=Sorry, we kunnen niet vinden wat je zoekt.
+    label.recommended=Aanbevolen
+    label.refine-search=Zoekopdracht verfijnen
+    label.show-more=Meer tonen
+
+[WebWidgets]
+    label.authenticated-user=Hallo, {{username}}!
+    label.nav.back=Achterkant
+    label.nav.forward=Vooruit
+    label.nav.home=Home
+
+[Component.Translate]
+    label.choose-language=Kies taal
+    label.english=Engels
+    label.update-failed=Vertaling onvolledig
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=personen
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Dansk
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Pagina-inhoud vertaald met machinevertaling
+    dialog.translated-mindtouch=Vertaald door MindTouch
