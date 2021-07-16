@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Secțiunea mesajului Golire antet
+[Dialog.CopyMove]
+    placeholder.search=Caută
 
-[Old.Category]
-    dialog.old.select.title=Dialog vechi Selectare titlu
+[F1]
+    dialog.text.back=Înapoi
+    dialog.text.forward=Înainte
+    dialog.text.hint=a căuta
+    dialog.text.home=Acasă
+    dialog.text.open=Deschidere articol
 
-[Web.Defaults]
-    error.message=Mesaj de eroare
+[MindTouch.Help.Page]
+    category-selector=Rafinați rezultatele selectând un filtru.
+    help-header-label=Rezultate de ajutor pentru
+    in=în
+    label-filter=Căutarea în
+    label-result-count=Despre {0} rezultate
+    label-search-all=Toate rezultatele
+    label.page-rating-no=Nu
+    label.page-rating-yes=da
+    more=Mai mult
+    no-search-results=Ne pare rău, nu putem găsi ceea ce căutați.
+    no-search-try=Încercați să căutați altceva, să selectați o categorie sau să încercați să creați un bilet.
+    recommended=(Recomandat)
+    search-error=Căutarea a întâmpinat o eroare.
+    search-error-try=Încearcă din nou mai târziu.
+    search-unavailable=Ne pare rău, căutarea nu este disponibilă momentan.
+    show-more-search=Arată mai multe rezultate
+    tooltip.scrollNext=Defilați la următorul
+    tooltip.scrollPrev=Defilați la precedentul
+    warning.search-only-english=Căutarea este disponibilă numai în limba engleză
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(data creării)
+    featured.articles.created.title=Adăugat recent
+    featured.articles.rated.label=(rating)
+    featured.articles.rated.title=Cel mai bine evaluat
+    featured.articles.updated.label=(data actualizării)
+    featured.articles.updated.title=Actualizat recent
+    featured.articles.viewed.label=(vizualizări)
+    featured.articles.viewed.title=Cele mai populare
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Taburi
+    label.guide.tabscrollleft=Derulează filele la stânga
+    label.guide.tabscrollright=Defilați filele la dreapta
+    label.reveal.showAll=Afișează toate
+    label.reveal.showLess=Arată mai puțin
+    label.search.placeholder=Caută
+    type.how-to=Cum să
+    type.howto=Cum să
+    type.reference=Referință
+    type.topic=Subiect
+    type.topic-category=Categorie
+    type.topic-guide=Ghid
+    type.topic-portfolio=portofoliu
+    type.unclassified=Neclasificate
+
+[MindTouch.LearningPath]
+    label.view-pages=Vizualizarea paginilor
+    message.page-count=<span>Pagini:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Ascunde
+    button.toggle.show=Afişare
+    label.attachments=Include atașări
+    label.attachments-description=Tip de conținut
+    label.attachments.type.binary=Altele
+    label.attachments.type.document=Document
+    label.attachments.type.image=Imagine
+    label.classification=Clasificarea
+    label.clear-all=Ștergeți toate filtrele
+    label.description=Filtrare rezultate
+    label.filters=Filtre
+    label.location=Locaţie
+    label.location-empty=Nu există locații pentru a filtra după
+
+[MindTouch.Subscriptions]
+    cancel=Anulare
+    caption.normal=Sunteți abonat la următoarele pagini.
+    caption.nosubscriptions=Nu sunteți abonat la nicio pagină.
+    column.page=Pagina
+    column.recursive=Notificări e-mail pentru
+    link-title=Aflați mai multe despre gestionarea notificărilor în MindTouch
+    nonrecursive=Numai această pagină
+    nonrecursive.draft=Acest proiect numai
+    recursive.many=$1 pagini
+    recursive.many.draft=Proiectele de $1
+    recursive.many.overflow=Abonat la toate subpaginile
+    recursive.many.overflow.draft=Abonat la toate schițele subpaginii
+    recursive.one=1 pagină
+    recursive.one.draft=1 proiect
+    unsubscribe=Dezabonare
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Închide mesajul
+
+[Page.AuthenticationProviders]
+    page-title=Autentificaţi-vă
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Vizitați succes.mindtouch.com pentru toate subiectele de ajutor. </a>
+
+[Page.Error]
+    not-found=Pagina nu a fost găsită
+    not-found-error=Ne pare rău, pagina de la $1 nu a putut fi găsită.
+    not-found-results=Rezultate legate de căutare:
+    page-title=Eroare
+
+[Page.FeedbackRating]
+    button.leave-feedback=Lăsați feedback
+    button.rating-no=Nu
+    button.rating-yes=da
+    button.submit-feedback=Trimiteți feedback
+    label.checkbox.contact-me=Da, mă puteți contacta în legătură cu acest feedback.
+    label.feedback-question=Cum putem îmbunătăți acest articol?
+    label.last-rated=— Ultima dată ai evaluat acest articol pe $1
+    label.rating-message=A fost acest articol de ajutor?
+    legend.feedback-form=Lăsați feedback
+    message.contact.no=Nu
+    message.contact.yes=da
+    message.submit.error=A apărut o eroare în timpul încercării de a trimite feedback-ul. Vă rugăm să încercați din nou la un moment ulterior.
+    message.submit.success=Feedback-ul dvs. a fost trimis cu succes. Puteți trimite mai multe feedback în orice moment.
+
+[Page.LiveTags]
+    label.article=Tip articol
+
+[Page.LoginPasswordRegister]
+    page-title=Autentificare și înregistrare
+    tab.login=Autentificaţi-vă
+    tab.password=Resetare parolă
+    tab.register=Înregistrare
+
+[Page.Preferences]
+    error.invalid-email=Vă rugăm să specificați o adresă de e-mail valabilă
+    form.email=Adresă de e-mail
+    form.fullname=Nume afișat
+    form.fullname.help=Numai în scopuri de afișare
+    form.hint.password-characters=Parola trebuie să conțină cel puțin 3 dintre următoarele caractere: litere mici, majuscule, cifre sau simboluri.
+    form.hint.password-length=Parola trebuie să aibă o lungime de cel puțin 8 caractere
+    form.hint.password-match=Parolele trebuie să corespundă
+    form.hint.password.restricted-words=Parola nu poate conține cuvinte de parolă comune
+    form.legend.information=Informaţiile mele
+    form.legend.password=Parola mea
+    form.password.new=Parolă nouă
+    form.password.old=Parola veche
+    form.password.submit=Schimbă parola
+    form.password.verify=Reintroduceţi parola nouă
+    form.submit=Salvați informațiile mele
+
+[Page.Tags]
+    message.notags=Această pagină nu are etichete.
+    page-title=Etichete site
+    tags-inserted-from-template=Etichete recomandate de șablon:
+    tags-inserted-heading=Etichete pagină:
+
+[Page.UserLogin]
+    error=Conectarea dvs. a eșuat. Vă rugăm să verificați numele de utilizator și parola.
+    page-title=Autentificaţi-vă
+    submit-login=Autentificaţi-vă
+    user-name=Nume utilizator
+    user-password=Parole
+
+[Page.UserLogout]
+    page-title=Deconectați-vă
+    success=V-aţi deconectat cu succes.
+
+[Page.UserPassword]
+    form.submit=Resetare parolă
+    page-title=Resetare parolă
+    success.email-sent=Instrucțiunile de resetare a parolei au fost trimise la adresa de e-mail înregistrată pentru acest cont. Dacă nu primiți un e-mail, vă rugăm să verificați ortografia și încercați din nou. Contactați administratorul site-ului dacă aveți în continuare probleme la conectare.
+
+[Page.UserRegistration]
+    error.email.match=E-mailurile introduse nu se potrivesc.
+    error.password.match=Parolele introduse nu se potrivesc.
+    form.email=E-mail
+    form.email.verify=Verificare e-mail
+    form.fullname=Numele complet <span class="note">(opțional)</span>
+    form.password=Parole
+    form.password.verify=Verificarea parolei
+    form.submit=Creează un cont
+    form.username=Nume utilizator
+    page-title=Creează un cont
+    success.created=Utilizatorul <strong>$1</strong> a fost creat.
+
+[Page.Welcome]
+    community-banner-text=Acum puteți contribui și partaja conținut.
+    community-banner-title=Bine ai venit, $1. Contul dvs. a fost creat.
+    community-get-started-text=<strong>Iată câteva sfaturi pentru a vă ajuta să începeți:</strong>
+    community-tip1-text=Oferiți proprietarilor de site-uri feedback valoros despre conținutul site-ului. A fost util articolul? Faceți clic pe <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Da</span>. Dacă nu, faceți clic pe <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Lăsați feedback</span> pentru a ne spune cum putem îmbunătăți. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Aflați mai multe</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Începeți o conversație comentând pe o pagină. Contribuiți propriile informații sau răspundeți la comentariile altor utilizatori. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Aflați mai multe</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Resetare parolă
+
+[Product]
+    powered-by-site=Realizat de MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Autentificaţi-vă
+    header.recommended-articles=Articole recomandate
+    header.toc=Cuprins
+    label.back-to-top=Înapoi la partea de sus
+    label.global-location-toggle=Extindere/restrânge locația globală
+    label.global-navigation-toggle=Extinderea/restrângerea ierarhiei globale
+    label.last-updated=Ultima actualizare
+    label.last-updated-by=de
+    label.no-recommended-articles=Nu există articole recomandate.
+    label.password=Parole
+    label.pdf-export=Salvare ca PDF
+    label.signout=Deconectați-vă
+    label.site-search.button=Caută
+    label.site-search.input=Caută
+    label.skip-link=Treceți la conținutul principal
+    label.tags=Etichete
+    label.user-preferences=Preferinţele mele
+    label.username=Nume utilizator
+    link.quick-login=Autentificaţi-vă
+    link.site-search=Căutare site
+    placeholder.site-search.input=Cum te putem ajuta?
+    tooltip.back-to-top=Salt înapoi la partea de sus a acestui articol
+    tooltip.browse-back=Reveniți la articolul anterior
+    tooltip.pdf-export=Exportul paginii ca PDF
+    tooltip.signout=Faceți clic pentru a vă deconecta de pe acest site
+    tooltip.skip-link=Apăsați enter pentru a trece la conținutul principal
+    tooltip.user-preferences=Faceţi clic pentru a schimba preferinţele utilizatorului
+
+[Skin.Common]
+    copyright=Drepturi de autor
+    home=Acasă
+
+[System.API]
+    no-headers=Fără anteturi
+    opensearch-shortname=$1 Căutare
+
+[Users]
+    email.body.html.content=<p>Felicitări, <br/><br/>\ r\ n\ r\ nAveți acum un cont la $4. <br/><br/>Conectați-vă pentru a începe instantaneu colaborarea cu alți membri ai comunității. Mai jos sunt detaliile de acces la site-ul dvs.:<br/><br/>\ r\ n\ r\ nURL Site: <a href="$2">$2</a><br/>\ r\ nNume utilizator: $1<br/>Parola: $3<br/><br/>\ r\ n\ r\ nDacă aveți nevoie de ajutor pentru a începe sau aveți întrebări specifice despre <a href="$2">$4</a>, vă rugăm să contactați administratorul site-ului. </p>
+    email.body.html.content.nopassword=<p>Felicitări, <br/><br/>\ r\ n\ r\ nAveți acum un cont la $3. <br/><br/>Conectați-vă pentru a începe instantaneu colaborarea cu alți membri ai comunității. Mai jos sunt detaliile de acces la site-ul dvs.:<br/><br/>\ r\ n\ r\ nURL Site: <a href="$2">$2</a><br/>\ r\ nNume utilizator: $1<br/><br/><em>Contactați administratorul site-ului dacă nu știți parola. </em><br/><br/>\ r\ n\ r\ nDacă aveți nevoie de ajutor pentru a începe sau aveți întrebări specifice despre <a href="$2">$3</a>, contactați administratorul site-ului. </p>
+    email.body.text=\ r\ nFelicitări,\ r\ n\ r\ nAveți acum un cont la $4. Conectați-vă pentru a începe instantaneu colaborarea cu alți membri ai comunității. Mai jos sunt detaliile de acces la site-ul dvs.:\ r\ n\ r\ nURL Site: $2\ r\ nNume utilizator: $1\ r\ nPassword: $3\ r\ n\ r\ nDacă aveți nevoie de ajutor pentru a începe sau aveți întrebări specifice despre $4, vă rugăm să contactați administratorul site-ului.
+    email.body.text.nopassword=\ r\ nFelicitări,\ r\ n\ r\ nAveți acum un cont la $3. Conectați-vă pentru a începe instantaneu colaborarea cu alți membri ai comunității. Mai jos sunt detaliile de acces la site-ul dvs.:\ r\ n\ r\ nURL site: $2\ r\ nNume utilizator: $1\ r\ nContactați administratorul site-ului dacă nu știți parola. \ r\ n\ r\ nDacă aveți nevoie de ajutor pentru a începe sau aveți întrebări specifice despre $3, contactați administratorul site-ului.
+    email.external.body.html.content=<p>Felicitări, <br/><br/>\ r\ n\ r\ nAveți acum un cont la $3. <br/><br/>Conectați-vă pentru a începe instantaneu colaborarea cu alți membri ai comunității. Mai jos sunt detaliile de acces la site-ul dvs.:<br/><br/>\ r\ n\ r\ nURL Site: <a href="$2">$2</a><br/>\ r\ nNume utilizator: $1<br/><br/>\ r\ n\ r\ nDacă aveți nevoie de ajutor pentru a începe sau aveți întrebări specifice despre <a href="$2">$3</a>, vă rugăm să contactați administratorul site-ului. </p>
+    email.subject=$1 Autentificare Detalii
+    form.password.instructions=Parolele trebuie să aibă o lungime minimă de 8 caractere și să conțină cel puțin 3 dintre următoarele caractere: litere mici, majuscule, cifre sau simboluri.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Punctul tactil MindTouch solicitat nu a putut fi încărcat de browserul dvs. web.
+    label.back-to-top=Înapoi la partea de sus
+
+[WebWidget.F1]
+    label.help-button=Ajutor
+    title.help-button=Ajutor
+
+[WebWidget.Login]
+    label.authenticated-user=Autentificat la MindTouch ca {{username}}
+    label.sign-in=Conectați-vă la MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Click pentru a restrânge rezum
+    label.disabled-message=Încearcă din nou mai târziu.
+    label.disabled-title=Ne pare rău, căutarea nu este disponibilă momentan.
+    label.expand-summary=Click pentru a extinde rezumatul
+    label.forbidden-message=Vă rugăm să vă autentificați sau să contactați administratorul site-ului.
+    label.forbidden-title=Nu aveți permisiunea de a utiliza această caracteristică.
+    label.input-hint=Caută
+    label.no-results-faceting-message=Încercați să căutați altceva sau să selectați o categorie.
+    label.no-results-message=Încearcă să cauţi altceva.
+    label.no-results-title=Ne pare rău, nu putem găsi ceea ce căutați.
+    label.recommended=Recomandat
+    label.refine-search=Rafinați căutarea
+    label.show-more=Arată mai mult
+
+[WebWidgets]
+    label.authenticated-user=Bună ziua, {{username}}!
+    label.nav.back=Înapoi
+    label.nav.forward=Înainte
+    label.nav.home=Acasă
+
+[Component.Translate]
+    label.choose-language=Alegeți limba
+    label.english=Engleză
+    label.update-failed=Traducere Incompletă
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=daneză
+    language.finnish=Suomalainen
+    language.italian=Italiano
+    title.translated-machine=Conținutul paginii tradus utilizând traducerea automată
+    dialog.translated-mindtouch=Traducere de MindTouch
