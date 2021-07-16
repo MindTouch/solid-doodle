@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Saƙo Sashe mara kyau
+[Dialog.CopyMove]
+    placeholder.search=bincika
 
-[Old.Category]
-    dialog.old.select.title=Tattaunawa Tsohon Zaɓi Title
+[F1]
+    dialog.text.back=Baya
+    dialog.text.forward=Ci gaba
+    dialog.text.hint=bincika
+    dialog.text.home=Gida
+    dialog.text.open=Bude labarin
 
-[Web.Defaults]
-    error.message=Saƙon kuskure
+[MindTouch.Help.Page]
+    category-selector=Tata sakamako ta hanyar zaɓar tace.
+    help-header-label=Taimako sakamakon
+    in=á
+    label-filter=Neman a
+    label-result-count=Game da {0} sakamakon
+    label-search-all=Duk sakamakon
+    label.page-rating-no=A'a
+    label.page-rating-yes=Haka ne
+    more=Ƙari
+    no-search-results=Yi hakuri, ba za mu iya samun abin da kake nema ba.
+    no-search-try=Gwada neman wani abu dabam, zaɓar wani nau'i, ko gwada ƙirƙirar tikiti.
+    recommended=(An ba da shawarar)
+    search-error=Bincike ya ci karo da kuskure.
+    search-error-try=Da fatan za a sake gwada daga baya.
+    search-unavailable=Yi hakuri, bincike a halin yanzu ba a samuwa ba.
+    show-more-search=Nuna ƙarin sakamako
+    tooltip.scrollNext=Gungura zuwa gaba
+    tooltip.scrollPrev=Gungura zuwa baya
+    warning.search-only-english=Bincike yana samuwa ne kawai a Turanci
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(kwanan wata halitta)
+    featured.articles.created.title=Kwanan nan aka kara
+    featured.articles.rated.label=(kimantawa)
+    featured.articles.rated.title=Mafi girma kimanta
+    featured.articles.updated.label=(kwanan wata sabuntawa)
+    featured.articles.updated.title=An sabunta kwanan nan
+    featured.articles.viewed.label=(ra'ayoyi)
+    featured.articles.viewed.title=Mafi mashahuri
+    label.guide-subpage-display-single=Single
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Gungura shafuka hagu
+    label.guide.tabscrollright=Gungura shafuka dama
+    label.reveal.showAll=Nuna duka
+    label.reveal.showLess=Nuna ƙasa
+    label.search.placeholder=bincika
+    type.how-to=Ya-zuwa
+    type.howto=Ya-zuwa
+    type.reference=Manazarta
+    type.topic=topic
+    type.topic-category=Nau'in
+    type.topic-guide=Jagora
+    type.topic-portfolio=Fayil
+    type.unclassified=Unclassified
+
+[MindTouch.LearningPath]
+    label.view-pages=Duba shafuka
+    message.page-count=<span>Shafuka:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=Ɓoye
+    button.toggle.show=Nuna
+    label.attachments=Hada haɗe-haɗe
+    label.attachments-description=Nau'in abun ciki
+    label.attachments.type.binary=Wasu
+    label.attachments.type.document=Takardun
+    label.attachments.type.image=Hoto
+    label.classification=rarrabuwa
+    label.clear-all=Share duk filters
+    label.description=Sakamako tace
+    label.filters=Filtomiya
+    label.location=Wuri
+    label.location-empty=Babu wuraren da za a tace ta
+
+[MindTouch.Subscriptions]
+    cancel=Soke
+    caption.normal=An sanya ku zuwa shafuka masu zuwa.
+    caption.nosubscriptions=Ba a sanya ku zuwa kowane shafuka ba.
+    column.page=Shafi
+    column.recursive=Sanarwan imel don
+    link-title=Ƙara koyo game da sarrafa sanarwa a MindTouch
+    nonrecursive=Wannan shafi kawai
+    nonrecursive.draft=Wannan daftarin kawai
+    recursive.many=1 shafuka
+    recursive.many.draft=$1 zane-zane
+    recursive.many.overflow=An yi rajista zuwa duk ƙananan shafuka
+    recursive.many.overflow.draft=An yi rajista zuwa duk rubutun ƙananan shafi
+    recursive.one=1 shafi
+    recursive.one.draft=1 daftarin
+    unsubscribe=Unsubscribe
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Kusa saƙo
+
+[Page.AuthenticationProviders]
+    page-title=Shiga
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Ziyarci success.mindtouch.com don duk batutuwa masu taimako. </a>
+
+[Page.Error]
+    not-found=Page ba a samu
+    not-found-error=Yi hakuri, ba a iya samun shafin a $1 ba.
+    not-found-results=Sakamakon binciken da ya shafi:
+    page-title=Kuskure
+
+[Page.FeedbackRating]
+    button.leave-feedback=Bar amsa
+    button.rating-no=A'a
+    button.rating-yes=Haka ne
+    button.submit-feedback=Mika amsa
+    label.checkbox.contact-me=Haka ne, kuna iya tuntuɓe ni game da wannan amsa.
+    label.feedback-question=Ta yaya za mu inganta wannan labarin?
+    label.last-rated=- Ka ƙaddara wannan labarin a kan $1
+    label.rating-message=Shin wannan labarin ya taimaka?
+    legend.feedback-form=Bar amsa
+    message.contact.no=A'a
+    message.contact.yes=Haka ne
+    message.submit.error=Wani kuskure ya faru yayin ƙoƙarin aika da martani. Da fatan za a sake gwadawa a wani lokaci na gaba.
+    message.submit.success=An yi nasarar sallama da amsawa. Zaka iya mika karin bayani a kowane lokaci.
+
+[Page.LiveTags]
+    label.article=Nau'in Mataki na ashirin
+
+[Page.LoginPasswordRegister]
+    page-title=Shiga kuma rajista
+    tab.login=Shiga
+    tab.password=Sake saiti kalmar sirri
+    tab.register=Rajista
+
+[Page.Preferences]
+    error.invalid-email=Da fatan a saka adireshin imel mai inganci
+    form.email=Adireshin imel
+    form.fullname=Nuni sunan
+    form.fullname.help=Don dalilai na nuni kawai
+    form.hint.password-characters=Dole ne kalmar sirri ta ƙunshi akalla 3 daga cikin haruffa masu zuwa: ƙananan, babban akwati, lambobi ko alamomi.
+    form.hint.password-length=Dole ne kalmar sirri ta kasance akalla haruffa 8 a tsawon
+    form.hint.password-match=Dole ne kalmomin shiga su daidaita
+    form.hint.password.restricted-words=Kalmar sirri ba za ta iya ƙunsar kalmomin sirri
+    form.legend.information=Bayanina
+    form.legend.password=Kalmarta sirri
+    form.password.new=Sabuwar kalmar sirri
+    form.password.old=Tsohon kalmar sirri
+    form.password.submit=Canja kalmar sirri
+    form.password.verify=Sake sabon kalmar sirri
+    form.submit=Ajiye bayanina
+
+[Page.Tags]
+    message.notags=Wannan shafin ba shi da tags.
+    page-title=Shafin tags
+    tags-inserted-from-template=Tags shawarar da samfurin:
+    tags-inserted-heading=Shafin tags:
+
+[Page.UserLogin]
+    error=Alamar ka a ciki ta gaza. Da fatan a tabbatar da sunan mai amfani da kalmar sirri naka.
+    page-title=Shiga
+    submit-login=Shiga
+    user-name=Sunan mai amfani
+    user-password=Kalmar wucewa
+
+[Page.UserLogout]
+    page-title=Shiga waje
+    success=Kun samu nasarar sanya hannu.
+
+[Page.UserPassword]
+    form.submit=Sake saiti kalmar sirri
+    page-title=Sake saiti kalmar sirri
+    success.email-sent=An aika umarnin sake saiti na kalmar sirri zuwa adireshin imel da aka rajista don wannan asusun. Idan ba ku karɓi imel ba, don Allah a duba rubutun ku kuma sake gwadawa. Tuntuɓi mai gudanarwa na yanar gizonku idan kun ci gaba da samun batutuwa shiga.
+
+[Page.UserRegistration]
+    error.email.match=Imel ɗin da kuka shiga ba su dace ba.
+    error.password.match=Kalmomin shiga da ka shigar ba su daidaita ba.
+    form.email=Imel
+    form.email.verify=Tabbatar da Imel
+    form.fullname=Cikakken suna <span class="note">(na zaɓi)</span>
+    form.password=Kalmar wucewa
+    form.password.verify=Tabbatar da kalmar sirri
+    form.submit=Ƙirƙiri asusun
+    form.username=Sunan mai amfani
+    page-title=Ƙirƙiri asusun
+    success.created=An halicci <strong>$1</strong> mai amfani.
+
+[Page.Welcome]
+    community-banner-text=Kuna iya ba da gudummawa da raba abun ciki.
+    community-banner-title=Barka da zuwa, $1. An halicci asusunku.
+    community-get-started-text=<strong>Ga wasu matakai don taimaka maka ka fara:</strong>
+    community-tip1-text=Samar da masu amfani da shafin tare da amsa mai mahimmanci game da abubuwan da ke cikin shafin. Shin labarin ya taimaka? Danna <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Ee</span>. Idan ba haka ba, danna <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Bar feedback</span> don gaya mana yadda za mu iya inganta. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Ƙara koyo</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Fara tattaunawa ta hanyar yin sharhi a shafi. Taimaka wa bayaninka ko amsa ga wasu sharuddan mai amfani. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Ƙara koyo</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Sake saiti kalmar sirri
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Shiga
+    header.recommended-articles=Shawarar da aka ba da
+    header.toc=Tebur na abinda ke ciki
+    label.back-to-top=Back to top
+    label.global-location-toggle=Fadada/rushewa wuri na duniya
+    label.global-navigation-toggle=Fadada/faduwa matsayi na duniya
+    label.last-updated=Sabuntawa ta karshe
+    label.last-updated-by=ta
+    label.no-recommended-articles=Babu sharuɗɗa da aka ba da shawara.
+    label.password=Kalmar wucewa
+    label.pdf-export=Ajiye azaman PDF
+    label.signout=Shiga waje
+    label.site-search.button=bincika
+    label.site-search.input=bincika
+    label.skip-link=Tsallake zuwa babban abun ciki
+    label.tags=Tags
+    label.user-preferences=Abubuwan da nake so
+    label.username=Sunan mai amfani
+    link.quick-login=Shiga
+    link.site-search=Bincike shafin
+    placeholder.site-search.input=Ta yaya za mu taimake ku?
+    tooltip.back-to-top=Jump zuwa saman wannan labarin
+    tooltip.browse-back=Komawa zuwa labarin da ya gabata
+    tooltip.pdf-export=Shafin fitarwa a matsayin PDF
+    tooltip.signout=Danna don shiga daga wannan shafin
+    tooltip.skip-link=Latsa shigar don tsallake zuwa babban abun ciki
+    tooltip.user-preferences=Danna don canza zaɓin mai amfani
+
+[Skin.Common]
+    copyright=Hakkin mallaka
+    home=Gida
+
+[System.API]
+    no-headers=Babu kai
+    opensearch-shortname=$1 Search
+
+[Users]
+    email.body.html.content=<p>Taya murna, <br/><br/>\ r\ n\ r\ nYanzu kuna da asusun a $4. <br/><br/>Shiga don nan take fara haɗin gwiwa tare da sauran mambobin al'umma. Da ke ƙasa akwai cikakkun bayanai game da shafin yanar gizonku:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nSunan mai amfani: $3<br/><br/>\ r\ n\ r\ nIdan kana buƙatar taimako don farawa ko samun takamaiman tambayoyi game da <a href="$2">$4</a>, tuntuɓi mai gudanarwa na shafin.<br/> </p>
+    email.body.html.content.nopassword=<p>Taya murna, <br/><br/>\ r\ n\ r\ nYanzu kuna da asusun a $3. <br/><br/>Shiga don nan take fara haɗin gwiwa tare da sauran mambobin al'umma. Da ke ƙasa akwai cikakkun bayanai na shafin yanar gizonku:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nSunan mai amfani: $1<br/><br/><em>Tuntuɓi mai gudanarwa na shafin idan ba ku san kalmarku ba. </em><br/><br/>\ r\ n\ r\ nIdan kana buƙatar taimako don farawa ko samun takamaiman tambayoyi game da <a href="$2">$3</a>, tuntuɓi mai gudanarwa na shafin. </p>
+    email.body.text=\ r\ nTaya murna,\ r\ n\ r\ nYanzu kuna da asusun a $4. Shiga don nan take fara haɗin gwiwa tare da sauran mambobin al'umma. Da ke ƙasa akwai cikakkun bayanai na shafin yanar gizonku:\ r\ n\ r\ nSite URL: $2\ r\ nSunan mai amfani: $1\ r\ nKalmar sirri: $3\ r\ n\ r\ nIdan kana buƙatar taimako don farawa ko samun takamaiman tambayoyi game da $4, tuntuɓi mai gudanarwa na shafin.
+    email.body.text.nopassword=\ r\ nTaya murna,\ r\ n\ r\ nYanzu kuna da asusun a $3. Shiga don nan take fara haɗin gwiwa tare da sauran mambobin al'umma. Da ke ƙasa akwai cikakkun bayanai na shafin yanar gizonku:\ r\ n\ r\ nSite URL: $2\ r\ nSunan mai amfani: $1\ r\ ntuntuɓi mai gudanarwa na shafin idan ba ku san kalmarku ba. \ r\ n\ r\ nIdan kana buƙatar taimako don farawa ko samun takamaiman tambayoyi game da $3, tuntuɓi mai gudanarwa na shafin.
+    email.external.body.html.content=<p>Taya murna, <br/><br/>\ r\ n\ r\ nYanzu kuna da asusun a $3. <br/><br/>Shiga don nan take fara haɗin gwiwa tare da sauran mambobin al'umma. Da ke ƙasa akwai cikakkun bayanai na shafin yanar gizonku:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nSunan mai amfani: $1<br/><br/>\ r\ n\ r\ nIdan kana buƙatar taimako don farawa ko samun takamaiman tambayoyi game da <a href="$2">$3</a>, tuntuɓi mai gudanarwa na shafin. </p>
+    email.subject=1 Shiga cikin Details
+    form.password.instructions=Dole ne kalmomin shiga su kasance mafi ƙarancin haruffa 8 a tsawon kuma su ƙunshi akalla 3 daga cikin haruffa masu zuwa: ƙananan, babban bango, lambobi ko alamomi.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Ba za a iya ɗora MindTouch Touchpoint da aka buƙata ta hanyar bincike na yanar
+    label.back-to-top=Back to top
+
+[WebWidget.F1]
+    label.help-button=Taimako
+    title.help-button=Taimako
+
+[WebWidget.Login]
+    label.authenticated-user=Shiga cikin MindTouch as {{sunan mai amfani}
+    label.sign-in=Shiga cikin MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Danna don faduwa taƙaitawa
+    label.disabled-message=Da fatan za a sake gwada daga baya.
+    label.disabled-title=Yi hakuri, bincike a halin yanzu ba a samuwa ba.
+    label.expand-summary=Danna don fadada taƙaitawa
+    label.forbidden-message=Da fatan a shiga, ko tuntuɓi mai kula da shafin naka.
+    label.forbidden-title=Ba ku da izini don amfani da wannan fasalin.
+    label.input-hint=bincika
+    label.no-results-faceting-message=Gwada bincika wani abu ko zaɓar wani nau'i.
+    label.no-results-message=Gwada neman wani abu dabam.
+    label.no-results-title=Yi hakuri, ba za mu iya samun abin da kake nema ba.
+    label.recommended=Shawarar
+    label.refine-search=Tata bincike
+    label.show-more=Nuna ƙarin
+
+[WebWidgets]
+    label.authenticated-user=Sannu, {{sunan mai amfani}!
+    label.nav.back=Baya
+    label.nav.forward=Ci gaba
+    label.nav.home=Gida
+
+[Component.Translate]
+    label.choose-language=Zabi Harshe
+    label.english=Turanci
+    label.update-failed=Fassara bai cika ba
+    language.spanish=Español
+    language.german=Jamus
+    language.japanese=株式会社
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portuguesa
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Danish
+    language.finnish=Suomalainen
+    language.italian=Italian
+    title.translated-machine=Shafukan da aka fassara ta amfani da fassarar na'ura
+    dialog.translated-mindtouch=Fassara ta MindTouch
