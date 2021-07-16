@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Зурвас Хэсэг Хоосон Толгой
+[Dialog.CopyMove]
+    placeholder.search=Хайлт
 
-[Old.Category]
-    dialog.old.select.title=Dialog Хуучин нэр сонгоно уу
+[F1]
+    dialog.text.back=Буцах
+    dialog.text.forward=Форвард
+    dialog.text.hint=Хайлт
+    dialog.text.home=Эдүүлбэр
+    dialog.text.open=Нээлттэй нийтлэл
 
-[Web.Defaults]
-    error.message=Алдааны мэдэгдэл
+[MindTouch.Help.Page]
+    category-selector=Шүүлтүүр сонгож үр дүнг боловсронгуй болгох.
+    help-header-label=Тусламж үр дүн
+    in=онд
+    label-filter=Хайж байна
+    label-result-count=Тухай {0} үр дүн
+    label-search-all=Бүх үр дүн
+    label.page-rating-no=Үгүй
+    label.page-rating-yes=Тиймээ
+    more=Илүү
+    no-search-results=Уучлаарай, бид таны хайж буй зүйлээ олж чадахгүй.
+    no-search-try=Өөр ямар нэг зүйл хайж үзээрэй, категорийг сонгох, эсвэл тасалбар үүсгэхийг оролдоорой.
+    recommended=(Зөвлөмж болгож буй)
+    search-error=Хайлт алдаа тулгарсан байна.
+    search-error-try=Дараа нь дахин оролдоно уу.
+    search-unavailable=Уучлаарай, хайлт одоогоор боломжгүй байна.
+    show-more-search=Илүү үр дүнг харуулах
+    tooltip.scrollNext=Дараа нь гүйлгэж
+    tooltip.scrollPrev=Өмнөх рүү гүйлгэж
+    warning.search-only-english=Хайлт нь зөвхөн англи хэл дээр байдаг
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(үүсгэсэн огноо)
+    featured.articles.created.title=Саяхан нэмэгдсэн
+    featured.articles.rated.label=(үнэлгээ)
+    featured.articles.rated.title=Хамгийн өндөр үнэлгээтэй
+    featured.articles.updated.label=(шинэчлэгдсэн огноо)
+    featured.articles.updated.title=Саяхан шинэчлэгдсэн
+    featured.articles.viewed.label=(Үзэлт)
+    featured.articles.viewed.title=Хамгийн алдартай
+    label.guide-subpage-display-single=Нэг
+    label.guide-subpage-display-tabbed=Tabbed
+    label.guide.tabscrollleft=Гүйлгэх цонхнууд зүүн
+    label.guide.tabscrollright=Гүйлгэх табууд нь зөв
+    label.reveal.showAll=Бүгдийг харуулах
+    label.reveal.showLess=бага харуулах
+    label.search.placeholder=Хайлт
+    type.how-to=Яаж
+    type.howto=Яаж
+    type.reference=Лавлагаа
+    type.topic=Сэдэв
+    type.topic-category=Ангилал
+    type.topic-guide=гарын авлага
+    type.topic-portfolio=Төсвийн
+    type.unclassified=Ангилагдаагүй
+
+[MindTouch.LearningPath]
+    label.view-pages=Хуудсыг харах
+    message.page-count=<span>Хуудас:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=нуух
+    button.toggle.show=Харуулах
+    label.attachments=хавсралт оруулах
+    label.attachments-description=Агуулга төрөл
+    label.attachments.type.binary=Бусад
+    label.attachments.type.document=Баримт бичиг
+    label.attachments.type.image=Зургийн
+    label.classification=Ангилал
+    label.clear-all=Бүх шүүлтүүрийг арилгах
+    label.description=шүүлтүүр үр дүн
+    label.filters=Шүүлтүүр
+    label.location=Байршил
+    label.location-empty=Шүүх байршил байхгүй байна
+
+[MindTouch.Subscriptions]
+    cancel=Цуцлах
+    caption.normal=Та дараах хуудсуудад бүртгүүлсэн байна.
+    caption.nosubscriptions=Та ямар ч хуудсанд бүртгүүлээгүй байна.
+    column.page=Хуудас
+    column.recursive=И-мэйл мэдэгдэл
+    link-title=MindTouch-д мэдэгдэл удирдах талаар илүү ихийг олж мэдэх
+    nonrecursive=Энэ хуудас нь зөвхөн
+    nonrecursive.draft=Энэ төсөл нь зөвхөн
+    recursive.many=$1 хуудаснууд
+    recursive.many.draft=$1 төсөл
+    recursive.many.overflow=Бүх дэд хуудсанд бүртгүүлсэн
+    recursive.many.overflow.draft=Бүх дэд хуудасны төслүүдэд захиалсан
+    recursive.one=1 хуудас
+    recursive.one.draft=1 төсөл
+    unsubscribe=Бүртгэлээс хасах
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Хаах зурвас
+
+[Page.AuthenticationProviders]
+    page-title=Нэвтрэх
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Бүх туслах сэдвүүдийн хувьд success.mindtouch.com зочилно уу. </a>
+
+[Page.Error]
+    not-found=Хуудас олдсонгүй
+    not-found-error=Уучлаарай, $1-д хуудас олж чадахгүй байна.
+    not-found-results=Холбоотой хайлтын үр дүн:
+    page-title=Алдаа
+
+[Page.FeedbackRating]
+    button.leave-feedback=Санал хүсэлтийг үлдээгээрэй
+    button.rating-no=Үгүй
+    button.rating-yes=Тиймээ
+    button.submit-feedback=Санал хүсэлт гаргах
+    label.checkbox.contact-me=Тийм ээ, та энэ санал талаар надтай холбоо барьж болно.
+    label.feedback-question=Бид энэ өгүүллийг хэрхэн сайжруулах вэ?
+    label.last-rated=— Та хамгийн сүүлд үнэлгээ энэ өгүүллийг $1
+    label.rating-message=Энэ нийтлэл тустай байсан уу?
+    legend.feedback-form=Санал хүсэлтийг үлдээгээрэй
+    message.contact.no=Үгүй
+    message.contact.yes=Тиймээ
+    message.submit.error=Таны санал хүсэлтийг илгээхийг оролдож байхад алдаа гарсан. Дараа нь дахин оролдоно уу.
+    message.submit.success=Таны санал хүсэлтийг амжилттай ирүүлсэн. Та ямар ч үед илүү санал гаргаж болно.
+
+[Page.LiveTags]
+    label.article=Өгүүллийн төрөл
+
+[Page.LoginPasswordRegister]
+    page-title=Нэвтрэх, бүртгүүлэх
+    tab.login=Нэвтрэх
+    tab.password=Нууц үг дахин
+    tab.register=Бүртгэл
+
+[Page.Preferences]
+    error.invalid-email=Хүчин төгөлдөр и-мэйл хаягаа оруулна уу
+    form.email=И-мэйл хаяг
+    form.fullname=Дэлгэцийн нэр
+    form.fullname.help=Зөвхөн дэлгэцийн зориулалтаар
+    form.hint.password-characters=Нууц үг нь дараах тэмдэгтүүдээс дор хаяж 3-ыг агуулсан байх ёстой: жижиг үсгээр, том үсэг, цифр эсвэл тэмдэг.
+    form.hint.password-length=Нууц үг нь хамгийн багадаа 8 тэмдэгт байх ёстой
+    form.hint.password-match=Нууц үг нь таарч байх ёстой
+    form.hint.password.restricted-words=Нууц үг нийтлэг нууц үгийг агуулж чадахгүй
+    form.legend.information=Миний мэдээлэл
+    form.legend.password=Миний нууц үг
+    form.password.new=Шинэ нууц үг
+    form.password.old=Хуучин нууц үг
+    form.password.submit=Нууц үг солих
+    form.password.verify=Шинэ нууц үгээ дахин оруулах
+    form.submit=Миний мэдээллийг хадгалах
+
+[Page.Tags]
+    message.notags=Энэ хуудсанд ямар ч хаягууд байна.
+    page-title=Сайтын хаягууд
+    tags-inserted-from-template=Сэдвийн загвар санал болгосон:
+    tags-inserted-heading=Хуудас хаягууд:
+
+[Page.UserLogin]
+    error=Таны тэмдэг амжилтгүй болсон. Хэрэглэгчийн нэр болон нууц үгээ шалгана уу.
+    page-title=Нэвтрэх
+    submit-login=Нэвтрэх
+    user-name=Хэрэглэгчийн нэр
+    user-password=Нууц үг
+
+[Page.UserLogout]
+    page-title=Гарах
+    success=Та амжилттай гарч гарын үсэг зурсан байна.
+
+[Page.UserPassword]
+    form.submit=Нууц үг дахин
+    page-title=Нууц үг дахин
+    success.email-sent=Нууц үг нь дахин эхлүүлэх заавар энэ дансанд бүртгүүлсэн и-мэйл хаяг руу илгээсэн байна. Хэрэв та и-мэйл хүлээн авахгүй бол зөв бичгийн дүрмийг шалгана уу дахин оролдоно уу. Та гарын үсэг зурах асуудал хэвээр байгаа бол таны сайтын администратор холбоо барина уу.
+
+[Page.UserRegistration]
+    error.email.match=Таны оруулсан имэйлүүд таарахгүй байна.
+    error.password.match=Таны оруулсан нууц үг таарахгүй байна.
+    form.email=И-мэйл
+    form.email.verify=И-мэйл баталгаажуулах
+    form.fullname=Бүтэн нэр <span class="note">(заавал биш)</span>
+    form.password=Нууц үг
+    form.password.verify=Нууц үгээ шалгах
+    form.submit=Бүртгэл үүсгэх
+    form.username=Хэрэглэгчийн нэр
+    page-title=Бүртгэл үүсгэх
+    success.created=Хэрэглэгчийн <strong>$1</strong> бий болгосон байна.
+
+[Page.Welcome]
+    community-banner-text=Та одоо агуулгыг хувь нэмрээ оруулж, хуваалцаж болно.
+    community-banner-title=Тавтай морилно уу, $1. Таны данс бий болсон байна.
+    community-get-started-text=<strong>Энд та эхлэх нь туслахын тулд зарим нэг зөвлөгөө байна:</strong>
+    community-tip1-text=сайтын агуулгын талаар үнэ цэнэтэй санал сайт эзэд хангах. Энэ нийтлэл тустай байсан уу? <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Тийм</span>дарна уу. Үгүй бол, товшино уу <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">санал үлдээгээрэй</span> Бид хэрхэн сайжруулах талаар бидэнд хэлэх. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Илүү ихийг олж мэдэх</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Хуудас дээр тайлбар хийх замаар яриа эхлэх хэрэгтэй. Өөрийн мэдээллийг хувь нэмэр оруулах эсвэл бусад хэрэглэгчийн сэтгэгдэлд хариу өгөх. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Илүү ихийг олж мэдэх</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Нууц үг дахин
+
+[Product]
+    powered-by-site=Powered MindTouch хамт
+
+[Skin.Columbia]
+    button.quick-login=Нэвтрэх
+    header.recommended-articles=Зөвлөмж болгож буй нийтлэл
+    header.toc=Агуулгын хүснэгт
+    label.back-to-top=Дээшээ буцах
+    label.global-location-toggle=Дэлхий даяар байршлыг өргөжүүлэх/нурах
+    label.global-navigation-toggle=Дэлхий нийтийн шатлалыг өргөжүүлэх/нурах
+    label.last-updated=Сүүлд шинэчлэгдсэн
+    label.last-updated-by=гэхэд
+    label.no-recommended-articles=Зөвлөмж болгож буй нийтлэл байхгүй байна.
+    label.password=Нууц үг
+    label.pdf-export=PDF хэлбэрээр хадгалах
+    label.signout=Гарах
+    label.site-search.button=Хайлт
+    label.site-search.input=Хайлт
+    label.skip-link=Үндсэн агуулга руу очих
+    label.tags=Сэдвийн
+    label.user-preferences=Миний тохиргоонууд
+    label.username=Хэрэглэгчийн нэр
+    link.quick-login=Нэвтрэх
+    link.site-search=Сайт хайх
+    placeholder.site-search.input=Бид танд хэрхэн туслах вэ?
+    tooltip.back-to-top=Энэ зүйлийн дээд буцаж очих
+    tooltip.browse-back=Өмнөх нийтлэл рүү буцах
+    tooltip.pdf-export=PDF хэлбэрээр экспортын хуудас
+    tooltip.signout=Энэ сайтаас гарч гарын үсэг зурах дарна уу
+    tooltip.skip-link=Хэвлэлийн үндсэн агуулга руу алгасах оруулна
+    tooltip.user-preferences=Хэрэглэгчийн тохиргоог өөрчлөхийн тулд дарна уу
+
+[Skin.Common]
+    copyright=Зохиогчийн эрх
+    home=Эдүүлбэр
+
+[System.API]
+    no-headers=Толгой байхгүй
+    opensearch-shortname=$1 Хайлт
+
+[Users]
+    email.body.html.content=<p>Баяр хүргэе, <br/><br/>\ R\ н\ R\ nТа одоо $4-д данстай байна. <br/><br/>Нэвтрэх даруй бусад олон нийтийн гишүүдтэй хамтран ажиллаж эхлэх. Доорх таны сайт хандалтын мэдээлэл нь:<br/><br/>\ R\ н\ R\ nSite URL: <a href="$2">$2</a><br/>\ R\ nUser нэр: $1<br/>Нууц үг: $3<br/><br/>\ R\ н\ R\ nIf та эхлэх тусламж хэрэгтэй, эсвэл <a href="$2">$4-ий</a>тухай тодорхой асуулт байна ороход, сайтын администратортой холбоо барина уу. </p>
+    email.body.html.content.nopassword=<p>Баяр хүргэе, <br/><br/>\ R\ н\ R\ nТа одоо $3-д данстай байна. <br/><br/>Нэвтрэх даруй бусад олон нийтийн гишүүдтэй хамтран ажиллаж эхлэх. Доорх таны сайт хандалтын дэлгэрэнгүй мэдээлэл байна:<br/><br/>\ R\ н\ R\ nSite URL: <a href="$2">$2</a><br/>\ R\ nUser нэр: $1<em>Та нууц үгээ мэдэхгүй бол сайтын администратор<br/><br/>Холбоо барих. </em><br/><br/>\ R\ н\ R\ nIf та эхлэх тусламж хэрэгтэй, эсвэл <a href="$2">$3-ий</a>тухай тодорхой асуулт байна, сайтын администратор холбоо барина уу!. </p>
+    email.body.text=\ R\ nБаяр хүргэе,\ R\ н\ R\ nТа одоо $4-д данстай байна. Нэвтрэх даруй бусад олон нийтийн гишүүдтэй хамтран ажиллаж эхлэх. Доорх таны сайт хандалтын мэдээлэл нь:\ R\ н\ R\ nSite URL: $2\ R\ nUser нэр: $1\ R\ nPassword: $3\ R\ н\ R\ nIf та эхлэх тусламж хэрэгтэй, эсвэл $4 талаар тодорхой асуулт байгаа ороход сайт администратор холбоо барина уу.
+    email.body.text.nopassword=\ R\ nБаяр хүргэе,\ R\ н\ R\ nТа одоо $3-д данстай байна. Нэвтрэх даруй бусад олон нийтийн гишүүдтэй хамтран ажиллаж эхлэх. Доорх таны сайт хандалтын дэлгэрэнгүй мэдээлэл байна:\ R\ н\ R\ nSite URL: $2\ R\ nUser нэр: $1\ R\ nContact сайт администратор та нууц үгээ мэдэхгүй бол. \ R\ н\ R\ nIf та эхлэх тусламж хэрэгтэй, эсвэл $3-ий тухай тодорхой асуулт байна, сайтын администратор холбоо барина уу!.
+    email.external.body.html.content=<p>Баяр хүргэе, <br/><br/>\ R\ н\ R\ nТа одоо $3-д данстай байна. <br/><br/>Нэвтрэх даруй бусад олон нийтийн гишүүдтэй хамтран ажиллаж эхлэх. Доорх таны сайт хандалтын дэлгэрэнгүй мэдээлэл байна:<br/><br/>\ R\ н\ R\ nSite URL: <a href="$2">$2</a><br/>\ R\ nUser нэр: $1<br/><br/>\ R\ н\ R\ nIf та эхлэх тусламж хэрэгтэй, эсвэл <a href="$2">$3-ий</a>тухай тодорхой асуулт байна ороход, сайтын администратор холбоо барина уу. </p>
+    email.subject=$1 Дэлгэрэнгүй мэдээллийг Нэвтрэх
+    form.password.instructions=Нууц үг нь хамгийн багадаа 8 тэмдэгт байх ёстой бөгөөд дор хаяж 3-аас доошгүй тэмдэгтүүдийг агуулсан байх ёстой: жижиг үсгээр, том үсэг, цифр эсвэл тэмдэг.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=хүссэн MindTouch Touchpoint таны вэб браузер дуудагдсан байж чадахгүй байна.
+    label.back-to-top=Дээшээ буцах
+
+[WebWidget.F1]
+    label.help-button=Тусламж
+    title.help-button=Тусламж
+
+[WebWidget.Login]
+    label.authenticated-user=MindTouch руу нэвтэрсэн {{хэрэглэгчийн нэр}}
+    label.sign-in=MindTouch руу нэвтэрнэ үү
+
+[WebWidget.Search]
+    label.collapse-summary=хураангуйг нурах дарна уу
+    label.disabled-message=Дараа нь дахин оролдоно уу.
+    label.disabled-title=Уучлаарай, хайлт одоогоор боломжгүй байна.
+    label.expand-summary=хураангуйг өргөжүүлэх дарна уу
+    label.forbidden-message=нэвтэрч уу, эсвэл таны сайт администратор холбоо барина уу.
+    label.forbidden-title=Та энэ боломжийг ашиглах зөвшөөрөл байхгүй байна.
+    label.input-hint=Хайлт
+    label.no-results-faceting-message=Өөр ямар нэг зүйл хайж эсвэл категорийг сонгохыг хичээ.
+    label.no-results-message=Өөр ямар нэг зүйл хайж үзээрэй.
+    label.no-results-title=Уучлаарай, бид таны хайж буй зүйлээ олж чадахгүй.
+    label.recommended=Зөвлөмж
+    label.refine-search=Хайлтыг боловсронгуй болгох
+    label.show-more=Дэлгэрэнгүй харуулах
+
+[WebWidgets]
+    label.authenticated-user=Сайн байна уу, {{хэрэглэгчийн нэр}}!
+    label.nav.back=Буцах
+    label.nav.forward=Форвард
+    label.nav.home=Эдүүлбэр
+
+[Component.Translate]
+    label.choose-language=Хэл сонгох
+    label.english=Англи хэл
+    label.update-failed=Бүрэн бус орчуулга
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=Францын
+    language.french=Франсайс
+    language.portuguese=Португалийн
+    language.dutch=Нидерландс
+    language.korean=한국어
+    language.swedish=Свенска
+    language.danish=Dansk
+    language.finnish=Суомалаинен
+    language.italian=Итали
+    title.translated-machine=Машины орчуулгыг ашиглан орчуулсан хуудасны агуулга
+    dialog.translated-mindtouch=Орчуулсан MindTouch
