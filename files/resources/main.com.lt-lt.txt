@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=Pranešimo skyrius Tuščios antraštės
+[Dialog.CopyMove]
+    placeholder.search=Paieška
 
-[Old.Category]
-    dialog.old.select.title=Senas dialogo langas Pasirinkti pavadinimą
+[F1]
+    dialog.text.back=Atgal
+    dialog.text.forward=Persiųsti
+    dialog.text.hint=paieška
+    dialog.text.home=Namuose
+    dialog.text.open=Atidaryti straipsnį
 
-[Web.Defaults]
-    error.message=Klaidos pranešimas
+[MindTouch.Help.Page]
+    category-selector=Patikslinkite rezultatus pasirinkdami filtrą.
+    help-header-label=Pagalba rezultatai
+    in=į
+    label-filter=Ieškoma
+    label-result-count=Apie {0} rezultatus
+    label-search-all=Visi rezultatai
+    label.page-rating-no=Ne
+    label.page-rating-yes=Taip
+    more=Daugiau
+    no-search-results=Atsiprašome, mes negalime rasti to, ko ieškote.
+    no-search-try=Pabandykite ieškoti ko nors kito, pasirinkdami kategoriją arba bandykite sukurti bilietą.
+    recommended=(Rekomenduojama)
+    search-error=Paieška susidūrė su klaida.
+    search-error-try=Bandykite dar kartą vėliau.
+    search-unavailable=Atsiprašome, paieška šiuo metu nepasiekiama.
+    show-more-search=Rodyti daugiau rezultatų
+    tooltip.scrollNext=Slinkite į kitą
+    tooltip.scrollPrev=Pereikite prie ankstesnio
+    warning.search-only-english=Paieška galima tik anglų kalba
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(sukurta data)
+    featured.articles.created.title=Neseniai pridėta
+    featured.articles.rated.label=(reitingas)
+    featured.articles.rated.title=Aukščiausia įvertinta
+    featured.articles.updated.label=(data atnaujinta)
+    featured.articles.updated.title=Neseniai atnaujinta
+    featured.articles.viewed.label=(peržiūros)
+    featured.articles.viewed.title=Populiariausias
+    label.guide-subpage-display-single=Vienvietis
+    label.guide-subpage-display-tabbed=Skirtukais
+    label.guide.tabscrollleft=Slinkite skirtukus į kairę
+    label.guide.tabscrollright=Slinkite skirtukus dešinėje
+    label.reveal.showAll=Rodyti visus
+    label.reveal.showLess=Rodyti mažiau
+    label.search.placeholder=Paieška
+    type.how-to=Kaip tai daryti
+    type.howto=Kaip tai daryti
+    type.reference=Pagalba
+    type.topic=Tema
+    type.topic-category=Kategorija
+    type.topic-guide=Vadovas
+    type.topic-portfolio=Port
+    type.unclassified=Neklasifikuota
+
+[MindTouch.LearningPath]
+    label.view-pages=Peržiūrėti puslapius
+    message.page-count=<span>Puslapiai:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=paslėpti
+    button.toggle.show=Rodyti
+    label.attachments=Įtraukti priedus
+    label.attachments-description=Turinio tipas
+    label.attachments.type.binary=Kitas
+    label.attachments.type.document=Dokumentas
+    label.attachments.type.image=Paveikslėlis
+    label.classification=klasifikacija
+    label.clear-all=Išvalyti visus filtrus
+    label.description=Filtrų rezultatai
+    label.filters=filtrai
+    label.location=Vieta
+    label.location-empty=Nėra vietų filtruoti
+
+[MindTouch.Subscriptions]
+    cancel=Atšaukti
+    caption.normal=Jūs užsiprenumeravote šiuos puslapius.
+    caption.nosubscriptions=Jūs nesate užsiprenumeravę jokių puslapių.
+    column.page=Puslapis
+    column.recursive=Pranešimai el. paštu
+    link-title=Sužinokite daugiau apie pranešimų valdymą “MindTouch”
+    nonrecursive=Tik šis puslapis
+    nonrecursive.draft=Tik šis projektas
+    recursive.many=$1 puslapiai
+    recursive.many.draft=$1 juodraščiai
+    recursive.many.overflow=Prenumeruoti visus subpuslapius
+    recursive.many.overflow.draft=Prenumeruoti visus subpage projektus
+    recursive.one=1 puslapis
+    recursive.one.draft=1 projektas
+    unsubscribe=Atsisakyti prenumeratos
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=Uždaryti žinutę
+
+[Page.AuthenticationProviders]
+    page-title=Prisijungti
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">Aplankykite success.mindtouch.com visoms žinyno temoms. </a>
+
+[Page.Error]
+    not-found=Puslapis nerastas
+    not-found-error=Atsiprašome, puslapis $1 negalėjo būti rastas.
+    not-found-results=Susiję paieškos rezultatai:
+    page-title=Klaida
+
+[Page.FeedbackRating]
+    button.leave-feedback=Palikite atsiliepimus
+    button.rating-no=Ne
+    button.rating-yes=Taip
+    button.submit-feedback=Pateikti atsiliepimą
+    label.checkbox.contact-me=Taip, galite susisiekti su manimi apie šį atsiliepimą.
+    label.feedback-question=Kaip mes galime patobulinti šį straipsnį?
+    label.last-rated=— Jūs paskutinį kartą įvertinote šį straipsnį apie $1
+    label.rating-message=Ar šis straipsnis buvo naudingas?
+    legend.feedback-form=Palikite atsiliepimus
+    message.contact.no=Ne
+    message.contact.yes=Taip
+    message.submit.error=Bandant siųsti atsiliepimus įvyko klaida. Bandykite dar kartą vėliau.
+    message.submit.success=Jūsų atsiliepimai buvo sėkmingai pateikti. Galite pateikti daugiau atsiliepimų bet kuriuo metu.
+
+[Page.LiveTags]
+    label.article=Straipsnio tipas
+
+[Page.LoginPasswordRegister]
+    page-title=Prisijungimas ir registracija
+    tab.login=Prisijungti
+    tab.password=Slaptažodžio nustatymas
+    tab.register=Registracija
+
+[Page.Preferences]
+    error.invalid-email=Nurodykite galiojantį el. pašto adresą
+    form.email=El. pašto adresas
+    form.fullname=Rodomas pavadinimas
+    form.fullname.help=Tik rodymo tikslais
+    form.hint.password-characters=Slaptažodyje turi būti bent 3 iš šių simbolių: mažosios, didžiosios raidės, skaitmenys ar simboliai.
+    form.hint.password-length=Slaptažodis turi būti ne mažesnis kaip 8 simboliai
+    form.hint.password-match=Slaptažodžiai turi sutapti
+    form.hint.password.restricted-words=Slaptažodyje negali būti įprastų slaptažodžių
+    form.legend.information=Mano informacija
+    form.legend.password=Mano slaptažodis
+    form.password.new=Naujas slaptažodis
+    form.password.old=Senas slaptažodis
+    form.password.submit=Keisti slaptažodį
+    form.password.verify=Pakartotinis naujo slaptažodžio
+    form.submit=Išsaugokite mano informaciją
+
+[Page.Tags]
+    message.notags=Šiame puslapyje nėra žymių.
+    page-title=Svetainės žymės
+    tags-inserted-from-template=Žymės rekomenduojamos šabloną:
+    tags-inserted-heading=Puslapio žymės:
+
+[Page.UserLogin]
+    error=Jūsų prisijungimas nepavyko. Prašome patikrinti savo vartotojo vardą ir slaptažodį.
+    page-title=Prisijungti
+    submit-login=Prisijungti
+    user-name=Vartotojo vardas
+    user-password=Slaptažodis
+
+[Page.UserLogout]
+    page-title=Atsijungti
+    success=Jūs sėkmingai atsijungėte.
+
+[Page.UserPassword]
+    form.submit=Slaptažodžio nustatymas
+    page-title=Slaptažodžio nustatymas
+    success.email-sent=Slaptažodžio nustatymo iš naujo instrukcijos išsiųstos el. pašto adresu, registruotu šiam abonementui. Jei negaunate el. laiško, patikrinkite rašybą ir bandykite dar kartą. Kreipkitės į svetainės administratorių, jei ir toliau kyla problemų prisijungiant.
+
+[Page.UserRegistration]
+    error.email.match=Jūsų įvesti el. Laiškai nesutampa.
+    error.password.match=Slaptažodžiai, kuriuos įvedėte, nesutampa.
+    form.email=Email
+    form.email.verify=Patvirtinti el. laišką
+    form.fullname=Pilnas pavadinimas <span class="note">(neprivaloma)</span>
+    form.password=Slaptažodis
+    form.password.verify=Patvirtinti slaptažodį
+    form.submit=Sukurkite paskyrą
+    form.username=Vartotojo vardas
+    page-title=Sukurkite paskyrą
+    success.created=Vartotojas <strong>$1</strong> buvo sukurtas.
+
+[Page.Welcome]
+    community-banner-text=Dabar galite prisidėti ir bendrinti turinį.
+    community-banner-title=Sveiki, $1. Jūsų paskyra buvo sukurta.
+    community-get-started-text=<strong>Štai keletas patarimų, kurie padės jums pradėti:</strong>
+    community-tip1-text=Pateikite svetainių savininkams vertingus atsiliepimus apie svetainės turinį. Ar straipsnis buvo naudingas? Spustelėkite <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">Taip</span>. Jei ne, spustelėkite <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">Palikti atsiliepimą</span> ir pasakykite mums, kaip mes galime patobulinti. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">Sužinokite daugiau</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=Pradėkite pokalbį komentuodamas puslapį. Prisidėkite savo informaciją arba atsakykite į kitų naudotojų komentarus. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">Sužinokite daugiau</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=Slaptažodžio nustatymas
+
+[Product]
+    powered-by-site=Powered by MindTouch
+
+[Skin.Columbia]
+    button.quick-login=Prisijungti
+    header.recommended-articles=Rekomenduojami straipsniai
+    header.toc=Turinys
+    label.back-to-top=Atgal į viršų
+    label.global-location-toggle=Išplėsti/žlugti pasaulinę vietą
+    label.global-navigation-toggle=Išplėsti/žlugti pasaulinę hierarchiją
+    label.last-updated=Paskutinį kartą atnaujinta
+    label.last-updated-by=autorius
+    label.no-recommended-articles=Nėra rekomenduojamų straipsnių.
+    label.password=Slaptažodis
+    label.pdf-export=Išsaugoti kaip PDF
+    label.signout=Atsijungti
+    label.site-search.button=Paieška
+    label.site-search.input=Paieška
+    label.skip-link=Pereiti prie pagrindinio turinio
+    label.tags=žymės
+    label.user-preferences=Mano pageidavimai
+    label.username=Vartotojo vardas
+    link.quick-login=Prisijungti
+    link.site-search=Paieška svetainėje
+    placeholder.site-search.input=Kaip mes galime jums padėti?
+    tooltip.back-to-top=Peršokti atgal į šio straipsnio viršų
+    tooltip.browse-back=Grįžti į ankstesnį straipsnį
+    tooltip.pdf-export=Eksportuoti puslapį kaip PDF
+    tooltip.signout=Spustelėkite, jei norite atsijungti nuo šios svetainės
+    tooltip.skip-link=Paspauskite Enter, kad praleistumėte pagrindinį turinį
+    tooltip.user-preferences=Spustelėkite, kad pakeistumėte naudotojo nuostatas
+
+[Skin.Common]
+    copyright=Autorių teisės
+    home=Namuose
+
+[System.API]
+    no-headers=Nėra antraščių
+    opensearch-shortname=$1 Paieška
+
+[Users]
+    email.body.html.content=<p>Sveikiname, <br/><br/>\ r\ n\ r\ nDabar turite paskyrą $4. <br/><br/>Prisijunkite, kad iškart pradėtumėte bendradarbiauti su kitais bendruomenės nariais. Žemiau pateikiama informacija apie prieigą prie svetainės:<br/><br/>\ r\ n\ r\ nSvetainės URL: <a href="$2">$2</a><br/>\ r\ nVartotojo vardas: $1<br/>Slaptažodis: $3<br/><br/>\ r\ n\ r\ nJei jums reikia pagalbos pradėti arba turite konkrečių klausimų apie <a href="$2">$4</a>, susisiekite su svetainės administratoriumi. </p>
+    email.body.html.content.nopassword=<p>Sveikiname, <br/><br/>\ r\ n\ r\ nDabar turite paskyrą $3. <br/><br/>Prisijunkite, kad iškart pradėtumėte bendradarbiauti su kitais bendruomenės nariais. Žemiau pateikiama informacija apie prieigą prie svetainės:<br/><br/>\ r\ n\ r\ nSvetainės URL: <a href="$2">$2</a><br/>\ r\ Nuser vardas: $1<br/><br/><em>Susisiekite su svetainės administratoriumi, jei nežinote savo slaptažodžio. </em><br/><br/>\ r\ n\ r\ nJei jums reikia pagalbos pradėti arba turite konkrečių klausimų apie <a href="$2">$3</a>, susisiekite su svetainės administratoriumi. </p>
+    email.body.text=\ r\ nSveikiname,\ r\ n\ r\ nDabar turite paskyrą $4. Prisijunkite, kad iškart pradėtumėte bendradarbiauti su kitais bendruomenės nariais. Žemiau pateikiama informacija apie prieigą prie svetainės:\ r\ n\ r\ nSvetainės URL: $2\ r\ nVartotojo vardas: $1\ r\ nSlaptažodis: $3\ r\ n\ r\ nJei jums reikia pagalbos pradėti arba turite konkrečių klausimų apie $4, susisiekite su svetainės administratoriumi.
+    email.body.text.nopassword=\ r\ nSveikiname,\ r\ n\ r\ nDabar turite paskyrą $3. Prisijunkite, kad iškart pradėtumėte bendradarbiauti su kitais bendruomenės nariais. Žemiau pateikiama jūsų svetainės prieigos informacija:\ r\ n\ r\ nSvetainės URL: $2\ r\ nVartotojo vardas: $1\ r\ nSusisiekite su svetainės administratoriumi, jei nežinote slaptažodžio. \ r\ n\ r\ nJei jums reikia pagalbos pradėti arba turite konkrečių klausimų apie $3, susisiekite su svetainės administratoriumi.
+    email.external.body.html.content=<p>Sveikiname, <br/><br/>\ r\ n\ r\ nDabar turite paskyrą $3. <br/><br/>Prisijunkite, kad iškart pradėtumėte bendradarbiauti su kitais bendruomenės nariais. Žemiau pateikiama informacija apie prieigą prie svetainės:<br/><br/>\ r\ n\ r\ nSvetainės URL: <a href="$2">$2</a><br/>\ r\ nUser vardas: $1<br/><br/>\ r\ n\ r\ nJei jums reikia pagalbos pradėti arba turite konkrečių klausimų apie <a href="$2">$3</a>, susisiekite su svetainės administratoriumi. </p>
+    email.subject=$1 Prisijungti detalės
+    form.password.instructions=Slaptažodžiai turi būti ne trumpesni kaip 8 simboliai ir juose turi būti bent 3 iš šių simbolių: mažosios, didžiosios raidės, skaitmenys ar simboliai.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=Prašomos MindTouchpoint negali būti pakrautas jūsų interneto naršyklėje.
+    label.back-to-top=Atgal į viršų
+
+[WebWidget.F1]
+    label.help-button=Pagalba
+    title.help-button=Pagalba
+
+[WebWidget.Login]
+    label.authenticated-user=Prisijungė prie MindTouch kaip {{vartotojo vardas}}
+    label.sign-in=Prisijunkite prie MindTouch
+
+[WebWidget.Search]
+    label.collapse-summary=Spustelėkite norėdami sutraukti santrauką
+    label.disabled-message=Bandykite dar kartą vėliau.
+    label.disabled-title=Atsiprašome, paieška šiuo metu nepasiekiama.
+    label.expand-summary=Spustelėkite, norėdami išplėsti santrauką
+    label.forbidden-message=Prisijunkite arba susisiekite su svetainės administratoriumi.
+    label.forbidden-title=Jūs neturite leidimo naudoti šią funkciją.
+    label.input-hint=Paieška
+    label.no-results-faceting-message=Pabandykite ieškoti kažko kito arba pasirinkti kategoriją.
+    label.no-results-message=Pabandykite ieškoti kažko kito.
+    label.no-results-title=Atsiprašome, mes negalime rasti to, ko ieškote.
+    label.recommended=Rekomenduojamas
+    label.refine-search=Patikslinti paiešką
+    label.show-more=Rodyti daugiau
+
+[WebWidgets]
+    label.authenticated-user=Sveiki, {{vartotojo vardas}}!
+    label.nav.back=Atgal
+    label.nav.forward=Persiųsti
+    label.nav.home=Namuose
+
+[Component.Translate]
+    label.choose-language=Pasirinkti kalbą
+    label.english=Anglų
+    label.update-failed=Vertimas Nebaigtas
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=Français
+    language.portuguese=Portugueso
+    language.dutch=Nederlands
+    language.korean=한국어
+    language.swedish=Svenska
+    language.danish=Danskas
+    language.finnish=Suomalainen
+    language.italian=Italų kalba
+    title.translated-machine=Puslapio turinys išverstas naudojant mašininį vertimą
+    dialog.translated-mindtouch=Išvertė MindTouch
