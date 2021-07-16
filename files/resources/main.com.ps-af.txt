@@ -1,8 +1,293 @@
-[Section.Headers]
-    message.section.empty.header=استوزه برخه تش سرۍ
+[Dialog.CopyMove]
+    placeholder.search=پلټنه
 
-[Old.Category]
-    dialog.old.select.title=کړکۍ پخوانۍ سرليک ټاکل
+[F1]
+    dialog.text.back=شاته
+    dialog.text.forward=مخته
+    dialog.text.hint=لټون
+    dialog.text.home=کور
+    dialog.text.open=پرانيستل مقاله
 
-[Web.Defaults]
-    error.message=تېروتنه استوزه
+[MindTouch.Help.Page]
+    category-selector=د فلټر غوره کولو له لارې پایلې پاکول.
+    help-header-label=د مرستې پايلې لپاره
+    in=په
+    label-filter=لټون کول
+    label-result-count=د {0} پايلو په اړه
+    label-search-all=ټولې پایلې
+    label.page-rating-no=نه
+    label.page-rating-yes=هو
+    more=نور
+    no-search-results=بخښنه غواړم، موږ نشو موندلی چې تاسو یې په لټه کې یاست.
+    no-search-try=هڅه وکړئ د بل څه لټون وکړئ، د کټګورۍ غوره کول، یا د ټکټ جوړولو هڅه وکړئ.
+    recommended=(وړانديز شوی)
+    search-error=لټون د يوې تېروتنې سره مخ شوی دی.
+    search-error-try=مهرباني وکړئ وروسته بیا هڅه وکړئ.
+    search-unavailable=بخښنه غواړم، پلټنه اوس شتون نلري.
+    show-more-search=نور پايلې ښودل
+    tooltip.scrollNext=راتلونکي ته ولېږل
+    tooltip.scrollPrev=مخکني ته ولېږل
+    warning.search-only-english=لټون یوازې په انګلیسي ژبه شتون لري
+
+[MindTouch.IDF3]
+    featured.articles.created.label=(نیټه جوړه شوې)
+    featured.articles.created.title=په دې وروستیو کې اضافه
+    featured.articles.rated.label=(درجه بندي)
+    featured.articles.rated.title=تر ټولو لوړ رتبه
+    featured.articles.updated.label=(تازه شوي نیټه)
+    featured.articles.updated.title=په دې وروستيو کې تازه
+    featured.articles.viewed.label=(نظرونه)
+    featured.articles.viewed.title=تر ټولو مشهور
+    label.guide-subpage-display-single=واحد
+    label.guide-subpage-display-tabbed=ټبلډ
+    label.guide.tabscrollleft=کيڼ ټبونه ولېږل
+    label.guide.tabscrollright=ښي ټبونه ولېږول
+    label.reveal.showAll=ټول ښودل
+    label.reveal.showLess=لږ ښودل
+    label.search.placeholder=پلټنه
+    type.how-to=څنګه
+    type.howto=څنګه
+    type.reference=حواله
+    type.topic=موضوع
+    type.topic-category=وېشنيزه
+    type.topic-guide=لارښود
+    type.topic-portfolio=پورتففیو
+    type.unclassified=نا محرمه
+
+[MindTouch.LearningPath]
+    label.view-pages=مخونه کتل
+    message.page-count=<span>مخونه:</span> $1
+
+[MindTouch.SearchFilters]
+    button.toggle.hide=پټول
+    button.toggle.show=ښودل
+    label.attachments=ضمیمې شاملول
+    label.attachments-description=د منځپانګې ډول
+    label.attachments.type.binary=نور
+    label.attachments.type.document=لاسوند
+    label.attachments.type.image=انځور
+    label.classification=ډلبندۍ
+    label.clear-all=ټول فلټرونه پاکول
+    label.description=فلټر پايلې
+    label.filters=فلټرونه
+    label.location=ځای
+    label.location-empty=د فلټر کولو لپاره کوم ځای شتون نلري
+
+[MindTouch.Subscriptions]
+    cancel=لغوه کول
+    caption.normal=تاسو په لاندې مخونو کې ګډون کړی یاست.
+    caption.nosubscriptions=تاسو په کوم مخونو کې ګډون نه کوئ.
+    column.page=مخ
+    column.recursive=د برېښناليک خبرتیاوې
+    link-title=په ذهن ټچ کې د خبرتیاوو اداره کولو په اړه نور معلومات
+    nonrecursive=دا پاڼه يوازې
+    nonrecursive.draft=دا مسوده یوازې
+    recursive.many=$1 مخونه
+    recursive.many.draft=$1 مسودې
+    recursive.many.overflow=ټولو فرعي مخونو کې ګډون
+    recursive.many.overflow.draft=د ټولو فرعي مخونو مسودې کې ګډون
+    recursive.one=1 مخ
+    recursive.one.draft=1 مسوده
+    unsubscribe=ګډون نه کول
+
+[MindTouch.Templates.Controls.InfoMessage]
+    button.close.message=استوزه بندول
+
+[Page.AuthenticationProviders]
+    page-title=لاسليک
+
+[Page.BlankArticle]
+    help-link=<a class="mt-f1-success" href="https://success.mindtouch.com/" target="_blank">د ټولو مرستندویه موضوعاتو لپاره بریالیتوبونه وګورئ. </a>
+
+[Page.Error]
+    not-found=مخ ونه موندل شو
+    not-found-error=بخښنه غواړم، په $1 پاڼه ونه موندل شو.
+    not-found-results=د اړونده لټون پایلې:
+    page-title=تېروتنه
+
+[Page.FeedbackRating]
+    button.leave-feedback=فیډبک پریښودل
+    button.rating-no=نه
+    button.rating-yes=هو
+    button.submit-feedback=فیډبک جمع کړئ
+    label.checkbox.contact-me=هو، تاسو کولی شئ د دې نظرونو په اړه ما سره اړیکه ونیسئ.
+    label.feedback-question=موږ څنګه کولای شو دا مقاله ښه کړو؟
+    label.last-rated=- تاسو دا مقاله په $1 کې درجه کړه
+    label.rating-message=ایا دا مقاله ګټوره وه؟
+    legend.feedback-form=فیډبک پریښودل
+    message.contact.no=نه
+    message.contact.yes=هو
+    message.submit.error=ستاسو د نظرونو د لیږلو په وخت کې یوه تېروتنه رامنځ ته شوه. مهرباني وکړئ په وروستي وخت کې بیا هڅه وکړئ.
+    message.submit.success=ستاسو نظرونه په بریالیتوب سره سپارل شوي. تاسو کولی شئ په هر وخت کې نور نظرونه وړاندې کړئ.
+
+[Page.LiveTags]
+    label.article=د مقالې ډول
+
+[Page.LoginPasswordRegister]
+    page-title=په نوم لیکنه او نوم لیکنه
+    tab.login=لاسليک
+    tab.password=تېرنويې بيا
+    tab.register=ثبتول
+
+[Page.Preferences]
+    error.invalid-email=مهرباني وکړئ یو باوري برېښليک پته مشخص کړئ
+    form.email=برېښليک پته
+    form.fullname=ښوون نوم
+    form.fullname.help=یوازې د ښودلو موخو لپاره
+    form.hint.password-characters=پاسورډ باید لږ تر لږه د لاندې حروفونو 3 ولري: ټیټ، لوړې، شمیرې یا سمبولونه.
+    form.hint.password-length=تېرنويې بايد په اوږدوالي کې لږ تر لږه 8 حروفونه وي
+    form.hint.password-match=شفرونه باید سمون ولري
+    form.hint.password.restricted-words=تېرنويې عام تېرنويې ويې نه شي لري
+    form.legend.information=زما معلومات
+    form.legend.password=زما تېرنويې
+    form.password.new=نوی تېرنويې
+    form.password.old=پخوانی تېرنويې
+    form.password.submit=تېرنويې بدلول
+    form.password.verify=نوی تېرنويې بياپيلول
+    form.submit=زما معلومات خوندي کړئ
+
+[Page.Tags]
+    message.notags=دا پاڼه ټګونه نه لري.
+    page-title=د سایټ ټګونه
+    tags-inserted-from-template=د ټیلیفوني لخوا وړاندیز شوي ټګونه:
+    tags-inserted-heading=:مخ ټګونه
+
+[Page.UserLogin]
+    error=ستاسو په نښه کې ناکامه شوې. مهرباني وکړئ خپل کارن-نوم او پټنوم تایید کړئ.
+    page-title=لاسليک
+    submit-login=لاسليک
+    user-name=کارن-نوم
+    user-password=تېرنويې
+
+[Page.UserLogout]
+    page-title=لاسليک
+    success=تاسو په بریالیتوب سره لاسلیک کړی.
+
+[Page.UserPassword]
+    form.submit=تېرنويې بيا
+    page-title=تېرنويې بيا
+    success.email-sent=د پټنوم د بیا رغونې لارښوونې د دې حساب لپاره راجستر شوي بریښنالیک پتې ته لیږل شوي. که تاسو بریښنالیک نه ترلاسه کوئ، مهرباني وکړئ خپل سپیل وګورئ او بیا هڅه وکړئ. د خپل سایټ مدیر سره اړیکه ونیسئ که تاسو په لاسلیک کولو کې مسلو ته ادامه ورکوئ.
+
+[Page.UserRegistration]
+    error.email.match=هغه بریښنالیکونه چې تاسو یې داخل کړل، سره سمون نلري.
+    error.password.match=هغه شفرونه چې تاسو داخل کړل سره سمون نه لري.
+    form.email=برېښناليک
+    form.email.verify=برېښليک تصديق
+    form.fullname=بشپړ نوم <span class="note">(اختیاري)</span>
+    form.password=تېرنويې
+    form.password.verify=تېرنويې تاييد کړئ
+    form.submit=یو ګڼون جوړول
+    form.username=کارن-نوم
+    page-title=یو ګڼون جوړول
+    success.created=کارن <strong>$1</strong> جوړ شوی.
+
+[Page.Welcome]
+    community-banner-text=تاسو اوس کولی شئ د منځپانګې سره مرسته وکړئ او شریک کړئ.
+    community-banner-title=ښه راغلاست، $1. ستاسو حساب جوړ شوی دی.
+    community-get-started-text=<strong>دلته د پیل کولو کې د مرستې لپاره ځینې لارښوونې دي:</strong>
+    community-tip1-text=د ساحې مالکین د ساحې د محتوا په اړه د ارزښتناکه نظرونو سره چمتو کړئ. ایا مقاله ګټوره وه؟ کلیک وکړئ <span class="mt-rating-button-yes mt-feedback-rating-button ui-button-icon mt-icon-rating-yes">هو</span>. که نه، د <span class="mt-feedback-button mt-feedback-rating-button ui-button-icon mt-icon-leave-feedback">پریډ فیډریشن</span> کلیک وکړئ ترڅو موږ ته ووایاست چې موږ څنګه وده کولی شو. <br /><a href="https://success.mindtouch.com/@go/cid/feedbackrating" target="_blank">نور زده کړئ</a>
+    community-tip1-title=<div class="mt-thumbnail-feedback" title="Provide feedback">
+    community-tip2-text=په یوه پاڼه کې د تبصره کولو له لارې خبرې اترې پیل کړئ. د خپل ځان معلومات سره مرسته وکړئ یا د نورو کاروونکو تبصرو ته ځواب ورکړئ. <br /><a href="https://success.mindtouch.com/@go/cid/comments" target="_blank">نور زده کړئ</a>
+    community-tip2-title=<div class="mt-thumbnail-comment" title="Comment on a page">
+    reset.password.welcome=تېرنويې بيا
+
+[Product]
+    powered-by-site=د ماین ټچ لخوا ځواکمن شوی
+
+[Skin.Columbia]
+    button.quick-login=لاسليک
+    header.recommended-articles=سپارښتنې مقالې
+    header.toc=د منځپانګې جدول
+    label.back-to-top=بېرته سر ته
+    label.global-location-toggle=نړیوال موقعیت پراخو/کمول
+    label.global-navigation-toggle=د نړیوال حوزې پراخو/تباهول
+    label.last-updated=وروستی اوسمهول
+    label.last-updated-by=د
+    label.no-recommended-articles=د سپارښتنې مقالې شتون نلري.
+    label.password=تېرنويې
+    label.pdf-export=لکه PDF ساتل
+    label.signout=لاسليک
+    label.site-search.button=پلټنه
+    label.site-search.input=پلټنه
+    label.skip-link=اصلي منځپانګې ته لاړ شئ
+    label.tags=ټګګونه
+    label.user-preferences=زما غوراوي
+    label.username=کارن-نوم
+    link.quick-login=لاسليک
+    link.site-search=د لټون ځای
+    placeholder.site-search.input=موږ څنګه ستاسو سره مرسته کولی شو؟
+    tooltip.back-to-top=د دې مقالې سر ته بیرته ټوپ کړئ
+    tooltip.browse-back=بېرته مخکني مقالې ته ورتلل
+    tooltip.pdf-export=پاڼه د PDF په توګه صادرول
+    tooltip.signout=د دې سایټ څخه د لاسلیک کولو لپاره کلیک وکړئ
+    tooltip.skip-link=اصلي منځپانګې ته د پریدلو لپاره ننوتنه کېکاږئ
+    tooltip.user-preferences=د خپل کارن غوره توبونو بدلولو لپاره کلیک وکړئ
+
+[Skin.Common]
+    copyright=د چاپ حق
+    home=کور
+
+[System.API]
+    no-headers=سرۍ نشته
+    opensearch-shortname=$1 لټون
+
+[Users]
+    email.body.html.content=<p>مبارکۍ، <br/><br/>\ r\ n\ r\ nتاسو اوس په $4 کې حساب لرئ. <br/><br/>په سمدستي توګه د ټولنې د نورو غړو سره د همکارۍ پیل کولو لپاره لاسلیک کړئ. لاندې ستاسو د سایټ د لاسرسي توضیحات دي:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nد کارن نوم: $1<br/>پاسورډ: $3<br/><br/>\ r\ n\ r\ n\ nکه تاسو د پیل کولو لپاره مرستې ته اړتیا لرئ یا د <a href="$2">$4</a>په اړه ځانګړي پوښتنې لرئ، مهرباني وکړئ د سایټ مدیر سره اړیکه ونیسئ. </p>
+    email.body.html.content.nopassword=<p>مبارکۍ، <br/><br/>\ r\ n\ r\ nتاسو اوس په $3 کې حساب لرئ. <br/><br/>په سمدستي توګه د ټولنې د نورو غړو سره د همکارۍ پیل کولو لپاره لاسلیک کړئ. لاندې ستاسو د سایټ د لاسرسي توضیحات دي:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nد کارن نوم: $1<em>د سایټ مدیر<br/><br/>سره اړیکه ونیسئ که تاسو خپل پټنوم نه پوهیږئ. </em><br/><br/>\ r\ n\ r\ nکه تاسو د پیل کولو لپاره مرستې ته اړتیا لرئ یا د <a href="$2">$3</a>په اړه ځانګړي پوښتنې لرئ، مهرباني وکړئ د سایټ مدیر سره اړیکه ونیسئ. </p>
+    email.body.text=\ r\ nمبارکي،\ r\ n\ r\ nتاسو اوس په $4 حساب لرئ. په سمدستي توګه د ټولنې د نورو غړو سره د همکارۍ پیل کولو لپاره لاسلیک کړئ. لاندې ستاسو د سایټ د لاسرسي توضیحات دي:\ r\ n\ r\ nSite URL: $2\ r\ nد کارن نوم: $1\ r\ nPassword: $3\ r\ n\ r\ n\ nکه تاسو د پیل کولو لپاره مرستې ته اړتیا لرئ یا د $4 په اړه ځانګړي پوښتنې لرئ، مهرباني وکړئ د سایټ مدیر سره اړیکه ونیسئ.
+    email.body.text.nopassword=\ r\ nمبارکي،\ r\ n\ r\ nتاسو اوس په $3 کې حساب لرئ. په سمدستي توګه د ټولنې د نورو غړو سره د همکارۍ پیل کولو لپاره لاسلیک کړئ. لاندې ستاسو د سایټ د لاسرسي توضیحات دي:\ r\ n\ r\ nSite URL: $2\ r\ nد کارن نوم: $1\ r\ nد سایټ مدیر سره اړیکه ونیسئ که تاسو خپل پټنوم نه پوهیږئ. \ r\ n\ r\ nکه تاسو د پیل کولو لپاره مرستې ته اړتیا لرئ یا د $3 په اړه ځانګړي پوښتنې لرئ، مهرباني وکړئ د سایټ مدیر سره اړیکه ونیسئ.
+    email.external.body.html.content=<p>مبارکۍ، <br/><br/>\ r\ n\ r\ nتاسو اوس په $3 کې حساب لرئ. <br/><br/>په سمدستي توګه د ټولنې د نورو غړو سره د همکارۍ پیل کولو لپاره لاسلیک کړئ. لاندې ستاسو د سایټ لاسرسی توضیحات دي:<br/><br/>\ r\ n\ r\ nSite URL: <a href="$2">$2</a><br/>\ r\ nد کارن نوم: $1<br/><br/>\ r\ n\ r\ nکه تاسو د پیل کولو لپاره مرستې ته اړتیا لرئ یا د <a href="$2">$3</a>په اړه ځانګړي پوښتنې لرئ، مهرباني وکړئ د سایټ مدیر سره اړیکه ونیسئ. </p>
+    email.subject=$1 په جزیاتو کې لاسلیک
+    form.password.instructions=پاسورډونه باید لږ تر لږه 8 حروفونه وي او لږترلږه د لاندې حروفونو 3 ولري: ټیټ، لوړې، شمیرې یا سمبولونه.
+
+[WebWidget.Common]
+    error.web-browser-unsupported=غوښتل شوي ماین ټچ ټچ پوائنټ ستاسو د ویب براؤزر لخوا نه لوډ کیدی شي.
+    label.back-to-top=بېرته سر ته
+
+[WebWidget.F1]
+    label.help-button=مرسته
+    title.help-button=مرسته
+
+[WebWidget.Login]
+    label.authenticated-user=د ذهن ټچ ته د {{کارن-نوم}} په توګه لاسلیک شوی
+    label.sign-in=د ذهن ټچ ته لاسليک کړئ
+
+[WebWidget.Search]
+    label.collapse-summary=د لنډیز د ړنګولو لپاره کلیک
+    label.disabled-message=مهرباني وکړئ وروسته بیا هڅه وکړئ.
+    label.disabled-title=بخښنه غواړم، پلټنه اوس شتون نلري.
+    label.expand-summary=د لنډیز پراخولو لپاره کلیک وکړئ
+    label.forbidden-message=مهرباني وکړئ ننوځئ، یا د خپل سایټ مدیر سره اړیکه ونیسئ.
+    label.forbidden-title=تاسو د دې ځانګړتیا د کارولو اجازه نلرئ.
+    label.input-hint=پلټنه
+    label.no-results-faceting-message=هڅه وکړئ د بل څه لټون وکړئ یا د کټګورۍ غوره کړئ.
+    label.no-results-message=هڅه وکړئ د بل څه لټون وکړئ.
+    label.no-results-title=بخښنه غواړم، موږ نشو موندلی چې تاسو یې په لټه کې یاست.
+    label.recommended=وړانديز شوی
+    label.refine-search=لټون چاول
+    label.show-more=نور ښودل
+
+[WebWidgets]
+    label.authenticated-user=سلام، {{کارن-نوم}}!
+    label.nav.back=شاته
+    label.nav.forward=مخته
+    label.nav.home=کور
+
+[Component.Translate]
+    label.choose-language=ژبه غوره کړئ
+    label.english=انګريزي
+    label.update-failed=ژباړه نیمګړی
+    language.spanish=Español
+    language.german=Deutsch
+    language.japanese=日本語
+    language.chinese=中国人
+    language.french=فرانسیس
+    language.portuguese=پرینټلیسا
+    language.dutch=نیډرلانډز
+    language.korean=한국어
+    language.swedish=سویسکا
+    language.danish=ډانسک
+    language.finnish=سومالینین
+    language.italian=ایټالیا
+    title.translated-machine=د مخ محتويات د ماشين ژباړې په کارولو سره
+    dialog.translated-mindtouch=د ماین ټچ لخوا ژباړل
